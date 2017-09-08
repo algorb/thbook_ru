@@ -1,0 +1,4 @@
+target/*
+*.bak
+omegat/project_stats.txt
+omegat/project_stats_match.txt
