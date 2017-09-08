@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First run.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
+        <seg>Первый запуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
+        <seg>Введение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why Therion?.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205234Z" creationid="Алексей" creationdate="20170908T205234Z">
+        <seg>Почему Therion?.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
