@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After explaining the basic principles of Therion it's a good idea to try it on the example data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132405Z" creationid="Алексей" creationdate="20170909T132405Z">
+        <seg>После объяснения основных принципов Териона давайте попробуем его на примере реальных данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
@@ -56,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>Some computer programs existed which displayed survey shots and stations after loop closure and error elimination.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131726Z" creationid="Алексей" creationdate="20170909T131726Z">
-        <seg>Имелось несколько компьютерных программ, которые строили нитку хода после закрытия колец и разброса ошибки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131945Z" creationid="Алексей" creationdate="20170909T131726Z">
+        <seg>Имелось несколько компьютерных программ, которые строили нитку хода после зак\-рытия колец и разброса ошибки.</seg>
       </tuv>
     </tu>
     <tu>
