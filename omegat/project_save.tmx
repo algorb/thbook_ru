@@ -6,14 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
-        <seg>#&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; Language}</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195317Z" creationid="Алексей" creationdate="20170909T195317Z">
-        <seg>&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; Язык}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>(It's very similar concept to XML data representation.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154806Z" creationid="Алексей" creationdate="20170909T154806Z">
