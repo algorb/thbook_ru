@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>* archive survey data on computer in a form as close to the original notes and sketches as possible and retrieve them in a flexible and efficient way; * draw a nice up-to-date plan or elevation map; * create a realistic 3D model of the cave.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T124123Z" creationid="Алексей" creationdate="20170909T095850Z">
-        <seg>* архивировать данные съемки на компьютере в форме, максимально приб- лиженной к оригинальным записям и зарисовкам, и обрабатывать их удоб- ным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125446Z" creationid="Алексей" creationdate="20170909T095850Z">
+        <seg>* архивировать данные съемки на компьютере в форме, максимально приб- лиженной к оригинальным записям и зарисовкам, и обрабатывать их удоб\-ным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>Source code and Windows installer are available on the Therion web page (&lt;u0&gt;{https://therion.speleo.sk}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125320Z" creationid="Алексей" creationdate="20170909T100729Z">
-        <seg>Исходный код и установщик для Windows доступны на веб-странице\-(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125359Z" creationid="Алексей" creationdate="20170909T100729Z">
+        <seg>Исходный код и установщик для Windows доступны на веб-стр\-анице (&lt;u0&gt;{https://therion.speleo.sk}).</seg>
       </tuv>
     </tu>
     <tu>
