@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* black---Therion programs and macros (XTherion is written in Tcl/Tk, so it needs this interpreter to run) * red---&lt;u0&gt;&lt;u1&gt;package * green---input files created by the user and output files created by Therion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190102Z" creationid="Алексей" creationdate="20170909T190102Z">
+        <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор) * красный --- &lt;u0&gt;&lt;u1&gt; пакет * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170156Z" creationid="Алексей" creationdate="20170909T161921Z">
@@ -420,6 +428,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
         <seg>Ее цель состоит в том, чтобы помочь:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meaning of colors:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
+        <seg>Значение цветов:</seg>
       </tuv>
     </tu>
     <tu>
