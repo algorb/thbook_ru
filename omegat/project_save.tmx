@@ -247,10 +247,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How does it work?.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181938Z" creationid="Алексей" creationdate="20170909T181938Z">
+        <seg>Как это работает?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163148Z" creationid="Алексей" creationdate="20170909T155342Z">
         <seg>Если коор\-ди\-наты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to use own fonts for latin or non-latin characters in PDF maps, edit initialization file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181835Z" creationid="Алексей" creationdate="20170909T181835Z">
+        <seg>Если вы хотите использовать собственные шрифты для латинских или нелатинских символов в PDF картах, отредактируйте файл инициализации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -283,6 +299,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162531Z" creationid="Алексей" creationdate="20170909T162414Z">
         <seg>Инсталяция.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instructions on how to do this are in the {&lt;u0&gt; Appendix}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181915Z" creationid="Алексей" creationdate="20170909T181915Z">
+        <seg>Инструкции о том, как это сделать, приведены в {&lt;u0&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
