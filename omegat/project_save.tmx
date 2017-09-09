@@ -201,8 +201,8 @@
       <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T182958Z" creationid="Алексей" creationdate="20170909T181551Z">
-        <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T183639Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
       </tuv>
     </tu>
     <tu>
