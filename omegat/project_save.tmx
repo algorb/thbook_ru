@@ -177,8 +177,8 @@
       <tuv lang="EN-US">
         <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211525Z" creationid="Алексей" creationdate="20170909T210736Z">
-        <seg>* каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается про\-дол\-жен\-ной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220757Z" creationid="Алексей" creationdate="20170909T210736Z">
+        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается про\-дол\-жен\-ной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193,8 +193,8 @@
       <tuv lang="EN-US">
         <seg>* if the value of an option or argument contains spaces, you should enclose this value in &lt;i0&gt;|" "|&lt;/i0&gt; or &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210448Z" creationid="Алексей" creationdate="20170909T210448Z">
-        <seg>* если значение параметра или аргумента содержит пробелы, вы должны заключить это значение в &lt;i0&gt;|" "|&lt;/i0&gt; или &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220752Z" creationid="Алексей" creationdate="20170909T210448Z">
+        <seg>* Если значение параметра или аргумента содержит пробелы, вы должны заключить это значение в &lt;i0&gt;|" "|&lt;/i0&gt; или &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -795,8 +795,8 @@
       <tuv lang="EN-US">
         <seg>The syntax is</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211412Z" creationid="Алексей" creationdate="20170909T205734Z">
-        <seg>Син\-та\-ксис</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220119Z" creationid="Алексей" creationdate="20170909T205734Z">
+        <seg>Син\-так\-сис</seg>
       </tuv>
     </tu>
     <tu>
@@ -955,8 +955,8 @@
       <tuv lang="EN-US">
         <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210129Z" creationid="Алексей" creationdate="20170909T210129Z">
-        <seg>Эта команда |line| имеет один обязательный аргумент, тип линии (коренная стена в этом случае), за которым следует одина опция.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220455Z" creationid="Алексей" creationdate="20170909T210129Z">
+        <seg>Эта команда |line| имеет один обязательный аргумент, тип линии (коренная стена в данном случае), за которой следует одина опция.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1146,19 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endcommand|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220025Z" creationid="Алексей" creationdate="20170909T215825Z">
+        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]
+	...
+	optionX valueX
+	data
+	...
+endcommand|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204503Z" creationid="Алексей" creationdate="20170909T204503Z">
@@ -1156,8 +1169,13 @@
       <tuv lang="EN-US">
         <seg>|line wall -id walltobereferenced 1174.0 744.5 1194.0 756.5 1192.5 757.5 1176.0 791.0 smooth off 1205.5 788.0 1195.5 832.5 1173.5 879.0 endline|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205851Z" creationid="Алексей" creationdate="20170909T205851Z">
-        <seg>|line wall -id walltobereferenced 1174.0 744.5 1194.0 756.5 1192.5 757.5 1176.0 791.0 smooth off 1205.5 788.0 1195.5 832.5 1173.5 879.0 endline|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220257Z" creationid="Алексей" creationdate="20170909T205851Z">
+        <seg>|line wall -id walltobereferenced
+	1174.0 744.5
+	1194.0 756.5 1192.5 757.5 1176.0 791.0
+	smooth off
+	1205.5 788.0 1195.5 832.5 1173.5 879.0
+endline|</seg>
       </tuv>
     </tu>
     <tu>
