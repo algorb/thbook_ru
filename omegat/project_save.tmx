@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>* Download the sample data from Therion web page and unpack it somewhere on your computer's hard drive.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132551Z" creationid="Алексей" creationdate="20170909T132427Z">
+        <seg>Скачайте примеры данных с сайта Териона и распакуйте их на жесткий диск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* archive survey data on computer in a form as close to the original notes and sketches as possible and retrieve them in a flexible and efficient way; * draw a nice up-to-date plan or elevation map; * create a realistic 3D model of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125550Z" creationid="Алексей" creationdate="20170909T095850Z">
@@ -16,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>After explaining the basic principles of Therion it's a good idea to try it on the example data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132405Z" creationid="Алексей" creationdate="20170909T132405Z">
-        <seg>После объяснения основных принципов Териона давайте попробуем его на примере реальных данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132439Z" creationid="Алексей" creationdate="20170909T132405Z">
+        <seg>После объяснения основных принципов Териона давайте попробуем его на примерах реальных данных.</seg>
       </tuv>
     </tu>
     <tu>
