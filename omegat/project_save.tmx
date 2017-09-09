@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some computer programs existed which displayed survey shots and stations after loop closure and error elimination.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131726Z" creationid="Алексей" creationdate="20170909T131726Z">
+        <seg>Имелось несколько компьютерных программ, которые строили нитку хода после закрытия колец и разброса ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source code and Windows installer are available on the Therion web page (&lt;u0&gt;{https://therion.speleo.sk}).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130914Z" creationid="Алексей" creationdate="20170909T100729Z">
