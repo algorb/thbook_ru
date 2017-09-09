@@ -336,6 +336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion can then do its task much better than if it was a standalone application in which you could calibrate your printer or scanner and with one click send e-mail with your data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161006Z" creationid="Алексей" creationdate="20170909T161006Z">
+        <seg>Therion в связке с другими программами может выполнить свою задачу намного лучше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion is a command-line application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150903Z" creationid="Алексей" creationdate="20170909T150903Z">
@@ -356,6 +364,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T100825Z" creationid="Алексей" creationdate="20170909T100825Z">
         <seg>Therion распространяется под лицензией  &lt;u0&gt;[GNU General Public License] {https://www.gnu.org/}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion needs:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161113Z" creationid="Алексей" creationdate="20170909T161113Z">
+        <seg>Для Therion нужно:</seg>
       </tuv>
     </tu>
     <tu>
