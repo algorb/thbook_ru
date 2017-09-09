@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hand-editing of such files is not easy---especially when you draw maps, you need to think in spatial (Cartesian coordinate) terms.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
+        <seg>Ручное редактирование таких файлов непросто, особенно когда вы рисуете карты и вам нужно думать о пространственных (декартовых координатах).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1999 we begun to think about creating own program for map drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143708Z" creationid="Алексей" creationdate="20170909T142536Z">
@@ -275,6 +283,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143959Z" creationid="Алексей" creationdate="20170909T143117Z">
         <seg>Она состояла примерно из 32 КБ Perl скриптов и &lt;u1&gt; &lt;u4&gt;макросов, но программа показала, что наши идеи были осуществимы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus there is a special GUI for Therion called XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151755Z" creationid="Алексей" creationdate="20170909T151755Z">
+        <seg>Поэтому существует специальный графический интерфейс для Therion, называемый XTherion.
+</seg>
       </tuv>
     </tu>
     <tu>
