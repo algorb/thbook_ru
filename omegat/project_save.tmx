@@ -393,6 +393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The source code is a primary Therion distribution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180456Z" creationid="Алексей" creationdate="20170909T180456Z">
+        <seg>Исходный код является основным распределением Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The syntax of input files is described in detail in later chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151123Z" creationid="Алексей" creationdate="20170909T151123Z">
@@ -582,6 +590,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152124Z" creationid="Алексей" creationdate="20170909T151555Z">
         <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его коор\-ди\-на\-ты и специфический тип символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Installation from sources (therion-5.*.tar.gz package):}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180406Z" creationid="Алексей" creationdate="20170909T180406Z">
+        <seg>{&lt;u0&gt; Установка из исходников (therion-5.*.tar.gz package):}</seg>
       </tuv>
     </tu>
     <tu>
