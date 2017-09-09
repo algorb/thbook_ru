@@ -1146,14 +1146,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endcommand|</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205808Z" creationid="Алексей" creationdate="20170909T205808Z">
-        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endcommand|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204503Z" creationid="Алексей" creationdate="20170909T204503Z">
