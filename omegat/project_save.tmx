@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181551Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по умолчанию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During 2000--2001 we searched for the optimal format of the input data, programming language, concept of interactive map editor and internal algorithms with the help of Martin Sluka (Prague) and Martin Heller (Z&lt;u0&gt;urich).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
@@ -287,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It installs all the required stuff and creates shortcuts to XTherion and Therion Book.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180915Z" creationid="Алексей" creationdate="20170909T180915Z">
+        <seg>Он устанавливает все необходимые материалы и создает ярлыки для XTherion и Therion Book.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is only required for XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161416Z" creationid="Алексей" creationdate="20170909T161416Z">
@@ -357,6 +373,22 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162101Z" creationid="Алексей" creationdate="20170909T162101Z">
         <seg>Прочтите {&lt;u0&gt; Appendix}, если вы хотите скомпилировать Therion самостоятельно.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run the setup program and follow instructions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180837Z" creationid="Алексей" creationdate="20170909T180837Z">
+        <seg>Запустите программу установки и следуйте инструкциям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting-up environment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180956Z" creationid="Алексей" creationdate="20170909T180956Z">
+        <seg>Настройка среды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +501,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T171145Z" creationid="Алексей" creationdate="20170909T161113Z">
         <seg>Therion'у необходимо:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion reads settings from the initialization file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181032Z" creationid="Алексей" creationdate="20170909T181032Z">
+        <seg>Therion считывает настройки из файла инициализации.</seg>
       </tuv>
     </tu>
     <tu>
