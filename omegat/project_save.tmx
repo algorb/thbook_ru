@@ -96,7 +96,7 @@
       <tuv lang="EN-US">
         <seg>* There is strict separation of data and visualization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154842Z" creationid="Алексей" creationdate="20170909T154548Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162711Z" creationid="Алексей" creationdate="20170909T154548Z">
         <seg>* Cтрогое разделение данных и визуализации.</seg>
       </tuv>
     </tu>
@@ -273,8 +273,8 @@
       <tuv lang="EN-US">
         <seg>Installation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162414Z" creationid="Алексей" creationdate="20170909T162414Z">
-        <seg>Инсталяция</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162531Z" creationid="Алексей" creationdate="20170909T162414Z">
+        <seg>Инсталяция.</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,8 +387,8 @@
       <tuv lang="EN-US">
         <seg>The data files specify only what is where, not what it looks like.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154657Z" creationid="Алексей" creationdate="20170909T154657Z">
-        <seg>В файлах данных указывается только то, что есть, а не то, на что это похоже.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162726Z" creationid="Алексей" creationdate="20170909T154657Z">
+        <seg>В файлах данных ука\-зы\-ва\-ет\-ся только то, что есть, а не то, на что это похоже.</seg>
       </tuv>
     </tu>
     <tu>
