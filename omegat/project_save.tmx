@@ -402,8 +402,8 @@
       <tuv lang="EN-US">
         <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162101Z" creationid="Алексей" creationdate="20170909T162101Z">
-        <seg>Прочтите {&lt;u0&gt; Appendix}, если вы хотите скомпилировать Therion самостоятельно.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184018Z" creationid="Алексей" creationdate="20170909T162101Z">
+        <seg>Прочтите {&lt;u0&gt; Приложение}, если вы хотите скомпилировать Therion самостоятельно.
 </seg>
       </tuv>
     </tu>
