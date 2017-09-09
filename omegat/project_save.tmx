@@ -351,6 +351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data types.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210947Z" creationid="Алексей" creationdate="20170909T210947Z">
+        <seg>Типы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
@@ -1084,8 +1092,8 @@
       <tuv lang="EN-US">
         <seg>with three obligatory arguments and one optional option/value pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205423Z" creationid="Алексей" creationdate="20170909T205258Z">
-        <seg>с тремя обязательными аргументами и одной дополнительной парой опция/значение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211138Z" creationid="Алексей" creationdate="20170909T205258Z">
+        <seg>с тремя обязательными аргументами и одной дополнительной парой оп\-ция/значение.</seg>
       </tuv>
     </tu>
     <tu>
