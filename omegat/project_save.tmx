@@ -363,8 +363,8 @@
       <tuv lang="EN-US">
         <seg>Software requirements.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160429Z" creationid="Алексей" creationdate="20170909T160429Z">
-        <seg>Требования к ПО.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163744Z" creationid="Алексей" creationdate="20170909T160429Z">
+        <seg>Требования{\hbox{ }}к{\hbox{ }}ПО.</seg>
       </tuv>
     </tu>
     <tu>
