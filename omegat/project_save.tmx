@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>* Download the sample data from Therion web page and unpack it somewhere on your computer's hard drive.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132614Z" creationid="Алексей" creationdate="20170909T132427Z">
-        <seg>* Скачайте примеры данных с сайта Териона и распакуйте их на жесткий диск.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192745Z" creationid="Алексей" creationdate="20170909T132427Z">
+        <seg>* Скачайте примеры данных с сайта Therion'а и распакуйте их на жесткий диск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,24 +64,24 @@
       <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142048Z" creationid="Алексей" creationdate="20170909T140929Z">
-        <seg>Откройте файл `thconfig' из каталога примеров данных в окне `therion компилятор'. * Нажмите `F9' или `Компилировать' в меню для запуска Териона --- вы получите несколько сообщений от Териона, &lt;u1&gt; &lt;u2&gt;и &lt;u3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193010Z" creationid="Алексей" creationdate="20170909T140929Z">
+        <seg>Откройте файл `thconfig' из каталога примеров данных в окне `therion компилятор'. * Нажмите `F9' или `Компилировать' в меню для запуска Therion'а --- вы получите несколько сообщений от Therion'а, &lt;u1&gt; &lt;u2&gt;и &lt;u3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* PDF maps and 3D model are created in the data directory.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T141028Z" creationid="Алексей" creationdate="20170909T141028Z">
-        <seg>PDF карты и 3D модель создаются в каталоге с данными.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193123Z" creationid="Алексей" creationdate="20170909T141028Z">
+        <seg>PDF-карты и 3D-модель создаются в каталоге с данными.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* Run XTherion (under Unix and MacOS X by typing `xtherion' in the command line, under Windows there is a shortcut in the {&lt;u0&gt; Start} menu).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132750Z" creationid="Алексей" creationdate="20170909T132610Z">
-        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке `xtherion', под Windows ярлык в {&lt;u0&gt; Старт} меню).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192843Z" creationid="Алексей" creationdate="20170909T132610Z">
+        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке `xtherion', под Windows ярлык в меню {&lt;u0&gt; Старт}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -121,8 +121,8 @@
       <tuv lang="EN-US">
         <seg>* any PDF or SVG viewer displaying 2D maps; * any GIS supporting DXF or {&lt;u0&gt; shapefile} formats for analyzing the maps; * appropriate 3D viewer for models exported in other than default format; * any SQL database client to process exported database.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170348Z" creationid="Алексей" creationdate="20170909T162406Z">
-        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D-просмотрщик для моделей, экспортированных в фор\-мате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193314Z" creationid="Алексей" creationdate="20170909T162406Z">
+        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D просмотрщик для моделей, экспортированных в фор\-мате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>* black---Therion programs and macros (XTherion is written in Tcl/Tk, so it needs this interpreter to run) * red---&lt;u0&gt;&lt;u1&gt;package * green---input files created by the user and output files created by Therion</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190531Z" creationid="Алексей" creationdate="20170909T190102Z">
-        <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор); * красный --- &lt;u0&gt;&lt;u1&gt; пакет; * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192347Z" creationid="Алексей" creationdate="20170909T190102Z">
+        <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор); * красный --- &lt;u0&gt;&lt;u1&gt; пакет; * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,8 +185,8 @@
       <tuv lang="EN-US">
         <seg>After explaining the basic principles of Therion it's a good idea to try it on the example data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132439Z" creationid="Алексей" creationdate="20170909T132405Z">
-        <seg>После объяснения основных принципов Териона давайте попробуем его на примерах реальных данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192652Z" creationid="Алексей" creationdate="20170909T132405Z">
+        <seg>После объяснения основных принципов работы Therion'а давайте попробуем его на примерах реальных данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -249,8 +249,8 @@
       <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T183639Z" creationid="Алексей" creationdate="20170909T181551Z">
-        <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,8 +297,8 @@
       <tuv lang="EN-US">
         <seg>For working with Therion it is enough to know that you have to create input data (best done with XTherion), run Therion, and display output files (3D model, map, log file) in the appropriate program.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190506Z" creationid="Алексей" creationdate="20170909T185502Z">
-        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соот\-вет\-ствую\-щей про\-грам\-ме.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192133Z" creationid="Алексей" creationdate="20170909T185502Z">
+        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соот\-вет\-ствую\-щей про\-грам\-ме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,8 +329,8 @@
       <tuv lang="EN-US">
         <seg>If you want to use own fonts for latin or non-latin characters in PDF maps, edit initialization file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T183016Z" creationid="Алексей" creationdate="20170909T181835Z">
-        <seg>Если вы хотите использовать собственные шрифты для латинских или нела\-тин\-ских символов в PDF картах, отредактируйте файл инициализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193222Z" creationid="Алексей" creationdate="20170909T181835Z">
+        <seg>Если вы хотите использовать собственные шрифты для латинских или нела\-тин\-ских символов в PDF-картах, отредактируйте файл инициализации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,8 +482,8 @@
       <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191907Z" creationid="Алексей" creationdate="20170909T191142Z">
-        <seg>Pdf&lt;u6&gt;&lt;u4&gt; собирает все фрагменты и создает PDF файл карты пещеры.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
+        <seg>Pdf&lt;u6&gt;&lt;u4&gt; собирает все фрагменты и создает PDF-файл карты пещеры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -675,8 +675,8 @@
       <tuv lang="EN-US">
         <seg>Therion itself does the main task.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190128Z" creationid="Алексей" creationdate="20170909T190128Z">
-        <seg>Сам Therion выполняет основную задачу.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192421Z" creationid="Алексей" creationdate="20170909T190128Z">
+        <seg>Сам Therion выполняет главную задачу.</seg>
       </tuv>
     </tu>
     <tu>
