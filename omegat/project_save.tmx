@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It runs on Unix, Linux, MacOS X and Win32 operating systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T100606Z" creationid="Алексей" creationdate="20170909T100606Z">
+        <seg>Therion работает в операционных системах Unix, Linux, MacOS X и Win32.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its purpose is to help</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
         <seg>Ее цель состоит в том, чтобы помочь:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source code and Windows installer are available on the Therion web page (&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T100729Z" creationid="Алексей" creationdate="20170909T100729Z">
+        <seg>Исходный код и установщик для Windows доступны на веб-странице (&lt;u0&gt;{https://therion.speleo.sk}).</seg>
       </tuv>
     </tu>
     <tu>
