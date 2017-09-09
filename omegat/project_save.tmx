@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* PDF maps and 3D model are created in the data directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T141028Z" creationid="Алексей" creationdate="20170909T141028Z">
+        <seg>PDF карты и 3D модель создаются в каталоге с данными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Run XTherion (under Unix and MacOS X by typing `xtherion' in the command line, under Windows there is a shortcut in the {&lt;u0&gt; Start} menu).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132750Z" creationid="Алексей" creationdate="20170909T132610Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125550Z" creationid="Алексей" creationdate="20170909T095850Z">
         <seg>* архивировать данные съемки на компьютере в форме, максимально приб\-лиженной к оригинальным записям и зарисовкам, и обрабатывать их удоб\-ным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, you may open survey data files (*.th) in the `Text editor' window and map data files (*.th2) in the `Map editor' window of XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T141349Z" creationid="Алексей" creationdate="20170909T141349Z">
+        <seg>Кроме того, вы можете открыть файлы данных съемки (* .th) в окне `therion текстовый редактор' и файлы абрисов карт (*.th2) в окне `therion редактор карт'.</seg>
       </tuv>
     </tu>
     <tu>
