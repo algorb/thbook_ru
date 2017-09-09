@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* 3D model is generated from 2D maps to get a realistic 3D model without entering too much data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160319Z" creationid="Алексей" creationdate="20170909T160319Z">
+        <seg>3D-модель создается из 2D-карт, чтобы получить реалистичную трехмерную модель не вводя слишком много данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All data are relative to survey station positions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155436Z" creationid="Алексей" creationdate="20170909T155332Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132614Z" creationid="Алексей" creationdate="20170909T132427Z">
         <seg>* Скачайте примеры данных с сайта Териона и распакуйте их на жесткий диск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* It's possible to add new output formats</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160021Z" creationid="Алексей" creationdate="20170909T160021Z">
+        <seg>Можно добавить новые форматы вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154842Z" creationid="Алексей" creationdate="20170909T154548Z">
         <seg>* Cтрогое разделение данных и визуализации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Therion is not dependent on particular operating system, character encoding or input files editor; input files will remain human readable</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155957Z" creationid="Алексей" creationdate="20170909T155957Z">
+        <seg>* Therion не зависит от конкретной операционной системы, кодировки символов или редактора входных файлов; входные файлы останутся читабельными для человека.</seg>
       </tuv>
     </tu>
     <tu>
