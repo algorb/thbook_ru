@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the 1990s we've done a lot of caving and cave surveying.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131313Z" creationid="Алексей" creationdate="20170909T131313Z">
+        <seg>В 1990-е мы активно занимались спелеологией и созданием карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
@@ -48,16 +56,16 @@
       <tuv lang="EN-US">
         <seg>Source code and Windows installer are available on the Therion web page (&lt;u0&gt;{https://therion.speleo.sk}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130837Z" creationid="Алексей" creationdate="20170909T100729Z">
-        <seg>Исходный код и установщик для Windows доступны на веб-странице\hfill\break(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130914Z" creationid="Алексей" creationdate="20170909T100729Z">
+        <seg>Исходный код и установщик для Windows доступны на веб-странице\break(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Therion is a tool for cave surveying.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T094641Z" creationid="Алексей" creationdate="20170909T094641Z">
-        <seg>Therion это программа для исследования пещер.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131039Z" creationid="Алексей" creationdate="20170909T094641Z">
+        <seg>Therion это программа для создания карт пещер.</seg>
       </tuv>
     </tu>
     <tu>
