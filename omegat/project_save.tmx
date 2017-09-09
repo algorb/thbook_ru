@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>* Tcl/Tk with {&lt;u2&gt; BWidget} and optionally {&lt;u3&gt; tkImg} extension.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T171227Z" creationid="Алексей" creationdate="20170909T161311Z">
-        <seg>Tcl/Tk с  {&lt;u2&gt; BWidget} и опциональным расширением {&lt;u3&gt; tkImg}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T173659Z" creationid="Алексей" creationdate="20170909T161311Z">
+        <seg>* Tcl/Tk с  {&lt;u2&gt; BWidget} и опциональным расширением {&lt;u3&gt; tkImg}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,8 +177,8 @@
       <tuv lang="EN-US">
         <seg>After processing in TJIKPR, the new loops influenced the position of the old surveys; most survey stations now had a slightly different position from before due to the changed error distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150519Z" creationid="Алексей" creationdate="20170909T145735Z">
-        <seg>После обработки данных в TJIKPR, новые петли пов\-лия\-ли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T173721Z" creationid="Алексей" creationdate="20170909T145735Z">
+        <seg>После обработки данных в TJIKPR, новые кольца пов\-лия\-ли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
       </tuv>
     </tu>
     <tu>
