@@ -201,8 +201,8 @@
       <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181551Z" creationid="Алексей" creationdate="20170909T181551Z">
-        <seg>Настройки по умолчанию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T182958Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -265,8 +265,8 @@
       <tuv lang="EN-US">
         <seg>If you want to use own fonts for latin or non-latin characters in PDF maps, edit initialization file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181835Z" creationid="Алексей" creationdate="20170909T181835Z">
-        <seg>Если вы хотите использовать собственные шрифты для латинских или нелатинских символов в PDF картах, отредактируйте файл инициализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T183016Z" creationid="Алексей" creationdate="20170909T181835Z">
+        <seg>Если вы хотите использовать собственные шрифты для латинских или нела\-тин\-ских символов в PDF картах, отредактируйте файл инициализации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,8 +305,8 @@
       <tuv lang="EN-US">
         <seg>Instructions on how to do this are in the {&lt;u0&gt; Appendix}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181915Z" creationid="Алексей" creationdate="20170909T181915Z">
-        <seg>Инструкции о том, как это сделать, приведены в {&lt;u0&gt; Приложении}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T183058Z" creationid="Алексей" creationdate="20170909T181915Z">
+        <seg>Ин\-струк\-ции о том, как это сделать, приведены в {&lt;u0&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
