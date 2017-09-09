@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>* 3D model is generated from 2D maps to get a realistic 3D model without entering too much data</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160337Z" creationid="Алексей" creationdate="20170909T160319Z">
-        <seg>* 3D-модель создается из 2D-карт, чтобы получить реалистичную трехмерную модель не вводя слишком много данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163226Z" creationid="Алексей" creationdate="20170909T160319Z">
+        <seg>* 3D-модель создается из 2D-карт, чтобы получить реалистичную трех\-мер\-ную модель не вводя слишком много данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>* Therion is not dependent on particular operating system, character encoding or input files editor; input files will remain human readable</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155957Z" creationid="Алексей" creationdate="20170909T155957Z">
-        <seg>* Therion не зависит от конкретной операционной системы, кодировки символов или редактора входных файлов; входные файлы останутся читабельными для человека.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163258Z" creationid="Алексей" creationdate="20170909T155957Z">
+        <seg>* Therion не зависит от конкретной операционной системы, кодировки сим\-во\-лов или редактора входных файлов; входные файлы останутся чита\-бель\-ными для человека.</seg>
       </tuv>
     </tu>
     <tu>
@@ -241,8 +241,8 @@
       <tuv lang="EN-US">
         <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155845Z" creationid="Алексей" creationdate="20170909T155342Z">
-        <seg>Если координаты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163148Z" creationid="Алексей" creationdate="20170909T155342Z">
+        <seg>Если коор\-ди\-наты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,8 +387,8 @@
       <tuv lang="EN-US">
         <seg>The data files specify only what is where, not what it looks like.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162726Z" creationid="Алексей" creationdate="20170909T154657Z">
-        <seg>В файлах данных ука\-зы\-ва\-ет\-ся только то, что есть, а не то, на что это похоже.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162738Z" creationid="Алексей" creationdate="20170909T154657Z">
+        <seg>В файлах данных ука\-зы\-ва\-ется только то, что есть, а не то, на что это похоже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -491,8 +491,8 @@
       <tuv lang="EN-US">
         <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155111Z" creationid="Алексей" creationdate="20170909T155111Z">
-        <seg>Это позволяет изменять символы карты, используемые без изменения входных данных, или объединить больше карты, созданные разными людьми в разных стилях, в одну карту с едиными символами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163023Z" creationid="Алексей" creationdate="20170909T155111Z">
+        <seg>Это позволяет изменять символы карты, используемые без изменения\breakвходных данных, или объединить больше карты, созданные разными лю\-дьми в разных стилях, в одну карту с едиными символами.</seg>
       </tuv>
     </tu>
     <tu>
