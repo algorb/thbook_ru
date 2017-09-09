@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* All data are relative to survey station positions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155436Z" creationid="Алексей" creationdate="20170909T155332Z">
+        <seg>* Все данные привязываются к положениям пикетов съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Download the sample data from Therion web page and unpack it somewhere on your computer's hard drive.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132614Z" creationid="Алексей" creationdate="20170909T132427Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
         <seg>Ручное редактирование таких файлов непросто, особенно когда вы рисуете карты и вам нужно думать о пространственных (декартовых координатах).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155845Z" creationid="Алексей" creationdate="20170909T155342Z">
+        <seg>Если координаты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
       </tuv>
     </tu>
     <tu>
