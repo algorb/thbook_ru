@@ -247,6 +247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again, for better illustration, a real example follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205846Z" creationid="Алексей" creationdate="20170909T205846Z">
+        <seg>Опять же, для лучшей иллюстрации приведем пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the data format may look confusing for the first time, it will be explained in the following chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142149Z" creationid="Алексей" creationdate="20170909T141633Z">
@@ -713,6 +721,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax is</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205734Z" creationid="Алексей" creationdate="20170909T205734Z">
+        <seg>Синтаксис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The syntax of input files is described in detail in later chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151123Z" creationid="Алексей" creationdate="20170909T151123Z">
@@ -723,8 +739,8 @@
       <tuv lang="EN-US">
         <seg>The syntax of these is</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204457Z" creationid="Алексей" creationdate="20170909T204457Z">
-        <seg>Их синтаксис:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205737Z" creationid="Алексей" creationdate="20170909T204457Z">
+        <seg>Их синтаксис</seg>
       </tuv>
     </tu>
     <tu>
@@ -861,6 +877,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152538Z" creationid="Алексей" creationdate="20170909T151312Z">
         <seg>Файлы содержат инструкции для Therion, такие как:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210129Z" creationid="Алексей" creationdate="20170909T210129Z">
+        <seg>Эта команда |line| имеет один обязательный аргумент, тип линии (коренная стена в этом случае), за которым следует одина опция.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,10 +1074,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endcommand|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205808Z" creationid="Алексей" creationdate="20170909T205808Z">
+        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endcommand|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204503Z" creationid="Алексей" creationdate="20170909T204503Z">
         <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|line wall -id walltobereferenced 1174.0 744.5 1194.0 756.5 1192.5 757.5 1176.0 791.0 smooth off 1205.5 788.0 1195.5 832.5 1173.5 879.0 endline|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205851Z" creationid="Алексей" creationdate="20170909T205851Z">
+        <seg>|line wall -id walltobereferenced 1174.0 744.5 1194.0 756.5 1192.5 757.5 1176.0 791.0 smooth off 1205.5 788.0 1195.5 832.5 1173.5 879.0 endline|</seg>
       </tuv>
     </tu>
     <tu>
