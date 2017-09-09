@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>Additionally, you may open survey data files (*.th) in the `Text editor' window and map data files (*.th2) in the `Map editor' window of XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T141349Z" creationid="Алексей" creationdate="20170909T141349Z">
-        <seg>Кроме того, вы можете открыть файлы данных съемки (* .th) в окне `therion текстовый редактор' и файлы абрисов карт (*.th2) в окне `therion редактор карт'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142053Z" creationid="Алексей" creationdate="20170909T141349Z">
+        <seg>Кроме того, вы можете открыть файлы данных съемки (*.th) в окне `therion текстовый редактор' и файлы абрисов карт (*.th2) в окне `therion редактор карт'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>Although the data format may look confusing for the first time, it will be explained in the following chapters.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T141633Z" creationid="Алексей" creationdate="20170909T141633Z">
-        <seg>Наличие различных форматов данных может выглядеть запутанной по началу, но все они будут разъяснены в следующих главах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142149Z" creationid="Алексей" creationdate="20170909T141633Z">
+        <seg>Наличие различных форматов данных может выглядеть запутанным по началу, но все они будут разъяснены в следующих главах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
         <seg>Первый запуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 1999 we begun to think about creating own program for map drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142536Z" creationid="Алексей" creationdate="20170909T142536Z">
+        <seg>В 1999 году мы начали думать о создании собственной программы для рисования карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We knew about programs which were perfectly suited for particular sub-tasks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142626Z" creationid="Алексей" creationdate="20170909T142626Z">
+        <seg>Мы знали о программах, которые идеально подходили для конкретных подзадач.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Why Therion?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205234Z" creationid="Алексей" creationdate="20170908T205234Z">
         <seg>Почему Therion?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
+        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
