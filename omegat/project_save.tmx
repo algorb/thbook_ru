@@ -167,6 +167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191017Z" creationid="Алексей" creationdate="20170909T190929Z">
+        <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным символам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you may open survey data files (*.th) in the `Text editor' window and map data files (*.th2) in the `Map editor' window of XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142053Z" creationid="Алексей" creationdate="20170909T141349Z">
@@ -464,6 +472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191142Z" creationid="Алексей" creationdate="20170909T191142Z">
+        <seg>Pdf&lt;u6&gt;&lt;u4&gt; выполняет все наборы и создает PDF-файл карты пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precomposed accented letters are included for Slovak and Czech languages.], standard &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184827Z" creationid="Алексей" creationdate="20170909T181749Z">
@@ -609,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion exports data for 2D maps in &lt;u0&gt;&lt;u2&gt;format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190914Z" creationid="Алексей" creationdate="20170909T190914Z">
+        <seg>Therion экспортирует данные для 2D-карт в формате &lt;u0&gt;&lt;u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion is a command-line application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150903Z" creationid="Алексей" creationdate="20170909T150903Z">
@@ -653,6 +677,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181032Z" creationid="Алексей" creationdate="20170909T181032Z">
         <seg>Therion считывает настройки из файла инициализации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are read back and converted to a PDF-like format, which forms input data for pdf&lt;u5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191107Z" creationid="Алексей" creationdate="20170909T191107Z">
+        <seg>Они считываются и преобразуются в формат в PDF формат, который формирует входные данные для PDF&lt;u5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
