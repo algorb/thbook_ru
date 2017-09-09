@@ -617,6 +617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion itself does the main task.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190128Z" creationid="Алексей" creationdate="20170909T190128Z">
+        <seg>Сам Therion выполняет основную задачу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion needs:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T171145Z" creationid="Алексей" creationdate="20170909T161113Z">
