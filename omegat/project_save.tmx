@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After finishing a huge 166-page Atlas of the Cave of Dead Bats in early 1997, we soon had a problem: we found new passages connecting between known passages and surveyed them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145528Z" creationid="Алексей" creationdate="20170909T145528Z">
+        <seg>После окончания огромного 166-страничного Атласа пещер мертвых летучих мышей в начале 1997 года у нас вскоре возникла проблема: мы нашли новые ходы, соединения между известными ходами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the data format may look confusing for the first time, it will be explained in the following chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142149Z" creationid="Алексей" creationdate="20170909T141633Z">
@@ -240,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>We used the output of one of them---TJIKPR---as a background layer with survey stations for hand&lt;u0&gt;{-}{-}{-}drawn maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145050Z" creationid="Алексей" creationdate="20170909T145050Z">
-        <seg>Мы использовали вывод одного из них --- TJIKPR --- в качестве фонового слоя с помощью станций съемки для ручных карт&lt;u0&gt;{-}{-}{-}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145337Z" creationid="Алексей" creationdate="20170909T145050Z">
+        <seg>Мы использовали вывод одного из них --- TJIKPR --- в качестве фонового слоя со станциями для ручного рисования карт.</seg>
       </tuv>
     </tu>
     <tu>
