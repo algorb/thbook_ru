@@ -72,8 +72,8 @@
       <tuv lang="EN-US">
         <seg>After processing in TJIKPR, the new loops influenced the position of the old surveys; most survey stations now had a slightly different position from before due to the changed error distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145735Z" creationid="Алексей" creationdate="20170909T145735Z">
-        <seg>После обработки данных в TJIKPR, новые петли повлияли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150519Z" creationid="Алексей" creationdate="20170909T145735Z">
+        <seg>После обработки данных в TJIKPR, новые петли пов\-лия\-ли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>So we could either draw the whole Atlas again, or accept that the location of some places was not accurate---in the case of loops with a length of approximately 1 km there were sometimes errors of about 10 m---and try to distort the new passages to fit to old ones.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150257Z" creationid="Алексей" creationdate="20170909T150257Z">
-        <seg>Таким образом мы могли бы перерисовывать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно --- в случае петли с длиной около 1 км ошибки достигали 10 м --- и пытаться подогнать новые хода к старым съемкам.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150507Z" creationid="Алексей" creationdate="20170909T150257Z">
+        <seg>Таким образом мы могли бы пе\-ре\-ри\-со\-вы\-вать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно --- в случае петли с длиной около 1 км ошибки достигали 10 м --- и пытаться подогнать новые хода к старым съемкам.</seg>
       </tuv>
     </tu>
     <tu>
