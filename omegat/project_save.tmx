@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150838Z" creationid="Алексей" creationdate="20170909T150838Z">
+        <seg>Особенности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
@@ -138,6 +146,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
         <seg>Введение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It processes input files, which are---including 2D maps---in text format, and creates files with 2D maps or 3D model as the output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151053Z" creationid="Алексей" creationdate="20170909T151053Z">
+        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D карты, и создает файлы с 2D картами или 3D моделью в качестве вывода.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +207,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax of input files is described in detail in later chapters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151123Z" creationid="Алексей" creationdate="20170909T151123Z">
+        <seg>Синтаксис входных файлов подробно описан в последующих главах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143816Z" creationid="Алексей" creationdate="20170909T142824Z">
         <seg>Это был &lt;u0&gt; --- язык программирования высо\-ко\-го уровня для описания векторной графики, Survex --- отличная программа для обработки нитки хода, и &lt;u2&gt;&lt;u3&gt; --- для верстки результатов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion is a command-line application.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150903Z" creationid="Алексей" creationdate="20170909T150903Z">
+        <seg>Therion --- приложение для командной строки.</seg>
       </tuv>
     </tu>
     <tu>
