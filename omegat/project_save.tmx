@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion is a tool for cave surveying.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T094641Z" creationid="Алексей" creationdate="20170909T094641Z">
+        <seg>Therion это программа для исследования пещер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Why Therion?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205234Z" creationid="Алексей" creationdate="20170908T205234Z">
