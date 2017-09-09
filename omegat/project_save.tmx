@@ -713,6 +713,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next line (``|smooth off|'') specifies an option which applies to subsequent data (i.e. not for the whole line, unlike the option |-id| in the first line) and the last line contains some more data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210343Z" creationid="Алексей" creationdate="20170909T210343Z">
+        <seg>Следующая строка (``|smooth off|'') указывает параметр, который применяется к последующим данным (т.е. не для всей строки, в отличие от опции |-id| в первой строке), и последняя строка содержит еще несколько данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next two lines contain data (coordinates of B&lt;u0&gt;ezier curves to be drawn).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210229Z" creationid="Алексей" creationdate="20170909T210229Z">
+        <seg>Следующие две строки содержат данные (координаты кривых Безье).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180658Z" creationid="Алексей" creationdate="20170909T180456Z">
