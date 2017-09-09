@@ -167,6 +167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* if the value of an option or argument contains spaces, you should enclose this value in &lt;i0&gt;|" "|&lt;/i0&gt; or &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210448Z" creationid="Алексей" creationdate="20170909T210448Z">
+        <seg>* если значение параметра или аргумента содержит пробелы, вы должны заключить это значение в &lt;i0&gt;|" "|&lt;/i0&gt; или &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193402Z" creationid="Алексей" creationdate="20170909T161921Z">
@@ -415,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to put a double-quote |"| into text in &lt;i2&gt;|" "|&lt;/i2&gt; you need to insert it twice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210528Z" creationid="Алексей" creationdate="20170909T210528Z">
+        <seg>Если вы хотите поместить двойную кавычку |"| в текст в &lt;i2&gt;|" "|&lt;/i2&gt; вам нужно вставить его дважды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to use own fonts for latin or non-latin characters in PDF maps, edit initialization file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193222Z" creationid="Алексей" creationdate="20170909T181835Z">
@@ -596,6 +612,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185646Z" creationid="Алексей" creationdate="20170909T185646Z">
         <seg>Названия программ отображены прямым шрифтом, а файлы данных выделены курсивом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quotes are used for strings; brackets for numerical values and keywords.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210630Z" creationid="Алексей" creationdate="20170909T210630Z">
+        <seg>Кавычки используются для строк; скобки для числовых значений и ключевых слов.</seg>
       </tuv>
     </tu>
     <tu>
