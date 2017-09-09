@@ -72,8 +72,8 @@
       <tuv lang="EN-US">
         <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142950Z" creationid="Алексей" creationdate="20170909T142950Z">
-        <seg>В рождество 1999 года мы уже имели первую версия Териона.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143914Z" creationid="Алексей" creationdate="20170909T142950Z">
+        <seg>В рождество 1999 года мы уже имели первую версию Териона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>In 1999 we begun to think about creating own program for map drawing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142536Z" creationid="Алексей" creationdate="20170909T142536Z">
-        <seg>В 1999 году мы начали думать о создании собственной программы для рисования карт.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143708Z" creationid="Алексей" creationdate="20170909T142536Z">
+        <seg>В 1999 году мы начали думать о создании собственной программы для рисо\-ва\-ния карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142824Z" creationid="Алексей" creationdate="20170909T142824Z">
-        <seg>Это был &lt;u0&gt; --- язык программирования высокого уровня для описания векторной графики, Survex --- отличная программа для обработки нитки хода, и &lt;u2&gt;&lt;u3&gt; --- для верстки результатов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143816Z" creationid="Алексей" creationdate="20170909T142824Z">
+        <seg>Это был &lt;u0&gt; --- язык программирования высо\-ко\-го уровня для описания векторной графики, Survex --- отличная программа для обработки нитки хода, и &lt;u2&gt;&lt;u3&gt; --- для верстки результатов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>This consisted only of about 32 kB of Perl scripts and &lt;u1&gt;&lt;u4&gt;macros but served the purpose of showing that our ideas were implementable.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143117Z" creationid="Алексей" creationdate="20170909T143117Z">
-        <seg>Она состояла только из около 32 КБ Perl скриптов и &lt;u1&gt; &lt;u4&gt;макросов, но программа показала, что наши идеи были осуществимы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143959Z" creationid="Алексей" creationdate="20170909T143117Z">
+        <seg>Она состояла примерно из 32 КБ Perl скриптов и &lt;u1&gt; &lt;u4&gt;макросов, но программа показала, что наши идеи были осуществимы.</seg>
       </tuv>
     </tu>
     <tu>
