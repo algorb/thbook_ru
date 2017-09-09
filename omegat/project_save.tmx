@@ -271,6 +271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162414Z" creationid="Алексей" creationdate="20170909T162414Z">
+        <seg>Инсталяция</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
