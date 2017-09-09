@@ -368,6 +368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precomposed accented letters are included for Slovak and Czech languages.], standard &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181749Z" creationid="Алексей" creationdate="20170909T181749Z">
+        <seg>Предустановленные буквы с акцентом включены для словацкого и чешского языков.], standard &lt;u1&gt;&lt;u2&gt;и &lt;u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162101Z" creationid="Алексей" creationdate="20170909T162101Z">
@@ -413,6 +421,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131945Z" creationid="Алексей" creationdate="20170909T131726Z">
         <seg>Имелось несколько компьютерных программ, которые строили нитку хода после зак\-рытия колец и разброса ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some obscure accents might be omitted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181629Z" creationid="Алексей" creationdate="20170909T181629Z">
+        <seg>Некоторые неявные акценты могут быть опущены.</seg>
       </tuv>
     </tu>
     <tu>
