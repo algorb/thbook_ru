@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.4}multiline comments inside |comment| ... |endcomment| block are allowed in data and configuration files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210939Z" creationid="Алексей" creationdate="20170909T210939Z">
-        <seg>* &lt;u0&gt;{5.4}многострочные комментарии внутри |comment| ... |endcomment| блока разрешены в файлах данных и конфигурационных файлах</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211535Z" creationid="Алексей" creationdate="20170909T210939Z">
+        <seg>* &lt;u0&gt;{5.4}многострочные комментарии внутри |comment| ... |endcomment| блока раз\-ре\-шены в файлах данных и конфигурационных файлах</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,8 +177,8 @@
       <tuv lang="EN-US">
         <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210736Z" creationid="Алексей" creationdate="20170909T210736Z">
-        <seg>* каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается продолженной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211525Z" creationid="Алексей" creationdate="20170909T210736Z">
+        <seg>* каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается про\-дол\-жен\-ной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,8 +650,8 @@
       <tuv lang="EN-US">
         <seg>Quotes are used for strings; brackets for numerical values and keywords.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210630Z" creationid="Алексей" creationdate="20170909T210630Z">
-        <seg>Кавычки используются для строк; скобки для числовых значений и ключевых слов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211507Z" creationid="Алексей" creationdate="20170909T210630Z">
+        <seg>Кавычки ис\-поль\-зу\-ются для строк; скобки для числовых значений и ключевых слов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -795,8 +795,8 @@
       <tuv lang="EN-US">
         <seg>The syntax is</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205734Z" creationid="Алексей" creationdate="20170909T205734Z">
-        <seg>Синтаксис</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211412Z" creationid="Алексей" creationdate="20170909T205734Z">
+        <seg>Син\-та\-ксис</seg>
       </tuv>
     </tu>
     <tu>
@@ -923,8 +923,8 @@
       <tuv lang="EN-US">
         <seg>These lines may contain either data or options, which are applied to subsequent data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205617Z" creationid="Алексей" creationdate="20170909T205617Z">
-        <seg>Эти строки могут содержать либо данные, либо параметры, которые применяются к последующим данным.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211345Z" creationid="Алексей" creationdate="20170909T205617Z">
+        <seg>Эти строки могут содержать либо данные, либо параметры, которые при\-ме\-ня\-ются к последующим данным.</seg>
       </tuv>
     </tu>
     <tu>
