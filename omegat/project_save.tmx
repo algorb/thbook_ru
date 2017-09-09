@@ -192,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>These problems remained when we tried to draw maps using some CAD programs in 1998 and 1999.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144146Z" creationid="Алексей" creationdate="20170909T144146Z">
-        <seg>Эти проблемы остаются, когда мы пытались рисовать карты с помощью некоторых программ CAD в 1998 и 1999 годах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144727Z" creationid="Алексей" creationdate="20170909T144146Z">
+        <seg>Эти проблемы оставались, когда мы пытались рисовать карты с помощью некоторых программ CAD в 1998 и 1999 годах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +234,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142626Z" creationid="Алексей" creationdate="20170909T142626Z">
         <seg>Мы знали о программах, которые идеально подходили для конкретных подзадач.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We used the output of one of them---TJIKPR---as a background layer with survey stations for hand&lt;u0&gt;{-}{-}{-}drawn maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145050Z" creationid="Алексей" creationdate="20170909T145050Z">
+        <seg>Мы использовали вывод одного из них --- TJIKPR --- в качестве фонового слоя с помощью станций съемки для ручных карт&lt;u0&gt;{-}{-}{-}.</seg>
       </tuv>
     </tu>
     <tu>
