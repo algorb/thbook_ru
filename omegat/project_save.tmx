@@ -137,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>* black---Therion programs and macros (XTherion is written in Tcl/Tk, so it needs this interpreter to run) * red---&lt;u0&gt;&lt;u1&gt;package * green---input files created by the user and output files created by Therion</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190102Z" creationid="Алексей" creationdate="20170909T190102Z">
-        <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор) * красный --- &lt;u0&gt;&lt;u1&gt; пакет * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190531Z" creationid="Алексей" creationdate="20170909T190102Z">
+        <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор); * красный --- &lt;u0&gt;&lt;u1&gt; пакет; * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом;</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,8 +281,8 @@
       <tuv lang="EN-US">
         <seg>For working with Therion it is enough to know that you have to create input data (best done with XTherion), run Therion, and display output files (3D model, map, log file) in the appropriate program.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185502Z" creationid="Алексей" creationdate="20170909T185502Z">
-        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соответствующей программе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190506Z" creationid="Алексей" creationdate="20170909T185502Z">
+        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соот\-вет\-ствую\-щей про\-грам\-ме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,6 +408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It reads the input files, interprets them, finds closed loops and distributes errors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190756Z" creationid="Алексей" creationdate="20170909T190756Z">
+        <seg>Он считывает входные файлы, интерпретирует их, находит замкнутые кольца и раскидывает ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It runs on Unix, Linux, MacOS X and Win32 operating systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T124656Z" creationid="Алексей" creationdate="20170909T100606Z">
@@ -444,6 +452,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170119Z" creationid="Алексей" creationdate="20170909T161323Z">
         <seg>Необходимо только в том случае, если вы хотите соз\-да\-вать 2D-карты в формате PDF или SVG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next it transforms all other data (e.g. 2D maps) according to new stations position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190835Z" creationid="Алексей" creationdate="20170909T190835Z">
+        <seg>Затем он преобразует все другие данные (например 2D-карты) в соответствии с позицией новых станций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -724,8 +740,8 @@
       <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185305Z" creationid="Алексей" creationdate="20170909T185305Z">
-        <seg>Когда ваша система настроена правильно, большинство из файлов скрыто от пользователя, и все необходимые программы автоматически запускаются Therion'ом.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190214Z" creationid="Алексей" creationdate="20170909T185305Z">
+        <seg>Когда ваша система настроена правильно, большинство из файлов скрыто от пользователя, и все необходимые программы авто\-ма\-ти\-че\-ски запускаются Therion'ом.</seg>
       </tuv>
     </tu>
     <tu>
