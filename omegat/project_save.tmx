@@ -127,6 +127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161921Z" creationid="Алексей" creationdate="20170909T161921Z">
+        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с геопривязанными картами PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2D maps are adapted for particular output scale (level of abstraction, non-linear scaling of symbols and texts)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155259Z" creationid="Алексей" creationdate="20170909T155259Z">
@@ -501,6 +509,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205234Z" creationid="Алексей" creationdate="20170908T205234Z">
         <seg>Почему Therion?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows installer includes all required packages with the exception of {ghostscript}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162009Z" creationid="Алексей" creationdate="20170909T162009Z">
+        <seg>Установщик для Windows включает все необходимые пакеты, за исключением {ghostscript}.</seg>
       </tuv>
     </tu>
     <tu>
