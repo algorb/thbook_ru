@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2D maps are adapted for particular output scale (level of abstraction, non-linear scaling of symbols and texts)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155259Z" creationid="Алексей" creationdate="20170909T155259Z">
+        <seg>2D-карты адаптированы для конкретного масштаба (уровень абстракции, нелинейное масштабирование символов и текстов).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you may open survey data files (*.th) in the `Text editor' window and map data files (*.th2) in the `Map editor' window of XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142053Z" creationid="Алексей" creationdate="20170909T141349Z">
