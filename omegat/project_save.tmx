@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LCDF Typetools if you want to use easy setup for custom fonts in PDF maps * {&lt;u4&gt; convert} and {&lt;u5&gt; identify} utilities from ImageMagick distribution, if you want to use warping of survey sketches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161716Z" creationid="Алексей" creationdate="20170909T161716Z">
+        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для пользовательских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142048Z" creationid="Алексей" creationdate="20170909T140929Z">
@@ -243,6 +251,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
         <seg>Введение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is only required for XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161416Z" creationid="Алексей" creationdate="20170909T161416Z">
+        <seg>Это требуется только для XTherion.</seg>
       </tuv>
     </tu>
     <tu>
