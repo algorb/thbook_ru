@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrows show data flow between programs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185703Z" creationid="Алексей" creationdate="20170909T185703Z">
+        <seg>Стрелки показывают поток данных между программами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143914Z" creationid="Алексей" creationdate="20170909T142950Z">
@@ -251,6 +259,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
         <seg>Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For those who want to understand more about it, here is a brief explanation of the above flowchart.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185525Z" creationid="Алексей" creationdate="20170909T185525Z">
+        <seg>Для тех, кто хочет больше узнать об этом, кратко изложим приведенную выше блок-схему.</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,6 +440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Program names are in roman font, data files in italics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185646Z" creationid="Алексей" creationdate="20170909T185646Z">
+        <seg>Названия программ отображены прямым шрифтом, а файлы данных выделены курсивом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184018Z" creationid="Алексей" creationdate="20170909T162101Z">
@@ -493,6 +517,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130914Z" creationid="Алексей" creationdate="20170909T100729Z">
         <seg>Исходный код и установщик для Windows доступны на веб-странице\break(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temporary data files are not shown.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185735Z" creationid="Алексей" creationdate="20170909T185735Z">
+        <seg>Временные файлы данных не показаны.</seg>
       </tuv>
     </tu>
     <tu>
