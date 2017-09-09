@@ -158,10 +158,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may look quite complicated, but this approach has a lot of advantages:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152335Z" creationid="Алексей" creationdate="20170909T151938Z">
+        <seg>Это может выглядеть довольно сложно, но этот подход имеет много пре\-и\-му\-ществ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It processes input files, which are---including 2D maps---in text format, and creates files with 2D maps or 3D model as the output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151053Z" creationid="Алексей" creationdate="20170909T151053Z">
-        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D карты, и создает файлы с 2D картами или 3D моделью в качестве вывода.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152424Z" creationid="Алексей" creationdate="20170909T151053Z">
+        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D-карты, и создает файлы с 2D-картами или 3D-моделью в качестве вывода.
 </seg>
       </tuv>
     </tu>
@@ -273,8 +281,8 @@
       <tuv lang="EN-US">
         <seg>They contain instructions for Therion like</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151312Z" creationid="Алексей" creationdate="20170909T151312Z">
-        <seg>Файлы содержат инструкции для Териона, такие как:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152538Z" creationid="Алексей" creationdate="20170909T151312Z">
+        <seg>Файлы содержат инструкции для Therion, такие как:</seg>
       </tuv>
     </tu>
     <tu>
@@ -289,8 +297,8 @@
       <tuv lang="EN-US">
         <seg>Thus there is a special GUI for Therion called XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151755Z" creationid="Алексей" creationdate="20170909T151755Z">
-        <seg>Поэтому существует специальный графический интерфейс для Therion, называемый XTherion.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152146Z" creationid="Алексей" creationdate="20170909T151755Z">
+        <seg>Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.
 </seg>
       </tuv>
     </tu>
@@ -336,6 +344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XTherion works as an advanced text editor, map editor (where maps are drawn fully interactively) and compiler (which runs Therion on the data).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152252Z" creationid="Алексей" creationdate="20170909T151920Z">
+        <seg>XTherion работает как расширенный текстовый ре\-дак\-тор, редактор карт (где карты рисуются в полностью интерактивном режиме) и компилятор (который запускает Therion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may create these files in an arbitrary plain text editor like {&lt;u0&gt; ed} or {&lt;u1&gt; vi}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
@@ -346,8 +362,8 @@
       <tuv lang="EN-US">
         <seg>where {&lt;u0&gt; point} is a keyword for point symbol followed by its coordinates and a symbol type specification.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151555Z" creationid="Алексей" creationdate="20170909T151555Z">
-        <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его координаты и специфический тип символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152124Z" creationid="Алексей" creationdate="20170909T151555Z">
+        <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его коор\-ди\-на\-ты и специфический тип символа.</seg>
       </tuv>
     </tu>
     <tu>
