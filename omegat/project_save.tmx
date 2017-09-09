@@ -201,7 +201,7 @@
       <tuv lang="EN-US">
         <seg>During 2000--2001 we searched for the optimal format of the input data, programming language, concept of interactive map editor and internal algorithms with the help of Martin Sluka (Prague) and Martin Heller (Z&lt;u0&gt;urich).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143506Z" creationid="Алексей" creationdate="20170909T143506Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
         <seg>В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
       </tuv>
     </tu>
@@ -363,8 +363,8 @@
       <tuv lang="EN-US">
         <seg>Software requirements.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165422Z" creationid="Алексей" creationdate="20170909T160429Z">
-        <seg>Требования\: к\: ПО.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165614Z" creationid="Алексей" creationdate="20170909T160429Z">
+        <seg>Требования к ПО.</seg>
       </tuv>
     </tu>
     <tu>
