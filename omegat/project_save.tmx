@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;&lt;u1&gt;distribution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161215Z" creationid="Алексей" creationdate="20170909T161215Z">
+        <seg>* &lt;u0&gt;&lt;u1&gt;дистрибутив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* All data are relative to survey station positions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155436Z" creationid="Алексей" creationdate="20170909T155332Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132750Z" creationid="Алексей" creationdate="20170909T132610Z">
         <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке `xtherion', под Windows ярлык в {&lt;u0&gt; Старт} меню).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Tcl/Tk with {&lt;u2&gt; BWidget} and optionally {&lt;u3&gt; tkImg} extension.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161409Z" creationid="Алексей" creationdate="20170909T161311Z">
+        <seg>Tcl / Tk с  {&lt;u2&gt; BWidget} и опциональным расширением {&lt;u3&gt; tkImg}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,6 +288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Necessary only if you want to create 2D maps in PDF or SVG format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161323Z" creationid="Алексей" creationdate="20170909T161323Z">
+        <seg>Необходимо только в том случае, если вы хотите создавать 2D-карты в формате PDF или SVG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we could either draw the whole Atlas again, or accept that the location of some places was not accurate---in the case of loops with a length of approximately 1 km there were sometimes errors of about 10 m---and try to distort the new passages to fit to old ones.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150507Z" creationid="Алексей" creationdate="20170909T150257Z">
@@ -370,8 +394,8 @@
       <tuv lang="EN-US">
         <seg>Therion needs:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161113Z" creationid="Алексей" creationdate="20170909T161113Z">
-        <seg>Для Therion нужно:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161145Z" creationid="Алексей" creationdate="20170909T161113Z">
+        <seg>Therion необходимо :</seg>
       </tuv>
     </tu>
     <tu>
