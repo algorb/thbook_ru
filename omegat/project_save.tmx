@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205554Z" creationid="Алексей" creationdate="20170909T205554Z">
-        <seg>* Многострочные команды начинаются аналогично однострочным, но продолжаются на последующих строках до явного завершения команды.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211239Z" creationid="Алексей" creationdate="20170909T205554Z">
+        <seg>* Многострочные команды начинаются аналогично однострочным, но про\-дол\-жа\-ются на последующих строках до явного завершения команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -723,8 +723,8 @@
       <tuv lang="EN-US">
         <seg>Sometimes options have no or multiple values.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205457Z" creationid="Алексей" creationdate="20170909T205337Z">
-        <seg>Иногда параметров нет или может быть несколько значений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211225Z" creationid="Алексей" creationdate="20170909T205337Z">
+        <seg>Иногда параметров нет или может быть несколько зна\-че\-ний.</seg>
       </tuv>
     </tu>
     <tu>
