@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its purpose is to help</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T094720Z" creationid="Алексей" creationdate="20170909T094720Z">
+        <seg>Ее цель состоит в том, чтобы помочь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion is a tool for cave surveying.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T094641Z" creationid="Алексей" creationdate="20170909T094641Z">
