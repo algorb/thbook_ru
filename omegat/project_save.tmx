@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After processing in TJIKPR, the new loops influenced the position of the old surveys; most survey stations now had a slightly different position from before due to the changed error distribution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145735Z" creationid="Алексей" creationdate="20170909T145735Z">
+        <seg>После обработки данных в TJIKPR, новые петли повлияли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the data format may look confusing for the first time, it will be explained in the following chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142149Z" creationid="Алексей" creationdate="20170909T141633Z">
