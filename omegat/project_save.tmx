@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142824Z" creationid="Алексей" creationdate="20170909T142824Z">
+        <seg>Это был &lt;u0&gt; --- язык программирования высокого уровня для описания векторной графики, Survex --- отличная программа для обработки нитки хода, и &lt;u2&gt;&lt;u3&gt; --- для верстки результатов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion is a tool for cave surveying.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131039Z" creationid="Алексей" creationdate="20170909T094641Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131837Z" creationid="Алексей" creationdate="20170909T131837Z">
         <seg>Это было большим подспорьев в работе, особенно работая над крупными и сложными пещерными системами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We had only to glue them together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142851Z" creationid="Алексей" creationdate="20170909T142851Z">
+        <seg>Нужно было только сложить их вместе.</seg>
       </tuv>
     </tu>
     <tu>
