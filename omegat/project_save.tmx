@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was always hard to add new surveys without adapting the old ones to the newly calculated positions of survey stations in the whole cave.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144326Z" creationid="Алексей" creationdate="20170909T144326Z">
+        <seg>Всегда было трудно добавить новые исследования без адаптации старых к новым рассчитанным позициям станций во всей пещере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its purpose is to help</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T100825Z" creationid="Алексей" creationdate="20170909T100825Z">
         <seg>Therion распространяется под лицензией  &lt;u0&gt;[GNU General Public License] {https://www.gnu.org/}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These problems remained when we tried to draw maps using some CAD programs in 1998 and 1999.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144146Z" creationid="Алексей" creationdate="20170909T144146Z">
+        <seg>Эти проблемы остаются, когда мы пытались рисовать карты с помощью некоторых программ CAD в 1998 и 1999 годах.</seg>
       </tuv>
     </tu>
     <tu>
