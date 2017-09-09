@@ -239,6 +239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204141Z" creationid="Алексей" creationdate="20170909T204141Z">
+        <seg>Основы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193604Z" creationid="Алексей" creationdate="20170909T142950Z">
@@ -251,6 +259,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192032Z" creationid="Алексей" creationdate="20170909T192032Z">
         <seg>Нитка хода может быть экспортирована для дальнейшей обработки в любую базу данных SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating data files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204129Z" creationid="Алексей" creationdate="20170909T204129Z">
+        <seg>Создание файлов данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -275,6 +291,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
         <seg>В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examine this book, ponder the meaning we have dispersed in various places and gathered again; what we have concealed in one place we have disclosed in another, that it may be understood by your wisdom.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; ---Henricus C. Agrippa ab Nettesheym, &lt;u13&gt; 1533} }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204059Z" creationid="Алексей" creationdate="20170909T204059Z">
+        <seg>Examine this book, ponder the meaning we have dispersed in various places and gathered again; what we have concealed in one place we have disclosed in another, that it may be understood by your wisdom.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; ---Henricus C. Agrippa ab Nettesheym, &lt;u13&gt; 1533} }</seg>
       </tuv>
     </tu>
     <tu>
@@ -617,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The input files for Therion are in text format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204249Z" creationid="Алексей" creationdate="20170909T204249Z">
+        <seg>Входные файлы для Therion'а имеют текстовый формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180658Z" creationid="Алексей" creationdate="20170909T180456Z">
@@ -894,6 +926,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184957Z" creationid="Алексей" creationdate="20170909T184957Z">
         <seg>{&lt;u1&gt;{schema.1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u2&gt;[100mm]{agrippa.jpg&lt;/i0&gt;} &lt;u3&gt;-20mm &lt;u5&gt;&lt;u6&gt;10pt&lt;u7&gt;105mm&lt;u8&gt;0mm&lt;u9&gt;1.05cm Only for you, children of doctrine and learning, have we written this work.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204023Z" creationid="Алексей" creationdate="20170909T204023Z">
+        <seg>{&lt;u2&gt;[100mm]{agrippa.jpg&lt;/i0&gt;} &lt;u3&gt;-20mm &lt;u5&gt;&lt;u6&gt;10pt&lt;u7&gt;105mm&lt;u8&gt;0mm&lt;u9&gt;1.05cm Only for you, children of doctrine and learning, have we written this work.</seg>
       </tuv>
     </tu>
     <tu>
