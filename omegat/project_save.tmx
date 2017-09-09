@@ -145,8 +145,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170156Z" creationid="Алексей" creationdate="20170909T161921Z">
-        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с гео\-при\-вя\-зан\-ными картами PDF.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193402Z" creationid="Алексей" creationdate="20170909T161921Z">
+        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с гео\-при\-вя\-зан\-ными PDF-картами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,8 +225,8 @@
       <tuv lang="EN-US">
         <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143914Z" creationid="Алексей" creationdate="20170909T142950Z">
-        <seg>В рождество 1999 года мы уже имели первую версию Териона.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193604Z" creationid="Алексей" creationdate="20170909T142950Z">
+        <seg>В рождество 1999 года мы уже имели первую версию Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +345,8 @@
       <tuv lang="EN-US">
         <seg>In 2002 we were able to introduce the first really usable version of Therion, which met our requirements.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143608Z" creationid="Алексей" creationdate="20170909T143608Z">
-        <seg>В 2002 году мы представили первую версию Териона, которая отвечала нашим требованиям.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193518Z" creationid="Алексей" creationdate="20170909T143608Z">
+        <seg>В 2002 году мы представили первую версию Therion'а, которая отвечала нашим требованиям.</seg>
       </tuv>
     </tu>
     <tu>
@@ -531,8 +531,8 @@
       <tuv lang="EN-US">
         <seg>So we could either draw the whole Atlas again, or accept that the location of some places was not accurate---in the case of loops with a length of approximately 1 km there were sometimes errors of about 10 m---and try to distort the new passages to fit to old ones.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150507Z" creationid="Алексей" creationdate="20170909T150257Z">
-        <seg>Таким образом мы могли бы пе\-ре\-ри\-со\-вы\-вать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно --- в случае петли с длиной около 1 км ошибки достигали 10 м --- и пытаться подогнать новые хода к старым съемкам.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193716Z" creationid="Алексей" creationdate="20170909T150257Z">
+        <seg>Таким образом мы могли бы пе\-ре\-ри\-со\-вы\-вать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно (в случае колец с длиной около 1 км ошибки достигали 10 м) и пытаться подогнать новые хода к старым съемкам.</seg>
       </tuv>
     </tu>
     <tu>
