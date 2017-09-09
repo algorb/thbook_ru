@@ -8,8 +8,24 @@
       <tuv lang="EN-US">
         <seg>* Download the sample data from Therion web page and unpack it somewhere on your computer's hard drive.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132551Z" creationid="Алексей" creationdate="20170909T132427Z">
-        <seg>Скачайте примеры данных с сайта Териона и распакуйте их на жесткий диск.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132614Z" creationid="Алексей" creationdate="20170909T132427Z">
+        <seg>* Скачайте примеры данных с сайта Териона и распакуйте их на жесткий диск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T140929Z" creationid="Алексей" creationdate="20170909T140929Z">
+        <seg>Откройте файл `thconfig' из каталога примеров данных в окне `therion компилятор'. * Нажмите `F9' или `Компилировать' в меню для запуска Териона --- вы получите несколько сообщений от Therion, &lt;u1&gt; &lt;u2&gt;и &lt;u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Run XTherion (under Unix and MacOS X by typing `xtherion' in the command line, under Windows there is a shortcut in the {&lt;u0&gt; Start} menu).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132750Z" creationid="Алексей" creationdate="20170909T132610Z">
+        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке `xtherion', под Windows ярлык в {&lt;u0&gt; Старт} меню).</seg>
       </tuv>
     </tu>
     <tu>
