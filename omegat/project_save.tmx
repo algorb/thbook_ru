@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142950Z" creationid="Алексей" creationdate="20170909T142950Z">
+        <seg>В рождество 1999 года мы уже имели первую версия Териона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During 2000--2001 we searched for the optimal format of the input data, programming language, concept of interactive map editor and internal algorithms with the help of Martin Sluka (Prague) and Martin Heller (Z&lt;u0&gt;urich).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143506Z" creationid="Алексей" creationdate="20170909T143506Z">
+        <seg>В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131837Z" creationid="Алексей" creationdate="20170909T131837Z">
         <seg>Это было большим подспорьев в работе, особенно работая над крупными и сложными пещерными системами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This consisted only of about 32 kB of Perl scripts and &lt;u1&gt;&lt;u4&gt;macros but served the purpose of showing that our ideas were implementable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143117Z" creationid="Алексей" creationdate="20170909T143117Z">
+        <seg>Она состояла только из около 32 КБ Perl скриптов и &lt;u1&gt; &lt;u4&gt;макросов, но программа показала, что наши идеи были осуществимы.</seg>
       </tuv>
     </tu>
     <tu>
