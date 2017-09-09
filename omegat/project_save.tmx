@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* any PDF or SVG viewer displaying 2D maps; * any GIS supporting DXF or {&lt;u0&gt; shapefile} formats for analyzing the maps; * appropriate 3D viewer for models exported in other than default format; * any SQL database client to process exported database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162406Z" creationid="Алексей" creationdate="20170909T162406Z">
+        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D-просмотрщик для моделей, экспортированных в формате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* archive survey data on computer in a form as close to the original notes and sketches as possible and retrieve them in a flexible and efficient way; * draw a nice up-to-date plan or elevation map; * create a realistic 3D model of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125550Z" creationid="Алексей" creationdate="20170909T095850Z">
@@ -211,6 +219,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
         <seg>Первый запуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For displaying of maps and models you may use any of the following programs:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162123Z" creationid="Алексей" creationdate="20170909T162123Z">
+        <seg>Для отображения карт и моделей вы можете использовать любую из следующих программ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -316,6 +332,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161323Z" creationid="Алексей" creationdate="20170909T161323Z">
         <seg>Необходимо только в том случае, если вы хотите создавать 2D-карты в формате PDF или SVG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162101Z" creationid="Алексей" creationdate="20170909T162101Z">
+        <seg>Прочтите {&lt;u0&gt; Appendix}, если вы хотите скомпилировать Therion самостоятельно.
+</seg>
       </tuv>
     </tu>
     <tu>
