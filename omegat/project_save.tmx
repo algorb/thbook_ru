@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>* LCDF Typetools if you want to use easy setup for custom fonts in PDF maps * {&lt;u4&gt; convert} and {&lt;u5&gt; identify} utilities from ImageMagick distribution, if you want to use warping of survey sketches.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161716Z" creationid="Алексей" creationdate="20170909T161716Z">
-        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для пользовательских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170142Z" creationid="Алексей" creationdate="20170909T161716Z">
+        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для поль\-зо\-ва\-тель\-ских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>* Tcl/Tk with {&lt;u2&gt; BWidget} and optionally {&lt;u3&gt; tkImg} extension.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161409Z" creationid="Алексей" creationdate="20170909T161311Z">
-        <seg>Tcl / Tk с  {&lt;u2&gt; BWidget} и опциональным расширением {&lt;u3&gt; tkImg}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T171227Z" creationid="Алексей" creationdate="20170909T161311Z">
+        <seg>Tcl/Tk с  {&lt;u2&gt; BWidget} и опциональным расширением {&lt;u3&gt; tkImg}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121,8 +121,8 @@
       <tuv lang="EN-US">
         <seg>* any PDF or SVG viewer displaying 2D maps; * any GIS supporting DXF or {&lt;u0&gt; shapefile} formats for analyzing the maps; * appropriate 3D viewer for models exported in other than default format; * any SQL database client to process exported database.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162406Z" creationid="Алексей" creationdate="20170909T162406Z">
-        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D-просмотрщик для моделей, экспортированных в формате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170348Z" creationid="Алексей" creationdate="20170909T162406Z">
+        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D-просмотрщик для моделей, экспортированных в фор\-мате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161921Z" creationid="Алексей" creationdate="20170909T161921Z">
-        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с геопривязанными картами PDF.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170156Z" creationid="Алексей" creationdate="20170909T161921Z">
+        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с гео\-при\-вя\-зан\-ными картами PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,8 +225,8 @@
       <tuv lang="EN-US">
         <seg>For displaying of maps and models you may use any of the following programs:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162123Z" creationid="Алексей" creationdate="20170909T162123Z">
-        <seg>Для отображения карт и моделей вы можете использовать любую из следующих программ:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
+        <seg>Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,8 +338,8 @@
       <tuv lang="EN-US">
         <seg>Necessary only if you want to create 2D maps in PDF or SVG format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161323Z" creationid="Алексей" creationdate="20170909T161323Z">
-        <seg>Необходимо только в том случае, если вы хотите создавать 2D-карты в формате PDF или SVG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170119Z" creationid="Алексей" creationdate="20170909T161323Z">
+        <seg>Необходимо только в том случае, если вы хотите соз\-да\-вать 2D-карты в формате PDF или SVG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -403,8 +403,8 @@
       <tuv lang="EN-US">
         <seg>The visual representation is added by &lt;u0&gt;&lt;u1&gt;in later phases of data processing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154742Z" creationid="Алексей" creationdate="20170909T154742Z">
-        <seg>Визуальное представление добавляется &lt;u0&gt;&lt;u1&gt; на более поздних этапах обработки данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170529Z" creationid="Алексей" creationdate="20170909T154742Z">
+        <seg>Визуальное представление добавляется &lt;u0&gt;&lt;u1&gt; на более поздних этапах обработки данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,8 +419,8 @@
       <tuv lang="EN-US">
         <seg>Therion can then do its task much better than if it was a standalone application in which you could calibrate your printer or scanner and with one click send e-mail with your data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161006Z" creationid="Алексей" creationdate="20170909T161006Z">
-        <seg>Therion в связке с другими программами может выполнить свою задачу намного лучше.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170046Z" creationid="Алексей" creationdate="20170909T161006Z">
+        <seg>Therion в связке с другими про\-грам\-мами может выполнить свою задачу намного лучше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -451,8 +451,8 @@
       <tuv lang="EN-US">
         <seg>Therion needs:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161145Z" creationid="Алексей" creationdate="20170909T161113Z">
-        <seg>Therion необходимо :</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T171145Z" creationid="Алексей" creationdate="20170909T161113Z">
+        <seg>Therion'у необходимо:</seg>
       </tuv>
     </tu>
     <tu>
@@ -491,8 +491,8 @@
       <tuv lang="EN-US">
         <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163023Z" creationid="Алексей" creationdate="20170909T155111Z">
-        <seg>Это позволяет изменять символы карты, используемые без изменения\breakвходных данных, или объединить больше карты, созданные разными лю\-дьми в разных стилях, в одну карту с едиными символами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170616Z" creationid="Алексей" creationdate="20170909T155111Z">
+        <seg>Это позволяет изменять символы карты, используемые без изменения\breakвходных данных, или объединить большие карты, созданные разными лю\-дьми в разных стилях, в одну карту с едиными символами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,8 +548,8 @@
       <tuv lang="EN-US">
         <seg>Windows installer includes all required packages with the exception of {ghostscript}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162009Z" creationid="Алексей" creationdate="20170909T162009Z">
-        <seg>Установщик для Windows включает все необходимые пакеты, за исключением {ghostscript}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170252Z" creationid="Алексей" creationdate="20170909T162009Z">
+        <seg>Установщик для Windows включает все необходимые пакеты, за ис\-клю\-че\-нием {ghostscript}.</seg>
       </tuv>
     </tu>
     <tu>
