@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(It's very similar concept to XML data representation.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154806Z" creationid="Алексей" creationdate="20170909T154806Z">
+        <seg>(это очень похоже на представление XML-данных).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Download the sample data from Therion web page and unpack it somewhere on your computer's hard drive.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T132614Z" creationid="Алексей" creationdate="20170909T132427Z">
@@ -40,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>* There is strict separation of data and visualization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154548Z" creationid="Алексей" creationdate="20170909T154548Z">
-        <seg>Cтрогое разделение данных и визуализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154842Z" creationid="Алексей" creationdate="20170909T154548Z">
+        <seg>* Cтрогое разделение данных и визуализации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -247,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The visual representation is added by &lt;u0&gt;&lt;u1&gt;in later phases of data processing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154742Z" creationid="Алексей" creationdate="20170909T154742Z">
+        <seg>Визуальное представление добавляется &lt;u0&gt;&lt;u1&gt; на более поздних этапах обработки данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143816Z" creationid="Алексей" creationdate="20170909T142824Z">
@@ -307,6 +323,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143959Z" creationid="Алексей" creationdate="20170909T143117Z">
         <seg>Она состояла примерно из 32 КБ Perl скриптов и &lt;u1&gt; &lt;u4&gt;макросов, но программа показала, что наши идеи были осуществимы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155111Z" creationid="Алексей" creationdate="20170909T155111Z">
+        <seg>Это позволяет изменять символы карты, используемые без изменения входных данных, или объединить больше карты, созданные разными людьми в разных стилях, в одну карту с едиными символами.</seg>
       </tuv>
     </tu>
     <tu>
