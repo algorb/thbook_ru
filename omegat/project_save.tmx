@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* There is strict separation of data and visualization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154548Z" creationid="Алексей" creationdate="20170909T154548Z">
+        <seg>Cтрогое разделение данных и визуализации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* archive survey data on computer in a form as close to the original notes and sketches as possible and retrieve them in a flexible and efficient way; * draw a nice up-to-date plan or elevation map; * create a realistic 3D model of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125550Z" creationid="Алексей" creationdate="20170909T095850Z">
@@ -219,6 +227,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130914Z" creationid="Алексей" creationdate="20170909T100729Z">
         <seg>Исходный код и установщик для Windows доступны на веб-странице\break(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data files specify only what is where, not what it looks like.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154657Z" creationid="Алексей" creationdate="20170909T154657Z">
+        <seg>В файлах данных указывается только то, что есть, а не то, на что это похоже.</seg>
       </tuv>
     </tu>
     <tu>
