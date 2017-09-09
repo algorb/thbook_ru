@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.4}multiline comments inside |comment| ... |endcomment| block are allowed in data and configuration files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211535Z" creationid="Алексей" creationdate="20170909T210939Z">
-        <seg>* &lt;u0&gt;{5.4}многострочные комментарии внутри |comment| ... |endcomment| блока раз\-ре\-шены в файлах данных и конфигурационных файлах</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220856Z" creationid="Алексей" creationdate="20170909T210939Z">
+        <seg>* &lt;u0&gt;{5.4}Многострочные комментарии внутри |comment| ... |endcomment| блока раз\-ре\-шены в файлах данных и конфигурационных файлах</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,8 +185,8 @@
       <tuv lang="EN-US">
         <seg>* everything that follows |#|, until the end of line---even inside a command---is considered to be a comment, and is ignored.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210818Z" creationid="Алексей" creationdate="20170909T210818Z">
-        <seg>* все, что следует за |#| и до конца строки, даже внутри команды, считается комментарием и игнорируется.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220805Z" creationid="Алексей" creationdate="20170909T210818Z">
+        <seg>* Все, что следует за |#| и до конца строки, даже внутри команды, считается комментарием и игнорируется.</seg>
       </tuv>
     </tu>
     <tu>
