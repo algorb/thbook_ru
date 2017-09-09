@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>* 3D model is generated from 2D maps to get a realistic 3D model without entering too much data</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160319Z" creationid="Алексей" creationdate="20170909T160319Z">
-        <seg>3D-модель создается из 2D-карт, чтобы получить реалистичную трехмерную модель не вводя слишком много данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160337Z" creationid="Алексей" creationdate="20170909T160319Z">
+        <seg>* 3D-модель создается из 2D-карт, чтобы получить реалистичную трехмерную модель не вводя слишком много данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>* It's possible to add new output formats</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160021Z" creationid="Алексей" creationdate="20170909T160021Z">
-        <seg>Можно добавить новые форматы вывода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160334Z" creationid="Алексей" creationdate="20170909T160021Z">
+        <seg>* Можно добавить новые форматы вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +82,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155957Z" creationid="Алексей" creationdate="20170909T155957Z">
         <seg>* Therion не зависит от конкретной операционной системы, кодировки символов или редактора входных файлов; входные файлы останутся читабельными для человека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* although the support for WYSIWYG is limited, you get what you want</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160413Z" creationid="Алексей" creationdate="20170909T160331Z">
+        <seg>* Хотя поддержка WYSIWYG ограничена, вы всегда можете получить то, что хотите.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,6 +280,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Software requirements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160429Z" creationid="Алексей" creationdate="20170909T160429Z">
+        <seg>Требования к ПО.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some computer programs existed which displayed survey shots and stations after loop closure and error elimination.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131945Z" creationid="Алексей" creationdate="20170909T131726Z">
@@ -444,6 +461,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
         <seg>Вы можете создавать эти файлы в любом текстовом редакторе, например  {&lt;u0&gt; ed} или {&lt;u1&gt; vi}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>``A program should do one thing, and do it well.'' (Ken Thompson) Therefore we use some valuable external programs, which are related to the problems of typesetting and data visualization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160821Z" creationid="Алексей" creationdate="20170909T160821Z">
+        <seg>``Программа должна делать одну задачу, и должна делать это хорошо'' (Кен Томпсон). Поэтому мы используем несколько внешних программ, которые обрабатывают и визуализируют данные.</seg>
       </tuv>
     </tu>
     <tu>
