@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>#&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; Language}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195317Z" creationid="Алексей" creationdate="20170909T195317Z">
+        <seg>&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; Язык}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(It's very similar concept to XML data representation.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154806Z" creationid="Алексей" creationdate="20170909T154806Z">
@@ -159,6 +167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1em&lt;u2&gt;{&lt;u3&gt;&lt;u5&gt;=cmr10&lt;u6&gt;&lt;u4&gt;&lt;u8&gt;=cmti10&lt;u7&gt;&lt;u9&gt;{#</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T200111Z" creationid="Алексей" creationdate="20170909T195545Z">
+        <seg>1em&lt;u2&gt;{&lt;u3&gt;&lt;u5&gt;=cmr10&lt;u6&gt;&lt;u4&gt;&lt;u8&gt;=fhari6a&lt;u7&gt;&lt;u9&gt;{#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2D maps are adapted for particular output scale (level of abstraction, non-linear scaling of symbols and texts)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T155259Z" creationid="Алексей" creationdate="20170909T155259Z">
@@ -171,6 +187,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
         <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным сим\-во\-лам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=cmbx10 &lt;u1&gt;&lt;u3&gt;=cmr10&lt;u4&gt; &lt;u5&gt;=12.5pt &lt;u6&gt;&lt;u7&gt;#1{&lt;u8&gt;{&lt;u9&gt;2cm#1&lt;u10&gt;2cm}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T194914Z" creationid="Алексей" creationdate="20170909T194756Z">
+        <seg>=fhab6a &lt;u1&gt;&lt;u3&gt;=fhar6a&lt;u4&gt; &lt;u5&gt;=12.5pt &lt;u6&gt;&lt;u7&gt;#1{&lt;u8&gt;{&lt;u9&gt;2cm#1&lt;u10&gt;2cm}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,6 +601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table of Contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195002Z" creationid="Алексей" creationdate="20170909T195002Z">
+        <seg>Содержание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary data files are not shown.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185735Z" creationid="Алексей" creationdate="20170909T185735Z">
@@ -870,6 +902,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184957Z" creationid="Алексей" creationdate="20170909T184957Z">
         <seg>{&lt;u1&gt;{schema.1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Translations (%):}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195228Z" creationid="Алексей" creationdate="20170909T195228Z">
+        <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
       </tuv>
     </tu>
     <tu>
