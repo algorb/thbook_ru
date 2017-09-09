@@ -169,8 +169,8 @@
       <tuv lang="EN-US">
         <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191017Z" creationid="Алексей" creationdate="20170909T190929Z">
-        <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным символам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
+        <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным сим\-во\-лам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -227,6 +227,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143914Z" creationid="Алексей" creationdate="20170909T142950Z">
         <seg>В рождество 1999 года мы уже имели первую версию Териона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Centreline may be exported for further processing in any SQL database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192032Z" creationid="Алексей" creationdate="20170909T192032Z">
+        <seg>Нитка хода может быть экспортирована для дальнейшей обработки в любую базу данных SQL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,16 +474,16 @@
       <tuv lang="EN-US">
         <seg>Next it transforms all other data (e.g. 2D maps) according to new stations position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190835Z" creationid="Алексей" creationdate="20170909T190835Z">
-        <seg>Затем он преобразует все другие данные (например 2D-карты) в соответствии с позицией новых станций.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191259Z" creationid="Алексей" creationdate="20170909T190835Z">
+        <seg>За\-тем он преобразует все другие данные (например 2D-карты) в соответствии с позицией новых станций.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191142Z" creationid="Алексей" creationdate="20170909T191142Z">
-        <seg>Pdf&lt;u6&gt;&lt;u4&gt; выполняет все наборы и создает PDF-файл карты пещеры.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191907Z" creationid="Алексей" creationdate="20170909T191142Z">
+        <seg>Pdf&lt;u6&gt;&lt;u4&gt; собирает все фрагменты и создает PDF файл карты пещеры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -617,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion also exports 3D model (full or centreline) in various formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191957Z" creationid="Алексей" creationdate="20170909T191957Z">
+        <seg>Therion также экспортирует трехмерную модель (полную или нитку хода) в различных форматах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion can then do its task much better than if it was a standalone application in which you could calibrate your printer or scanner and with one click send e-mail with your data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170046Z" creationid="Алексей" creationdate="20170909T161006Z">
@@ -627,8 +643,8 @@
       <tuv lang="EN-US">
         <seg>Therion exports data for 2D maps in &lt;u0&gt;&lt;u2&gt;format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190914Z" creationid="Алексей" creationdate="20170909T190914Z">
-        <seg>Therion экспортирует данные для 2D-карт в формате &lt;u0&gt;&lt;u2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191631Z" creationid="Алексей" creationdate="20170909T190914Z">
+        <seg>Therion экспортирует данные для 2D-карт в формате &lt;u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -683,8 +699,8 @@
       <tuv lang="EN-US">
         <seg>These are read back and converted to a PDF-like format, which forms input data for pdf&lt;u5&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191107Z" creationid="Алексей" creationdate="20170909T191107Z">
-        <seg>Они считываются и преобразуются в формат в PDF формат, который формирует входные данные для PDF&lt;u5&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191731Z" creationid="Алексей" creationdate="20170909T191107Z">
+        <seg>Они счи\-ты\-ва\-ются и преобразуются в PDF формат, который формирует входные данные для pdf&lt;u5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
