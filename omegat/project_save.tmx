@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It needs to be compiled and installed according to instructions in the {&lt;u0&gt; Appendix}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180532Z" creationid="Алексей" creationdate="20170909T180532Z">
+        <seg>Его необходимо скомпилировать и установить в соответствии с инструкциями в {&lt;u0&gt; Приложении}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It processes input files, which are---including 2D maps---in text format, and creates files with 2D maps or 3D model as the output.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152424Z" creationid="Алексей" creationdate="20170909T151053Z">
@@ -395,8 +403,8 @@
       <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180456Z" creationid="Алексей" creationdate="20170909T180456Z">
-        <seg>Исходный код является основным распределением Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180658Z" creationid="Алексей" creationdate="20170909T180456Z">
+        <seg>Исходники --- главный дистрибутив Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +606,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180406Z" creationid="Алексей" creationdate="20170909T180406Z">
         <seg>{&lt;u0&gt; Установка из исходников (therion-5.*.tar.gz package):}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Installation on Windows:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180816Z" creationid="Алексей" creationdate="20170909T180816Z">
+        <seg>{&lt;u0&gt; Установка в Windows:}</seg>
       </tuv>
     </tu>
     <tu>
