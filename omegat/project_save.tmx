@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>* archive survey data on computer in a form as close to the original notes and sketches as possible and retrieve them in a flexible and efficient way; * draw a nice up-to-date plan or elevation map; * create a realistic 3D model of the cave.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T100326Z" creationid="Алексей" creationdate="20170909T095850Z">
+        <seg>* архивировать данные съемки на компьютере в форме, максимально приближенной к оригинальным записям и зарисовкам, и обрабатывать их удобным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
@@ -24,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>Its purpose is to help</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T094720Z" creationid="Алексей" creationdate="20170909T094720Z">
-        <seg>Ее цель состоит в том, чтобы помочь</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
+        <seg>Ее цель состоит в том, чтобы помочь:</seg>
       </tuv>
     </tu>
     <tu>
