@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;{5.4}multiline comments inside |comment| ... |endcomment| block are allowed in data and configuration files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210939Z" creationid="Алексей" creationdate="20170909T210939Z">
+        <seg>* &lt;u0&gt;{5.4}многострочные комментарии внутри |comment| ... |endcomment| блока разрешены в файлах данных и конфигурационных файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* A one-line command is terminated by an end of line character.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204406Z" creationid="Алексей" creationdate="20170909T204406Z">
@@ -163,6 +171,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192347Z" creationid="Алексей" creationdate="20170909T190102Z">
         <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор); * красный --- &lt;u0&gt;&lt;u1&gt; пакет; * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210736Z" creationid="Алексей" creationdate="20170909T210736Z">
+        <seg>* каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается продолженной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* everything that follows |#|, until the end of line---even inside a command---is considered to be a comment, and is ignored.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210818Z" creationid="Алексей" creationdate="20170909T210818Z">
+        <seg>* все, что следует за |#| и до конца строки, даже внутри команды, считается комментарием и игнорируется.</seg>
       </tuv>
     </tu>
     <tu>
