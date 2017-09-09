@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205554Z" creationid="Алексей" creationdate="20170909T205554Z">
+        <seg>* Многострочные команды начинаются аналогично однострочным, но продолжаются на последующих строках до явного завершения команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193010Z" creationid="Алексей" creationdate="20170909T140929Z">
@@ -383,6 +391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a data line starts with a word reserved for an option, you have to insert `|!|' in front of it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
+        <seg>Если строка данных начинается со слова, зарезервированного для опции, вам нужно вставить `|!|' перед ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163148Z" creationid="Алексей" creationdate="20170909T155342Z">
@@ -643,8 +659,8 @@
       <tuv lang="EN-US">
         <seg>Sometimes options have no or multiple values.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205337Z" creationid="Алексей" creationdate="20170909T205337Z">
-        <seg>Иногда параметры не имеют или несколько значений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205457Z" creationid="Алексей" creationdate="20170909T205337Z">
+        <seg>Иногда параметров нет или может быть несколько значений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,6 +833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These lines may contain either data or options, which are applied to subsequent data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205617Z" creationid="Алексей" creationdate="20170909T205617Z">
+        <seg>Эти строки могут содержать либо данные, либо параметры, которые применяются к последующим данным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These problems remained when we tried to draw maps using some CAD programs in 1998 and 1999.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144727Z" creationid="Алексей" creationdate="20170909T144146Z">
@@ -972,8 +996,8 @@
       <tuv lang="EN-US">
         <seg>with three obligatory arguments and one optional option/value pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205258Z" creationid="Алексей" creationdate="20170909T205258Z">
-        <seg>с тремя обязательными аргументами и одной дополнительной парой опций/значений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205423Z" creationid="Алексей" creationdate="20170909T205258Z">
+        <seg>с тремя обязательными аргументами и одной дополнительной парой опция/значение.</seg>
       </tuv>
     </tu>
     <tu>
