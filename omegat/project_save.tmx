@@ -507,6 +507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A degree value may be entered in decimal notation ($x.y$) or in a special notation for degrees, minutes and seconds ($deg[{:}min[{:}sec]]$).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T125118Z" creationid="Алексей" creationdate="20170910T125118Z">
+        <seg>Значение градуса может быть введено в десятичной системе ($x.y$) или в специальной нотации для градусов, минут и секунд ($deg[{:}min[{:}sec]]$).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you may open survey data files (*.th) in the `Text editor' window and map data files (*.th2) in the `Map editor' window of XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142053Z" creationid="Алексей" creationdate="20170909T141349Z">
@@ -600,6 +608,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192032Z" creationid="Алексей" creationdate="20170909T192032Z">
         <seg>Нитка хода может быть экспортирована для дальнейшей обработки в любую базу данных SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coordinate systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T125131Z" creationid="Алексей" creationdate="20170910T125131Z">
+        <seg>Системы координат.</seg>
       </tuv>
     </tu>
     <tu>
