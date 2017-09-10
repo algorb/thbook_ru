@@ -6,6 +6,25 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>#1.{&lt;u3&gt;{#1} &lt;u4&gt;2&lt;u7&gt;{&lt;u9&gt; #1} &lt;u10&gt; &lt;u13&gt;1{&lt;u15&gt;&lt;u28&gt;&lt;u16&gt;&lt;u30&gt;-50 &lt;u17&gt;&lt;u32&gt;{&lt;u18&gt;&lt;u34&gt;&lt;u36&gt; attr {/Border [0 0 0]} goto page &lt;u41&gt;&lt;u37&gt; {/Fit} &lt;u19&gt;&lt;u45&gt;&lt;u38&gt; #1&lt;u20&gt;&lt;u46&gt;&lt;u48&gt;&lt;u42&gt;&lt;u21&gt;&lt;u50&gt;}} &lt;u5&gt;1} &lt;u1&gt;&lt;u52&gt;#1.{ &lt;u31&gt;-100&lt;u6&gt;2&lt;u8&gt;{&lt;u53&gt; #1}&lt;u11&gt; &lt;u14&gt;1{&lt;u22&gt;&lt;u29&gt;&lt;u23&gt;&lt;u33&gt;{&lt;u24&gt;&lt;u54&gt;&lt;u25&gt;&lt;u35&gt;&lt;u39&gt; attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit} #1&lt;u26&gt;&lt;u47&gt;&lt;u49&gt;&lt;u44&gt;&lt;u27&gt;&lt;u51&gt;}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T054433Z" creationid="Алексей" creationdate="20170910T054122Z">
+        <seg>#1.{&lt;u3&gt;{#1}
+&lt;u4&gt;2&lt;u7&gt;{&lt;u9&gt; #1}
+&lt;u10&gt; &lt;u13&gt;1{&lt;u15&gt;&lt;u28&gt;&lt;u16&gt;&lt;u30&gt;-50
+&lt;u17&gt;&lt;u32&gt;{&lt;u18&gt;&lt;u34&gt;&lt;u36&gt;
+attr {/Border [0 0 0]} goto page &lt;u41&gt;&lt;u37&gt; {/Fit}
+&lt;u19&gt;&lt;u45&gt;&lt;u38&gt; #1&lt;u20&gt;&lt;u46&gt;&lt;u48&gt;&lt;u42&gt;&lt;u21&gt;&lt;u50&gt;}}
+&lt;u5&gt;1}
+&lt;u1&gt;&lt;u52&gt;#1.{
+&lt;u31&gt;-100&lt;u6&gt;2&lt;u8&gt;{&lt;u53&gt; #1}&lt;u11&gt;
+&lt;u14&gt;1{&lt;u22&gt;&lt;u29&gt;&lt;u23&gt;&lt;u33&gt;{&lt;u24&gt;&lt;u54&gt;&lt;u25&gt;&lt;u35&gt;&lt;u39&gt;
+attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
+#1&lt;u26&gt;&lt;u47&gt;&lt;u49&gt;&lt;u44&gt;&lt;u27&gt;&lt;u51&gt;}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(It's very similar concept to XML data representation.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154806Z" creationid="Алексей" creationdate="20170909T154806Z">
@@ -223,6 +242,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0=&lt;u3&gt; &lt;u1&gt;1=&lt;u4&gt; &lt;u2&gt;2=</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053846Z" creationid="Алексей" creationdate="20170910T053827Z">
+        <seg>0=&lt;u3&gt;
+&lt;u1&gt;1=&lt;u4&gt;
+&lt;u2&gt;2=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0=version.tex &lt;u1&gt; 0 to &lt;u2&gt;&lt;u3&gt;0</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053648Z" creationid="Алексей" creationdate="20170910T052959Z">
@@ -316,6 +345,34 @@
 &lt;u8&gt;&lt;u19&gt;=cmti8
 &lt;u9&gt;&lt;u20&gt;=cmmi8
 &lt;u10&gt;&lt;u21&gt;=cmbxti10
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=cmssdc10 at 16pt &lt;u1&gt;&lt;u3&gt;=cmssdc10 at 12pt</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053924Z" creationid="Алексей" creationdate="20170910T053904Z">
+        <seg>=cmssdc10 at 16pt
+&lt;u1&gt;&lt;u3&gt;=cmssdc10 at 12pt
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=logo10 at 12pt</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053857Z" creationid="Алексей" creationdate="20170910T053852Z">
+        <seg>=logo10 at 12pt
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>={&lt;u1&gt;&lt;u3&gt;&lt;u4&gt;&lt;u5&gt;&lt;u6&gt;&lt;u2&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T054027Z" creationid="Алексей" creationdate="20170910T054019Z">
+        <seg>={&lt;u1&gt;&lt;u3&gt;&lt;u4&gt;&lt;u5&gt;&lt;u6&gt;&lt;u2&gt;}
 </seg>
       </tuv>
     </tu>
@@ -1263,6 +1320,25 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204023Z" creationid="Алексей" creationdate="20170909T204023Z">
         <seg>{&lt;u2&gt;[100mm]{agrippa.jpg&lt;/i0&gt;} &lt;u3&gt;-20mm &lt;u5&gt;&lt;u6&gt;10pt&lt;u7&gt;105mm&lt;u8&gt;0mm&lt;u9&gt;1.05cm Only for you, children of doctrine and learning, have we written this work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;&lt;u4&gt;0&lt;6pt &lt;u5&gt;0=9pt &lt;u8&gt; &lt;u6&gt;0=3pt&lt;u9&gt;} &lt;u1&gt;&lt;u10&gt;{&lt;u11&gt;&lt;u12&gt; to12pt{&lt;u13&gt;&lt;u7&gt;0.&lt;u14&gt;}&lt;u15&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T054109Z" creationid="Алексей" creationdate="20170910T054031Z">
+        <seg>{&lt;u3&gt;&lt;u4&gt;0&lt;6pt &lt;u5&gt;0=9pt &lt;u8&gt; &lt;u6&gt;0=3pt&lt;u9&gt;}
+&lt;u1&gt;&lt;u10&gt;{&lt;u11&gt;&lt;u12&gt; to12pt{&lt;u13&gt;&lt;u7&gt;0.&lt;u14&gt;}&lt;u15&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{&lt;u2&gt; META}­{&lt;u3&gt; POST}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053958Z" creationid="Алексей" creationdate="20170910T053944Z">
+        <seg>{{&lt;u2&gt; META}­{&lt;u3&gt; POST}}
+</seg>
       </tuv>
     </tu>
     <tu>
