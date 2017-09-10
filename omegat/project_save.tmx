@@ -335,6 +335,31 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |JTSK03|, |iJTSK03| = new S-JTSK realisation introduced in Slovakia in 2011.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132708Z" creationid="Алексей" creationdate="20170910T132655Z">
+        <seg>* |JTSK03|, |iJTSK03| = новая реализация S-JTSK, введенная в Словакии в 2011 году.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |JTSK|, |iJTSK| = Czechoslovak S-JTSK system used since 1920s with south and west axis (JTSK) and its modified version with axis pointing east and north and negative numbers (iJTSK).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132621Z" creationid="Алексей" creationdate="20170910T132531Z">
+        <seg>* |JTSK|, |iJTSK| = Чехословацкая система S-JTSK, используемая с 1920-х годов с южной и западной осью (JTSK) и ее модифицированной версией с осью, указывающей восточное, северное и отрицательные числа (iJTSK).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |OSGB:&lt;H, N, O, S or T&gt;&lt;A-Z except I&gt;| = British Ordnance Survey National Grid.&lt;u0&gt;{5.4} * |S-MERC| = the spherical Mercator projection, as used by various online mapping sites.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133132Z" creationid="Алексей" creationdate="20170910T132720Z">
+        <seg>* |OSGB:&lt;H, N, O, S or T&gt;&lt;A-Z except I&gt;| = Британская Национальная Сеть&lt;u0&gt;{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |UTM1N| -- |UTM60N| = same as |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM in southern hemisphere, WGS84 datum.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132111Z" creationid="Алексей" creationdate="20170910T132016Z">
@@ -969,6 +994,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
         <seg>Ее цель состоит в том, чтобы помочь:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JTSK is not supported on output (iJTSK is).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132647Z" creationid="Алексей" creationdate="20170910T132636Z">
+        <seg>JTSK не поддерживается на выходе (как и iJTSK).</seg>
       </tuv>
     </tu>
     <tu>
