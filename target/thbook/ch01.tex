@@ -1,246 +1,128 @@
-\eject \ifodd\pageno\else\hbox{}\eject\fi
+\eject \ifodd\pageno\else\hbox{}\eject\fi 
 
-{\baselineskip=12pt
-\setbox1=\hbox{\eightit LET NO ONE IGNORANT OF GEOMETRY ENTER HERE}
-\copy1
-\vskip4pt
-\line{\pic[\wd1]{ageom.pdf}\hss}
-\hbox to \wd1{\hfil\eightrm ---alleged inscription over the entrance}
-\hbox to \wd1{\hfil\eightrm of Plato's Academy, {\eightmit 4}th century BC}
-}
+{\baselineskip=12pt \setbox1=\hbox{\eightit LET NO ONE IGNORANT OF GEOMETRY ENTER HERE} \copy1 \vskip4pt \line{\pic[\wd1]{ageom.pdf}\hss} \hbox to \wd1{\hfil\eightrm ---alleged inscription over the entrance} \hbox to \wd1{\hfil\eightrm of Plato's Academy, {\eightmit 4}th century BC} }
 
-\chapter Introduction.
+\chapter Введение.
 
-Therion is a tool for cave surveying. Its purpose is to help 
+Therion это программа для создания карт пещер. Ее цель состоит в том, чтобы помочь:
 
 \list
-* archive survey data on computer in a form as close to the original notes and 
-  sketches as possible and retrieve them in a flexible and efficient way;
-* draw a nice up-to-date plan or elevation map; 
-* create a realistic 3D model of the cave.
-\endlist
 
-It runs on Unix, Linux, MacOS\,X and Win32 operating systems. 
-Source code and Windows installer are available on the Therion web page 
-(\www{https://therion.speleo.sk}).
+* архивировать данные съемки на компьютере в форме, максимально приб\-лиженной к оригинальным записям и зарисовкам, и обрабатывать их удоб\-ным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер. \endlist
 
-Therion is distributed under the \www[GNU General Public License]
-{https://www.gnu.org/}.
+Therion работает в операционных системах Unix, Linux, MacOS X и Win32. Исходный код и установщик для Windows доступны на веб-странице\break(\www{https://therion.speleo.sk}).
 
-\subchapter Why Therion?.
+Therion распространяется под лицензией  \www[GNU General Public License] {https://www.gnu.org/}.
 
-In the 1990s we've done a lot of caving and cave surveying. Some computer 
-programs existed which displayed survey shots and stations after loop closure and 
-error elimination. These were a great help, especially for large and complicated 
-cave systems. We used the output of one of them---TJIKPR---as a background 
-layer with survey stations for hand\discretionary{-}{-}{-}drawn maps. After finishing a huge 
-166-page Atlas of the Cave of Dead Bats in early 1997, we soon had a problem: we found new passages
-connecting between known passages and surveyed them. After processing in TJIKPR, 
-the new loops influenced the position of the old surveys;
-most survey stations now had a slightly different position from before due to the
-changed error distribution. So we could either draw the whole Atlas again, 
-or accept that the location of some places was not accurate---in the case of loops 
-with a length of approximately 1\,km there were sometimes errors of about 
-10\,m---and try to distort the new passages to fit to old ones.
+\subchapter Почему Therion?.
 
-These problems remained when we tried to draw maps using some CAD programs
-in 1998 and 1999. It 
-was always hard to add new surveys without adapting the old ones to the newly 
-calculated positions of survey stations in the whole cave. We found no program that was 
-able to draw an up-to-date complex map (i.e.~not just survey shots with LRUD envelope), 
-in which the old parts are modified according to the most recent known coordinates 
-of survey stations.
+В 1990-е мы активно занимались спелеологией и созданием карт. Имелось несколько компьютерных программ, которые строили нитку хода после зак\-рытия колец и разброса ошибки. Это было большим подспорьев в работе, особенно работая над крупными и сложными пещерными системами. Мы использовали вывод одного из них (TJIKPR) в качестве фонового слоя со станциями для ручного рисования карт. После окончания огромного 166-страничного Атласа пещер мертвых летучих мышей в начале 1997 года у нас вскоре возникла проблема: мы нашли новые ходы, соединения между известными ходами. После обработки данных в TJIKPR, новые кольца пов\-лия\-ли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец. Таким образом мы могли бы пе\-ре\-ри\-со\-вы\-вать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно (в случае колец с длиной около 1 км ошибки достигали 10 м) и пытаться подогнать новые хода к старым съемкам.
 
-In 1999 we begun to think about creating own program for map drawing. We knew 
-about programs which were perfectly suited for particular sub-tasks. There 
-was \MP, a high level programming language for vector graphics description, 
-Survex for excellent processing of survey shots, and \TeX\ for typesetting the 
-results. We had only to glue them together. By Xmas 
-1999 we had a minimalistic version of Therion working for the first time. This 
-consisted only of about 32\,kB of Perl scripts and \MP\ macros but served the 
-purpose of showing that our ideas were implementable.
+Эти проблемы оставались, когда мы пытались рисовать карты с помощью некоторых программ CAD в 1998 и 1999 годах. Всегда было трудно добавить новые исследования без адаптации старых к новым рассчитанным позициям станций во всей пещере. Мы не нашли ни одной программы, которая могла бы нарисовать современную сложную карту (т.е. не только нитку хода с LRUD), в которых старые части съемки изменялись в соответствии с новыми расчетными координатами станций.
 
-During 2000--2001 we searched for the optimal format of the input data, programming 
-language, concept of interactive map editor and internal algorithms with the 
-help of Martin Sluka (Prague) and Martin Heller (Z\"urich). In 2002 we were able to 
-introduce the first really usable version of Therion, which met our requirements.
+В 1999 году мы начали думать о создании собственной программы для рисо\-ва\-ния карт. Мы знали о программах, которые идеально подходили для конкретных подзадач. Это был \MP --- язык программирования высо\-ко\-го уровня для описания векторной графики, Survex --- отличная программа для обработки нитки хода, и \TeX\  --- для верстки результатов. Нужно было только сложить их вместе. В рождество 1999 года мы уже имели первую версию Therion'а. Она состояла примерно из 32 КБ Perl скриптов и \MP \ макросов, но программа показала, что наши идеи были осуществимы.
+
+В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z\"urich). В 2002 году мы представили первую версию Therion'а, которая отвечала нашим требованиям.
+
+\subchapter Особенности.
+
+Therion --- приложение для командной строки. Он обрабатывает входные файлы в текстовом формате, в том числе 2D-карты, и создает файлы с 2D-картами или 3D-моделью в качестве вывода.
 
 
-\subchapter Features.
+Синтаксис входных файлов подробно описан в последующих главах. Вы можете создавать эти файлы в любом текстовом редакторе, например  {\it ed} или {\it vi}. Файлы содержат инструкции для Therion, такие как:
 
-Therion is a command-line application. It processes input files, which 
-are---including 2D maps---in text format, and creates files with 2D maps or 
-3D model as the output.
+|point 1303 1004 pillar|
 
-The syntax of input files is described in detail in later chapters. 
-You may create these files in an arbitrary plain text editor like 
-{\it ed} or {\it vi}. They contain instructions for Therion like 
+где  {\tt point} --- комманда для символа точки, за которым следуют его коор\-ди\-на\-ты и специфический тип символа.
 
-|point 1303 1004 pillar| 
+Ручное редактирование таких файлов непросто, особенно когда вы рисуете карты и вам нужно думать о пространственных (декартовых координатах). Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.
+ XTherion работает как расширенный текстовый ре\-дак\-тор, редактор карт (где карты рисуются в полностью интерактивном режиме) и компилятор (который запускает Therion).
 
-where {\tt point} is a keyword for point symbol 
-followed by its coordinates and a symbol type specification.
-
-Hand-editing of such files is not easy---especially when you draw maps, you 
-need to think in spatial (Cartesian coordinate) terms. Thus there is a special 
-GUI for Therion called XTherion. XTherion works as an advanced text editor, map 
-editor (where maps are drawn fully interactively) and compiler (which runs
-Therion on the data).
-
-It may look quite complicated, but this approach has a lot of advantages:
+Это может выглядеть довольно сложно, но этот подход имеет много пре\-и\-му\-ществ:
 
 \list
-* There is strict separation of data and visualization. The data files specify 
-  only what is where, not what it looks like. The visual representation 
-  is added by \MP\ in later phases of data processing. (It's very 
-  similar concept to XML data representation.) 
-  
-  This makes it possible to change map symbols used without changing the 
-  input data, or merge more maps created by different persons in different 
-  styles into one map with unified map symbols set.
 
-  2D maps are adapted for particular output scale (level of abstraction,
-  non-linear scaling of symbols and texts)
-  
-* All data are relative to survey station positions. If the coordinates
-  of survey stations are changed in the process of loop closure, then all relevant
-  data is moved correspondingly, so the map is always up-to-date.
+* Cтрогое разделение данных и визуализации. В файлах данных ука\-зы\-ва\-ется только то, что есть, а не то, на что это похоже. Визуальное представление добавляется \MP\  на более поздних этапах обработки данных (это очень похоже на представление XML-данных).
 
-* Therion is not dependent on particular operating system, character encoding
-  or input files editor; input files will remain human readable
+Это позволяет изменять символы карты, используемые без изменения\breakвходных данных, или объединить большие карты, созданные разными лю\-дьми в разных стилях, в одну карту с едиными символами.
 
-* It's possible to add new output formats
+2D-карты адаптированы для конкретного масштаба (уровень абстракции, нелинейное масштабирование символов и текстов).
 
-* 3D model is generated from 2D maps to get a realistic 3D model 
-  without entering too much data
+* Все данные привязываются к положениям пикетов съемки. Если коор\-ди\-наты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.
 
-* although the support for WYSIWYG is limited, you get what you want
-\endlist
+* Therion не зависит от конкретной операционной системы, кодировки сим\-во\-лов или редактора входных файлов; входные файлы останутся чита\-бель\-ными для человека.
 
-\subchapter Software requirements.
+* Можно добавить новые форматы вывода.
 
-``A program should do one thing, and do it well.'' (Ken Thompson) 
-Therefore we use some valuable external programs, which are related to the 
-problems of typesetting and data visualization. Therion can then do its task 
-much better than if it was a standalone application in which you could calibrate 
-your printer or scanner and with one click send e-mail with your data.
+* 3D-модель создается из 2D-карт, чтобы получить реалистичную трех\-мер\-ную модель не вводя слишком много данных.
 
-Therion needs:
-\list
-* \TeX\ distribution.
-  Necessary only if you want to create 2D maps in PDF or SVG format.
-* Tcl/Tk with {\it BWidget} and optionally {\it tkImg} 
-  extension. It is only required for XTherion.
-* LCDF Typetools if you want to use easy setup for custom fonts in PDF maps
-* {\it convert} and {\it identify} utilities from ImageMagick distribution, 
-  if you want to use warping of survey sketches.
-* {\it ghostscript} if you want to create calibrated images from georeferenced
-  PDF maps.
-\endlist
+* Хотя поддержка WYSIWYG ограничена, вы всегда можете получить то, что хотите.
+ \endlist
 
-Windows installer includes all required packages with the exception of {ghostscript}. 
-Read the {\it Appendix} if you want to compile Therion yourself.
+\subchapter Требования к ПО.
 
-For displaying of maps and models you may use any of the following programs:
-\list
-* any PDF or SVG viewer displaying 2D maps;
-* any GIS supporting DXF or {\it shapefile} formats for analyzing the maps;
-* appropriate 3D viewer for models exported in other than default format;
-* any SQL database client to process exported database.
-\endlist
+``Программа должна делать одну задачу, и должна делать это хорошо'' (Кен Томпсон). Поэтому мы используем несколько внешних программ, которые обрабатывают и визуализируют данные. Therion в связке с другими про\-грам\-мами может выполнить свою задачу намного лучше.
+
+Therion'у необходимо: \list
+
+* \TeX\ дистрибутив. Необходимо только в том случае, если вы хотите соз\-да\-вать 2D-карты в формате PDF или SVG. * Tcl/Tk с  {\it BWidget} и опциональным расширением {\it tkImg}. Это требуется только для XTherion. * LCDF Typetools, если вы хотите использовать легкую настройку для поль\-зо\-ва\-тель\-ских шрифтов в PDF-картах. * Утилиты {\it convert} и {\it identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов. * {\it ghostscript}, если вы хотите создавать калиброванные изображения с гео\-при\-вя\-зан\-ными PDF-картами. \endlist
+
+Установщик для Windows включает все необходимые пакеты, за ис\-клю\-че\-нием {ghostscript}. Прочтите {\it Приложение}, если вы хотите скомпилировать Therion самостоятельно.
 
 
-\subchapter Installation.
+Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ: \list
 
-{\bf Installation from sources (therion-5.*.tar.gz package):}
+* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {\it shapefile} форматы для анализа карт; * соответствующий 3D просмотрщик для моделей, экспортированных в фор\-мате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных. \endlist
 
-The source code is a primary Therion distribution. It needs to be compiled 
-and installed according to instructions in the {\it Appendix}.
+\subchapter Инсталяция.
 
-{\bf Installation on Windows:}
+{\bf Установка из исходников (therion-5.*.tar.gz package):}
 
-Run the setup program and follow instructions. It installs all the required 
-stuff and creates shortcuts to XTherion and Therion Book.
+Исходники --- главный дистрибутив Therion. Его необходимо скомпилировать и установить в соответствии с инструкциями в {\it Приложении}.
 
+{\bf Установка в Windows:}
 
-\subsubchapter Setting-up environment.
+Запустите программу установки и следуйте инструкциям. Он устанавливает все необходимые материалы и создает ярлыки для XTherion и Therion Book.
 
-Therion reads settings from the initialization file. Default settings should 
-work fine for users using just latin characters\[In the PDF map Therion renders most
-of the accented characters as a combination of accent and a base character. 
-Some obscure accents might be omitted. Precomposed accented letters are included
-for Slovak and Czech languages.], 
-standard \TeX\ and \MP. 
+\subsubchapter Настройка среды.
 
-If you want to use own fonts for latin or non-latin characters in PDF maps, 
-edit initialization 
-file. Instructions on how to do this are in the {\it Appendix}.
+Therion считывает настройки из файла инициализации. Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы \[ На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа. Некоторые неявные акценты могут быть опущены. Предустановленные буквы с акцентом включены для словацкого и чешского языков.], стандартные \TeX\ и \MP.
 
+Если вы хотите использовать собственные шрифты для латинских или нела\-тин\-ских символов в PDF-картах, отредактируйте файл инициализации. Ин\-струк\-ции о том, как это сделать, приведены в {\it Приложении}.
 
-\subchapter How does it work?.
+\subchapter Как это работает?.
 
-So, now it's clear what Therion needs, let's have a look at the way 
-it interacts with all these programs:
+Итак, теперь ясно, что нужно Therion'у, давайте посмотрим как он взаи\-мо\-дей\-ствует со всеми этими программами:
 
-\par\penalty-200
-\midinsert
-\centerline{\MPpic{schema.1}}
-\endinsert
+\par\penalty-200 \midinsert
 
-DON'T PANIC! When your system is set-up right the majority of this is hidden from 
-the user and all necessary programs are run automatically by Therion. 
+\centerline{\MPpic{schema.1}} \endinsert
 
-For working with Therion it is enough to know that you have to create input data 
-(best done with XTherion), run Therion, and display output files 
-(3D model, map, log file) in the appropriate program. 
+НЕ ПАНИКУЙТЕ! Когда ваша система настроена правильно, большинство из файлов скрыто от пользователя, и все необходимые программы авто\-ма\-ти\-че\-ски запускаются Therion'ом.
 
-For those who want to understand more about it, here is a brief explanation of 
-the above flowchart. Program names are in roman font, data files in italics. 
-Arrows show data flow between programs. Temporary data files are not shown. 
-Meaning of colors:
+Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соот\-вет\-ствую\-щей про\-грам\-ме.
+
+Для тех, кто хочет больше узнать об этом, кратко изложим приведенную выше блок-схему. Названия программ отображены прямым шрифтом, а файлы данных выделены курсивом. Стрелки показывают поток данных между программами. Временные файлы данных не показаны. Значение цветов:
 
 \list
-* black---Therion programs and macros (XTherion is written in Tcl/Tk,
-  so it needs this interpreter to run)
-* red---\TeX\ package
-* green---input files created by the user and output files created by Therion
-\endlist
 
-Therion itself does the main task. It reads the input files, interprets them, 
-finds closed loops and distributes errors. Next it transforms all other data 
-(e.g.~2D maps) according to new stations position.
-Therion exports data for 2D maps in \MP\ format. \MP\ gives 
-the actual shape to abstract map symbols according to map symbol definitions; it
-creates a lot of PostScript files with small fragments of the cave. These are 
-read back and converted to a PDF-like format, which forms input data 
-for pdf\TeX. Pdf\TeX\ does all the typesetting and creates a PDF file of the cave 
-map. 
+* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор); * красный --- \TeX\  пакет; * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом. \endlist
 
-Therion also exports 3D model (full or centreline) in various formats.
+Сам Therion выполняет главную задачу. Он считывает входные файлы, интерпретирует их, находит замкнутые кольца и раскидывает ошибки. За\-тем он преобразует все другие данные (например 2D-карты) в соответствии с позицией новых станций. Therion экспортирует данные для 2D-карт в формате \MP. \MP\ дает фактическую форму абстрактным сим\-во\-лам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры. Они счи\-ты\-ва\-ются и преобразуются в PDF формат, который формирует входные данные для pdf\TeX. Pdf\TeX\  собирает все фрагменты и создает PDF-файл карты пещеры.
 
-Centreline may be exported for further processing in any SQL database.
+Therion также экспортирует трехмерную модель (полную или нитку хода) в различных форматах.
 
+Нитка хода может быть экспортирована для дальнейшей обработки в любую базу данных SQL.
 
-\subchapter First run.
+\subchapter Первый запуск.
 
-After explaining the basic principles of Therion it's a good idea to try it
-on the example data.
+После объяснения основных принципов работы Therion'а давайте попробуем его на примерах реальных данных.
 
 \list
-* Download the sample data from Therion web page and unpack it somewhere on
-  your computer's hard drive.
-* Run XTherion (under Unix and MacOS\,X by typing `xtherion' in the command 
-  line, under Windows there is a shortcut in the {\it Start} menu).
-* Open the file `thconfig' from the sample data directory in the `Compiler'
-  window of XTherion
-* Press `F9' or `compile' in the menu to run Therion on the data---you'll get
-  some messages from Therion, \MP\ and \TeX.  
-* PDF maps and 3D model are created in the data directory.  
-\endlist
 
-Additionally, you may open survey data files (*.th) in the `Text editor' window 
-and map data files (*.th2) in the `Map editor' window of XTherion. Although the 
-data format may look confusing for the first time, it will be explained in the 
-following chapters.
+* Скачайте примеры данных с сайта Therion'а и распакуйте их на жесткий диск. * Запустите XTherion (под Unix и MacOS X введя в командной строке `xtherion', под Windows ярлык в меню {\it Старт}). Откройте файл `thconfig' из каталога примеров данных в окне `therion компилятор'. * Нажмите `F9' или `Компилировать' в меню для запуска Therion'а --- вы получите несколько сообщений от Therion'а, \MP \ и \TeX. PDF-карты и 3D-модель создаются в каталоге с данными. \endlist
+
+Кроме того, вы можете открыть файлы данных съемки (*.th) в окне `therion текстовый редактор' и файлы абрисов карт (*.th2) в окне `therion редактор карт'. Наличие различных форматов данных может выглядеть запутанным по началу, но все они будут разъяснены в следующих главах.
 
 \endinput
+
