@@ -300,6 +300,14 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;&lt;u7&gt;u&lt;u8&gt;0&lt;u9&gt;&gt;&lt;u10&gt;`&lt;u11&gt;&lt;&lt;u12&gt;u&lt;u13&gt;4&lt;u14&gt;&gt;&lt;u15&gt;=&lt;u16&gt;&lt;&lt;u17&gt;u&lt;u18&gt;5&lt;u19&gt;&gt;&lt;u20&gt; &lt;u21&gt;&lt;&lt;u22&gt;u&lt;u23&gt;1&lt;u24&gt;&gt;&lt;u25&gt;`&lt;u26&gt;&lt;u27&gt;*&lt;u28&gt;=&lt;u29&gt;1&lt;u30&gt;2&lt;u31&gt; &lt;u32&gt;&lt;&lt;u33&gt;u&lt;u34&gt;2&lt;u35&gt;&gt;&lt;u36&gt;`&lt;u37&gt;&lt;u38&gt;"&lt;u39&gt;=&lt;u40&gt;1&lt;u41&gt;2&lt;u42&gt; &lt;u43&gt;&lt;&lt;u44&gt;u&lt;u45&gt;3&lt;u46&gt;&gt;&lt;u47&gt;`&lt;u48&gt;&lt;u49&gt;'&lt;u50&gt;=&lt;u51&gt;1&lt;u52&gt;2&lt;u53&gt; &lt;u54&gt;&lt;u55&gt;d&lt;u56&gt;e&lt;u57&gt;f&lt;u58&gt;&lt;u59&gt;p&lt;u60&gt;a&lt;u61&gt;r&lt;u62&gt;{&lt;u63&gt;&lt;u64&gt;l&lt;u65&gt;e&lt;u66&gt;a&lt;u67&gt;v&lt;u68&gt;e&lt;u69&gt;v&lt;u70&gt;m&lt;u71&gt;o&lt;u72&gt;d&lt;u73&gt;e&lt;u74&gt;&lt;u75&gt;e&lt;u76&gt;n&lt;u77&gt;d&lt;u78&gt;g&lt;u79&gt;r&lt;u80&gt;a&lt;u81&gt;f&lt;u82&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T060855Z" creationid="Алексей" creationdate="20170910T060855Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
@@ -310,8 +318,8 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       <tuv lang="EN-US">
         <seg>&lt;u2&gt; &lt;u3&gt;&lt;u5&gt;{&lt;u1&gt;&lt;u6&gt;&lt;u7&gt;&lt;u8&gt;} &lt;u4&gt;&lt;u9&gt;{=}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T055059Z" creationid="Алексей" creationdate="20170910T055017Z">
-        <seg>&lt;u2&gt;
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T055956Z" creationid="Алексей" creationdate="20170910T055017Z">
+        <seg>\,&lt;u2&gt;
 &lt;u3&gt;&lt;u5&gt;{&lt;u1&gt;&lt;u6&gt;&lt;u7&gt;&lt;u8&gt;}
 &lt;u4&gt;&lt;u9&gt;{=}
 </seg>
@@ -1208,6 +1216,20 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`&lt;u2&gt;=13 &lt;u3&gt;|{&lt;u5&gt;&lt;u6&gt;-100&lt;u7&gt;&lt;u8&gt;&lt;u9&gt;&lt;u10&gt;|} &lt;u4&gt;&lt;u11&gt; {&lt;u12&gt;=0pt &lt;u13&gt; &lt;u14&gt;=0pt &lt;u15&gt;=0pt &lt;u1&gt;`\^^I=</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T061210Z" creationid="Алексей" creationdate="20170910T061044Z">
+        <seg>`&lt;u2&gt;=13
+&lt;u3&gt;|{&lt;u5&gt;&lt;u6&gt;-100&lt;u7&gt;&lt;u8&gt;&lt;u9&gt;&lt;u10&gt;|}
+&lt;u4&gt;&lt;u11&gt;
+{&lt;u12&gt;=0pt
+&lt;u13&gt;
+&lt;u14&gt;=0pt &lt;u15&gt;=0pt
+&lt;u1&gt;`\^^I=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`@=11 &lt;u1&gt; etc/optarg &lt;u2&gt; etc/verbatim</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053537Z" creationid="Алексей" creationdate="20170910T053508Z">
@@ -1347,8 +1369,8 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       <tuv lang="EN-US">
         <seg>{&lt;u5&gt;&lt;&lt;u6&gt;u&lt;u7&gt;0&lt;u8&gt;&gt;&lt;u9&gt;`&lt;u10&gt;&lt;u11&gt;*&lt;u12&gt;=&lt;u13&gt;1&lt;u14&gt;3&lt;u15&gt;&lt;&lt;u16&gt;u&lt;u17&gt;1&lt;u18&gt;&gt;&lt;u19&gt;`&lt;u20&gt;&lt;u21&gt;=&lt;u22&gt;1&lt;u23&gt;3&lt;u24&gt; &lt;u25&gt;&lt;u26&gt;g&lt;u27&gt;d&lt;u28&gt;e&lt;u29&gt;f&lt;u30&gt;&lt;u31&gt;i&lt;u32&gt;t&lt;u33&gt;e&lt;u34&gt;m&lt;u35&gt;i&lt;u36&gt;z&lt;u37&gt;e&lt;u38&gt;{&lt;u39&gt; &lt;u40&gt;&lt;u41&gt;p&lt;u42&gt;a&lt;u43&gt;r&lt;u44&gt;&lt;u45&gt;n&lt;u46&gt;o&lt;u47&gt;b&lt;u48&gt;r&lt;u49&gt;e&lt;u50&gt;a&lt;u51&gt;k&lt;u52&gt;&lt;u53&gt;a&lt;u54&gt;d&lt;u55&gt;v&lt;u56&gt;a&lt;u57&gt;n&lt;u58&gt;c&lt;u59&gt;e&lt;u60&gt;&lt;u61&gt;l&lt;u62&gt;e&lt;u63&gt;f&lt;u64&gt;t&lt;u65&gt;s&lt;u66&gt;k&lt;u67&gt;i&lt;u68&gt;p&lt;u69&gt;1&lt;u70&gt;e&lt;u71&gt;m&lt;u72&gt; &lt;u73&gt;&lt;u74&gt;l&lt;u75&gt;e&lt;u76&gt;t&lt;u77&gt;&lt;u78&gt;b&lt;u79&gt;r&lt;u80&gt;n&lt;u81&gt;o&lt;u82&gt;b&lt;u83&gt;r&lt;u84&gt;&lt;u85&gt;n&lt;u86&gt;o&lt;u87&gt;b&lt;u88&gt;r&lt;u89&gt;e&lt;u90&gt;a&lt;u91&gt;k&lt;u92&gt; &lt;u93&gt;&lt;&lt;u94&gt;u&lt;u95&gt;2&lt;u96&gt;&gt;&lt;u97&gt;`&lt;u98&gt;&lt;u99&gt;*&lt;u100&gt;1&lt;u101&gt;3&lt;u102&gt;&lt;u103&gt;d&lt;u104&gt;e&lt;u105&gt;f&lt;u106&gt;*&lt;u107&gt;{&lt;u108&gt;&lt;u109&gt;p&lt;u110&gt;a&lt;u111&gt;r&lt;u112&gt;&lt;u113&gt;b&lt;u114&gt;r&lt;u115&gt;n&lt;u116&gt;o&lt;u117&gt;b&lt;u118&gt;r&lt;u119&gt;&lt;u120&gt;l&lt;u121&gt;e&lt;u122&gt;a&lt;u123&gt;v&lt;u124&gt;e&lt;u125&gt;v&lt;u126&gt;m&lt;u127&gt;o&lt;u128&gt;d&lt;u129&gt;e&lt;u130&gt;&lt;u131&gt;l&lt;u132&gt;e&lt;u133&gt;t&lt;u134&gt;&lt;u135&gt;b&lt;u136&gt;r&lt;u137&gt;n&lt;u138&gt;o&lt;u139&gt;b&lt;u140&gt;r&lt;u141&gt;&lt;u142&gt;r&lt;u143&gt;e&lt;u144&gt;l&lt;u145&gt;a&lt;u146&gt;x&lt;u147&gt; &lt;u148&gt;&lt;u149&gt;l&lt;u150&gt;l&lt;u151&gt;a&lt;u152&gt;p&lt;u153&gt;{&lt;u154&gt;$&lt;u155&gt;&lt;u156&gt;b&lt;u157&gt;u&lt;u158&gt;l&lt;u159&gt;l&lt;u160&gt;e&lt;u161&gt;t&lt;u162&gt;$&lt;u163&gt; &lt;u164&gt;}&lt;u165&gt;&lt;u166&gt;i&lt;u167&gt;g&lt;u168&gt;n&lt;u169&gt;o&lt;u170&gt;r&lt;u171&gt;e&lt;u172&gt;s&lt;u173&gt;p&lt;u174&gt;a&lt;u175&gt;c&lt;u176&gt;e&lt;u177&gt;s&lt;u178&gt;}&lt;u179&gt; &lt;u180&gt;&lt;&lt;u181&gt;u&lt;u182&gt;3&lt;u183&gt;&gt;&lt;u184&gt;`&lt;u185&gt;&lt;u186&gt;=&lt;u187&gt;1&lt;u188&gt;3&lt;u189&gt;&lt;u190&gt;d&lt;u191&gt;e&lt;u192&gt;f&lt;u193&gt;=&lt;u194&gt;{&lt;u195&gt;&lt;u196&gt;i&lt;u197&gt;f&lt;u198&gt;m&lt;u199&gt;m&lt;u200&gt;o&lt;u201&gt;d&lt;u202&gt;e&lt;u203&gt;&lt;u204&gt;e&lt;u205&gt;q&lt;u206&gt;&lt;u207&gt;e&lt;u208&gt;l&lt;u209&gt;s&lt;u210&gt;e&lt;u211&gt;&lt;u212&gt;u&lt;u213&gt;n&lt;u214&gt;s&lt;u215&gt;k&lt;u216&gt;i&lt;u217&gt;p&lt;u218&gt;&lt;u219&gt; &lt;u220&gt;$&lt;u221&gt;&lt;u222&gt;t&lt;u223&gt;r&lt;u224&gt;i&lt;u225&gt;a&lt;u226&gt;n&lt;u227&gt;g&lt;u228&gt;l&lt;u229&gt;e&lt;u230&gt;r&lt;u231&gt;i&lt;u232&gt;g&lt;u233&gt;h&lt;u234&gt;t&lt;u235&gt;$&lt;u236&gt; &lt;u237&gt;&lt;u238&gt;i&lt;u239&gt;g&lt;u240&gt;n&lt;u241&gt;o&lt;u242&gt;r&lt;u243&gt;e&lt;u244&gt;s&lt;u245&gt;p&lt;u246&gt;a&lt;u247&gt;c&lt;u248&gt;e&lt;u249&gt;s&lt;u250&gt;&lt;u251&gt;f&lt;u252&gt;i&lt;u253&gt;}&lt;u254&gt; &lt;u255&gt;}&lt;u256&gt; &lt;u257&gt;}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T055111Z" creationid="Алексей" creationdate="20170910T055111Z">
-        <seg>{&lt;u5&gt;&lt;&lt;u6&gt;u&lt;u7&gt;0&lt;u8&gt;&gt;&lt;u9&gt;`&lt;u10&gt;&lt;u11&gt;*&lt;u12&gt;=&lt;u13&gt;1&lt;u14&gt;3&lt;u15&gt;&lt;&lt;u16&gt;u&lt;u17&gt;1&lt;u18&gt;&gt;&lt;u19&gt;`&lt;u20&gt;&lt;u21&gt;=&lt;u22&gt;1&lt;u23&gt;3&lt;u24&gt; &lt;u25&gt;&lt;u26&gt;g&lt;u27&gt;d&lt;u28&gt;e&lt;u29&gt;f&lt;u30&gt;&lt;u31&gt;i&lt;u32&gt;t&lt;u33&gt;e&lt;u34&gt;m&lt;u35&gt;i&lt;u36&gt;z&lt;u37&gt;e&lt;u38&gt;{&lt;u39&gt; &lt;u40&gt;&lt;u41&gt;p&lt;u42&gt;a&lt;u43&gt;r&lt;u44&gt;&lt;u45&gt;n&lt;u46&gt;o&lt;u47&gt;b&lt;u48&gt;r&lt;u49&gt;e&lt;u50&gt;a&lt;u51&gt;k&lt;u52&gt;&lt;u53&gt;a&lt;u54&gt;d&lt;u55&gt;v&lt;u56&gt;a&lt;u57&gt;n&lt;u58&gt;c&lt;u59&gt;e&lt;u60&gt;&lt;u61&gt;l&lt;u62&gt;e&lt;u63&gt;f&lt;u64&gt;t&lt;u65&gt;s&lt;u66&gt;k&lt;u67&gt;i&lt;u68&gt;p&lt;u69&gt;1&lt;u70&gt;e&lt;u71&gt;m&lt;u72&gt; &lt;u73&gt;&lt;u74&gt;l&lt;u75&gt;e&lt;u76&gt;t&lt;u77&gt;&lt;u78&gt;b&lt;u79&gt;r&lt;u80&gt;n&lt;u81&gt;o&lt;u82&gt;b&lt;u83&gt;r&lt;u84&gt;&lt;u85&gt;n&lt;u86&gt;o&lt;u87&gt;b&lt;u88&gt;r&lt;u89&gt;e&lt;u90&gt;a&lt;u91&gt;k&lt;u92&gt; &lt;u93&gt;&lt;&lt;u94&gt;u&lt;u95&gt;2&lt;u96&gt;&gt;&lt;u97&gt;`&lt;u98&gt;&lt;u99&gt;*&lt;u100&gt;1&lt;u101&gt;3&lt;u102&gt;&lt;u103&gt;d&lt;u104&gt;e&lt;u105&gt;f&lt;u106&gt;*&lt;u107&gt;{&lt;u108&gt;&lt;u109&gt;p&lt;u110&gt;a&lt;u111&gt;r&lt;u112&gt;&lt;u113&gt;b&lt;u114&gt;r&lt;u115&gt;n&lt;u116&gt;o&lt;u117&gt;b&lt;u118&gt;r&lt;u119&gt;&lt;u120&gt;l&lt;u121&gt;e&lt;u122&gt;a&lt;u123&gt;v&lt;u124&gt;e&lt;u125&gt;v&lt;u126&gt;m&lt;u127&gt;o&lt;u128&gt;d&lt;u129&gt;e&lt;u130&gt;&lt;u131&gt;l&lt;u132&gt;e&lt;u133&gt;t&lt;u134&gt;&lt;u135&gt;b&lt;u136&gt;r&lt;u137&gt;n&lt;u138&gt;o&lt;u139&gt;b&lt;u140&gt;r&lt;u141&gt;&lt;u142&gt;r&lt;u143&gt;e&lt;u144&gt;l&lt;u145&gt;a&lt;u146&gt;x&lt;u147&gt; &lt;u148&gt;&lt;u149&gt;l&lt;u150&gt;l&lt;u151&gt;a&lt;u152&gt;p&lt;u153&gt;{&lt;u154&gt;$&lt;u155&gt;&lt;u156&gt;b&lt;u157&gt;u&lt;u158&gt;l&lt;u159&gt;l&lt;u160&gt;e&lt;u161&gt;t&lt;u162&gt;$&lt;u163&gt; &lt;u164&gt;}&lt;u165&gt;&lt;u166&gt;i&lt;u167&gt;g&lt;u168&gt;n&lt;u169&gt;o&lt;u170&gt;r&lt;u171&gt;e&lt;u172&gt;s&lt;u173&gt;p&lt;u174&gt;a&lt;u175&gt;c&lt;u176&gt;e&lt;u177&gt;s&lt;u178&gt;}&lt;u179&gt; &lt;u180&gt;&lt;&lt;u181&gt;u&lt;u182&gt;3&lt;u183&gt;&gt;&lt;u184&gt;`&lt;u185&gt;&lt;u186&gt;=&lt;u187&gt;1&lt;u188&gt;3&lt;u189&gt;&lt;u190&gt;d&lt;u191&gt;e&lt;u192&gt;f&lt;u193&gt;=&lt;u194&gt;{&lt;u195&gt;&lt;u196&gt;i&lt;u197&gt;f&lt;u198&gt;m&lt;u199&gt;m&lt;u200&gt;o&lt;u201&gt;d&lt;u202&gt;e&lt;u203&gt;&lt;u204&gt;e&lt;u205&gt;q&lt;u206&gt;&lt;u207&gt;e&lt;u208&gt;l&lt;u209&gt;s&lt;u210&gt;e&lt;u211&gt;&lt;u212&gt;u&lt;u213&gt;n&lt;u214&gt;s&lt;u215&gt;k&lt;u216&gt;i&lt;u217&gt;p&lt;u218&gt;&lt;u219&gt; &lt;u220&gt;$&lt;u221&gt;&lt;u222&gt;t&lt;u223&gt;r&lt;u224&gt;i&lt;u225&gt;a&lt;u226&gt;n&lt;u227&gt;g&lt;u228&gt;l&lt;u229&gt;e&lt;u230&gt;r&lt;u231&gt;i&lt;u232&gt;g&lt;u233&gt;h&lt;u234&gt;t&lt;u235&gt;$&lt;u236&gt; &lt;u237&gt;&lt;u238&gt;i&lt;u239&gt;g&lt;u240&gt;n&lt;u241&gt;o&lt;u242&gt;r&lt;u243&gt;e&lt;u244&gt;s&lt;u245&gt;p&lt;u246&gt;a&lt;u247&gt;c&lt;u248&gt;e&lt;u249&gt;s&lt;u250&gt;&lt;u251&gt;f&lt;u252&gt;i&lt;u253&gt;}&lt;u254&gt; &lt;u255&gt;}&lt;u256&gt; &lt;u257&gt;}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T060821Z" creationid="Алексей" creationdate="20170910T060313Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
