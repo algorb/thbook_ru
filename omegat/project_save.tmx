@@ -321,8 +321,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;encoding-name&gt;| = to see a list of all the supported encoding names, run Therion with |--print-encodings| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172244Z" creationid="Алексей" creationdate="20170910T172204Z">
-        <seg>* |&lt;encoding-name&gt;| = чтобы увидеть список всех поддерживаемых имен кодировок, запустите Therion с опцией |--print-encodings|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172451Z" creationid="Алексей" creationdate="20170910T172204Z">
+        <seg>* |&lt;encoding-name&gt;| = чтобы увидеть список всех поддерживаемых имен ко\-ди\-ро\-вок, запустите Therion с опцией |--print-encodings|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,8 +1498,8 @@
       <tuv lang="EN-US">
         <seg>This allows the use of non-ASCII characters in input files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172105Z" creationid="Алексей" creationdate="20170910T172105Z">
-        <seg>Это позволяет использовать символы не ASCII во входных файлах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172441Z" creationid="Алексей" creationdate="20170910T172105Z">
+        <seg>Это позволяет использовать сим\-волы не ASCII во входных файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1701,6 +1701,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T162339Z" creationid="Алексей" creationdate="20170910T162339Z">
         <seg>`encoding'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`input'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172322Z" creationid="Алексей" creationdate="20170910T172322Z">
+        <seg>`input'.</seg>
       </tuv>
     </tu>
     <tu>
