@@ -1383,6 +1383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can specify |cs| option in |centreline|, |surface|, |import| and |layout| objects and then enter XY data in given system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131302Z" creationid="Алексей" creationdate="20170910T131302Z">
+        <seg>Вы можете указать опцию |cs| в объектах |centreline|, |surface|, |import| и |layout| и ввести XY в выбранной системе координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may create these files in an arbitrary plain text editor like {&lt;u0&gt; ed} or {&lt;u1&gt; vi}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
