@@ -212,19 +212,7 @@
 \def\notes{\par{\it Special notes:} }
 \def\endnotes{}
 
-\def\www{\@getoptionalarg\@www}
-\def\@www#1{\ifx\pdfoutput\undefined
-    \ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi
-  \else    \pdfstartlink attr {/Border [0 0 0]} user{%
-        /Subtype /Link
-        /A << 
-            /Type /Action 
-            /S /URI 
-            /URI (#1) 
-        >>}%
-    \green\ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi\POPcolor
-    \pdfendlink
-  \fi}
+\def\www{\@getoptionalarg\@www}\def\@www#1{\ifx\pdfoutput\undefined\ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi\else\pdfstartlink attr {/Border [0 0 0]} user{/Subtype /Link /A << /Type /Action /S /URI /URI (#1) >>}\green\ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi\POPcolor\pdfendlink\fi}
 
 \def\twotonum#1.#2 {\numexpr(#1*1000000+#2*1000)}
 \def\threetonum#1.#2.#3 {\numexpr(#1*1000000+#2*1000+#3)}
