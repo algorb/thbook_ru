@@ -66,6 +66,23 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#1{&lt;u2&gt;&lt;u3&gt;{#1}&lt;&lt;u4&gt;{5.3}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063956Z" creationid="Алексей" creationdate="20170910T063935Z">
+        <seg>#1{&lt;u2&gt;&lt;u3&gt;{#1}&lt;&lt;u4&gt;{5.3}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>$^{</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064205Z" creationid="Алексей" creationdate="20170910T064205Z">
+        <seg>$^{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(It's very similar concept to XML data representation.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154806Z" creationid="Алексей" creationdate="20170909T154806Z">
@@ -279,6 +296,16 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184950Z" creationid="Алексей" creationdate="20170909T184950Z">
         <seg>-200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0 &lt;u4&gt;&lt;u5&gt;&lt;u6&gt;#1]{&lt;u7&gt;&lt;u8&gt;&lt;u9&gt;&lt;u3&gt; by 1&lt;p0&gt;$}{#1}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064315Z" creationid="Алексей" creationdate="20170910T064220Z">
+        <seg>0
+&lt;u4&gt;&lt;u5&gt;&lt;u6&gt;#1]{&lt;u7&gt;&lt;u8&gt;&lt;u9&gt;&lt;u3&gt; by 1&lt;p0&gt;$}{#1}}
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,6 +1399,33 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{ &lt;u1&gt;&lt;u6&gt;&lt;u11&gt;&lt;u13&gt; &lt;u19&gt;2.3pt&lt;u2&gt;&lt;u7&gt;&lt;u20&gt;&lt;u22&gt;&lt;u23&gt;&lt;u21&gt;&lt;u26&gt;&lt;u14&gt; {&lt;u3&gt;&lt;u8&gt;&lt;u27&gt;&lt;u15&gt;&lt;u29&gt;&lt;u30&gt; #1&lt;u31&gt;&lt;u4&gt;&lt;u9&gt;&lt;u24&gt;&lt;u28&gt;&lt;u16&gt;} &lt;u5&gt;&lt;u10&gt;&lt;u25&gt;&lt;u12&gt;&lt;u17&gt; } } }&lt;u18&gt;&lt;u32&gt; }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064135Z" creationid="Алексей" creationdate="20170910T064026Z">
+        <seg>{
+&lt;u1&gt;&lt;u6&gt;&lt;u11&gt;&lt;u13&gt;
+&lt;u19&gt;2.3pt&lt;u2&gt;&lt;u7&gt;&lt;u20&gt;&lt;u22&gt;&lt;u23&gt;&lt;u21&gt;&lt;u26&gt;&lt;u14&gt;
+{&lt;u3&gt;&lt;u8&gt;&lt;u27&gt;&lt;u15&gt;&lt;u29&gt;&lt;u30&gt; #1&lt;u31&gt;&lt;u4&gt;&lt;u9&gt;&lt;u24&gt;&lt;u28&gt;&lt;u16&gt;}
+&lt;u5&gt;&lt;u10&gt;&lt;u25&gt;&lt;u12&gt;&lt;u17&gt;
+}
+}
+}&lt;u18&gt;&lt;u32&gt;
+}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{ &lt;u2&gt; to 0pt{</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064022Z" creationid="Алексей" creationdate="20170910T063959Z">
+        <seg>{
+&lt;u2&gt; to 0pt{
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudrák) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053659Z" creationid="Алексей" creationdate="20170910T053040Z">
@@ -1408,6 +1462,25 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u1&gt;&lt;u6&gt;{&lt;u8&gt;0&lt;u12&gt;} &lt;u14&gt;0=&lt;u13&gt; &lt;u18&gt;0=&lt;u20&gt; &lt;u22&gt;0=&lt;u21&gt; &lt;u15&gt;1=&lt;u24&gt; &lt;u2&gt;&lt;u27&gt;{&lt;u9&gt;&lt;u28&gt;fam&lt;u25&gt;} &lt;u16&gt;&lt;u29&gt;fam=&lt;u26&gt; &lt;u3&gt;&lt;u30&gt;{&lt;u10&gt;&lt;u31&gt;fam&lt;u35&gt;} &lt;u17&gt;&lt;u32&gt;fam=&lt;u36&gt; &lt;u19&gt;&lt;u33&gt;fam=&lt;u37&gt; &lt;u23&gt;&lt;u34&gt;fam=&lt;u38&gt; &lt;u4&gt;&lt;u39&gt;{&lt;u11&gt;&lt;u40&gt;fam&lt;u41&gt;} &lt;u42&gt;=12pt &lt;u43&gt;&lt;u44&gt;=&lt;i0&gt;&lt;u45&gt; height9.5pt depth4.5pt width0pt&lt;/i0&gt; &lt;u46&gt;&lt;u7&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064614Z" creationid="Алексей" creationdate="20170910T064318Z">
+        <seg>{&lt;u1&gt;&lt;u6&gt;{&lt;u8&gt;0&lt;u12&gt;}
+&lt;u14&gt;0=&lt;u13&gt; &lt;u18&gt;0=&lt;u20&gt; &lt;u22&gt;0=&lt;u21&gt;
+&lt;u15&gt;1=&lt;u24&gt;
+&lt;u2&gt;&lt;u27&gt;{&lt;u9&gt;&lt;u28&gt;fam&lt;u25&gt;}
+&lt;u16&gt;&lt;u29&gt;fam=&lt;u26&gt;
+&lt;u3&gt;&lt;u30&gt;{&lt;u10&gt;&lt;u31&gt;fam&lt;u35&gt;}
+&lt;u17&gt;&lt;u32&gt;fam=&lt;u36&gt; &lt;u19&gt;&lt;u33&gt;fam=&lt;u37&gt;
+&lt;u23&gt;&lt;u34&gt;fam=&lt;u38&gt;
+&lt;u4&gt;&lt;u39&gt;{&lt;u11&gt;&lt;u40&gt;fam&lt;u41&gt;}
+&lt;u42&gt;=12pt
+&lt;u43&gt;&lt;u44&gt;=&lt;i0&gt;&lt;u45&gt; height9.5pt depth4.5pt width0pt&lt;/i0&gt; &lt;u46&gt;&lt;u7&gt;}
+</seg>
       </tuv>
     </tu>
     <tu>
