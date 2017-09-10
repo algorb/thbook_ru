@@ -461,8 +461,8 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       <tuv lang="EN-US">
         <seg>=cmr12 &lt;u1&gt;&lt;u12&gt;=cmti12 &lt;u2&gt;&lt;u13&gt;=cmmi10 at 12pt &lt;u3&gt;&lt;u14&gt;=cmbx12 &lt;u4&gt;&lt;u15&gt;=cmtt12 &lt;u5&gt;&lt;u16&gt;=cmr10 &lt;u6&gt;&lt;u17&gt;=cmsy10 at 12pt &lt;u7&gt;&lt;u18&gt;=cmr8 &lt;u8&gt;&lt;u19&gt;=cmti8 &lt;u9&gt;&lt;u20&gt;=cmmi8 &lt;u10&gt;&lt;u21&gt;=cmbxti10</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112804Z" creationid="Алексей" creationdate="20170910T053729Z">
-        <seg>=cmr12 &lt;u1&gt;&lt;u12&gt;=cmti12 &lt;u2&gt;&lt;u13&gt;=cmmi10 at 12pt &lt;u3&gt;&lt;u14&gt;=cmbx12 &lt;u4&gt;&lt;u15&gt;=cmtt12 &lt;u5&gt;&lt;u16&gt;=cmr10 &lt;u6&gt;&lt;u17&gt;=cmsy10 at 12pt &lt;u7&gt;&lt;u18&gt;=cmr8 &lt;u8&gt;&lt;u19&gt;=cmti8 &lt;u9&gt;&lt;u20&gt;=cmmi8 &lt;u10&gt;&lt;u21&gt;=cmbxti10</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113500Z" creationid="Алексей" creationdate="20170910T053729Z">
+        <seg>=fhar6a at 12pt &lt;u1&gt;&lt;u12&gt;=fhari6a at 12pt &lt;u2&gt;&lt;u13&gt;=cmmi10 at 12pt &lt;u3&gt;&lt;u14&gt;=fhab6a at 12pt &lt;u4&gt;&lt;u15&gt;=cmtt12 &lt;u5&gt;&lt;u16&gt;=fhar6a at 10pt &lt;u6&gt;&lt;u17&gt;=cmsy10 at 12pt &lt;u7&gt;&lt;u18&gt;=cmr8 &lt;u8&gt;&lt;u19&gt;=cmti8 &lt;u9&gt;&lt;u20&gt;=cmmi8 &lt;u10&gt;&lt;u21&gt;=cmbxti10</seg>
       </tuv>
     </tu>
     <tu>
