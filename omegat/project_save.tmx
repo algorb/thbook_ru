@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* {&lt;u5&gt; units} = length units supported: meter[s], centimeter[s], inch[es], feet[s], yard[s] (also m, cm, in, ft, yd).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124742Z" creationid="Алексей" creationdate="20170910T124554Z">
+        <seg>* {&lt;u5&gt; units} = поддерживаемые единицы длины: meter[s], centimeter[s], inch[es], feet[s], yard[s] (также можно сокращать m, cm, in, ft, yd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193402Z" creationid="Алексей" creationdate="20170909T161921Z">
@@ -695,6 +703,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
         <seg>Если строка данных начинается со слова, зарезервированного для опции, вам нужно вставить `|!|' перед ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no match is found, everything before any occurence of |&lt;lang:ZZ&gt;| tag is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124526Z" creationid="Алексей" creationdate="20170910T124526Z">
+        <seg>Если совпадение не найдено, все до появления тега |&lt;lang:ZZ&gt;| отображается.</seg>
       </tuv>
     </tu>
     <tu>
