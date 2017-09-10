@@ -319,6 +319,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |EPSG:&lt;number&gt;| = Most of EPSG coordinate systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132355Z" creationid="Алексей" creationdate="20170910T132347Z">
+        <seg>* |EPSG:&lt;number&gt;| =Большинство систем координат EPSG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |ESRI:&lt;number&gt;| = Similar to EPSG, but ESRI standard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132521Z" creationid="Алексей" creationdate="20170910T132510Z">
+        <seg>* |ESRI:&lt;number&gt;| = Аналогично EPSG, но стандарт ESRI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |UTM1N| -- |UTM60N| = same as |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM in southern hemisphere, WGS84 datum.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132111Z" creationid="Алексей" creationdate="20170910T132016Z">
@@ -579,6 +595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Almost every coordinate system used worldwide has its own EPSG number.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132409Z" creationid="Алексей" creationdate="20170910T132409Z">
+        <seg>Почти каждая система координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the data format may look confusing for the first time, it will be explained in the following chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142149Z" creationid="Алексей" creationdate="20170909T141633Z">
@@ -624,6 +648,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193604Z" creationid="Алексей" creationdate="20170909T142950Z">
         <seg>В рождество 1999 года мы уже имели первую версию Therion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, not supported on output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132336Z" creationid="Алексей" creationdate="20170910T132336Z">
+        <seg>По умолчанию не поддерживается на выходе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1347,6 +1379,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152146Z" creationid="Алексей" creationdate="20170909T151755Z">
         <seg>Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find number of your system, see |extern/proj4/nad/epsg| file in the therion source distribution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132459Z" creationid="Алексей" creationdate="20170910T132459Z">
+        <seg>Чтобы найти номер вашей системы, см. |Extern/proj4/nad/epsg| файл в дистрибутиве исходников.</seg>
       </tuv>
     </tu>
     <tu>
