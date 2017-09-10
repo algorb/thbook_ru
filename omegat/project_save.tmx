@@ -378,8 +378,8 @@
       <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132257Z" creationid="Алексей" creationdate="20170910T132120Z">
-        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
+        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (раз\-ре\-шено $deg[{:}min[{:}sec]]$), WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,8 +622,8 @@
       <tuv lang="EN-US">
         <seg>Almost every coordinate system used worldwide has its own EPSG number.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132409Z" creationid="Алексей" creationdate="20170910T132409Z">
-        <seg>Почти каждая система координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133302Z" creationid="Алексей" creationdate="20170910T132409Z">
+        <seg>Почти каждая сис\-тема координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1002,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132647Z" creationid="Алексей" creationdate="20170910T132636Z">
         <seg>JTSK не поддерживается на выходе (как и iJTSK).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magnetic declination.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133150Z" creationid="Алексей" creationdate="20170910T133150Z">
+        <seg>Магнитное склонение.</seg>
       </tuv>
     </tu>
     <tu>
