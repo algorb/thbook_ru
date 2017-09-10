@@ -1,5 +1,10 @@
-target/*
-!target/thbook.tex
+target/etc/*
+target/mp/*
+target/pic/*
+target/thbook.log
+target/thbook.pdf
+target/ch*
+Makefile
 *.bak
 omegat/project_stats.txt
 omegat/project_stats_match.txt
