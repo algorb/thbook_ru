@@ -34,6 +34,17 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#1{ &lt;u2&gt;&lt;u3&gt;&lt;u4&gt; &lt;i0&gt;&lt;u5&gt;{sym/symlib.#1&lt;/i0&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063259Z" creationid="Алексей" creationdate="20170910T063150Z">
+        <seg>#1{
+&lt;u2&gt;&lt;u3&gt;&lt;u4&gt;
+&lt;i0&gt;&lt;u5&gt;{sym/symlib.#1&lt;/i0&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#1{ &lt;u2&gt;&lt;u3&gt;&lt;u4&gt;[[PICTURE SKIPPED IN DVI OUTPUT]]</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T062946Z" creationid="Алексей" creationdate="20170910T062925Z">
@@ -1390,6 +1401,56 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u5&gt; Example:} } &lt;u1&gt;&lt;u6&gt;{}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063622Z" creationid="Алексей" creationdate="20170910T063617Z">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u5&gt; Example:} }
+&lt;u1&gt;&lt;u6&gt;{}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u6&gt; Arguments:}&lt;u8&gt;&lt;u9&gt;&lt;u7&gt;emize} &lt;u1&gt;&lt;u10&gt;{&lt;u5&gt;&lt;u11&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063546Z" creationid="Алексей" creationdate="20170910T063520Z">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u6&gt; Arguments:}&lt;u8&gt;&lt;u9&gt;&lt;u7&gt;emize}
+&lt;u1&gt;&lt;u10&gt;{&lt;u5&gt;&lt;u11&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u6&gt; Command-like options:}&lt;u8&gt;&lt;u9&gt;&lt;u7&gt;emize} &lt;u1&gt;&lt;u10&gt;{&lt;u5&gt;&lt;u11&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063615Z" creationid="Алексей" creationdate="20170910T063607Z">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u6&gt; Command-like options:}&lt;u8&gt;&lt;u9&gt;&lt;u7&gt;emize}
+&lt;u1&gt;&lt;u10&gt;{&lt;u5&gt;&lt;u11&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u6&gt; Options:}&lt;u8&gt;&lt;u9&gt;&lt;u7&gt;emize} &lt;u1&gt;&lt;u10&gt;{&lt;u5&gt;&lt;u11&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063602Z" creationid="Алексей" creationdate="20170910T063552Z">
+        <seg>{&lt;u3&gt;-40&lt;u4&gt;{&lt;u6&gt; Options:}&lt;u8&gt;&lt;u9&gt;&lt;u7&gt;emize}
+&lt;u1&gt;&lt;u10&gt;{&lt;u5&gt;&lt;u11&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;50&lt;u5&gt;&lt;u6&gt;} &lt;u1&gt;&lt;u7&gt;{&lt;u8&gt;&lt;u9&gt;&lt;u4&gt;-50}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063418Z" creationid="Алексей" creationdate="20170910T063359Z">
+        <seg>{&lt;u3&gt;50&lt;u5&gt;&lt;u6&gt;}
+&lt;u1&gt;&lt;u7&gt;{&lt;u8&gt;&lt;u9&gt;&lt;u4&gt;-50}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u3&gt;&lt;u4&gt;0&lt;6pt &lt;u5&gt;0=9pt &lt;u8&gt; &lt;u6&gt;0=3pt&lt;u9&gt;} &lt;u1&gt;&lt;u10&gt;{&lt;u11&gt;&lt;u12&gt; to12pt{&lt;u13&gt;&lt;u7&gt;0.&lt;u14&gt;}&lt;u15&gt;}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T054109Z" creationid="Алексей" creationdate="20170910T054031Z">
@@ -1408,6 +1469,46 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
 &lt;u8&gt;&lt;u10&gt;&lt;u11&gt;[[PICTURE SKIPPED IN DVI OUTPUT]]&lt;u12&gt;
 &lt;u14&gt;&lt;u9&gt;&lt;u6&gt;optionalarg&lt;u15&gt;
 &lt;u13&gt; width&lt;u7&gt;optionalarg &lt;u16&gt;{pic/#1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Context:} } &lt;u1&gt;&lt;u5&gt;{}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063506Z" creationid="Алексей" creationdate="20170910T063457Z">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Context:} }
+&lt;u1&gt;&lt;u5&gt;{}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Description:} } &lt;u1&gt;&lt;u5&gt;{}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063517Z" creationid="Алексей" creationdate="20170910T063511Z">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Description:} }
+&lt;u1&gt;&lt;u5&gt;{}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Special notes:} } &lt;u1&gt;&lt;u5&gt;{}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063629Z" creationid="Алексей" creationdate="20170910T063625Z">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Special notes:} }
+&lt;u1&gt;&lt;u5&gt;{}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Syntax:} } &lt;u1&gt;&lt;u5&gt;{}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063454Z" creationid="Алексей" creationdate="20170910T063430Z">
+        <seg>{&lt;u3&gt;{&lt;u4&gt; Синтаксис:} }
+&lt;u1&gt;&lt;u5&gt;{}
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1443,6 +1544,15 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T062712Z" creationid="Алексей" creationdate="20170910T062704Z">
         <seg>{mp/#1}{1}{1}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{sym/symlib.#1}{1}{1}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063316Z" creationid="Алексей" creationdate="20170910T063305Z">
+        <seg>{sym/symlib.#1}{1}{1}
 </seg>
       </tuv>
     </tu>
