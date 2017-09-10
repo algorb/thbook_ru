@@ -369,8 +369,12 @@
       <tuv lang="EN-US">
         <seg>&lt;&lt;u7&gt;u&lt;u8&gt;0&lt;u9&gt;&gt;&lt;u10&gt;`&lt;u11&gt;&lt;&lt;u12&gt;u&lt;u13&gt;4&lt;u14&gt;&gt;&lt;u15&gt;=&lt;u16&gt;&lt;&lt;u17&gt;u&lt;u18&gt;5&lt;u19&gt;&gt;&lt;u20&gt; &lt;u21&gt;&lt;&lt;u22&gt;u&lt;u23&gt;1&lt;u24&gt;&gt;&lt;u25&gt;`&lt;u26&gt;&lt;u27&gt;*&lt;u28&gt;=&lt;u29&gt;1&lt;u30&gt;2&lt;u31&gt; &lt;u32&gt;&lt;&lt;u33&gt;u&lt;u34&gt;2&lt;u35&gt;&gt;&lt;u36&gt;`&lt;u37&gt;&lt;u38&gt;"&lt;u39&gt;=&lt;u40&gt;1&lt;u41&gt;2&lt;u42&gt; &lt;u43&gt;&lt;&lt;u44&gt;u&lt;u45&gt;3&lt;u46&gt;&gt;&lt;u47&gt;`&lt;u48&gt;&lt;u49&gt;'&lt;u50&gt;=&lt;u51&gt;1&lt;u52&gt;2&lt;u53&gt; &lt;u54&gt;&lt;u55&gt;d&lt;u56&gt;e&lt;u57&gt;f&lt;u58&gt;&lt;u59&gt;p&lt;u60&gt;a&lt;u61&gt;r&lt;u62&gt;{&lt;u63&gt;&lt;u64&gt;l&lt;u65&gt;e&lt;u66&gt;a&lt;u67&gt;v&lt;u68&gt;e&lt;u69&gt;v&lt;u70&gt;m&lt;u71&gt;o&lt;u72&gt;d&lt;u73&gt;e&lt;u74&gt;&lt;u75&gt;e&lt;u76&gt;n&lt;u77&gt;d&lt;u78&gt;g&lt;u79&gt;r&lt;u80&gt;a&lt;u81&gt;f&lt;u82&gt;}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113830Z" creationid="Алексей" creationdate="20170910T060855Z">
-        <seg>&lt;&lt;u7&gt;u&lt;u8&gt;0&lt;u9&gt;&gt;&lt;u10&gt;`&lt;u11&gt;&lt;&lt;u12&gt;u&lt;u13&gt;4&lt;u14&gt;&gt;&lt;u15&gt;=&lt;u16&gt;&lt;&lt;u17&gt;u&lt;u18&gt;5&lt;u19&gt;&gt;&lt;u20&gt; &lt;u21&gt;&lt;&lt;u22&gt;u&lt;u23&gt;1&lt;u24&gt;&gt;&lt;u25&gt;`&lt;u26&gt;&lt;u27&gt;*&lt;u28&gt;=&lt;u29&gt;1&lt;u30&gt;2&lt;u31&gt; &lt;u32&gt;&lt;&lt;u33&gt;u&lt;u34&gt;2&lt;u35&gt;&gt;&lt;u36&gt;`&lt;u37&gt;&lt;u38&gt;"&lt;u39&gt;=&lt;u40&gt;1&lt;u41&gt;2&lt;u42&gt; &lt;u43&gt;&lt;&lt;u44&gt;u&lt;u45&gt;3&lt;u46&gt;&gt;&lt;u47&gt;`&lt;u48&gt;&lt;u49&gt;'&lt;u50&gt;=&lt;u51&gt;1&lt;u52&gt;2&lt;u53&gt; &lt;u54&gt;&lt;u55&gt;d&lt;u56&gt;e&lt;u57&gt;f&lt;u58&gt;&lt;u59&gt;p&lt;u60&gt;a&lt;u61&gt;r&lt;u62&gt;{&lt;u63&gt;&lt;u64&gt;l&lt;u65&gt;e&lt;u66&gt;a&lt;u67&gt;v&lt;u68&gt;e&lt;u69&gt;v&lt;u70&gt;m&lt;u71&gt;o&lt;u72&gt;d&lt;u73&gt;e&lt;u74&gt;&lt;u75&gt;e&lt;u76&gt;n&lt;u77&gt;d&lt;u78&gt;g&lt;u79&gt;r&lt;u80&gt;a&lt;u81&gt;f&lt;u82&gt;}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T121228Z" creationid="Алексей" creationdate="20170910T060855Z">
+        <seg>\catcode`\`=\active %
+\catcode`\*=12
+\catcode`\"=12
+\catcode`\'=12
+     \def\par{\leavevmode\endgraf}</seg>
       </tuv>
     </tu>
     <tu>
