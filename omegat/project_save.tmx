@@ -1769,6 +1769,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Arguments:} a list of the obligatory arguments with explanations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150230Z" creationid="Алексей" creationdate="20170910T150230Z">
+        <seg>{&lt;u0&gt; Аргументы:} список обязательных аргументов с пояснениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Command-like options:} options for multi-line commands, which can be specified among the data lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150326Z" creationid="Алексей" creationdate="20170910T150326Z">
+        <seg>{&lt;u0&gt; Опции командной строки:} для многострочных команд, которые могут быть указаны среди строк данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Context:} specifies the context in which is this command allowed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150025Z" creationid="Алексей" creationdate="20170910T150004Z">
@@ -1797,6 +1813,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180816Z" creationid="Алексей" creationdate="20170909T180816Z">
         <seg>{&lt;u0&gt; Установка в Windows:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Options:} a list of the available options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150251Z" creationid="Алексей" creationdate="20170910T150251Z">
+        <seg>{&lt;u0&gt; Опции:} список доступных опций.</seg>
       </tuv>
     </tu>
     <tu>
