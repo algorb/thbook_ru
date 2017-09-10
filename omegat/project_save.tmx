@@ -695,8 +695,8 @@
       <tuv lang="EN-US">
         <seg>Context {&lt;u3&gt; all} means that the command may be used anywhere.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150212Z" creationid="Алексей" creationdate="20170910T150212Z">
-        <seg>Контекст {&lt;u3&gt; all} означает, что команда может использоваться в любом месте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161344Z" creationid="Алексей" creationdate="20170910T150212Z">
+        <seg>Контекст {&lt;u3&gt; all} означает, что команда может исполь\-зо\-ваться в любом месте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -959,8 +959,8 @@
       <tuv lang="EN-US">
         <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134511Z" creationid="Алексей" creationdate="20170910T134329Z">
-        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из под\-дер\-жи\-вае\-мых геодезических систем координат, и никакое склонение не определяется пользователем.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161641Z" creationid="Алексей" creationdate="20170910T134329Z">
+        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из под\-дер\-жи\-вае\-мых геодезических систем координат, и никакое склонение не опре\-де\-ля\-ется пользователем.
 </seg>
       </tuv>
     </tu>
@@ -1314,8 +1314,8 @@
       <tuv lang="EN-US">
         <seg>The {&lt;u1&gt; survey} context means that the command must be enclosed by |survey ... endsurvey| pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150132Z" creationid="Алексей" creationdate="20170910T150037Z">
-        <seg>Контекст {&lt;u1&gt; survey} означает, что команда должна быть заключена в пару |survey ... endsurvey|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161253Z" creationid="Алексей" creationdate="20170910T150037Z">
+        <seg>Кон\-текст {&lt;u1&gt; survey} означает, что команда должна быть заключена в пару |survey ... endsurvey|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,8 +1362,8 @@
       <tuv lang="EN-US">
         <seg>Therion contains built-in IGRF&lt;u0&gt;See &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020&lt;u2&gt;{5.4}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145557Z" creationid="Алексей" creationdate="20170910T134252Z">
-        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Модель геомагнитного поля Земли, дей\-стви\-тель\-ная для периода 1900--2020 гг.&lt;u2&gt;{5.4}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161730Z" creationid="Алексей" creationdate="20170910T134252Z">
+        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] --- модель геомагнитного поля Земли, дей\-стви\-тель\-ная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
       </tuv>
     </tu>
     <tu>
