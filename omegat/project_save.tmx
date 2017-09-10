@@ -943,8 +943,8 @@
       <tuv lang="EN-US">
         <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134329Z" creationid="Алексей" creationdate="20170910T134329Z">
-        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из поддерживаемых геодезических систем координат, и никакое склонение не определяется пользователем.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134511Z" creationid="Алексей" creationdate="20170910T134329Z">
+        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из под\-дер\-жи\-вае\-мых геодезических систем координат, и никакое склонение не определяется пользователем.
 </seg>
       </tuv>
     </tu>
@@ -1194,8 +1194,8 @@
       <tuv lang="EN-US">
         <seg>The computed declination is listed in the LOG file for information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134345Z" creationid="Алексей" creationdate="20170910T134345Z">
-        <seg>Вычисленное склонение указано в файле LOG для информации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134534Z" creationid="Алексей" creationdate="20170910T134345Z">
+        <seg>Вычисленное склонение указано в файле LOG для ин\-фор\-ма\-ции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,8 +1306,8 @@
       <tuv lang="EN-US">
         <seg>Therion contains built-in IGRF&lt;u0&gt;See &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020&lt;u2&gt;{5.4}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134252Z" creationid="Алексей" creationdate="20170910T134252Z">
-        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См.&lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Модель геомагнитного поля Земли, действительная для периода 1900--2020 гг.&lt;u2&gt;{5.4}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134441Z" creationid="Алексей" creationdate="20170910T134252Z">
+        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См.&lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Модель геомагнитного поля Земли, дей\-стви\-тель\-ная для периода 1900--2020 гг.&lt;u2&gt;{5.4}.</seg>
       </tuv>
     </tu>
     <tu>
