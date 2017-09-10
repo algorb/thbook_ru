@@ -261,10 +261,32 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;140</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053347Z" creationid="Алексей" creationdate="20170910T053347Z">
+        <seg>&lt;140</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
         <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным сим\-во\-лам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=&lt;u8&gt; page direct{0 g} &lt;u9&gt;&lt;u15&gt;{&lt;u16&gt;&lt;u2&gt; push{0 0.89 0.94 0.28 k}} &lt;u10&gt;&lt;u22&gt;{&lt;u17&gt;&lt;u3&gt; push{1 1 0 0 k}} &lt;u11&gt;&lt;u23&gt;{&lt;u18&gt;&lt;u4&gt; push{0 0 0 0.50 k}} &lt;u12&gt;&lt;u24&gt;{&lt;u19&gt;&lt;u5&gt; push{0.91 0 0.88 0.12 k}} &lt;u13&gt;&lt;u25&gt;{&lt;u20&gt;&lt;u6&gt; push{0 0 0 1 k}} &lt;u14&gt;&lt;u26&gt;{&lt;u21&gt;&lt;u7&gt; pop}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053504Z" creationid="Алексей" creationdate="20170910T053352Z">
+        <seg>=&lt;u8&gt; page direct{0 g}
+&lt;u9&gt;&lt;u15&gt;{&lt;u16&gt;&lt;u2&gt; push{0 0.89 0.94 0.28 k}}
+&lt;u10&gt;&lt;u22&gt;{&lt;u17&gt;&lt;u3&gt; push{1 1 0 0 k}}
+&lt;u11&gt;&lt;u23&gt;{&lt;u18&gt;&lt;u4&gt; push{0 0 0 0.50 k}}
+&lt;u12&gt;&lt;u24&gt;{&lt;u19&gt;&lt;u5&gt; push{0.91 0 0.88 0.12 k}}
+&lt;u13&gt;&lt;u25&gt;{&lt;u20&gt;&lt;u6&gt; push{0 0 0 1 k}}
+&lt;u14&gt;&lt;u26&gt;{&lt;u21&gt;&lt;u7&gt; pop}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,6 +1118,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`@=11 &lt;u1&gt; etc/optarg &lt;u2&gt; etc/verbatim</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053537Z" creationid="Алексей" creationdate="20170910T053508Z">
+        <seg>`@=11
+&lt;u1&gt; etc/optarg
+&lt;u2&gt; etc/verbatim
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>``A program should do one thing, and do it well.'' (Ken Thompson) Therefore we use some valuable external programs, which are related to the problems of typesetting and data visualization.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160821Z" creationid="Алексей" creationdate="20170909T160821Z">
@@ -1156,8 +1189,15 @@
       <tuv lang="EN-US">
         <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudrák) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053040Z" creationid="Алексей" creationdate="20170910T053040Z">
-        <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudrák) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053208Z" creationid="Алексей" creationdate="20170910T053040Z">
+        <seg>{/Title (The Therion Book &lt;u1&gt;)
+/Author (Martin Budaj, Stacho Mudrák)
+/Subject (Therion documentation)
+/Keywords (caves, surveying, cartography, computers)
+/Creator (TeX)
+}
+&lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; }
+&lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
       </tuv>
     </tu>
     <tu>
