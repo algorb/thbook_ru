@@ -319,10 +319,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |UTM1N| -- |UTM60N| = same as |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM in southern hemisphere, WGS84 datum.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132111Z" creationid="Алексей" creationdate="20170910T132016Z">
+        <seg>* |UTM1N| -- |UTM60N| = то же, что и |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM в южном полушарии, WGS84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |UTM1| -- |UTM60| = Universal Transverse Mercator in northern hemisphere and given zone, WGS84 datum.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131948Z" creationid="Алексей" creationdate="20170910T131703Z">
         <seg>* |UTM1| -- |UTM60| = Универсальная поперечная проекция Меркатора (Universal Transverse Mercator) в северном полушарии и заданной зоне, WGS84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132257Z" creationid="Алексей" creationdate="20170910T132120Z">
+        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
       </tuv>
     </tu>
     <tu>
