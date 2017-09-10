@@ -1409,6 +1409,23 @@ endline|</seg>
 	endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} &lt;u0&gt;&lt;u2&gt;#1.{ &lt;u3&gt;-100&lt;u4&gt;2&lt;u6&gt;{&lt;u7&gt; #1}&lt;u8&gt; &lt;u11&gt;1{&lt;u12&gt;&lt;u18&gt;&lt;u13&gt;&lt;u19&gt;{&lt;u14&gt;&lt;u20&gt;&lt;u15&gt;&lt;u21&gt;&lt;u22&gt; attr {/Border [0 0 0]} goto page &lt;u24&gt;&lt;u23&gt; {/Fit} #1&lt;u16&gt;&lt;u26&gt;&lt;u27&gt;&lt;u25&gt;&lt;u17&gt;&lt;u28&gt;}}&lt;u9&gt; } &lt;u1&gt;&lt;u5&gt;#1{&lt;u29&gt;&lt;i0&gt;&lt;/i0&gt;&lt;u10&gt;&lt;u30&gt;-&lt;u32&gt; &lt;u31&gt;#1&lt;u33&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T054935Z" creationid="Алексей" creationdate="20170910T054736Z">
+        <seg>}
+&lt;u0&gt;&lt;u2&gt;#1.{
+&lt;u3&gt;-100&lt;u4&gt;2&lt;u6&gt;{&lt;u7&gt; #1}&lt;u8&gt;
+&lt;u11&gt;1{&lt;u12&gt;&lt;u18&gt;&lt;u13&gt;&lt;u19&gt;{&lt;u14&gt;&lt;u20&gt;&lt;u15&gt;&lt;u21&gt;&lt;u22&gt;
+attr {/Border [0 0 0]} goto page &lt;u24&gt;&lt;u23&gt; {/Fit}
+#1&lt;u16&gt;&lt;u26&gt;&lt;u27&gt;&lt;u25&gt;&lt;u17&gt;&lt;u28&gt;}}&lt;u9&gt;
+}
+&lt;u1&gt;&lt;u5&gt;#1{&lt;u29&gt;&lt;i0&gt;&lt;/i0&gt;&lt;u10&gt;&lt;u30&gt;-&lt;u32&gt;
+&lt;u31&gt;#1&lt;u33&gt;}
+</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
