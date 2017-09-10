@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;encoding-name&gt;| = to see a list of all the supported encoding names, run Therion with |--print-encodings| option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172244Z" creationid="Алексей" creationdate="20170910T172204Z">
+        <seg>* |&lt;encoding-name&gt;| = чтобы увидеть список всех поддерживаемых имен кодировок, запустите Therion с опцией |--print-encodings|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |EPSG:&lt;number&gt;| = Most of EPSG coordinate systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132355Z" creationid="Алексей" creationdate="20170910T132347Z">
@@ -1015,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be the very first command in the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172147Z" creationid="Алексей" creationdate="20170910T172147Z">
+        <seg>Это должна быть самая первая команда в файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was always hard to add new surveys without adapting the old ones to the newly calculated positions of survey stations in the whole cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144326Z" creationid="Алексей" creationdate="20170909T144326Z">
@@ -1480,6 +1496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows the use of non-ASCII characters in input files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172105Z" creationid="Алексей" creationdate="20170910T172105Z">
+        <seg>Это позволяет использовать символы не ASCII во входных файлах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220455Z" creationid="Алексей" creationdate="20170909T210129Z">
@@ -1653,6 +1677,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114048Z" creationid="Алексей" creationdate="20170910T065038Z">
         <seg>`@=12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`UTF-8' (Unicode) and `ASCII' (7 bit) encodings are always supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172318Z" creationid="Алексей" creationdate="20170910T172318Z">
+        <seg>Кодировки `UTF-8' (Unicode) и `ASCII' (7 бит) всегда поддерживаются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2074,6 +2106,14 @@ endcommand|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131636Z" creationid="Алексей" creationdate="20170910T131636Z">
         <seg>|cs| применяется ко всем последующим данным местоположения, пока другие |cs| не будут указаны или до конца текущего объекта, в зависимости от того, что наступит раньше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|encoding &lt;encoding-name&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172132Z" creationid="Алексей" creationdate="20170910T172132Z">
+        <seg>|encoding &lt;encoding-name&gt;|</seg>
       </tuv>
     </tu>
     <tu>
