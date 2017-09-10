@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*|&lt;id&gt;| = survey identifier</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T050908Z" creationid="Алексей" creationdate="20170910T050819Z">
+        <seg>* |&lt;id&gt;| = идентификатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-200</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184950Z" creationid="Алексей" creationdate="20170909T184950Z">
@@ -1192,6 +1200,16 @@ endline|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204642Z" creationid="Алексей" creationdate="20170909T204642Z">
         <seg>|point 643.5 505.0 gradient -orientation 144.7|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T050800Z" creationid="Алексей" creationdate="20170910T050707Z">
+        <seg>|survey &lt;id&gt; [OPTIONS]
+	... other therion objects ...
+	endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
