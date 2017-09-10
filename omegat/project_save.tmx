@@ -1681,6 +1681,14 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;getoptionalarg&lt;u4&gt;www} &lt;u1&gt;&lt;u5&gt;www#1{&lt;u10&gt;&lt;u13&gt;&lt;u14&gt; &lt;u11&gt;&lt;u6&gt;optionalarg&lt;u15&gt;{&lt;u17&gt;#1}&lt;u19&gt;&lt;u7&gt;optionalarg&lt;u22&gt; &lt;u20&gt; &lt;u24&gt; attr {/Border [0 0 0]} user{ /Subtype /Link /A &lt;&lt; /Type /Action /S /URI /URI (#1) &gt;&gt;} &lt;u25&gt;&lt;u12&gt;&lt;u8&gt;optionalarg&lt;u16&gt;{&lt;u18&gt;#1}&lt;u21&gt;&lt;u9&gt;optionalarg</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T082144Z" creationid="Алексей" creationdate="20170910T082144Z">
+        <seg>{&lt;u3&gt;getoptionalarg&lt;u4&gt;www} &lt;u1&gt;&lt;u5&gt;www#1{&lt;u10&gt;&lt;u13&gt;&lt;u14&gt; &lt;u11&gt;&lt;u6&gt;optionalarg&lt;u15&gt;{&lt;u17&gt;#1}&lt;u19&gt;&lt;u7&gt;optionalarg&lt;u22&gt; &lt;u20&gt; &lt;u24&gt; attr {/Border [0 0 0]} user{ /Subtype /Link /A &lt;&lt; /Type /Action /S /URI /URI (#1) &gt;&gt;} &lt;u25&gt;&lt;u12&gt;&lt;u8&gt;optionalarg&lt;u16&gt;{&lt;u18&gt;#1}&lt;u21&gt;&lt;u9&gt;optionalarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u3&gt;getoptionalarg&lt;u4&gt;www} &lt;u1&gt;&lt;u5&gt;www#1{&lt;u8&gt;&lt;u10&gt;&lt;u11&gt; &lt;u9&gt;&lt;u6&gt;optionalarg&lt;u12&gt;{&lt;u13&gt;#1}&lt;u14&gt;&lt;u7&gt;optionalarg</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T072135Z" creationid="Алексей" creationdate="20170910T063644Z">
