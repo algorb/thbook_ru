@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |UTM1| -- |UTM60| = Universal Transverse Mercator in northern hemisphere and given zone, WGS84 datum.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131948Z" creationid="Алексей" creationdate="20170910T131703Z">
+        <seg>* |UTM1| -- |UTM60| = Универсальная поперечная проекция Меркатора (Universal Transverse Mercator) в северном полушарии и заданной зоне, WGS84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*|&lt;id&gt;| = survey identifier</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T050908Z" creationid="Алексей" creationdate="20170910T050819Z">
@@ -680,6 +688,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
         <seg>Первый запуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following coordinate systems are supported:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131646Z" creationid="Алексей" creationdate="20170910T131646Z">
+        <seg>Поддерживаются следующие системы координат:</seg>
       </tuv>
     </tu>
     <tu>
