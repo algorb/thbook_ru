@@ -345,16 +345,16 @@
       <tuv lang="EN-US">
         <seg>* |JTSK|, |iJTSK| = Czechoslovak S-JTSK system used since 1920s with south and west axis (JTSK) and its modified version with axis pointing east and north and negative numbers (iJTSK).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132621Z" creationid="Алексей" creationdate="20170910T132531Z">
-        <seg>* |JTSK|, |iJTSK| = Чехословацкая система S-JTSK, используемая с 1920-х годов с южной и западной осью (JTSK) и ее модифицированной версией с осью, указывающей восточное, северное и отрицательные числа (iJTSK).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133847Z" creationid="Алексей" creationdate="20170910T132531Z">
+        <seg>* |JTSK|, |iJTSK| = Чехословацкая система S-JTSK, используемая с 1920-х годов с южной и западной осью (JTSK) и ее модифицированной версией с осью, указывающей восток и север отрицательными числми (iJTSK).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |OSGB:&lt;H, N, O, S or T&gt;&lt;A-Z except I&gt;| = British Ordnance Survey National Grid.&lt;u0&gt;{5.4} * |S-MERC| = the spherical Mercator projection, as used by various online mapping sites.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133132Z" creationid="Алексей" creationdate="20170910T132720Z">
-        <seg>* |OSGB:&lt;H, N, O, S or T&gt;&lt;A-Z except I&gt;| = Британская Национальная Сеть&lt;u0&gt;{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134056Z" creationid="Алексей" creationdate="20170910T132720Z">
+        <seg>* |OSGB:&lt;H, N, O, S или T&gt;&lt;A-Z исключая I&gt;| = Британская Национальная Сеть.&lt;u0&gt;{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.
 </seg>
       </tuv>
     </tu>
@@ -717,6 +717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134354Z" creationid="Алексей" creationdate="20170910T134354Z">
+        <seg>Формат данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data types.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210947Z" creationid="Алексей" creationdate="20170909T210947Z">
@@ -929,6 +937,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180915Z" creationid="Алексей" creationdate="20170909T180915Z">
         <seg>Он устанавливает все необходимые материалы и создает ярлыки для XTherion и Therion Book.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134329Z" creationid="Алексей" creationdate="20170910T134329Z">
+        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из поддерживаемых геодезических систем координат, и никакое склонение не определяется пользователем.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1175,6 +1192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The computed declination is listed in the LOG file for information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134345Z" creationid="Алексей" creationdate="20170910T134345Z">
+        <seg>Вычисленное склонение указано в файле LOG для информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data files specify only what is where, not what it looks like.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162738Z" creationid="Алексей" creationdate="20170909T154657Z">
@@ -1275,6 +1300,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170046Z" creationid="Алексей" creationdate="20170909T161006Z">
         <seg>Therion в связке с другими про\-грам\-мами может выполнить свою задачу намного лучше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion contains built-in IGRF&lt;u0&gt;See &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020&lt;u2&gt;{5.4}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134252Z" creationid="Алексей" creationdate="20170910T134252Z">
+        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См.&lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Модель геомагнитного поля Земли, действительная для периода 1900--2020 гг.&lt;u2&gt;{5.4}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,8 +1459,8 @@
       <tuv lang="EN-US">
         <seg>To find number of your system, see |extern/proj4/nad/epsg| file in the therion source distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132459Z" creationid="Алексей" creationdate="20170910T132459Z">
-        <seg>Чтобы найти номер вашей системы, см. |Extern/proj4/nad/epsg| файл в дистрибутиве исходников.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133629Z" creationid="Алексей" creationdate="20170910T132459Z">
+        <seg>Чтобы найти номер вашей системы, см. |extern/proj4/nad/epsg| файл в дистрибутиве исходников.</seg>
       </tuv>
     </tu>
     <tu>
