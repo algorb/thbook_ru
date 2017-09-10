@@ -1324,6 +1324,33 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`@=11 &lt;u1&gt;&lt;u3&gt;#1{&lt;u4&gt;&lt;u5&gt;&lt;u7&gt;&lt;u8&gt; &lt;u9&gt;&lt;u10&gt; &lt;u11&gt;&lt;u12&gt;&lt;u13&gt; &lt;u15&gt;&lt;u16&gt;&lt;u14&gt; &lt;u17&gt;&lt;u18&gt;MM &lt;u20&gt;=18pt &lt;u21&gt;&lt;u22&gt;@skip &lt;u25&gt;&lt;u23&gt;@skip &lt;u26&gt;&lt;u24&gt;@skip &lt;u27&gt;&lt;u28&gt;&lt;u29&gt;{#1&lt;u30&gt;}&lt;u31&gt; &lt;u32&gt;&lt;u33&gt;&lt;u34&gt;&lt;u35&gt;@t} &lt;u36&gt;&lt;u6&gt;=1000 &lt;u2&gt;&lt;u19&gt;foot{&lt;u37&gt;&lt;u38&gt;&lt;u39&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065033Z" creationid="Алексей" creationdate="20170910T064827Z">
+        <seg>`@=11
+&lt;u1&gt;&lt;u3&gt;#1{&lt;u4&gt;&lt;u5&gt;&lt;u7&gt;&lt;u8&gt;
+&lt;u9&gt;&lt;u10&gt;
+&lt;u11&gt;&lt;u12&gt;&lt;u13&gt;
+&lt;u15&gt;&lt;u16&gt;&lt;u14&gt; &lt;u17&gt;&lt;u18&gt;MM
+&lt;u20&gt;=18pt &lt;u21&gt;&lt;u22&gt;@skip &lt;u25&gt;&lt;u23&gt;@skip &lt;u26&gt;&lt;u24&gt;@skip
+&lt;u27&gt;&lt;u28&gt;&lt;u29&gt;{#1&lt;u30&gt;}&lt;u31&gt;
+&lt;u32&gt;&lt;u33&gt;&lt;u34&gt;&lt;u35&gt;@t}
+&lt;u36&gt;&lt;u6&gt;=1000
+&lt;u2&gt;&lt;u19&gt;foot{&lt;u37&gt;&lt;u38&gt;&lt;u39&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`@=12</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065044Z" creationid="Алексей" creationdate="20170910T065038Z">
+        <seg>`@=12
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>``A program should do one thing, and do it well.'' (Ken Thompson) Therefore we use some valuable external programs, which are related to the problems of typesetting and data visualization.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160821Z" creationid="Алексей" creationdate="20170909T160821Z">
