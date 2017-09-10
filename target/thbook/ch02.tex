@@ -62,22 +62,23 @@ Therion использует следующие типы данных:
 
 \subchapter Системы координат.
 
-Therion supports coordinate transformations in geodetic coordinate systems. You can specify |cs| option in |centreline|, |surface|, |import| and |layout| objects and then enter XY data in given system. You can also specify output |cs| in configuration file. 
+Therion поддерживает преобразования координат в геодезические системы координат. Вы можете указать опцию |cs| в объектах |centreline|, |surface|, |import| и |layout| и ввести XY в выбранной системе координат. Вы также можете указать вывод |cs| в конфигурационном файле.
 
-If you do not specify any |cs| in your dataset, it is assumed you are working in |local| coordinate system, and no conversions are done. If you specify |cs| anywhere in the data, you have to specify it for all location data (|fix|, |origin| in |layout| etc.). 
+Если вы не указали какой-либо |cs| в вашем наборе данных, то предполагается, что вы работаете в |local| системе координат, и никакие преобразования не выполняются. Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и |layout| и т. д.).
 
-|cs| applies to all subsequent location data until other |cs| is specified or until the end of the current object, whichever comes first. 
+|cs| применяется ко всем последующим данным местоположения, пока другие |cs| не будут указаны или до конца текущего объекта, в зависимости от того, что наступит раньше.
 
-Following coordinate systems are supported: 
+Поддерживаются следующие системы координат:
 
 \list
 
-* |UTM1| -- |UTM60| = Universal Transverse Mercator in northern hemisphere and given zone, WGS84 datum. * |UTM1N| -- |UTM60N| = same as |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM in southern hemisphere, WGS84 datum. * |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum. By default, not supported on output. * |EPSG:<number>| = Most of EPSG coordinate systems. Almost every coordinate system used worldwide has its own EPSG number. To find number of your system, see |extern/proj4/nad/epsg| file in the therion source distribution. * |ESRI:<number>| = Similar to EPSG, but ESRI standard. 
+* |UTM1| -- |UTM60| = Универсальная поперечная проекция Меркатора (Universal Transverse Mercator) в северном полушарии и заданной зоне, WGS84. * |UTM1N| -- |UTM60N| = то же, что и |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM в южном полушарии, WGS84. * |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (разрешено $deg[{:}min[{:}sec]]$), WGS84. По умолчанию не поддерживается на выходе. * |EPSG:<number>| =Большинство систем координат EPSG. Почти каждая система координат, используемая во всем мире, имеет собственный номер EPSG. Чтобы найти номер вашей системы, см. |Extern/proj4/nad/epsg| файл в дистрибутиве исходников. * |ESRI:<number>| = Аналогично EPSG, но стандарт ESRI.
 
 %* |EUR79Z30| = UTM zone 30, EUR79 datum.  % ad-hoc addition not worth mentioning??
-* |JTSK|, |iJTSK| = Czechoslovak S-JTSK system used since 1920s with south and west axis (JTSK) and its modified version with axis pointing east and north and negative numbers (iJTSK). JTSK is not supported on output (iJTSK is). * |JTSK03|, |iJTSK03| = new S-JTSK realisation introduced in Slovakia in 2011. * |OSGB:<H, N, O, S or T><A-Z except I>| = British Ordnance Survey National Grid.\NEW{5.4} * |S-MERC| = the spherical Mercator projection, as used by various online mapping sites. \endlist
+* |JTSK|, |iJTSK| = Чехословацкая система S-JTSK, используемая с 1920-х годов с южной и западной осью (JTSK) и ее модифицированной версией с осью, указывающей восточное, северное и отрицательные числа (iJTSK). JTSK не поддерживается на выходе (как и iJTSK). * |JTSK03|, |iJTSK03| = новая реализация S-JTSK, введенная в Словакии в 2011 году. * |OSGB:<H, N, O, S or T><A-Z except I>| = Британская Национальная Сеть\NEW{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.
+ \endlist
 
-\subchapter Magnetic declination. 
+\subchapter Магнитное склонение.
 
 Therion contains built-in IGRF\[See \www{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020\NEW{5.4}. It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user. The computed declination is listed in the LOG file for information. 
 
