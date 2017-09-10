@@ -66,6 +66,15 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#1{&lt;u2&gt;#1&lt;10 0&lt;u3&gt;&lt;u4&gt;#1}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065056Z" creationid="Алексей" creationdate="20170910T065049Z">
+        <seg>#1{&lt;u2&gt;#1&lt;10 0&lt;u3&gt;&lt;u4&gt;#1}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#1{&lt;u2&gt;&lt;u3&gt;{#1}&lt;&lt;u4&gt;{5.3}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063956Z" creationid="Алексей" creationdate="20170910T063935Z">
@@ -300,6 +309,15 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065202Z" creationid="Алексей" creationdate="20170910T065156Z">
+        <seg>0
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0 &lt;u4&gt;&lt;u5&gt;&lt;u6&gt;#1]{&lt;u7&gt;&lt;u8&gt;&lt;u9&gt;&lt;u3&gt; by 1&lt;p0&gt;$}{#1}}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064315Z" creationid="Алексей" creationdate="20170910T064220Z">
@@ -337,6 +355,20 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
         <seg>0=version.tex
 &lt;u1&gt; 0 to &lt;u2&gt;
 &lt;u3&gt;0
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10000 &lt;u1&gt;10000 &lt;u2&gt;=159.2mm &lt;u3&gt;=239.2mm &lt;u4&gt;=210mm &lt;u5&gt;=297mm</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065151Z" creationid="Алексей" creationdate="20170910T065118Z">
+        <seg>10000
+&lt;u1&gt;10000
+&lt;u2&gt;=159.2mm
+&lt;u3&gt;=239.2mm
+&lt;u4&gt;=210mm
+&lt;u5&gt;=297mm
 </seg>
       </tuv>
     </tu>
@@ -405,6 +437,17 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
         <seg>\,&lt;u2&gt;
 &lt;u3&gt;&lt;u5&gt;{&lt;u1&gt;&lt;u6&gt;&lt;u7&gt;&lt;u8&gt;}
 &lt;u4&gt;&lt;u9&gt;{=}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=&lt;u1&gt; &lt;u2&gt;=0pt &lt;u3&gt;=16pt</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065115Z" creationid="Алексей" creationdate="20170910T065100Z">
+        <seg>=&lt;u1&gt;
+&lt;u2&gt;=0pt
+&lt;u3&gt;=16pt
 </seg>
       </tuv>
     </tu>
@@ -1374,9 +1417,25 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ch00 &lt;u1&gt; ch01 &lt;u2&gt; ch02 &lt;u3&gt; ch03 &lt;u4&gt; ch04 &lt;u5&gt; ch05 &lt;u6&gt; ch06 &lt;u7&gt; ch07</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065233Z" creationid="Алексей" creationdate="20170910T065206Z">
+        <seg>ch00
+&lt;u1&gt; ch01
+&lt;u2&gt; ch02
+&lt;u3&gt; ch03
+&lt;u4&gt; ch04
+&lt;u5&gt; ch05
+&lt;u6&gt; ch06
+&lt;u7&gt; ch07
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>epsf &lt;u4&gt;&lt;u5&gt;#1{} &lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7} &lt;u9&gt;&lt;u15&gt;&lt;u16&gt; &lt;u10&gt;&lt;u22&gt;&lt;u17&gt; &lt;u11&gt;&lt;u23&gt;&lt;u18&gt; &lt;u12&gt;&lt;u24&gt;&lt;u19&gt; &lt;u13&gt;&lt;u25&gt;&lt;u20&gt; &lt;u14&gt;&lt;u26&gt;&lt;u21&gt; &lt;u27&gt; &lt;u30&gt;&lt;u32&gt;&lt;110 &lt;u34&gt;{Warning: PdfTeX too ancient to process samples} &lt;u28&gt;&lt;u31&gt;&lt;u33&gt;&lt;130 &lt;u35&gt; 5</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053604Z" creationid="Алексей" creationdate="20170910T052534Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065653Z" creationid="Алексей" creationdate="20170910T052534Z">
         <seg>epsf
 &lt;u4&gt;&lt;u5&gt;#1{}
 &lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7}
