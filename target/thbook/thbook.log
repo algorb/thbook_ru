@@ -75,42 +75,28 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13]
-Overfull \hbox (62.04698pt too wide) in paragraph at lines 83--85
-[]\rm Therion содержит встроенный IGRF$[]$ Модель геомагнитного поля Земли, дей
-ствительная|
+Overfull \hbox (11.26353pt too wide) in paragraph at lines 83--85
+\rm пещера находится в пространстве с использованием любой из поддерживаемых|
 
-\hbox(8.86581+2.412)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm T
-.\rm h
-.\rm e
-.\rm r
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\rm п
+.\rm е
+.\rm щ
+.\kern-0.14401
+.\rm е
 .etc.
 
 
-Overfull \hbox (51.7395pt too wide) in paragraph at lines 83--85
-\rm находится в пространстве с использованием любой из поддерживаемых геодезиче
-ских|
+Overfull \hbox (55.50974pt too wide) in paragraph at lines 83--85
+\rm геодезических систем координат, и никакое склонение не определяется пользов
+ателем.|
 
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\rm н
-.\rm а
-.\rm х
-.\kern-0.24
+\hbox(5.676+2.412)x452.96786, glue set - 1.0
+.\rm г
+.\rm е
 .\rm о
-.etc.
-
-
-Overfull \hbox (50.59373pt too wide) in paragraph at lines 83--85
-\rm систем координат, и никакое склонение не определяется пользователем. Вычисл
-енное|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\rm с
-.\rm и
-.\kern-0.12001
-.\rm с
-.\rm т
+.\kern-0.48001
+.\rm д
 .etc.
 
 [14] [15] [16]
@@ -446,7 +432,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (84 pages, 746880 bytes).
+Output written on thbook.pdf (84 pages, 746874 bytes).
 PDF statistics:
  539 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
