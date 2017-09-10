@@ -1206,9 +1206,9 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T050800Z" creationid="Алексей" creationdate="20170910T050707Z">
-        <seg>|survey &lt;id&gt; [OPTIONS]
-	... other therion objects ...
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T051510Z" creationid="Алексей" creationdate="20170910T050707Z">
+        <seg>|	survey &lt;id&gt; [OPTIONS]
+		... other therion objects ...
 	endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
