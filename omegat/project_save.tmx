@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* {&lt;u4&gt; string} = a sequence of any characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124144Z" creationid="Алексей" creationdate="20170910T124139Z">
+        <seg>* {&lt;u4&gt; string} = последовательность любых символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193402Z" creationid="Алексей" creationdate="20170909T161921Z">
@@ -423,6 +431,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113741Z" creationid="Алексей" creationdate="20170910T055017Z">
         <seg>\,&lt;u2&gt;&lt;u3&gt;&lt;u5&gt;{&lt;u1&gt;&lt;u6&gt;&lt;u7&gt;&lt;u8&gt;}&lt;u4&gt;&lt;u9&gt;{=}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u9&gt;{5.3}Strings may contain special tag |&lt;lang:XX&gt;| to separate translations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124247Z" creationid="Алексей" creationdate="20170910T124247Z">
+        <seg>&lt;u9&gt;{5.3}Строки могут содержать специальный тег |&lt;lang:XX&gt;| для разделения переводов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -719,6 +735,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193518Z" creationid="Алексей" creationdate="20170909T143608Z">
         <seg>В 2002 году мы представили первую версию Therion'а, которая отвечала нашим требованиям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In multilingual strings only the text between |&lt;lang:XX&gt;| (where |XX| is the language selected in initialization or configuration file) and the next |&lt;lang:YY&gt;| tag is displayed on the output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124400Z" creationid="Алексей" creationdate="20170910T124400Z">
+        <seg>В многоязычных строках только текст между |&lt;lang:XX&gt;| (где |XX| - это язык, выбранный в файле инициализации или конфигурации) и следующим тегом |&lt;lang:YY&gt;| отображается на выходе.</seg>
       </tuv>
     </tu>
     <tu>
