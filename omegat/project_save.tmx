@@ -1665,6 +1665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`encoding'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T162339Z" creationid="Алексей" creationdate="20170910T162339Z">
+        <seg>`encoding'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>attr {/Border [0 0 0]} user{ /Subtype /Link /A &lt;&lt; /Type /Action /S /URI /URI (#1) &gt;&gt;} &lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063842Z" creationid="Алексей" creationdate="20170910T063744Z">
@@ -1700,6 +1708,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112741Z" creationid="Алексей" creationdate="20170910T052942Z">
         <seg>etc/supp-mis &lt;u1&gt; etc/supp-pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sets the encoding of input file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T162411Z" creationid="Алексей" creationdate="20170910T162411Z">
+        <seg>устанавливает кодировку входного файла.</seg>
       </tuv>
     </tu>
     <tu>
