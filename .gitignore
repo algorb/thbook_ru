@@ -1,4 +1,6 @@
 target/*
+!target/thbook.tex
 *.bak
 omegat/project_stats.txt
 omegat/project_stats_match.txt
+source/thbook/thbook.tex
