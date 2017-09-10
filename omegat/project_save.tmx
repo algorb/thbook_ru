@@ -6,6 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>#1.#2 {&lt;u5&gt;(#1*1000000+#2*1000)} &lt;u1&gt;&lt;u7&gt;#1.#2.#3 {&lt;u6&gt;(#1*1000000+#2*1000+#3)} &lt;u2&gt;&lt;u9&gt;#1{&lt;u10&gt;&lt;u11&gt;{[0-9]+[.][0-9]+[.][0-9]+}{#1}=1 &lt;u8&gt;#1 &lt;u12&gt; &lt;u4&gt;#1 &lt;u13&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063932Z" creationid="Алексей" creationdate="20170910T063904Z">
+        <seg>#1.#2 {&lt;u5&gt;(#1*1000000+#2*1000)}
+&lt;u1&gt;&lt;u7&gt;#1.#2.#3 {&lt;u6&gt;(#1*1000000+#2*1000+#3)}
+&lt;u2&gt;&lt;u9&gt;#1{&lt;u10&gt;&lt;u11&gt;{[0-9]+[.][0-9]+[.][0-9]+}{#1}=1
+&lt;u8&gt;#1 &lt;u12&gt; &lt;u4&gt;#1 &lt;u13&gt;}
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#1.{&lt;u3&gt;{#1} &lt;u4&gt;2&lt;u7&gt;{&lt;u9&gt; #1} &lt;u10&gt; &lt;u13&gt;1{&lt;u15&gt;&lt;u28&gt;&lt;u16&gt;&lt;u30&gt;-50 &lt;u17&gt;&lt;u32&gt;{&lt;u18&gt;&lt;u34&gt;&lt;u36&gt; attr {/Border [0 0 0]} goto page &lt;u41&gt;&lt;u37&gt; {/Fit} &lt;u19&gt;&lt;u45&gt;&lt;u38&gt; #1&lt;u20&gt;&lt;u46&gt;&lt;u48&gt;&lt;u42&gt;&lt;u21&gt;&lt;u50&gt;}} &lt;u5&gt;1} &lt;u1&gt;&lt;u52&gt;#1.{ &lt;u31&gt;-100&lt;u6&gt;2&lt;u8&gt;{&lt;u53&gt; #1}&lt;u11&gt; &lt;u14&gt;1{&lt;u22&gt;&lt;u29&gt;&lt;u23&gt;&lt;u33&gt;{&lt;u24&gt;&lt;u54&gt;&lt;u25&gt;&lt;u35&gt;&lt;u39&gt; attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit} #1&lt;u26&gt;&lt;u47&gt;&lt;u49&gt;&lt;u44&gt;&lt;u27&gt;&lt;u51&gt;}}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T054433Z" creationid="Алексей" creationdate="20170910T054122Z">
@@ -1293,6 +1305,21 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>attr {/Border [0 0 0]} user{ /Subtype /Link /A &lt;&lt; /Type /Action /S /URI /URI (#1) &gt;&gt;} &lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063842Z" creationid="Алексей" creationdate="20170910T063744Z">
+        <seg>attr {/Border [0 0 0]} user{
+/Subtype /Link
+/A &lt;&lt;
+/Type /Action
+/S /URI
+/URI (#1)
+&gt;&gt;}
+&lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>epsf &lt;u4&gt;&lt;u5&gt;#1{} &lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7} &lt;u9&gt;&lt;u15&gt;&lt;u16&gt; &lt;u10&gt;&lt;u22&gt;&lt;u17&gt; &lt;u11&gt;&lt;u23&gt;&lt;u18&gt; &lt;u12&gt;&lt;u24&gt;&lt;u19&gt; &lt;u13&gt;&lt;u25&gt;&lt;u20&gt; &lt;u14&gt;&lt;u26&gt;&lt;u21&gt; &lt;u27&gt; &lt;u30&gt;&lt;u32&gt;&lt;110 &lt;u34&gt;{Warning: PdfTeX too ancient to process samples} &lt;u28&gt;&lt;u31&gt;&lt;u33&gt;&lt;130 &lt;u35&gt; 5</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053604Z" creationid="Алексей" creationdate="20170910T052534Z">
@@ -1473,6 +1500,16 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u3&gt;getoptionalarg&lt;u4&gt;www} &lt;u1&gt;&lt;u5&gt;www#1{&lt;u8&gt;&lt;u10&gt;&lt;u11&gt; &lt;u9&gt;&lt;u6&gt;optionalarg&lt;u12&gt;{&lt;u13&gt;#1}&lt;u14&gt;&lt;u7&gt;optionalarg</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063741Z" creationid="Алексей" creationdate="20170910T063644Z">
+        <seg>{&lt;u3&gt;getoptionalarg&lt;u4&gt;www}
+&lt;u1&gt;&lt;u5&gt;www#1{&lt;u8&gt;&lt;u10&gt;&lt;u11&gt;
+&lt;u9&gt;&lt;u6&gt;optionalarg&lt;u12&gt;{&lt;u13&gt;#1}&lt;u14&gt;&lt;u7&gt;optionalarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u3&gt;{&lt;u4&gt; Context:} } &lt;u1&gt;&lt;u5&gt;{}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063506Z" creationid="Алексей" creationdate="20170910T063457Z">
@@ -1637,9 +1674,8 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T062917Z" creationid="Алексей" creationdate="20170910T062718Z">
-        <seg>
-}
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063857Z" creationid="Алексей" creationdate="20170910T062718Z">
+        <seg>}
 </seg>
       </tuv>
     </tu>
