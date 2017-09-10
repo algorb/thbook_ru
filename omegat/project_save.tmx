@@ -351,11 +351,8 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       <tuv lang="EN-US">
         <seg>0=version.tex &lt;u1&gt; 0 to &lt;u2&gt;&lt;u3&gt;0</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053648Z" creationid="Алексей" creationdate="20170910T052959Z">
-        <seg>0=version.tex
-&lt;u1&gt; 0 to &lt;u2&gt;
-&lt;u3&gt;0
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112747Z" creationid="Алексей" creationdate="20170910T052959Z">
+        <seg>0=version.tex &lt;u1&gt; 0 to &lt;u2&gt;&lt;u3&gt;0</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,12 +389,8 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       <tuv lang="EN-US">
         <seg>5 &lt;u1&gt;&lt;u2&gt; &lt;u5&gt;&lt;u6&gt;&gt;139 &lt;u7&gt;0=glyphtounicode.tex &lt;u8&gt;0&lt;u9&gt;{No glyph to unicode mapping found!}&lt;u10&gt;&lt;u11&gt;0&lt;u12&gt; glyphtounicode.tex&lt;u13&gt;=1</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T052934Z" creationid="Алексей" creationdate="20170910T052823Z">
-        <seg>5
-&lt;u1&gt;&lt;u2&gt;
-&lt;u5&gt;&lt;u6&gt;&gt;139
-&lt;u7&gt;0=glyphtounicode.tex
-&lt;u8&gt;0&lt;u9&gt;{No glyph to unicode mapping found!}&lt;u10&gt;&lt;u11&gt;0&lt;u12&gt; glyphtounicode.tex&lt;u13&gt;=1</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112736Z" creationid="Алексей" creationdate="20170910T052823Z">
+        <seg>5 &lt;u1&gt;&lt;u2&gt; &lt;u5&gt;&lt;u6&gt;&gt;139 &lt;u7&gt;0=glyphtounicode.tex &lt;u8&gt;0&lt;u9&gt;{No glyph to unicode mapping found!}&lt;u10&gt;&lt;u11&gt;0&lt;u12&gt; glyphtounicode.tex&lt;u13&gt;=1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1435,28 +1428,16 @@ attr {/Border [0 0 0]} goto page &lt;u43&gt;&lt;u40&gt; {/Fit}
       <tuv lang="EN-US">
         <seg>epsf &lt;u4&gt;&lt;u5&gt;#1{} &lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7} &lt;u9&gt;&lt;u15&gt;&lt;u16&gt; &lt;u10&gt;&lt;u22&gt;&lt;u17&gt; &lt;u11&gt;&lt;u23&gt;&lt;u18&gt; &lt;u12&gt;&lt;u24&gt;&lt;u19&gt; &lt;u13&gt;&lt;u25&gt;&lt;u20&gt; &lt;u14&gt;&lt;u26&gt;&lt;u21&gt; &lt;u27&gt; &lt;u30&gt;&lt;u32&gt;&lt;110 &lt;u34&gt;{Warning: PdfTeX too ancient to process samples} &lt;u28&gt;&lt;u31&gt;&lt;u33&gt;&lt;130 &lt;u35&gt; 5</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T065653Z" creationid="Алексей" creationdate="20170910T052534Z">
-        <seg>epsf
-&lt;u4&gt;&lt;u5&gt;#1{}
-&lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7}
-&lt;u9&gt;&lt;u15&gt;&lt;u16&gt; &lt;u10&gt;&lt;u22&gt;&lt;u17&gt; &lt;u11&gt;&lt;u23&gt;&lt;u18&gt;
-&lt;u12&gt;&lt;u24&gt;&lt;u19&gt; &lt;u13&gt;&lt;u25&gt;&lt;u20&gt; &lt;u14&gt;&lt;u26&gt;&lt;u21&gt;
-&lt;u27&gt;
-&lt;u30&gt;&lt;u32&gt;&lt;110
-&lt;u34&gt;{Warning: PdfTeX too ancient to process samples}
-&lt;u28&gt;&lt;u31&gt;&lt;u33&gt;&lt;130
-&lt;u35&gt; 5
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112730Z" creationid="Алексей" creationdate="20170910T052534Z">
+        <seg>epsf &lt;u4&gt;&lt;u5&gt;#1{} &lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7} &lt;u9&gt;&lt;u15&gt;&lt;u16&gt; &lt;u10&gt;&lt;u22&gt;&lt;u17&gt; &lt;u11&gt;&lt;u23&gt;&lt;u18&gt; &lt;u12&gt;&lt;u24&gt;&lt;u19&gt; &lt;u13&gt;&lt;u25&gt;&lt;u20&gt; &lt;u14&gt;&lt;u26&gt;&lt;u21&gt; &lt;u27&gt; &lt;u30&gt;&lt;u32&gt;&lt;110 &lt;u34&gt;{Warning: PdfTeX too ancient to process samples} &lt;u28&gt;&lt;u31&gt;&lt;u33&gt;&lt;130 &lt;u35&gt; 5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>etc/supp-mis &lt;u1&gt; etc/supp-pdf</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053633Z" creationid="Алексей" creationdate="20170910T052942Z">
-        <seg>etc/supp-mis
-&lt;u1&gt; etc/supp-pdf
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112741Z" creationid="Алексей" creationdate="20170910T052942Z">
+        <seg>etc/supp-mis &lt;u1&gt; etc/supp-pdf</seg>
       </tuv>
     </tu>
     <tu>
