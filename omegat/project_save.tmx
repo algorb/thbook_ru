@@ -1698,6 +1698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This information is used for |cave-list| export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160341Z" creationid="Алексей" creationdate="20170911T160328Z">
+        <seg>Эта информация используется для |cave-list| экспорта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170616Z" creationid="Алексей" creationdate="20170909T155111Z">
@@ -1896,6 +1904,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160821Z" creationid="Алексей" creationdate="20170909T160821Z">
         <seg>``Программа должна делать одну задачу, и должна делать это хорошо'' (Кен Томпсон). Поэтому мы используем несколько внешних программ, которые обрабатывают и визуализируют данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`centreline'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160344Z" creationid="Алексей" creationdate="20170911T160344Z">
+        <seg>`centreline'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2448,8 +2464,10 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154508Z" creationid="Алексей" creationdate="20170910T050707Z">
-        <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160759Z" creationid="Алексей" creationdate="20170910T050707Z">
+        <seg>|survey &lt;id&gt; [OPTIONS]
+	... другие объекты ...
+	endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
