@@ -845,6 +845,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, survey stations names can be the same if they are in different surveys.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154311Z" creationid="Алексей" creationdate="20170911T154234Z">
+        <seg>Например, имена станций съемки могут быть одинаковыми, если они находятся в разных survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For those who want to understand more about it, here is a brief explanation of the above flowchart.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185525Z" creationid="Алексей" creationdate="20170909T185525Z">
@@ -1552,6 +1560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows stations to be numbered from 0 in each survey or the joining of two caves into one cave system without renaming survey stations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154415Z" creationid="Алексей" creationdate="20170911T154415Z">
+        <seg>Это позволяет делать нумерацию станций с 0 в каждом survey или объединение двух пещер в одну пещерную систему без переименования станций съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows the use of non-ASCII characters in input files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172441Z" creationid="Алексей" creationdate="20170910T172105Z">
@@ -1619,8 +1635,8 @@
       <tuv lang="EN-US">
         <seg>Usually some level of this hierarchical structure survey represents caves, higher levels karst areas and lower levels e.g. passages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153551Z" creationid="Алексей" creationdate="20170911T153551Z">
-        <seg>Обычный уровень иерархической структуры survey представлен пещерами, более высокие уровни карстовыми областями, а более низкие уровни, например ходами пещеры.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154246Z" creationid="Алексей" creationdate="20170911T153551Z">
+        <seg>Обычный уровень иерархической структуры survey представлен пещерами, более высокие уровни карстовыми областями, а более низкие уровни, например, ходами пещеры.
 </seg>
       </tuv>
     </tu>
