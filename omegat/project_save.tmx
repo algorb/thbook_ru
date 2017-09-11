@@ -400,6 +400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154601Z" creationid="Алексей" creationdate="20170911T154601Z">
+        <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*|&lt;id&gt;| = survey identifier</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T050908Z" creationid="Алексей" creationdate="20170910T050819Z">
@@ -1865,6 +1873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>none, survey</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154527Z" creationid="Алексей" creationdate="20170911T154527Z">
+        <seg>none, survey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or, if there are more nesting levels</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153941Z" creationid="Алексей" creationdate="20170911T153941Z">
@@ -2302,10 +2318,8 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T051510Z" creationid="Алексей" creationdate="20170910T050707Z">
-        <seg>|	survey &lt;id&gt; [OPTIONS]
-		... other therion objects ...
-	endsurvey [&lt;id&gt;]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154508Z" creationid="Алексей" creationdate="20170910T050707Z">
+        <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
