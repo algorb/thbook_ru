@@ -789,6 +789,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each survey has its own namespace specified by its |&lt;id&gt;| argument.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153719Z" creationid="Алексей" creationdate="20170911T153638Z">
+        <seg>Каждый survey имеет собственное пространство имен, указанное его |&lt;id&gt;| аргументом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examine this book, ponder the meaning we have dispersed in various places and gathered again; what we have concealed in one place we have disclosed in another, that it may be understood by your wisdom.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; ---Henricus C. Agrippa ab Nettesheym, &lt;u13&gt; 1533} }</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204059Z" creationid="Алексей" creationdate="20170909T204059Z">
@@ -1111,6 +1119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects (like survey stations or scraps; see below) which belong to a subsurvey of the current survey are referenced as</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153903Z" creationid="Алексей" creationdate="20170911T153903Z">
+        <seg>Объекты (например станции или скрапы, см. ниже), которые относятся к subsurvey текущего survey, записываются как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One-line commands and multi-line commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204339Z" creationid="Алексей" creationdate="20170909T204339Z">
@@ -1258,8 +1274,8 @@
       <tuv lang="EN-US">
         <seg>Surveys may be nested---this allows a hierarchical structure to be built.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153146Z" creationid="Алексей" creationdate="20170911T153146Z">
-        <seg>Survays могут быть вложенными -- это позволяет построить иерархическую структуру.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153650Z" creationid="Алексей" creationdate="20170911T153146Z">
+        <seg>Survey могут быть вложенными -- это позволяет построить иерархическую структуру.</seg>
       </tuv>
     </tu>
     <tu>
