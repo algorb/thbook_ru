@@ -1584,6 +1584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means, that object identifiers must be unique only in the scope of one survey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154210Z" creationid="Алексей" creationdate="20170911T154210Z">
+        <seg>Это означает, что идентификаторы объектов должны быть уникальными только в рамках одного survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus there is a special GUI for Therion called XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152146Z" creationid="Алексей" creationdate="20170909T151755Z">
@@ -1837,6 +1845,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T150541Z" creationid="Алексей" creationdate="20170911T150541Z">
         <seg>вставляет содержимое файла на место команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or, if there are more nesting levels</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153941Z" creationid="Алексей" creationdate="20170911T153941Z">
+        <seg>или, если есть больше уровней вложения</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2190,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195228Z" creationid="Алексей" creationdate="20170909T195228Z">
         <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|.&lt;u0&gt;Note: it's not possible to reference any object from the higher-level surveys.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154054Z" creationid="Алексей" creationdate="20170911T154006Z">
+        <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|.&lt;u0&gt;Примечание: невозможно связать любой объект с survey более высокого уровня.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;object-id&gt;@&lt;subsurvey-id&gt;|,</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153912Z" creationid="Алексей" creationdate="20170911T153912Z">
+        <seg>|&lt;object-id&gt;@&lt;subsurvey-id&gt;|,</seg>
       </tuv>
     </tu>
     <tu>
