@@ -144,28 +144,27 @@ all \endcontext
 
 \description
 
-Survey is the main data structure. 
+Survey -- основная структура данных. 
 
 % Each data object must belong to a   survey. 
-Surveys may be nested---this allows a hierarchical structure to be built. Usually some level of this hierarchical structure survey represents caves, higher levels karst areas and lower levels e.g.~passages. 
+Survey могут быть вложенными -- это позволяет построить иерархическую структуру. Обычный уровень иерархической структуры survey представлен пещерами, более высокие уровни карстовыми областями, а более низкие уровни, например, ходами пещеры.
+ 
 
-Each survey has its own namespace specified by its |<id>| argument. Objects (like survey stations or scraps; see below) which belong to a subsurvey of the current survey are referenced as 
+Каждый survey имеет собственное пространство имен, указанное его |<id>| аргументом. Объекты (например станции или скрапы, см. ниже), которые относятся к subsurvey текущего survey, записываются как 
 
 |<object-id>@<subsurvey-id>|, 
 
-or, if there are more nesting levels 
+или, если есть больше уровней вложения 
 
-|<object-id>@<subsubsurvey-id>.<subsurvey-id>|.\[Note: it's not possible to reference any object from the higher-level surveys.] 
+|<object-id>@<subsubsurvey-id>.<subsurvey-id>|.\[Примечание: невозможно связать любой объект с survey более высокого уровня.] 
 
-This means, that object identifiers must be unique only in the scope of one survey. For instance, survey stations names can be the same if they are in different surveys. This allows stations to be numbered from 0 in each survey or the joining of two caves into one cave system without renaming survey stations. 
+Это означает, что идентификаторы объектов должны быть уникальными только в рамках одного survey. Например, имена станций съемки могут быть одинаковыми, если они находятся в разных survey. Это позволяет делать нумерацию станций с 0 в каждом survey или объединение двух пещер в одну пещерную систему без переименования станций съемки. 
 
 \enddescription
 
 \syntax
 
-|	survey <id> [OPTIONS]
-		... other therion objects ...
-	endsurvey [<id>]| \endsyntax
+|survey <id> [OPTIONS] ... other therion objects ... endsurvey [<id>]| \endsyntax
 
 \context
 
@@ -175,23 +174,25 @@ none, survey \endcontext
 
 * |<id>| = идентификатор \endarguments
 
-\options * |namespace <on/off>| = specify whether survey creates namespace (|on| by default) * |declination <specification>| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys). The |<specification>| has three forms: 
+\options * |namespace <on/off>| = specify whether survey creates namespace (|on| by default) * |declination <specification>| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys). The |<specification>| имеет три формы: 
 
-1. |[]| an empty string. This will reset the declination definition. 
+1. |[]| пустую строку. Это приведет к сбросу склонения. 
 
-2. |[<value> <units>]| will set a single value (also for undated surveys). 
+2. |[<значение> <единицы>]| установит одно значение (также для undated survey). 
 
-3. |[<date1> <value1> [<date2> <value2> ... ] <units>]| will set declination for several dates. Then the declination of each shot will be set according to the date specification of the data object. If you want to explicitly set the declination for undated survey data, use `|-|' instead of date. 
+3. |[<дата1> <начение1> [<дата2> <значение2> ... ] <единицы>]| установит склонение для нескольких дат. Тогда склонение каждого замера будет установлено в соответствии со спецификацией даты объекта данных.
+ Если вы хотите явно указать склонение для данных без даты, используйте `|-|' вместо даты.
+ 
 
-If no declination is specified and some geodetic coordinate system is defined, the declination is automatically computed using built-in geomagnetic model. 
+Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с использованием встроенной геомагнитной модели. 
 
-N.B.: The declination is positive when the magnetic north is east of true north. 
+N.B.: склонение положительно, когда магнитный север находится к востоку от истинного севера. 
 
-* |person-rename <old name> <new name>| = rename a person whose name has been changed 
+* |person-rename <старое имя> <новое имя>| = переименовать человека, имя которого было изменено 
 
-* |title <string>| = description of the object 
+* |title <строка>| = описание объекта 
 
-* |entrance <station-name>| = specifies the main entrance to the cave represented by this survey. If not specified and there is exactly one station marked entrance in this survey, it is considered to represent a cave also. This information is used for |cave-list| export. \endoptions
+* |entrance <имя-станции>| = указывает главный вход в пещеру, представленный в этом survey. Если это не указано, и в этом survey есть только одна станция отмеченная входом, он считается также входом в пещеру. Эта информация используется для |cave-list| экспорта. \endoptions
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubchapter `centreline'. 
