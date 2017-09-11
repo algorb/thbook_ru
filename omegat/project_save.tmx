@@ -410,8 +410,8 @@
       <tuv lang="EN-US">
         <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161936Z" creationid="Алексей" creationdate="20170911T154601Z">
-        <seg>* |namespace &lt;on/off&gt;| = указывает, создавать ли survey пространство имен (|on| по умолчанию) * |declination &lt;specification&gt;| = устанавливает склонение по умолчанию для всех объектов данных в этом survey (которые могут быть переопределены новыми склонениями в suburveys).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T162050Z" creationid="Алексей" creationdate="20170911T154601Z">
+        <seg>* |namespace &lt;on/off&gt;| = указывает, создавать ли survey пространство имен (|on| по умолчанию). * |declination &lt;specification&gt;| = устанавливает склонение по умолчанию для всех объектов данных в этом survey (которые могут быть переопределены но\-вым склонением в suburveys).</seg>
       </tuv>
     </tu>
     <tu>
