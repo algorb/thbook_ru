@@ -831,8 +831,8 @@
       <tuv lang="EN-US">
         <seg>For greatest portability use relative paths and Unix slashes `|/|', not Windows backslashes `|&lt;u0&gt;', as directory separators.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151207Z" creationid="Алексей" creationdate="20170911T151041Z">
-        <seg>Для максимальной портабельности исполь\-зуйте относительные пути, а для разделения каталогов используйте харак\-тер\-ный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;', </seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T152136Z" creationid="Алексей" creationdate="20170911T151041Z">
+        <seg>Для максимальной портабельности исполь\-зуйте относительные пути, а для разделения каталогов используйте харак\-тер\-ный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;'. </seg>
       </tuv>
     </tu>
     <tu>
