@@ -759,8 +759,8 @@
       <tuv lang="EN-US">
         <seg>Default extension is `.th' and may be omitted.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T150620Z" creationid="Алексей" creationdate="20170911T150620Z">
-        <seg>Расширение по умолчанию - `.th' и его можно не указывать.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T152922Z" creationid="Алексей" creationdate="20170911T150620Z">
+        <seg>Расширение по умолчанию `.th' и его можно не указывать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,6 +1248,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Survey is the main data structure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153111Z" creationid="Алексей" creationdate="20170911T153111Z">
+        <seg>Survey -- основная структура данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surveys may be nested---this allows a hierarchical structure to be built.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153146Z" creationid="Алексей" creationdate="20170911T153146Z">
+        <seg>Survays могут быть вложенными -- это позволяет построить иерархическую структуру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table of Contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195002Z" creationid="Алексей" creationdate="20170909T195002Z">
@@ -1573,6 +1589,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124126Z" creationid="Алексей" creationdate="20170910T124126Z">
         <seg>Используйте `|/|' чтобы отделить имя и фамилию, если есть несколько имен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually some level of this hierarchical structure survey represents caves, higher levels karst areas and lower levels e.g. passages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153551Z" creationid="Алексей" creationdate="20170911T153551Z">
+        <seg>Обычный уровень иерархической структуры survey представлен пещерами, более высокие уровни карстовыми областями, а более низкие уровни, например ходами пещеры.
+</seg>
       </tuv>
     </tu>
     <tu>
