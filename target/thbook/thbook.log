@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  11 SEP 2017 23:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  11 SEP 2017 23:11
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -75,16 +75,16 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13] [14] [15]
-Overfull \hbox (0.98189pt too wide) in paragraph at lines 191--192
- []\rm N.B.: склонение положительно, когда магнитный север находится к востоку|
+Overfull \hbox (33.06985pt too wide) in paragraph at lines 191--192
+ []\rm Обратите внимание: склонение положительно, когда магнитный север находит
+ся|
 
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
 .\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
-.\rm N
-.\rm .
-.\rm B
+.\rm О
+.\rm б
+.\kern-0.12001
 .etc.
 
 [16]
@@ -438,7 +438,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (84 pages, 751324 bytes).
+Output written on thbook.pdf (84 pages, 751335 bytes).
 PDF statistics:
  539 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
