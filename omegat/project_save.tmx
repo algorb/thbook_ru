@@ -392,6 +392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155944Z" creationid="Алексей" creationdate="20170911T155944Z">
+        <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
@@ -404,6 +412,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154601Z" creationid="Алексей" creationdate="20170911T154601Z">
         <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |person-rename &lt;old name&gt; &lt;new name&gt;| = rename a person whose name has been changed</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155903Z" creationid="Алексей" creationdate="20170911T155903Z">
+        <seg>* |person-rename &lt;старое имя&gt; &lt;новое имя&gt;| = переименовать человека, имя которого было изменено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |title &lt;string&gt;| = description of the object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155932Z" creationid="Алексей" creationdate="20170911T155932Z">
+        <seg>* |title &lt;строка&gt;| = описание объекта</seg>
       </tuv>
     </tu>
     <tu>
@@ -925,6 +949,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no declination is specified and some geodetic coordinate system is defined, the declination is automatically computed using built-in geomagnetic model.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155806Z" creationid="Алексей" creationdate="20170911T155806Z">
+        <seg>Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с использованием встроенной геомагнитной модели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no match is found, everything before any occurence of |&lt;lang:ZZ&gt;| tag is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124526Z" creationid="Алексей" creationdate="20170910T124526Z">
@@ -953,6 +985,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131549Z" creationid="Алексей" creationdate="20170910T131549Z">
         <seg>Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и |layout| и т. д.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to explicitly set the declination for undated survey data, use `|-|' instead of date.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155738Z" creationid="Алексей" creationdate="20170911T155738Z">
+        <seg>Если вы хотите явно указать склонение для данных без даты, используйте `|-|' вместо даты.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1139,6 +1180,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
         <seg>Значение цветов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N.B.: The declination is positive when the magnetic north is east of true north.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155831Z" creationid="Алексей" creationdate="20170911T155831Z">
+        <seg>N.B.: склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
       </tuv>
     </tu>
     <tu>
