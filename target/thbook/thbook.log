@@ -75,9 +75,8 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13] [14] [15]
-Overfull \hbox (33.06985pt too wide) in paragraph at lines 191--192
- []\rm Обратите внимание: склонение положительно, когда магнитный север находит
-ся|
+Overfull \hbox (5.27788pt too wide) in paragraph at lines 191--192
+ []\rm Обратите внимание: склонение положительно, когда магнитный север нахо-|
 
 \hbox(8.04599+2.412)x452.96786, glue set - 1.0
 .\glue(\leftskip) 12.0
