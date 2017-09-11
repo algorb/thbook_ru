@@ -749,6 +749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default extension is `.th' and may be omitted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T150620Z" creationid="Алексей" creationdate="20170911T150620Z">
+        <seg>Расширение по умолчанию - `.th' и его можно не указывать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
@@ -809,6 +817,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
         <seg>Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For greatest portability use relative paths and Unix slashes `|/|', not Windows backslashes `|&lt;u0&gt;', as directory separators.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151041Z" creationid="Алексей" creationdate="20170911T151041Z">
+        <seg>Для максимальной портабельности используйте относительные пути, а для разделения каталогов используйте характерный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;', </seg>
       </tuv>
     </tu>
     <tu>
@@ -1748,6 +1764,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112741Z" creationid="Алексей" creationdate="20170910T052942Z">
         <seg>etc/supp-mis &lt;u1&gt; etc/supp-pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inserts the contents of a file in place of the command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T150541Z" creationid="Алексей" creationdate="20170911T150541Z">
+        <seg>вставляет содержимое файла на место команды.</seg>
       </tuv>
     </tu>
     <tu>
