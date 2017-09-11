@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;file-name&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151107Z" creationid="Алексей" creationdate="20170911T151107Z">
+        <seg>* |&lt;file-name&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |EPSG:&lt;number&gt;| = Most of EPSG coordinate systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132355Z" creationid="Алексей" creationdate="20170910T132347Z">
@@ -823,8 +831,8 @@
       <tuv lang="EN-US">
         <seg>For greatest portability use relative paths and Unix slashes `|/|', not Windows backslashes `|&lt;u0&gt;', as directory separators.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151041Z" creationid="Алексей" creationdate="20170911T151041Z">
-        <seg>Для максимальной портабельности используйте относительные пути, а для разделения каталогов используйте характерный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;', </seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151207Z" creationid="Алексей" creationdate="20170911T151041Z">
+        <seg>Для максимальной портабельности исполь\-зуйте относительные пути, а для разделения каталогов используйте харак\-тер\-ный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;', </seg>
       </tuv>
     </tu>
     <tu>
@@ -1729,6 +1737,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`survey'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151114Z" creationid="Алексей" creationdate="20170911T151114Z">
+        <seg>`survey'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>all</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151102Z" creationid="Алексей" creationdate="20170911T151102Z">
+        <seg>all</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>attr {/Border [0 0 0]} user{ /Subtype /Link /A &lt;&lt; /Type /Action /S /URI /URI (#1) &gt;&gt;} &lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063842Z" creationid="Алексей" creationdate="20170910T063744Z">
@@ -2146,6 +2170,14 @@ endcommand|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172132Z" creationid="Алексей" creationdate="20170910T172132Z">
         <seg>|encoding &lt;encoding-name&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|input &lt;file-name&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151046Z" creationid="Алексей" creationdate="20170911T151046Z">
+        <seg>|input &lt;file-name&gt;|</seg>
       </tuv>
     </tu>
     <tu>
