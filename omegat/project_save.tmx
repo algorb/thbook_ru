@@ -410,24 +410,24 @@
       <tuv lang="EN-US">
         <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154601Z" creationid="Алексей" creationdate="20170911T154601Z">
-        <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161936Z" creationid="Алексей" creationdate="20170911T154601Z">
+        <seg>* |namespace &lt;on/off&gt;| = указывает, создавать ли survey пространство имен (|on| по умолчанию) * |declination &lt;specification&gt;| = устанавливает склонение по умолчанию для всех объектов данных в этом survey (которые могут быть переопределены новыми склонениями в suburveys).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |person-rename &lt;old name&gt; &lt;new name&gt;| = rename a person whose name has been changed</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155903Z" creationid="Алексей" creationdate="20170911T155903Z">
-        <seg>* |person-rename &lt;старое имя&gt; &lt;новое имя&gt;| = переименовать человека, имя которого было изменено</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161338Z" creationid="Алексей" creationdate="20170911T155903Z">
+        <seg>* |person-rename &lt;старое имя&gt; &lt;новое имя&gt;| = переименовать человека, имя кото\-рого было изменено.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |title &lt;string&gt;| = description of the object</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155932Z" creationid="Алексей" creationdate="20170911T155932Z">
-        <seg>* |title &lt;строка&gt;| = описание объекта</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161345Z" creationid="Алексей" creationdate="20170911T155932Z">
+        <seg>* |title &lt;строка&gt;| = описание объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,8 +951,8 @@
       <tuv lang="EN-US">
         <seg>If no declination is specified and some geodetic coordinate system is defined, the declination is automatically computed using built-in geomagnetic model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155806Z" creationid="Алексей" creationdate="20170911T155806Z">
-        <seg>Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с использованием встроенной геомагнитной модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161010Z" creationid="Алексей" creationdate="20170911T155806Z">
+        <seg>Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с исполь\-зо\-ва\-нием встроенной геомагнитной модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,8 +1194,8 @@
       <tuv lang="EN-US">
         <seg>N.B.: The declination is positive when the magnetic north is east of true north.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155831Z" creationid="Алексей" creationdate="20170911T155831Z">
-        <seg>N.B.: склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161204Z" creationid="Алексей" creationdate="20170911T155831Z">
+        <seg>Обратите внимание: склонение положительно, когда магнитный север на\-хо\-дится к востоку от истинного севера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,10 +2464,10 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160759Z" creationid="Алексей" creationdate="20170910T050707Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160817Z" creationid="Алексей" creationdate="20170910T050707Z">
         <seg>|survey &lt;id&gt; [OPTIONS]
 	... другие объекты ...
-	endsurvey [&lt;id&gt;]|</seg>
+endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
