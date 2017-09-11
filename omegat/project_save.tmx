@@ -394,8 +394,8 @@
       <tuv lang="EN-US">
         <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155944Z" creationid="Алексей" creationdate="20170911T155944Z">
-        <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160051Z" creationid="Алексей" creationdate="20170911T155944Z">
+        <seg>* |entrance &lt;имя-станции&gt;| = указывает главный вход в пещеру, представленный в этом survey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -961,6 +961,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124526Z" creationid="Алексей" creationdate="20170910T124526Z">
         <seg>Если совпадение не найдено, все до появления тега |&lt;lang:ZZ&gt;| отображается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not specified and there is exactly one station marked entrance in this survey, it is considered to represent a cave also.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160314Z" creationid="Алексей" creationdate="20170911T160314Z">
+        <seg>Если это не указано, и в этом survey есть только одна станция отмеченная входом, он считается также входом в пещеру.</seg>
       </tuv>
     </tu>
     <tu>
