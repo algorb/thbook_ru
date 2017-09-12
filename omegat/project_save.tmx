@@ -628,6 +628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u0&gt;Here we're concerned with creating data, so only the two first modes are described in this section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172948Z" creationid="Алексей" creationdate="20170912T172948Z">
+        <seg>Здесь мы обсуждаем созданием данных, поэтому в этом разделе описаны только два первых режима.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
@@ -861,6 +869,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently it works in three main modes: text editor, map editor and compiler.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172914Z" creationid="Алексей" creationdate="20170912T172914Z">
+        <seg>В настоящее время он работает в трех основных режимах: текстовый редактор, редактор карт и компилятор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DON'T PANIC!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185019Z" creationid="Алексей" creationdate="20170909T185019Z">
@@ -953,6 +969,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131646Z" creationid="Алексей" creationdate="20170910T131646Z">
         <seg>Поддерживаются следующие системы координат:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For compiler features see the chapter {&lt;u1&gt; Processing data}.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173030Z" creationid="Алексей" creationdate="20170912T173030Z">
+        <seg>Функции компилятора смотрите в главе {&lt;u1&gt; Обработка данных}.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1178,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
         <seg>Введение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It helps a lot with creating input data files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172818Z" creationid="Алексей" creationdate="20170912T172818Z">
+        <seg>Он помогает в создании файлов входных данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1964,10 +1996,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XTherion is a GUI (Graphical User Interface) for Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172749Z" creationid="Алексей" creationdate="20170912T172725Z">
+        <seg>XTherion -- графический пользовательский интерфейс для Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XTherion works as an advanced text editor, map editor (where maps are drawn fully interactively) and compiler (which runs Therion on the data).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152252Z" creationid="Алексей" creationdate="20170909T151920Z">
         <seg>XTherion работает как расширенный текстовый ре\-дак\-тор, редактор карт (где карты рисуются в полностью интерактивном режиме) и компилятор (который запускает Therion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172717Z" creationid="Алексей" creationdate="20170912T172717Z">
+        <seg>XTherion.</seg>
       </tuv>
     </tu>
     <tu>
