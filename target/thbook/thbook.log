@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  12 SEP 2017 07:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  12 SEP 2017 07:58
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -75,9 +75,8 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13] [14] [15] [16]
-Overfull \hbox (21.45544pt too wide) in paragraph at lines 204--205
-\rm честве дополнительной справки для пользователя. Можно использовать синоним|
-
+Overfull \hbox (2.83145pt too wide) in paragraph at lines 204--205
+\rm честве дополнительной справки для пользователя. Можно использовать сино-|
 
 \hbox(8.04599+2.412)x452.96786, glue set - 1.0
 .\rm ч
@@ -420,7 +419,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (84 pages, 751309 bytes).
+Output written on thbook.pdf (84 pages, 751313 bytes).
 PDF statistics:
  539 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
