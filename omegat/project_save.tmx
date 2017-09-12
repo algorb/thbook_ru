@@ -416,10 +416,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |explo-team &lt;person&gt;| = a discovery team member.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T165024Z" creationid="Алексей" creationdate="20170912T164955Z">
+        <seg>* |explo-team &lt;персона&gt;| = член исследовательского отделения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |id &lt;ext_keyword&gt;| = id of the object * |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163945Z" creationid="Алексей" creationdate="20170912T163557Z">
         <seg>* |id &lt;ext_keyword&gt;| = id объекта * |author &lt;дата&gt; &lt;персона&gt;| = автор данных и дата их создания * |copyright &lt;дата&gt; &lt;строка&gt;| = дата и имя авторского права * |title &lt;строка&gt;| = описание объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = description of the instrument that was used to survey the given quantities (same keywords as team person's role) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T165541Z" creationid="Алексей" creationdate="20170912T165244Z">
+        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который использовался для определения количественных данных (те же слова, что и роль человека в команде) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,8 +466,8 @@
       <tuv lang="EN-US">
         <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164838Z" creationid="Алексей" creationdate="20170912T164533Z">
-        <seg>* |team &lt;персона&gt; [&lt;роли&gt;]| = член исследовательской группы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164949Z" creationid="Алексей" creationdate="20170912T164533Z">
+        <seg>* |team &lt;персона&gt; [&lt;роли&gt;]| = член съемочного отделения.</seg>
       </tuv>
     </tu>
     <tu>
