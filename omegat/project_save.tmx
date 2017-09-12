@@ -829,6 +829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse the top menu for a minute to get feeling of XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174130Z" creationid="Алексей" creationdate="20170912T174130Z">
+        <seg>Просмотрите верхнее меню, чтобы почувствовать XTherion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193604Z" creationid="Алексей" creationdate="20170909T142950Z">
@@ -993,6 +1001,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
         <seg>Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each mode of operation, there is an additional right or left menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174316Z" creationid="Алексей" creationdate="20170912T174316Z">
+        <seg>Для каждого режима работы есть дополнительное меню справа или слева.</seg>
       </tuv>
     </tu>
     <tu>
