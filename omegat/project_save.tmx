@@ -1029,6 +1029,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For most of the menus and buttons, there is a short (translated) description in the status line, so it's not hard to guess the meaning of each one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174438Z" creationid="Алексей" creationdate="20170912T174438Z">
+        <seg>Для большинства меню и кнопок в строке состояния есть короткое описание, поэтому нетрудно догадаться о значении каждого из них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For those who want to understand more about it, here is a brief explanation of the above flowchart.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185525Z" creationid="Алексей" creationdate="20170909T185525Z">
@@ -1633,10 +1641,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The order of submenus on the side may be customized by the user.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
+        <seg>Показ подменю сбоку может быть настроен пользователем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180658Z" creationid="Алексей" creationdate="20170909T180456Z">
         <seg>Исходники --- главный дистрибутив Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The submenus may be packed; you may unpack them by clicking on the menu button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174400Z" creationid="Алексей" creationdate="20170912T174400Z">
+        <seg>Подменю могут быть свернуты; вы можете развернуть их, нажав кнопку меню.</seg>
       </tuv>
     </tu>
     <tu>
