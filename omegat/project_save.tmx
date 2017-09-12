@@ -1938,6 +1938,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This line is hidden by XTherion and may be accessed only indirectly using the right-hand menu.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175154Z" creationid="Алексей" creationdate="20170912T175154Z">
+        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170616Z" creationid="Алексей" creationdate="20170909T155111Z">
@@ -2089,6 +2098,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152252Z" creationid="Алексей" creationdate="20170909T151920Z">
         <seg>XTherion работает как расширенный текстовый ре\-дак\-тор, редактор карт (где карты рисуются в полностью интерактивном режиме) и компилятор (который запускает Therion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion's text editor offers some interesting features which may help with creating text input files: support for Unicode encoding and ability to open multiple files.&lt;u0&gt;File encoding is specified on the first line of the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175115Z" creationid="Алексей" creationdate="20170912T175115Z">
+        <seg>Текстовый редактор XTherion предлагает некоторые интересные функции, которые могут помочь в создании текстовых входных файлов: поддержка кодировки Unicode и возможность открытия нескольких файлов. &lt;u0&gt;Кодировка файла указана в первой строке файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion---text editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174938Z" creationid="Алексей" creationdate="20170912T174925Z">
+        <seg>XTherion -- текстовый редактор.</seg>
       </tuv>
     </tu>
     <tu>
