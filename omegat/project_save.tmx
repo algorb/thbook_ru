@@ -410,8 +410,8 @@
       <tuv lang="EN-US">
         <seg>* |explo-date &lt;date&gt;| = discovery date.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164450Z" creationid="Алексей" creationdate="20170912T164450Z">
-        <seg>* |explo-date &lt;date&gt;| = discovery date.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164508Z" creationid="Алексей" creationdate="20170912T164450Z">
+        <seg>* |explo-date &lt;дата&gt;| = дата исследования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +444,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161338Z" creationid="Алексей" creationdate="20170911T155903Z">
         <seg>* |person-rename &lt;старое имя&gt; &lt;новое имя&gt;| = переименовать человека, имя кото\-рого было изменено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164533Z" creationid="Алексей" creationdate="20170912T164533Z">
+        <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
       </tuv>
     </tu>
     <tu>
