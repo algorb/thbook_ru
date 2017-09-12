@@ -464,6 +464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170742Z" creationid="Алексей" creationdate="20170912T170635Z">
+        <seg>* |sd &lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;| = задает стандартное отклонение для данных измерений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164949Z" creationid="Алексей" creationdate="20170912T164533Z">
@@ -1469,6 +1477,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185735Z" creationid="Алексей" creationdate="20170909T185735Z">
         <seg>Временные файлы данных не показаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Quantity list can contain the following keywords: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170857Z" creationid="Алексей" creationdate="20170912T170857Z">
+        <seg>Quantity list может содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2637,16 +2653,5 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">thbook/ch02.tex</prop>
-      <prop type="prev">See declination option of survey command.</prop>
-      <prop type="next">* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</prop>
-      <tuv lang="EN-US">
-        <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170538Z" creationid="Алексей" creationdate="20170912T170538Z">
-        <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
