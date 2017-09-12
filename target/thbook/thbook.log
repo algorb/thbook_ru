@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:03
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -69,7 +69,7 @@ loading : Context Support Macros / PDF
 ) (etc/optarg.tex) (etc/verbatim.tex)
 \footnum=\count37
  (ch00.tex [1{C:/Users/РђР»РµРєСЃРµР№/AppData/Local/MiKTeX/2.9/pdftex/config/pd
-ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex) [3] [4]
+ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 \openout1 = `etc/contents.tex'.
 
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
@@ -88,19 +88,7 @@ grid-flip (none)/vertical/horizontal|
 .\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
-[33] [34]
-Overfull \hbox (7.97954pt too wide) in paragraph at lines 693--695
-\rm из командной строки. XThe-rion также не является единственным графическим|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\rm и
-.\rm з
-.\glue 4.31999 plus 2.592 minus 1.032
-.\rm к
-.\kern-0.24
-.etc.
-
-[35]
+[33] [34] [35]
 Missing character: There is no Т in font cmti10!
 Missing character: There is no а in font cmti10!
 Missing character: There is no б in font cmti10!
@@ -483,9 +471,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (84 pages, 733762 bytes).
+Output written on thbook.pdf (84 pages, 753031 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
+ 539 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
