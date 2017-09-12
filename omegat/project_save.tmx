@@ -434,8 +434,8 @@
       <tuv lang="EN-US">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = description of the instrument that was used to survey the given quantities (same keywords as team person's role) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T165541Z" creationid="Алексей" creationdate="20170912T165244Z">
-        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который использовался для определения количественных данных (те же слова, что и роль человека в команде) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170018Z" creationid="Алексей" creationdate="20170912T165244Z">
+        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который использовался для определения количественных данных (те же слова, что и роль человека в команде) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе интерпретировать градиенты $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,13 +2486,13 @@
       <tuv lang="EN-US">
         <seg>|centreline [OPTIONS] date &lt;date&gt; team &lt;person&gt; [&lt;roles&gt;] explo-date &lt;date&gt; explo-team &lt;person&gt; instrument &lt;quantity list&gt; &lt;description&gt; calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;] units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt; sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt; grade &lt;grade list&gt; declination &lt;value&gt; &lt;units&gt; grid-angle &lt;value&gt; &lt;units&gt; infer &lt;what&gt; &lt;on/off&gt; mark &lt;type&gt; flags &lt;shot flags&gt; station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;] cs &lt;coordinate system&gt; fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]] equate &lt;station list&gt; data &lt;style&gt; &lt;readings order&gt; break group endgroup walls &lt;auto/on/off&gt; vthreshold &lt;number&gt; &lt;units&gt; extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]] station-names &lt;prefix&gt; &lt;suffix&gt; ... [SURVEY DATA] ... endcentreline|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163308Z" creationid="Алексей" creationdate="20170912T005309Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T165616Z" creationid="Алексей" creationdate="20170912T005309Z">
         <seg>|centreline [OPTIONS]
 	date &lt;дата&gt;
 	team &lt;персона&gt; [&lt;роли&gt;]
 	explo-date &lt;дата&gt;
 	explo-team &lt;персона&gt;
-	instrument &lt;quantity list&gt; &lt;description&gt;
+	instrument &lt;quantity list&gt; &lt;описание&gt;
 	calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]
 	units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;
 	sd &lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;
