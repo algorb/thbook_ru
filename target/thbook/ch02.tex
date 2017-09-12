@@ -690,21 +690,25 @@ You can test presence of such a variable using |if known ATTR_<name>: ... fi|.
 
 XTherion -- графический пользовательский интерфейс для Therion. Он помо\-гает в создании файлов входных данных. В настоящее время он работает в трех основных режимах: текстовый редактор, редактор карт и компилятор. Здесь мы обсуждаем созданием данных, поэтому в этом разделе описаны только два первых режима. Функции компилятора смотрите в главе {\it Обра\-ботка данных}. 
 
-Его не обязательно использовать для Therion -- вы можете редактировать входные файлы в своем любимом текстовом редакторе и запускать Therion из командной строки. XTherion is also not the only GUI which may be used with Therion. It is possible to write a better one, which would be more user friendly, more WYSIWYG, faster, more robust and easier to use. Any volunteers? 
+Его не обязательно использовать для Therion -- вы можете редактировать входные файлы в своем любимом текстовом редакторе и запускать Therion из командной строки. XTherion также не является единственным графическим интерфейсом, который можно использовать с Therion.
+ Можно написать лучшую, более удобную для пользователя, более WYSIWYG, быструю, более надежную и удобную в использовании. Есть желающие? 
 
-This manual does not describe such familiar things as `if you want to save a file, go to menu File and select Save, or press Ctrl-s'. Browse the top menu for a minute to get feeling of XTherion. 
+В этом руководстве не описываются такие знакомые вещи, как `если вы хотите сохранить файл, перейдите в меню Файл и выберите Сохранить или нажмите Ctrl-s'. Просмотрите верхнее меню, чтобы почувствовать XTherion. 
 
-For each mode of operation, there is an additional right or left menu. The submenus may be packed; you may unpack them by clicking on the menu button. For most of the menus and buttons, there is a short (translated) description in the status line, so it's not hard to guess the meaning of each one. The order of submenus on the side may be customized by the user. Right-click on the menu button and select in the menu which of the other menus it should be swapped with. 
+Для каждого режима работы есть дополнительное меню справа или слева. Подменю могут быть свернуты; вы можете развернуть их, нажав кнопку меню. Для большинства меню и кнопок в строке состояния есть короткое описание, поэтому нетрудно догадаться о значении каждого из них. Показ подменю сбоку может быть настроен пользователем. Right-click on the menu button and select in the menu which of the other menus it should be swapped with. 
 
-\subsubchapter XTherion---text editor. 
+\subsubchapter XTherion -- текстовый редактор. 
 
-XTherion's text editor offers some interesting features which may help with creating text input files: support for Unicode encoding and ability to open multiple files.\[File encoding is specified on the first line of the file. This line is hidden by XTherion and may be accessed only indirectly using the right-hand menu.] 
+Текстовый редактор XTherion предлагает некоторые интересные функции, которые могут помочь в создании текстовых входных файлов: поддержка кодировки Unicode и возможность открытия нескольких файлов. \[Кодировка файла указана в первой строке файла. Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.
+ 
 
-To make entering data easy, it supports table formatting of centreline data. There is a menu {\it Data table} for typing the data. It may be customized to user's data order by pressing a {\it Scan data format} button when the cursor is below the data order specification (`data' option in the `centreline' command). 
+Чтобы упростить ввод данных, он поддерживает форматирование таблиц нитки хода. Для ввода данных существует меню {\it Таблица данных}. Она может быть настроена на ввод данных пользователя, нажав кнопку {\it Определить формат данных}, когда курсор находится под спецификацией данных (опция `дата' в команде `centreline').
+ 
 
-\subsubchapter XTherion---map editor. 
+\subsubchapter XTherion -- редактор карт. 
 
-Map editor allows you to draw and edit map fully interactively. But don't expect too much. XTherion is not a truly WYSIWYG editor. It displays only the position, not the actual shape, of drawn point or line symbols. Visually there is no difference between a helictite and a text label---both are rendered as simple dots. The type and other attributes of any object are specified only in the {\it Point control} and {\it Line control} menus. 
+Редактор карт позволяет вам рисовать и редактировать карту полностью в интерактивном режиме. Но не ожидайте слишком многого. XTherion не является редактором WYSIWYG. Он отображает только позицию, а не фактическую форму, нарисованных точек или линий. Визуально нет никакой разницы между геликтитом и текстовой меткой -- оба они отображаются как простые точки.
+ Тип и другие атрибуты любого объекта указываются только в меню {\it Точка} и {\it Линия}. 
 
 \ifx\pdfoutput\undefined\else \leavevmode\llap{\smash{\raise10pt\hbox{\pdfannot width 6cm height 0cm depth 4cm {/Subtype /Text /Name /Help /Contents (Hints: 1. What does loop closure do? 2. Why do we use MetaPost?) }}} \qquad}\fi {\it Exercise:} Find two substantial reasons, why the map drawn in XTherion can't be identical with Therion output. (If you answer this, you'll know, why XTherion will never be true WYSIWYG editor. Authors' laziness is not the correct answer.) 
 
