@@ -392,10 +392,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |date &lt;date&gt;| = survey date.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164008Z" creationid="Алексей" creationdate="20170912T163954Z">
+        <seg>* |date &lt;дата&gt;| = дата съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160051Z" creationid="Алексей" creationdate="20170911T155944Z">
         <seg>* |entrance &lt;имя-станции&gt;| = указывает главный вход в пещеру, представленный в этом survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |explo-date &lt;date&gt;| = discovery date.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164450Z" creationid="Алексей" creationdate="20170912T164450Z">
+        <seg>* |explo-date &lt;date&gt;| = discovery date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -961,6 +977,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
         <seg>Если строка данных начинается со слова, зарезервированного для опции, вам нужно вставить `|!|' перед ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If multiple dates are specified, a time interval is created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164105Z" creationid="Алексей" creationdate="20170912T164105Z">
+        <seg>Если указано несколько дат, создается временной интервал.</seg>
       </tuv>
     </tu>
     <tu>
