@@ -400,6 +400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |id &lt;ext_keyword&gt;| = id of the object * |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163945Z" creationid="Алексей" creationdate="20170912T163557Z">
+        <seg>* |id &lt;ext_keyword&gt;| = id объекта * |author &lt;дата&gt; &lt;персона&gt;| = автор данных и дата их создания * |copyright &lt;дата&gt; &lt;строка&gt;| = дата и имя авторского права * |title &lt;строка&gt;| = описание объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
