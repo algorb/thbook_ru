@@ -805,6 +805,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any volunteers?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173605Z" creationid="Алексей" creationdate="20170912T173605Z">
+        <seg>Есть желающие?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrows show data flow between programs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185703Z" creationid="Алексей" creationdate="20170909T185703Z">
@@ -975,8 +983,8 @@
       <tuv lang="EN-US">
         <seg>For compiler features see the chapter {&lt;u1&gt; Processing data}.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173030Z" creationid="Алексей" creationdate="20170912T173030Z">
-        <seg>Функции компилятора смотрите в главе {&lt;u1&gt; Обработка данных}.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173309Z" creationid="Алексей" creationdate="20170912T173030Z">
+        <seg>Функции компилятора смотрите в главе {&lt;u1&gt; Обра\-ботка данных}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1184,8 +1192,8 @@
       <tuv lang="EN-US">
         <seg>It helps a lot with creating input data files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172818Z" creationid="Алексей" creationdate="20170912T172818Z">
-        <seg>Он помогает в создании файлов входных данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173237Z" creationid="Алексей" creationdate="20170912T172818Z">
+        <seg>Он помо\-гает в создании файлов входных данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1207,10 +1215,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not necessary for Therion itself---you may edit input files in your favourite text editor and run Therion from the command line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173126Z" creationid="Алексей" creationdate="20170912T173126Z">
+        <seg>Его не обязательно использовать для Therion -- вы можете редактировать входные файлы в своем любимом текстовом редакторе и запускать Therion из командной строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is only required for XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161416Z" creationid="Алексей" creationdate="20170909T161416Z">
         <seg>Это требуется только для XTherion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible to write a better one, which would be more user friendly, more WYSIWYG, faster, more robust and easier to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173551Z" creationid="Алексей" creationdate="20170912T173551Z">
+        <seg>Можно написать лучшую, более удобную для пользователя, более WYSIWYG, быструю, более надежную и удобную в использовании.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +1906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This manual does not describe such familiar things as `if you want to save a file, go to menu File and select Save, or press Ctrl-s'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174100Z" creationid="Алексей" creationdate="20170912T174100Z">
+        <seg>В этом руководстве не описываются такие знакомые вещи, как `если вы хотите сохранить файл, перейдите в меню Файл и выберите Сохранить или нажмите Ctrl-s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means, that object identifiers must be unique only in the scope of one survey.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154210Z" creationid="Алексей" creationdate="20170911T154210Z">
@@ -2000,6 +2032,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172749Z" creationid="Алексей" creationdate="20170912T172725Z">
         <seg>XTherion -- графический пользовательский интерфейс для Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion is also not the only GUI which may be used with Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173514Z" creationid="Алексей" creationdate="20170912T173514Z">
+        <seg>XTherion также не является единственным графическим интерфейсом, который можно использовать с Therion.
+</seg>
       </tuv>
     </tu>
     <tu>
