@@ -1989,8 +1989,8 @@
       <tuv lang="EN-US">
         <seg>This line is hidden by XTherion and may be accessed only indirectly using the right-hand menu.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175154Z" creationid="Алексей" creationdate="20170912T175154Z">
-        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T180716Z" creationid="Алексей" creationdate="20170912T175154Z">
+        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.]
 </seg>
       </tuv>
     </tu>
@@ -2072,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>Visually there is no difference between a helictite and a text label---both are rendered as simple dots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175913Z" creationid="Алексей" creationdate="20170912T175913Z">
-        <seg>Визуально нет никакой разницы между геликтитом и текстовой меткой -- оба они отображаются как простые точки.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T180825Z" creationid="Алексей" creationdate="20170912T175913Z">
+        <seg>Визуально нет ника\-кой разницы между геликтитом и текстовой меткой -- оба они отображаются как простые точки.
 </seg>
       </tuv>
     </tu>
