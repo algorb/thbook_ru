@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:07
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,83 +89,18 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35]
-Missing character: There is no Т in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no б in font cmti10!
-Missing character: There is no л in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no ц in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no д in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no н in font cmti10!
-Missing character: There is no н in font cmti10!
-Missing character: There is no ы in font cmti10!
-Missing character: There is no х in font cmti10!
-Missing character: There is no О in font cmti10!
-Missing character: There is no п in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no д in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no л in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no т in font cmti10!
-Missing character: There is no ь in font cmti10!
-Missing character: There is no ф in font cmti10!
-Missing character: There is no о in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no м in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no т in font cmti10!
-Missing character: There is no д in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no н in font cmti10!
-Missing character: There is no н in font cmti10!
-Missing character: There is no ы in font cmti10!
-Missing character: There is no х in font cmti10!
-Missing character: There is no Т in font cmti10!
-Missing character: There is no о in font cmti10!
-Missing character: There is no ч in font cmti10!
-Missing character: There is no к in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no Л in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no н in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no я in font cmti10!
+Overfull \hbox (1.10591pt too wide) in paragraph at lines 710--712
+\rm фактическую форму, нарисованных точек или линий. Визуально нет никакой|
 
-Overfull \hbox (3.54138pt too wide) in paragraph at lines 715--715
- []\rm Редактор карт позволяет вам рисовать и редактировать карту полностью в и
-нтерактивном|
-
-\hbox(6.70499+2.37999)x452.96786, glue set - 1.0
-.\glue(\leftskip) 18.0
-.\hbox(0.0+0.0)x0.0
-.\rm Р
-.\rm е
-.\kern-0.12001
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\rm ф
+.\rm а
+.\rm к
+.\rm т
+.\rm и
 .etc.
 
-! Argument of \[ has an extra }.
-<inserted text> 
-                \par 
-<to be read again> 
-                   }
-l.715 ...all inactive scraps are rendered yellow.]
-                                                  
-? 
-Runaway argument?
-It's possible to draw more than one scrap in one file, in which case \ETC.
-! Paragraph ended before \[ was complete.
-<to be read again> 
-                   \par 
-<to be read again> 
-                   }
-l.715 ...all inactive scraps are rendered yellow.]
-                                                  
-? 
-[36]
+[36] [37]
 Overfull \hbox (10.02997pt too wide) in paragraph at lines 731--732
 []\rm For mod-i-fy-ing previously-created com-mands, there are ad-di-tional men
 us---e.g. \it Scrap|
@@ -178,8 +113,8 @@ us---e.g. \it Scrap|
 .\glue 4.31999 plus 2.592 minus 1.032
 .etc.
 
-[37] [38] [39] [40] [41] [42] [43] [44]) (ch03.tex [45] [46 <./pic/herakl.pdf>]
-[47] [48]
+[38] [39] [40] [41] [42] [43] [44] [45]) (ch03.tex [46] [47 <./pic/herakl.pdf>]
+[48] [49]
 Overfull \hbox (32.7214pt too wide) in paragraph at lines 143--144
 \rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
 t/line/area/group/special>|
@@ -259,8 +194,8 @@ d/scrap-names/station-|
 .\rm g
 .etc.
 
-[49] [50] [51] [52] [53] [MP to PDF] (mp/page.1) [54] [55 <./pic/page.pdf>]
-[56] [57] [58]) (ch04.tex [59]
+[50] [51] [52] [53] [54] [MP to PDF] (mp/page.1) [55] [56 <./pic/page.pdf>]
+[57] [58] [59]) (ch04.tex [60]
 Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
 \rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
 real, ADJ_BEARING|
@@ -273,7 +208,7 @@ real, ADJ_BEARING|
 .\rm _
 .etc.
 
-[60] [61 <./pic/database.pdf>]
+[61] [62 <./pic/database.pdf>]
 Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
 []\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
 INE where TOPO_DATE|
@@ -286,7 +221,7 @@ INE where TOPO_DATE|
 .\rm e
 .etc.
 
-[62]) (ch05.tex [63] [64 <./pic/thom.jpg>] [65]
+[63]) (ch05.tex [64] [65 <./pic/thom.jpg>] [66]
 Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
  []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
  {/Bor-der [0 0 0]} goto name|
@@ -299,7 +234,7 @@ Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
 .\kern-0.1
 .etc.
 
-[66]
+[67]
 Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
 []\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
@@ -364,7 +299,7 @@ w$} \show-point-erlist\pointerD|
 .\rm p
 .etc.
 
-[67] [68]
+[68] [69]
 Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
 []\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
 eg-end-text-size={\size[20]}|
@@ -377,7 +312,7 @@ eg-end-text-size={\size[20]}|
 .\kern-0.1
 .etc.
 
-[69] [70] [71]
+[70] [71] [72]
 Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 []\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
 -def; init-sym-bol("l_wall_bedrock_UIS");[] |
@@ -390,7 +325,7 @@ Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 .\rm f
 .etc.
 
-[72]
+[73]
 Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
 []\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
 aled (0.02u); pat-ternxstep(.18u);|
@@ -403,7 +338,7 @@ aled (0.02u); pat-ternxstep(.18u);|
 .\rm i
 .etc.
 
-) (ch06.tex [73] [74] [75] [76]
+) (ch06.tex [74] [75] [76] [77]
 Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
  [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
 n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
@@ -422,7 +357,7 @@ n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
 .\kern-0.12001
 .etc.
 
-[77] [78]
+[78] [79]
 Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
  []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
@@ -435,10 +370,10 @@ tf" \"/usr/share/fonts/Serif-|
 .\rm f
 .etc.
 
-[79] [80] [81] [82] [83]) (ch07.tex
+[80] [81] [82] [83] [84]) (ch07.tex
 \samplepath=\toks26
  Warning: skipping the case studies)
-[84] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
+[85] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
@@ -471,9 +406,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (84 pages, 753031 bytes).
+Output written on thbook.pdf (85 pages, 754894 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
+ 543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
