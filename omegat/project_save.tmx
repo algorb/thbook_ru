@@ -1263,6 +1263,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may be customized to user's data order by pressing a {&lt;u1&gt; Scan data format} button when the cursor is below the data order specification (`data' option in the `centreline' command).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175652Z" creationid="Алексей" creationdate="20170912T175652Z">
+        <seg>Она может быть настроена на ввод данных пользователя, нажав кнопку {&lt;u1&gt; Определить формат данных}, когда курсор находится под спецификацией данных (опция `дата' в команде `centreline').
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may look quite complicated, but this approach has a lot of advantages:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152335Z" creationid="Алексей" creationdate="20170909T151938Z">
@@ -1754,6 +1763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is a menu {&lt;u0&gt; Data table} for typing the data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175334Z" creationid="Алексей" creationdate="20170912T175334Z">
+        <seg>Для ввода данных существует меню {&lt;u0&gt; Таблица данных}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143816Z" creationid="Алексей" creationdate="20170909T142824Z">
@@ -1992,6 +2009,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133629Z" creationid="Алексей" creationdate="20170910T132459Z">
         <seg>Чтобы найти номер вашей системы, см. |extern/proj4/nad/epsg| файл в дистрибутиве исходников.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make entering data easy, it supports table formatting of centreline data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175230Z" creationid="Алексей" creationdate="20170912T175230Z">
+        <seg>Чтобы упростить ввод данных, он поддерживает форматирование таблиц нитки хода.</seg>
       </tuv>
     </tu>
     <tu>
