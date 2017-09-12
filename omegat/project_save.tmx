@@ -1353,6 +1353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map editor allows you to draw and edit map fully interactively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175742Z" creationid="Алексей" creationdate="20170912T175742Z">
+        <seg>Редактор карт позволяет вам рисовать и редактировать карту полностью в интерактивном режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meaning of colors:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
@@ -2131,6 +2139,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175115Z" creationid="Алексей" creationdate="20170912T175115Z">
         <seg>Текстовый редактор XTherion предлагает некоторые интересные функции, которые могут помочь в создании текстовых входных файлов: поддержка кодировки Unicode и возможность открытия нескольких файлов. &lt;u0&gt;Кодировка файла указана в первой строке файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion---map editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175716Z" creationid="Алексей" creationdate="20170912T175709Z">
+        <seg>XTherion -- редактор карт.</seg>
       </tuv>
     </tu>
     <tu>
