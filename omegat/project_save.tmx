@@ -1353,6 +1353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See declination option of survey command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170510Z" creationid="Алексей" creationdate="20170912T170510Z">
+        <seg>См. опцию declination команды survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting-up environment.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180956Z" creationid="Алексей" creationdate="20170909T180956Z">
@@ -2629,5 +2637,16 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">thbook/ch02.tex</prop>
+      <prop type="prev">See declination option of survey command.</prop>
+      <prop type="next">* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</prop>
+      <tuv lang="EN-US">
+        <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170538Z" creationid="Алексей" creationdate="20170912T170538Z">
+        <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
