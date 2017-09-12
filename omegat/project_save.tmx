@@ -2414,34 +2414,34 @@
       <tuv lang="EN-US">
         <seg>|centreline [OPTIONS] date &lt;date&gt; team &lt;person&gt; [&lt;roles&gt;] explo-date &lt;date&gt; explo-team &lt;person&gt; instrument &lt;quantity list&gt; &lt;description&gt; calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;] units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt; sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt; grade &lt;grade list&gt; declination &lt;value&gt; &lt;units&gt; grid-angle &lt;value&gt; &lt;units&gt; infer &lt;what&gt; &lt;on/off&gt; mark &lt;type&gt; flags &lt;shot flags&gt; station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;] cs &lt;coordinate system&gt; fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]] equate &lt;station list&gt; data &lt;style&gt; &lt;readings order&gt; break group endgroup walls &lt;auto/on/off&gt; vthreshold &lt;number&gt; &lt;units&gt; extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]] station-names &lt;prefix&gt; &lt;suffix&gt; ... [SURVEY DATA] ... endcentreline|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T005642Z" creationid="Алексей" creationdate="20170912T005309Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163308Z" creationid="Алексей" creationdate="20170912T005309Z">
         <seg>|centreline [OPTIONS]
-	date &lt;date&gt;
-	team &lt;person&gt; [&lt;roles&gt;]
-	explo-date &lt;date&gt;
-	explo-team &lt;person&gt;
+	date &lt;дата&gt;
+	team &lt;персона&gt; [&lt;роли&gt;]
+	explo-date &lt;дата&gt;
+	explo-team &lt;персона&gt;
 	instrument &lt;quantity list&gt; &lt;description&gt;
 	calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]
-	units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt;
-	sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;
+	units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;
+	sd &lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;
 	grade &lt;grade list&gt;
-	declination &lt;value&gt; &lt;units&gt;
-	grid-angle &lt;value&gt; &lt;units&gt;
+	declination &lt;значение&gt; &lt;единицы&gt;
+	grid-angle &lt;значение&gt; &lt;единицы&gt;
 	infer &lt;what&gt; &lt;on/off&gt;
-	mark &lt;type&gt;
+	mark &lt;тип&gt;
 	flags &lt;shot flags&gt;
-	station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;]
-	cs &lt;coordinate system&gt;
-	fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]
+	station &lt;станция&gt; &lt;комментарий&gt; [&lt;flags&gt;]
+	cs &lt;система координат&gt;
+	fix &lt;станция&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]
 	equate &lt;station list&gt;
-	data &lt;style&gt; &lt;readings order&gt;
+	data &lt;стиль&gt; &lt;readings order&gt;
 	break
 	group
 	endgroup
 	walls &lt;auto/on/off&gt;
-	vthreshold &lt;number&gt; &lt;units&gt;
-	extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]]
-	station-names &lt;prefix&gt; &lt;suffix&gt;
+	vthreshold &lt;число&gt; &lt;единицы&gt;
+	extend &lt;spec&gt; [&lt;станция&gt; [&lt;станция&gt;]]
+	station-names &lt;префикс&gt; &lt;суффикс&gt;
 	...
 	[данные съемки]
 	...
