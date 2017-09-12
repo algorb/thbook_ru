@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is usual for cross sections.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172537Z" creationid="Алексей" creationdate="20170912T172537Z">
+        <seg>(Это обычно используется для сечений.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* 3D model is generated from 2D maps to get a realistic 3D model without entering too much data</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163226Z" creationid="Алексей" creationdate="20170909T160319Z">
@@ -1369,6 +1377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sets the survey stations equivalence.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172626Z" creationid="Алексей" creationdate="20170912T172626Z">
+        <seg>Устанавливает эквивалентность станций съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting-up environment.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180956Z" creationid="Алексей" creationdate="20170909T180956Z">
@@ -2044,10 +2060,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`equate'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172601Z" creationid="Алексей" creationdate="20170912T172601Z">
+        <seg>`equate'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`input'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172322Z" creationid="Алексей" creationdate="20170910T172322Z">
         <seg>`input'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`map'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172554Z" creationid="Алексей" creationdate="20170912T172554Z">
+        <seg>`map'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,6 +2611,14 @@ endcommand|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172132Z" creationid="Алексей" creationdate="20170910T172132Z">
         <seg>|encoding &lt;encoding-name&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|equate &lt;station list&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172645Z" creationid="Алексей" creationdate="20170912T172634Z">
+        <seg>|equate &lt;список станций&gt;|</seg>
       </tuv>
     </tu>
     <tu>
