@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:02
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -127,4 +127,365 @@ Missing character: There is no ь in font cmti10!
 Missing character: There is no ф in font cmti10!
 Missing character: There is no о in font cmti10!
 Missing character: There is no р in font cmti10!
-Mi
+Missing character: There is no м in font cmti10!
+Missing character: There is no а in font cmti10!
+Missing character: There is no т in font cmti10!
+Missing character: There is no д in font cmti10!
+Missing character: There is no а in font cmti10!
+Missing character: There is no н in font cmti10!
+Missing character: There is no н in font cmti10!
+Missing character: There is no ы in font cmti10!
+Missing character: There is no х in font cmti10!
+Missing character: There is no Т in font cmti10!
+Missing character: There is no о in font cmti10!
+Missing character: There is no ч in font cmti10!
+Missing character: There is no к in font cmti10!
+Missing character: There is no а in font cmti10!
+Missing character: There is no Л in font cmti10!
+Missing character: There is no и in font cmti10!
+Missing character: There is no н in font cmti10!
+Missing character: There is no и in font cmti10!
+Missing character: There is no я in font cmti10!
+
+Overfull \hbox (3.54138pt too wide) in paragraph at lines 715--715
+ []\rm Редактор карт позволяет вам рисовать и редактировать карту полностью в и
+нтерактивном|
+
+\hbox(6.70499+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 18.0
+.\hbox(0.0+0.0)x0.0
+.\rm Р
+.\rm е
+.\kern-0.12001
+.etc.
+
+! Argument of \[ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.715 ...all inactive scraps are rendered yellow.]
+                                                  
+? 
+Runaway argument?
+It's possible to draw more than one scrap in one file, in which case \ETC.
+! Paragraph ended before \[ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.715 ...all inactive scraps are rendered yellow.]
+                                                  
+? 
+[36]
+Overfull \hbox (10.02997pt too wide) in paragraph at lines 731--732
+[]\rm For mod-i-fy-ing previously-created com-mands, there are ad-di-tional men
+us---e.g. \it Scrap|
+
+\hbox(8.11198+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm F
+.\rm o
+.\rm r
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[37] [38] [39] [40] [41] [42] [43] [44]) (ch03.tex [45] [46 <./pic/herakl.pdf>]
+[47] [48]
+Overfull \hbox (32.7214pt too wide) in paragraph at lines 143--144
+\rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
+t/line/area/group/special>|
+
+\hbox(6.94+2.37999)x452.96786, glue set - 1.0
+.\rm r
+.\rm i
+.\rm c
+.\rm /
+.\rm i
+.etc.
+
+
+Overfull \hbox (61.95135pt too wide) in paragraph at lines 143--144
+\rm symbol-show <point/line/area/group/special> <symbol-type> symbol-colour <po
+int/line/area/group/special>|
+
+\hbox(6.94+2.37999)x452.96786, glue set - 1.0
+.\rm s
+.\rm y
+.\rm m
+.\rm b
+.\rm o
+.etc.
+
+
+Overfull \hbox (50.7915pt too wide) in paragraph at lines 143--144
+\rm sur-face <top/bottom/off> surface-opacity <value> sketches <on/off> lay-ers
+ <on/off> grid <off/top/bottom>|
+
+\hbox(6.94+2.37999)x452.96786, glue set - 1.0
+.\rm s
+.\rm u
+.\rm r
+.\discretionary
+..\rm -
+.\rm f
+.etc.
+
+
+Overfull \hbox (5.42154pt too wide) in paragraph at lines 143--144
+\rm <on/off> leg-end <on/off/all> legend-columns <num-ber> legend-width <n> <un
+its> map-comment|
+
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
+.\rm <
+.\rm o
+.\kern-0.1
+.\rm n
+.\rm /
+.etc.
+
+
+Overfull \hbox (36.1415pt too wide) in paragraph at lines 143--144
+\rm map-image <x> <y> <n/s/e/w/ne/nw/se/sw/center> <file-name> statis-tics <ex-
+plo/topo/carto/copyright|
+
+\hbox(6.94+2.37999)x452.96786, glue set - 1.0
+.\rm m
+.\rm a
+.\rm p
+.\rm -
+.\discretionary
+.etc.
+
+
+Overfull \hbox (16.00151pt too wide) in paragraph at lines 143--144
+\rm lan-guage <xx[_YY]> colour/color <item> <colour> de-bug <on/all/first/secon
+d/scrap-names/station-|
+
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
+.\rm l
+.\rm a
+.\rm n
+.\discretionary
+..\rm -
+.\rm g
+.etc.
+
+[49] [50] [51] [52] [53] [MP to PDF] (mp/page.1) [54] [55 <./pic/page.pdf>]
+[56] [57] [58]) (ch04.tex [59]
+Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
+\rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
+real, ADJ_BEARING|
+
+\hbox(6.70499+2.245)x452.96786, glue set - 1.0
+.\rm L
+.\rm I
+.\rm N
+.\rm E
+.\rm _
+.etc.
+
+[60] [61 <./pic/database.pdf>]
+Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
+[]\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
+INE where TOPO_DATE|
+
+\hbox(6.70499+2.245)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm s
+.\rm e
+.\rm l
+.\rm e
+.etc.
+
+[62]) (ch05.tex [63] [64 <./pic/thom.jpg>] [65]
+Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
+ []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
+ {/Bor-der [0 0 0]} goto name|
+
+\hbox(7.25499+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\rm \
+.\rm d
+.\kern-0.1
+.etc.
+
+[66]
+Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
+[]\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
+r-ing\space(\the\pagenum)\fi|
+
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm \
+.\rm l
+.\rm i
+.\rm n
+.etc.
+
+
+Overfull \hbox (163.80124pt too wide) in paragraph at lines 150--150
+[]\rm \hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \hb
+ox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}|
+
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm \
+.\rm h
+.\rm b
+.\rm o
+.etc.
+
+
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 150--150
+\rm \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss} \raise1pt\hbox to 0pt{\hss$\l
+eftrightarrow$\hss}|
+
+\hbox(7.61499+2.245)x452.96786, glue set - 1.0
+.\rm \
+.\rm r
+.\rm a
+.\rm i
+.\rm s
+.etc.
+
+
+Overfull \hbox (38.90144pt too wide) in paragraph at lines 150--150
+\rm \rlap{\hskip0.7em\showpointer\pointerE}} \hbox to 0pt{\hss\showpointer\poin
+terS\hss} }\qquad\qquad|
+
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
+.\rm \
+.\rm r
+.\rm l
+.\rm a
+.\rm p
+.etc.
+
+
+Overfull \hbox (49.18141pt too wide) in paragraph at lines 150--150
+\rm \vtop{ \def\arr{$\uparrow$} \show-point-erlist\pointerU \def\arr{$\downarro
+w$} \show-point-erlist\pointerD|
+
+\hbox(7.61499+2.245)x452.96786, glue set - 1.0
+.\rm \
+.\rm v
+.\rm t
+.\rm o
+.\rm p
+.etc.
+
+[67] [68]
+Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
+[]\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
+eg-end-text-size={\size[20]}|
+
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm c
+.\rm o
+.\rm d
+.\kern-0.1
+.etc.
+
+[69] [70] [71]
+Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
+[]\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
+-def; init-sym-bol("l_wall_bedrock_UIS");[] |
+
+\hbox(7.25499+2.37999)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm d
+.\kern-0.1
+.\rm e
+.\rm f
+.etc.
+
+[72]
+Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
+[]\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
+aled (0.02u); pat-ternxstep(.18u);|
+
+\hbox(6.70499+2.245)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm b
+.\rm e
+.\rm g
+.\rm i
+.etc.
+
+) (ch06.tex [73] [74] [75] [76]
+Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
+ [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
+n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
+
+
+\hbox(8.04599+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\rm o
+.\kern-0.12001
+.etc.
+
+[77] [78]
+Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
+ []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
+tf" \"/usr/share/fonts/Serif-|
+
+\hbox(7.25499+2.01)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\rm p
+.\rm d
+.\rm f
+.etc.
+
+[79] [80] [81] [82] [83]) (ch07.tex
+\samplepath=\toks26
+ Warning: skipping the case studies)
+[84] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmti8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D
+:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+
+pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
+/public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
+
+
+pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
+/public/pscyr/handb11.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
+
+pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
+/public/pscyr/handb12.pfb): glyph `cyrflex' undefined
+
+
+pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
+/public/pscyr/handb12.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
+Output written on thbook.pdf (84 pages, 733762 bytes).
+PDF statistics:
+ 441 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+
