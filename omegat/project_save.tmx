@@ -662,8 +662,8 @@
       <tuv lang="EN-US">
         <seg>&lt;u2&gt;{&lt;u7&gt; Note:} Therion doesn't use background images in any way unless you assign them to some scrap using |-sketch| option.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143251Z" creationid="Алексей" creationdate="20170913T143103Z">
-        <seg>&lt;u2&gt;{&lt;u7&gt; Примечание:} Therion никак не использует фоновые изображения, если вы не назначили их для определенного скрапа с помощью опции |-sketch|.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143339Z" creationid="Алексей" creationdate="20170913T143103Z">
+        <seg>&lt;u2&gt;{Примечание:} Therion никак не использует фоновые изображения, если вы не назначили их для определенного скрапа с помощью опции |-sketch|.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,6 +792,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T173721Z" creationid="Алексей" creationdate="20170909T145735Z">
         <seg>После обработки данных в TJIKPR, новые кольца пов\-лия\-ли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After these preparation steps, you're ready for drawing, or, more precisely, for {&lt;u0&gt; creating a map data file}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143706Z" creationid="Алексей" creationdate="20170913T143706Z">
+        <seg>После этих этапов подготовки вы готовы к рисованию или, точнее, для {&lt;u0&gt; создания файла данных карты}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1786,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The size and zoom setting of the {&lt;u0&gt; drawing area} is adjusted in the corresponding menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143513Z" creationid="Алексей" creationdate="20170913T143513Z">
+        <seg>Размер и масштабирование {&lt;u0&gt; области рисования} настраивается в соответствующем меню.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180658Z" creationid="Алексей" creationdate="20170909T180456Z">
@@ -2652,6 +2669,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u1&gt; Auto adjust} calculates optimal size of the working area according to the sizes and positions of loaded background images.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143625Z" creationid="Алексей" creationdate="20170913T143524Z">
+        <seg>{&lt;u1&gt; Авто} вычисляет оптимальный размер рабочей области в соответствии с размерами и позициями загруженных фоновых изображений.</seg>
       </tuv>
     </tu>
     <tu>
