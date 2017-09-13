@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 21:27
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,40 +89,15 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36]
-Overfull \hbox (15.61156pt too wide) in paragraph at lines 717--718
-\rm мыши и перетаскиванием или через меню. Для повышения производительности|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\rm м
-.\rm ы
-.\rm ш
-.\rm и
-.\glue 4.31999 plus 2.592 minus 1.032
-.etc.
-
-
-Overfull \hbox (5.23947pt too wide) in paragraph at lines 717--718
-\rm на более медленных компьютерах можно временно выгрузить неиспользуемое|
+Overfull \hbox (1.91554pt too wide) in paragraph at lines 717--718
+\rm открыть существующий файл без загрузки фоновых изображений с помощью|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\rm н
-.\rm а
-.\glue 4.31999 plus 2.592 minus 1.032
-.\rm б
 .\rm о
-.etc.
-
-
-Overfull \hbox (20.07797pt too wide) in paragraph at lines 717--718
-\rm изображение из памяти, сняв флажок \it показать\rm . Можно открыть существу
-ющий|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\rm и
-.\rm з
-.\rm о
-.\rm б
-.\kern-0.12001
+.\rm т
+.\rm к
+.\rm р
+.\kern-0.192
 .etc.
 
 [37]
@@ -431,7 +406,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 756952 bytes).
+Output written on thbook.pdf (85 pages, 756920 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
