@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 22:15
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,16 +89,81 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36] [37]
-Overfull \hbox (10.02997pt too wide) in paragraph at lines 735--736
-[]\rm For mod-i-fy-ing previously-created com-mands, there are ad-di-tional men
-us---e.g. \it Scrap|
+Overfull \hbox (6.85957pt too wide) in paragraph at lines 734--735
+[]\rm Полное содержимое любой команды отображается в меню \it Просмотр команды\
+rm . |
+
+\hbox(8.11198+2.754)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm П
+.\rm о
+.\kern-0.24
+.\rm л
+.etc.
+
+
+Overfull \hbox (14.6475pt too wide) in paragraph at lines 736--737
+[]\rm Для изменения ранее созданных команд есть дополнительные меню -- например
+|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm Д
+.\rm л
+.\rm я
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Overfull \hbox (2.39948pt too wide) in paragraph at lines 738--740
+[]\rm Теперь можно вставить некоторые \bf точечные символы\rm . Как и в случае 
+вставки|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\rm Т
+.\kern-0.432
+.\rm е
+.\rm п
+.etc.
+
+
+Overfull \hbox (26.01636pt too wide) in paragraph at lines 738--740
+\rm на нужное место в рабочей области, и вы увидите синюю точку, представляющую
+|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\rm н
+.\rm а
+.\glue 4.31999 plus 2.592 minus 1.032
+.\rm н
+.\rm у
+.etc.
+
+
+Overfull \hbox (3.27795pt too wide) in paragraph at lines 741--742
+\it Команды в файле\rm . Вновь созданные точечные, линейные и текстовые объекты
+|
+
+\hbox(8.11198+2.754)x452.96786, glue set - 1.0
+.\it К
+.\it о
+.\it м
+.\it а
+.\it н
+.etc.
+
+
+Overfull \hbox (6.61002pt too wide) in paragraph at lines 741--742
+\rm выбрав строку и нажав кнопки \it Вниз\rm , \it Вверх \rm или \it Переместит
+ь \rm в меню \it Команды|
 
 \hbox(8.11198+2.85599)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm F
-.\rm o
-.\rm r
-.\glue 4.31999 plus 2.592 minus 1.032
+.\rm в
+.\rm ы
+.\rm б
+.\kern-0.12001
+.\rm р
 .etc.
 
 [38] [39] [40] [41] [42] [43] [44] [45]) (ch03.tex [46] [47 <./pic/herakl.pdf>]
@@ -394,7 +459,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 756903 bytes).
+Output written on thbook.pdf (85 pages, 757287 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
