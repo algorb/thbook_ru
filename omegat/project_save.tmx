@@ -748,6 +748,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After creating a new file in the map editor, you may load one or more {&lt;u0&gt; images}---scanned survey sketches from the cave&lt;u1&gt;XTherion can't scale nor rotate individual images, so use the same orientation, scale and DPI for all images used in the same scrap.]---as a background for the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140012Z" creationid="Алексей" creationdate="20170913T140012Z">
+        <seg>После создания нового файла в редакторе карт вы можете загрузить одно или несколько {&lt;u0&gt; изображений} -- сканированные эскизы съемки пещеры&lt;u1&gt;XTherion не может масштабировать и поворачивать отдельные изображения, поэтому используйте ту же ориентацию, масштаб и DPI для всех изображений, используемых в одном и том же скрапе.] -- в качестве подложки для рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After explaining the basic principles of Therion it's a good idea to try it on the example data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192652Z" creationid="Алексей" creationdate="20170909T132405Z">
@@ -1001,6 +1009,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
         <seg>Первый запуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, you have to decide which part of the cave (which scrap) you'll draw.&lt;u0&gt;It's possible to draw more than one scrap in one file, in which case all inactive scraps are rendered yellow.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135708Z" creationid="Алексей" creationdate="20170913T135708Z">
+        <seg>Во-первых, вам нужно решить, какую часть пещеры (какой скрап) вы рисуете. &lt;u0&gt;В одном файле можно нарисовать несколько скрапов, в этом случае все неактивные скрапы отображаются желтым.]</seg>
       </tuv>
     </tu>
     <tu>
