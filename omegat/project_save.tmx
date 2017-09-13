@@ -2101,6 +2101,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The {&lt;u3&gt; Line point control} menu enables you to adjust the attributes of any selected point on the line, such as the curve being smooth at this point (which is on by default), or the presence of neighbouring control points (`|&lt;&lt;|' and `|&gt;&gt;|' check-boxes).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165237Z" creationid="Алексей" creationdate="20170913T165237Z">
+        <seg>Меню {&lt;u3&gt; Точка линии} позволяет вам отрегулировать атрибуты любой выбранной точки на линии, например, сглаживание кривой в этой точке (которая включена по умолчанию) или наличие соседних контрольных точек (`|&lt;&lt;|' и `|&gt;&gt;|').
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The |&lt;specification&gt;| has three forms:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155200Z" creationid="Алексей" creationdate="20170911T155155Z">
@@ -2888,6 +2897,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112751Z" creationid="Алексей" creationdate="20170910T112751Z">
         <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudr�k) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Areas} are specified by their surrounding lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165318Z" creationid="Алексей" creationdate="20170913T165318Z">
+        <seg>{&lt;u0&gt; Области} определяются окружающими их линиями.</seg>
       </tuv>
     </tu>
     <tu>
