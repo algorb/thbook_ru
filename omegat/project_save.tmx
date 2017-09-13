@@ -821,6 +821,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After filling X1,Y1 and X2,Y2 coordinate pairs the calibration arrow will be moved correspondingly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171518Z" creationid="Алексей" creationdate="20170913T171518Z">
+        <seg>После заполнения пар координат X1, Y1 и X2, Y2 стрелка калибровки будет перемещаться соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After finishing a huge 166-page Atlas of the Cave of Dead Bats in early 1997, we soon had a problem: we found new passages connecting between known passages and surveyed them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145528Z" creationid="Алексей" creationdate="20170909T145528Z">
@@ -1435,6 +1443,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170753Z" creationid="Алексей" creationdate="20170913T170336Z">
         <seg>В файле, сохраненном XTherion, будет только то, что вы введете в {&lt;u3&gt;Редактор} или см. в {&lt;u4&gt; Просмотр команды}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the {&lt;u0&gt; selection mode} you can select existing line or point objects and set their attributes in the corresponding menus, move them, or delete them (Ctrl-d or {&lt;u1&gt; Action button} in {&lt;u2&gt; File commands menu} after setting {&lt;u3&gt; Action} to {&lt;u4&gt; Delete}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171949Z" creationid="Алексей" creationdate="20170913T171949Z">
+        <seg>В {&lt;u0&gt; режиме выбора} вы можете выбрать существующие линейные или точечные объекты и установить их атрибуты в соответствующих меню, переместить их или удалить их (Ctrl-d или {&lt;u1&gt; Кнопка действия} в меню {&lt;u2&gt; Команды в файле} после установки {&lt;u3&gt; Действие} на {&lt;u4&gt; Удалить}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2213,6 +2229,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155718Z" creationid="Алексей" creationdate="20170911T155718Z">
         <seg>Тогда склонение каждого замера будет установлено в соответствии со спецификацией даты объекта данных.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then you have to enter real coordinates of these points (X1, Y1, X2, Y2).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171534Z" creationid="Алексей" creationdate="20170913T171534Z">
+        <seg>Затем вам нужно ввести реальные координаты этих точек (X1, Y1, X2, Y2).</seg>
       </tuv>
     </tu>
     <tu>
