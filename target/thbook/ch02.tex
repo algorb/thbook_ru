@@ -728,15 +728,17 @@ XTherion -- графический пользовательский интерфейс для Therion. Он помо\-гает в 
 endscrap
 end of file| 
 
-in the preview window above the {\it Insert scrap} button. This window is a simplified outline of the text file, which will be saved by XTherion. Only the command (|scrap|, |point|, |line|, |text|---why text see below) and its type (for |point| and |line|) or ID (for |scrap|) are shown. 
+в окне предварительного просмотра над кнопкой {\it Вставить скрап}. Это окно представляет собой упрощенный вывод текстового файла, который будет сохранен XTherion'ом. Показаваются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).
+ 
 
-The full contents of any command is displayed in the {\it Command preview} menu. 
+Полное содержимое любой команды отображается в меню {\it Просмотр команды}. 
 
-For modifying previously-created commands, there are additional menus---e.g.~{\it Scrap control} for the |scrap| command. Here you can change the ID (very important!) and other options. For details see chapter {\it Data format}. 
+Для изменения ранее созданных команд есть дополнительные меню -- например {\it Скрап} для команды |scrap|. Здесь вы можете изменить ID (очень важно!) И другие опции. Подробнее смотрите главу {\it Формат данных}. 
 
-Now it's possible to insert some {\bf point symbols}. As with scrap insertion, go to the {\it File commands} menu, click on the {\it Action} submenu and select {\it Insert point}; than press newly renamed {\it Insert point} button. A shortcut for all this is Ctrl-p. Than click on the desired spot in the working area and you'll see a blue dot representing a point symbol. Its attributes can be adjusted in the {\it Point control} menu. You'll stay in `insert' mode---each click on the working area adds a new point symbol. Take care not to click twice on the same place---you would insert two point symbols in the same place! To escape from `insert' to `select' mode, press {\it Esc} key on the keyboard or {\it Select} button in the {\it File commands} menu. 
+Теперь можно вставить некоторые {\bf точечные символы}. Как и в случае вставки скрапа, перейдите в меню {\it Команды в файле}, нажмите подменю {\it Действие} и выберите {\it Вставить точку}; затем нажать кнопку с изменившимся названием на {\it Вставить точку}. Сочетание клавишь для этого -- Ctrl-p. Затем нажмите на нужное место в рабочей области, и вы увидите синюю точку, представляющую символ точки. Ее атрибуты можно настроить в меню {\it Точка}. Вы останетесь в режиме `вставки' -- каждый щелчок по рабочей области добавляет новый символ точки. Старайтесь не нажимать дважды в одном месте -- тогда вы вставите два точечных символа в одном и том же месте!
+ Чтобы выйти из режима `вставить', нажмите клавишу {\it Esc} на клавиатуре или кнопку {\it Выбрать} в меню {\it Команды в файле}. 
 
-What will the order of commands in the output file? Exactly the same as in the outline in the {\it File commands} menu. Newly created point, line and text objects are added before the currently marked line in the outline. It is possible to change the order by selecting a line and pressing {\it Move down}, {\it Move up} or {\it Move to} buttons in the {\it File commands} menu. This way you can also move objects between scraps. 
+Каков порядок команд в выходном файле? Точно такой же, как в меню {\it Команды в файле}. Вновь созданные точечные, линейные и текстовые объекты добавляются перед текущей выделенной строкой. Можно изменить порядок, выбрав строку и нажав кнопки {\it Вниз}, {\it Вверх} или {\it Переместить} в меню {\it Команды в файле}. Таким образом вы также можете перемещать объекты между скрапами. 
 
 {\bf Drawing lines} is similar to drawing in other vector editing programs, which work with B\'ezier curves. (Guess how to enter the line insertion mode, other than using the shortcut Ctrl-l.) Click where the first point should be, then drag the mouse with pressed left button and release it where the first control point should be. Than click somewhere else (this point will be the second point of the curve) and drag the mouse (adjusting the second control point of the previous arc and the first control point of the next one simultaneously.) If this explanation sounds too obscure, you can get some practise working in some of the standard vector editors with comprehensive documentation. The line will be finished after escaping from the insertion mode. Beginning and orientation of the line is marked by a small orange tick to the left at the first point. 
 
