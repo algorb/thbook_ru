@@ -2868,6 +2868,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Drawing lines} is similar to drawing in other vector editing programs, which work with B&lt;u1&gt;ezier curves.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164412Z" creationid="Алексей" creationdate="20170913T164412Z">
+        <seg>{&lt;u0&gt; Рисование линий} аналогично рисованию в других программах редактирования векторной графики, которые работают с кривыми Безье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Installation from sources (therion-5.*.tar.gz package):}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180406Z" creationid="Алексей" creationdate="20170909T180406Z">
