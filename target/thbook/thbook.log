@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  13 SEP 2017 21:08
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -88,7 +88,63 @@ grid-flip (none)/vertical/horizontal|
 .\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
-[33] [34] [35] [36] [37]
+[33] [34] [35]
+Overfull \hbox (12.31233pt too wide) in paragraph at lines 713--714
+[][]\it Упражнение: \rm Найдите две существенные причины, почему карта, нарисов
+анная|
+
+\hbox(8.11198+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(0.0+0.0)x0.0, glue set - 28.31999fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\hbox(0.0+0.0)x0.0
+...\hbox(0.0+0.0)x0.0, shifted -10.0 []
+..\glue 4.31999 plus 2.592 minus 1.032
+..\glue 24.0
+.\it У
+.\kern-0.72002
+.\it п
+.etc.
+
+[36]
+Overfull \hbox (62.83636pt too wide) in paragraph at lines 717--718
+\it Фоновые изображения\rm . К сожалению, из-за ограничений языка Tcl/Tk, подде
+рживаются|
+
+\hbox(8.44798+2.508)x452.96786, glue set - 1.0
+.\it Ф
+.\it о
+.\it н
+.\it о
+.\it в
+.etc.
+
+
+Overfull \hbox (11.13155pt too wide) in paragraph at lines 717--718
+\rm добавленные изображения помещаются в верхний левый угол рабочей области.|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\rm д
+.\kern-0.24
+.\rm о
+.\rm б
+.\rm а
+.etc.
+
+
+Overfull \hbox (40.67546pt too wide) in paragraph at lines 717--718
+\rm Переместите их можно двойным щелчком правой кнопкой мыши и перетаскиванием|
+
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\rm П
+.\rm е
+.\kern-0.192
+.\rm р
+.\rm е
+.etc.
+
+[37]
 Overfull \hbox (10.02997pt too wide) in paragraph at lines 731--732
 []\rm For mod-i-fy-ing previously-created com-mands, there are ad-di-tional men
 us---e.g. \it Scrap|
@@ -394,7 +450,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 754859 bytes).
+Output written on thbook.pdf (85 pages, 756907 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
