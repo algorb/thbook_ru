@@ -836,6 +836,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After selecting a scrap (click on its header in the {&lt;u0&gt; File commands} menu) two small red squares connected by red arrow will appear (by default, they'll be in the lower corners of drawing area).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171053Z" creationid="Алексей" creationdate="20170913T171053Z">
+        <seg>После выбора скрапа (щелкните по его заголовку в меню {&lt;u0&gt; Команды в файле}) появятся два небольших красных квадрата, соединенных красной стрелкой (по умолчанию они будут в нижних углах области рисования).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After these preparation steps, you're ready for drawing, or, more precisely, for {&lt;u0&gt; creating a map data file}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143706Z" creationid="Алексей" creationdate="20170913T143706Z">
@@ -1329,6 +1337,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131438Z" creationid="Алексей" creationdate="20170910T131438Z">
         <seg>Если вы не указали какой-либо |cs| в вашем наборе данных, то предполагается, что вы работаете в |local| системе координат, и никакие преобразования не выполняются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you draw some scraps with |none| projection, it's necessary to {&lt;u0&gt; calibrate} the drawing area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170926Z" creationid="Алексей" creationdate="20170913T170926Z">
+        <seg>Если вы нарисуете несколько скрапов с |none| проекцией, необходимо {&lt;u0&gt; откалибровать} область рисования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2053,6 +2069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The scale can be defined only one way in XTherion---using coordinates of two points (specified both in the picture coordinate system and in the `real' coordinate system).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171003Z" creationid="Алексей" creationdate="20170913T171003Z">
+        <seg>Масштаб можно определить только одним способом в XTherion -- используя координаты двух точек (заданных как в системе координат изображения, так и в `реальной' системе координат).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The size and zoom setting of the {&lt;u0&gt; drawing area} is adjusted in the corresponding menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144601Z" creationid="Алексей" creationdate="20170913T143513Z">
@@ -2682,6 +2706,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131302Z" creationid="Алексей" creationdate="20170910T131302Z">
         <seg>Вы можете указать опцию |cs| в объектах |centreline|, |surface|, |import| и |layout| и ввести XY в выбранной системе координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to drag them to points with known coordinates---usually intersections of mm grid lines on the scanned drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171147Z" creationid="Алексей" creationdate="20170913T171147Z">
+        <seg>Вы должны перетащить их в точки с известными координатами -- обычно пересечения линий сетки на миллиметровке на отсканированном чертеже.</seg>
       </tuv>
     </tu>
     <tu>
