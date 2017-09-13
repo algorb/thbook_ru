@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Guess how to enter the line insertion mode, other than using the shortcut Ctrl-l.) Click where the first point should be, then drag the mouse with pressed left button and release it where the first control point should be.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164459Z" creationid="Алексей" creationdate="20170913T164459Z">
+        <seg>(Угадайте, как войти в режим вставки линии, кроме использования сочетания Ctrl-l.) Нажмите, где должна быть первая точка, затем перетащите мышь с нажатой левой кнопкой и отпустите ее в том месте, где должна быть первая контрольная точка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you answer this, you'll know, why XTherion will never be true WYSIWYG editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142355Z" creationid="Алексей" creationdate="20170913T135332Z">
@@ -921,6 +929,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204141Z" creationid="Алексей" creationdate="20170909T204141Z">
         <seg>Основы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beginning and orientation of the line is marked by a small orange tick to the left at the first point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164759Z" creationid="Алексей" creationdate="20170913T164759Z">
+        <seg>Начало и ориентация линии отмечены небольшой оранжевой галочкой в первой точке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1868,6 +1884,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Than click somewhere else (this point will be the second point of the curve) and drag the mouse (adjusting the second control point of the previous arc and the first control point of the next one simultaneously.) If this explanation sounds too obscure, you can get some practise working in some of the standard vector editors with comprehensive documentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164626Z" creationid="Алексей" creationdate="20170913T164626Z">
+        <seg>Затем нажмите где-нибудь еще (эта точка будет второй точкой кривой) и перетащите мышь (отрегулируйте вторую контрольную точку предыдущей дуги и первую контрольную точку следующего дуги, одновременно). Если это объяснение кажется слишком неясным, вы может поработать в некоторых стандартных векторных редакторах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Quantity list can contain the following keywords: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170857Z" creationid="Алексей" creationdate="20170912T170857Z">
@@ -1920,6 +1944,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204249Z" creationid="Алексей" creationdate="20170909T204249Z">
         <seg>Входные файлы для Therion'а имеют текстовый формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The line will be finished after escaping from the insertion mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164647Z" creationid="Алексей" creationdate="20170913T164647Z">
+        <seg>Линия будет завершена после выхода из режима вставки.</seg>
       </tuv>
     </tu>
     <tu>
