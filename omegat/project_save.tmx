@@ -1431,6 +1431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to change the order by selecting a line and pressing {&lt;u1&gt; Move down}, {&lt;u2&gt; Move up} or {&lt;u3&gt; Move to} buttons in the {&lt;u4&gt; File commands} menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151405Z" creationid="Алексей" creationdate="20170913T151405Z">
+        <seg>Можно изменить порядок, выбрав строку и нажав кнопки {&lt;u1&gt; Вниз}, {&lt;u2&gt; Вверх} или {&lt;u3&gt; Переместить} в меню {&lt;u4&gt; Команды в файле}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible to write a better one, which would be more user friendly, more WYSIWYG, faster, more robust and easier to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173551Z" creationid="Алексей" creationdate="20170912T173551Z">
@@ -2300,6 +2308,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154210Z" creationid="Алексей" creationdate="20170911T154210Z">
         <seg>Это означает, что идентификаторы объектов должны быть уникальными только в рамках одного survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This way you can also move objects between scraps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151506Z" creationid="Алексей" creationdate="20170913T151506Z">
+        <seg>Таким образом вы также можете перемещать объекты между скрапами.</seg>
       </tuv>
     </tu>
     <tu>
