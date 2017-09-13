@@ -1819,6 +1819,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take care not to click twice on the same place---you would insert two point symbols in the same place!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150718Z" creationid="Алексей" creationdate="20170913T150718Z">
+        <seg>Старайтесь не нажимать дважды в одном месте -- тогда вы вставите два точечных символа в одном и том же месте!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temporary data files are not shown.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185735Z" creationid="Алексей" creationdate="20170909T185735Z">
@@ -2304,6 +2313,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To escape from `insert' to `select' mode, press {&lt;u6&gt; Esc} key on the keyboard or {&lt;u7&gt; Select} button in the {&lt;u8&gt; File commands} menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150833Z" creationid="Алексей" creationdate="20170913T150833Z">
+        <seg>Чтобы выйти из режима `вставить', нажмите клавишу {&lt;u6&gt; Esc} на клавиатуре или кнопку {&lt;u7&gt; Выбрать} в меню {&lt;u8&gt; Команды в файле}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To find number of your system, see |extern/proj4/nad/epsg| file in the therion source distribution.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133629Z" creationid="Алексей" creationdate="20170910T132459Z">
@@ -2382,6 +2399,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193748Z" creationid="Алексей" creationdate="20170909T145050Z">
         <seg>Мы использовали вывод одного из них (TJIKPR) в качестве фонового слоя со станциями для ручного рисования карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What will the order of commands in the output file?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151008Z" creationid="Алексей" creationdate="20170913T151008Z">
+        <seg>Каков порядок команд в выходном файле?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2544,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144422Z" creationid="Алексей" creationdate="20170913T144422Z">
         <seg>Вы должны видеть строки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'll stay in `insert' mode---each click on the working area adds a new point symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150639Z" creationid="Алексей" creationdate="20170913T150639Z">
+        <seg>Вы останетесь в режиме `вставки' -- каждый щелчок по рабочей области добавляет новый символ точки.</seg>
       </tuv>
     </tu>
     <tu>
