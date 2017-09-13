@@ -1063,8 +1063,8 @@
       <tuv lang="EN-US">
         <seg>For compiler features see the chapter {&lt;u1&gt; Processing data}.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173309Z" creationid="Алексей" creationdate="20170912T173030Z">
-        <seg>Функции компилятора смотрите в главе {&lt;u1&gt; Обра\-ботка данных}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T141311Z" creationid="Алексей" creationdate="20170912T173030Z">
+        <seg>Функции компилятора смотрите в главе {&lt;u1&gt; Обра\-ботка данных}.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1405,6 +1405,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144326Z" creationid="Алексей" creationdate="20170909T144326Z">
         <seg>Всегда было трудно добавить новые исследования без адаптации старых к новым рассчитанным позициям станций во всей пещере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's possible to open an existing file without loading of background images using {&lt;u6&gt; Open XP} menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140839Z" creationid="Алексей" creationdate="20170913T140839Z">
+        <seg>Можно открыть существующий файл без загрузки фоновых изображений с помощью меню {&lt;u6&gt; Открыть (без картинок)}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2225,8 +2233,8 @@
       <tuv lang="EN-US">
         <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Exercise:} Find two substantial reasons, why the map drawn in XTherion can't be identical with Therion output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135248Z" creationid="Алексей" creationdate="20170913T135200Z">
-        <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Упражнение:} Найдите две существенные причины, почему карта, нарисованная в XTherion, не может быть идентична выходу Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140927Z" creationid="Алексей" creationdate="20170913T135200Z">
+        <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Упражнение:} Найдите две существенные причины, почему карта, нари\-со\-ван\-ная в XTherion, не может быть идентична выходу Therion.</seg>
       </tuv>
     </tu>
     <tu>
