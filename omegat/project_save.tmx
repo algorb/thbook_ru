@@ -72,8 +72,8 @@
       <tuv lang="EN-US">
         <seg>(If you answer this, you'll know, why XTherion will never be true WYSIWYG editor.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135332Z" creationid="Алексей" creationdate="20170913T135332Z">
-        <seg>Если вы ответите на это, вы узнаете, почему XTherion никогда не будет истинным редактором WYSIWYG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142355Z" creationid="Алексей" creationdate="20170913T135332Z">
+        <seg>(Если вы ответите на это, вы узнаете, почему XTherion никогда не будет истинным редактором WYSIWYG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,8 +1063,8 @@
       <tuv lang="EN-US">
         <seg>For compiler features see the chapter {&lt;u1&gt; Processing data}.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T141843Z" creationid="Алексей" creationdate="20170912T173030Z">
-        <seg>Функции компилятора смотрите в главе &lt;u1&gt; Обработка данных.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142053Z" creationid="Алексей" creationdate="20170912T173030Z">
+        <seg>Функции компилятора смотрите в главе Обработка данных.]</seg>
       </tuv>
     </tu>
     <tu>
