@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you answer this, you'll know, why XTherion will never be true WYSIWYG editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135332Z" creationid="Алексей" creationdate="20170913T135332Z">
+        <seg>Если вы ответите на это, вы узнаете, почему XTherion никогда не будет истинным редактором WYSIWYG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(It's very similar concept to XML data representation.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T154806Z" creationid="Алексей" creationdate="20170909T154806Z">
@@ -821,6 +829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authors' laziness is not the correct answer.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135423Z" creationid="Алексей" creationdate="20170913T135423Z">
+        <seg>Лень авторов -- не правильный ответ.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204141Z" creationid="Алексей" creationdate="20170909T204141Z">
@@ -1357,6 +1373,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132647Z" creationid="Алексей" creationdate="20170910T132636Z">
         <seg>JTSK не поддерживается на выходе (как и iJTSK).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's begin by describing typical use of the map editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135438Z" creationid="Алексей" creationdate="20170913T135438Z">
+        <seg>Начнем с описания типичного использования редактора карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2131,6 +2155,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205234Z" creationid="Алексей" creationdate="20170908T205234Z">
         <seg>Почему Therion?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Exercise:} Find two substantial reasons, why the map drawn in XTherion can't be identical with Therion output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135248Z" creationid="Алексей" creationdate="20170913T135200Z">
+        <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Упражнение:} Найдите две существенные причины, почему карта, нарисованная в XTherion, не может быть идентична выходу Therion.</seg>
       </tuv>
     </tu>
     <tu>
