@@ -1940,6 +1940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The command |text| is not a Therion command!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170214Z" creationid="Алексей" creationdate="20170913T170204Z">
+        <seg>Команда |еуче| -- это не команда Therion'а!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The computed declination is listed in the LOG file for information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134534Z" creationid="Алексей" creationdate="20170910T134345Z">
