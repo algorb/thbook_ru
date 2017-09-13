@@ -876,6 +876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternate way is to insert them as a |text| &lt;u7&gt;CAUTION!</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165913Z" creationid="Алексей" creationdate="20170913T165913Z">
+        <seg>Альтернативный способ вставить их как |text| &lt;u7&gt;ВНИМАНИЕ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example may be</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204636Z" creationid="Алексей" creationdate="20170909T204636Z">
