@@ -740,6 +740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally XTherion supports XVI (XTherion vector image) format, which displays centreline and LRUD information on the background, and PocketTopo data exported in Therion format (see below).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140516Z" creationid="Алексей" creationdate="20170913T140516Z">
+        <seg>Кроме того, XTherion поддерживает XVI (XTherion vector image), в котором отображается нитка хода и LRUD, и данные PocketTopo экспортируются в формат Therion'а (см. ниже).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you may open survey data files (*.th) in the `Text editor' window and map data files (*.th2) in the `Map editor' window of XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142053Z" creationid="Алексей" creationdate="20170909T141349Z">
@@ -2097,6 +2105,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175230Z" creationid="Алексей" creationdate="20170912T175230Z">
         <seg>Чтобы упростить ввод данных, он поддерживает форматирование таблиц нитки хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, as a limitation of Tcl/Tk language, only GIF, PNM and PPM (plus PNG and JPEG if you installed tkImg extension) images are supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140239Z" creationid="Алексей" creationdate="20170913T140239Z">
+        <seg>К сожалению, из-за ограничений языка Tcl/Tk, поддерживаются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg).</seg>
       </tuv>
     </tu>
     <tu>
