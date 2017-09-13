@@ -716,13 +716,17 @@ XTherion -- графический пользовательский интерфейс для Therion. Он помо\-гает в 
 
 После создания нового файла в редакторе карт вы можете загрузить одно или несколько {\bf изображений} -- сканированные эскизы съемки пещеры\[XTherion не может масштабировать и поворачивать отдельные изображения, поэтому используйте ту же ориентацию, масштаб и DPI для всех изображений, используемых в одном и том же скрапе.] -- в качестве подложки для рисования. Нажмите кнопку {\it Вставка} в меню {\it Фоновые изображения}. К сожалению, из-за ограничений языка Tcl/Tk, под\-дер\-жи\-ва\-ются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg). Кроме того, XTherion поддерживает XVI (XTherion vector image), в котором отображается нитка хода и LRUD, и данные PocketTopo экспортируются в формат Therion'а (см. ниже). Все добавленные изображения помещаются в верхний левый угол рабочей области. Переместите их можно двойным щелчком правой кнопкой мыши на изображении и перетаскиванием или через меню. Для повышения про\-из\-во\-ди\-тель\-ности на более медленных компьютерах можно временно вы\-гру\-зить неиспользуемое изображение из памяти, сняв флажок {\it показать}. Можно открыть существующий файл без загрузки фоновых изображений с по\-мощью меню {\it Открыть (без картинок)}. \[{Примечание:} Therion никак не использует фоновые изображения, если вы не назначили их для определенного скрапа с помощью опции |-sketch|.] 
 
-The size and zoom setting of the {\bf drawing area} is adjusted in the corresponding menu. {\it Auto adjust} calculates optimal size of the working area according to the sizes and positions of loaded background images. 
+Размер и масштабирование {\bf области рисования} настраивается в соответствующем меню.
+ {\it Авто} вычисляет оптимальный размер рабочей области в соответствии с размерами и позициями загруженных фоновых изображений. 
 
-After these preparation steps, you're ready for drawing, or, more precisely, for {\bf creating a map data file}. It's important to remember, that you're actually creating a text file which should conform to the syntax described in the chapter {\it Data format}. Actually, only a subset of the Therion commands are used in the Map editor: multi-line |scrap ... endscrap| commands which may contain |point|, |line| and |area| commands. (Cf.~chapter {\it Data format}). This corresponds with a section of hand-drawn map, which is built up from points, lines and filled areas. 
+После этих этапов подготовки вы готовы к рисованию или, точнее, для {\bf создания файла данных карты}. Важно помнить, что вы на самом деле создаете текстовый файл, который должен соответствовать синтаксису, описанному в главе {\it Формат данных}. На самом деле в редакторе карт используется только часть команд Therion: multi-line |scrap ... endscrap| команды, которые могут содержать команды |point|, |line| и |area|. (См. главу {\it Формат данных}). Это соответствует этапу ручного рисованния карты, которая строится из точек, линий и заполненных областей.
+ 
 
-So, the first step is defining the {\bf scrap} by a |scrap ... endscrap| multi-line command. In the {\it File commands} menu click on the {\it Action} submenu and select {\it Insert scrap}. This changes the {\it Action button} to {\it Insert scrap} if it had any other value. After pressing this button a new scrap will be inserted in the beginning of the file. You should see lines 
+Итак, первым шагом является определение {\bf скрапа} с помощью |scrap ... endscrap| многострочной команда. В меню {\it Команды в файле} выберите подменю {\it Действие} и выберите {\it Вставить скрап}. Это изменит кнопку {\it Действие} на {\it Вставить скрап}, если у нее было другое значение. После нажатия этой кнопки в начало файла будет вставлен новый скрап. Вы должны видеть строки 
 
-|scrap - scrap1 endscrap end of file| 
+|scrap - scrap1
+endscrap
+end of file| 
 
 in the preview window above the {\it Insert scrap} button. This window is a simplified outline of the text file, which will be saved by XTherion. Only the command (|scrap|, |point|, |line|, |text|---why text see below) and its type (for |point| and |line|) or ID (for |scrap|) are shown. 
 
