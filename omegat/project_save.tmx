@@ -893,6 +893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with scrap insertion, go to the {&lt;u1&gt; File commands} menu, click on the {&lt;u2&gt; Action} submenu and select {&lt;u3&gt; Insert point}; than press newly renamed {&lt;u4&gt; Insert point} button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150358Z" creationid="Алексей" creationdate="20170913T150358Z">
+        <seg>Как и в случае вставки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать новую переименованную кнопку {&lt;u4&gt; Вставить точку}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authors' laziness is not the correct answer.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135423Z" creationid="Алексей" creationdate="20170913T135423Z">
@@ -1109,6 +1117,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details see chapter {&lt;u1&gt; Data format}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150124Z" creationid="Алексей" creationdate="20170913T150124Z">
+        <seg>Подробнее смотрите главу {&lt;u1&gt; Формат данных}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For displaying of maps and models you may use any of the following programs:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
@@ -1177,6 +1193,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
         <seg>Ручное редактирование таких файлов непросто, особенно когда вы рисуете карты и вам нужно думать о пространственных (декартовых координатах).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can change the ID (very important!) and other options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150107Z" creationid="Алексей" creationdate="20170913T150107Z">
+        <seg>Здесь вы можете изменить ID (очень важно!) И другие опции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1557,6 +1581,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191259Z" creationid="Алексей" creationdate="20170909T190835Z">
         <seg>За\-тем он преобразует все другие данные (например 2D-карты) в соответствии с позицией новых станций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now it's possible to insert some {&lt;u0&gt; point symbols}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150233Z" creationid="Алексей" creationdate="20170913T150233Z">
+        <seg>Теперь можно вставить некоторые {&lt;u0&gt; точечные символы}.</seg>
       </tuv>
     </tu>
     <tu>
