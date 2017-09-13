@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any errors are detected only when you process these files with Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172308Z" creationid="Алексей" creationdate="20170913T172308Z">
+        <seg>Любые ошибки обнаруживаются только при обработке этих файлов с помощью Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any volunteers?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173605Z" creationid="Алексей" creationdate="20170912T173605Z">
@@ -1218,6 +1226,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174316Z" creationid="Алексей" creationdate="20170912T174316Z">
         <seg>Для каждого режима работы есть дополнительное меню справа или слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if you enter expression `station' and press {&lt;u1&gt; Show All}, all stations on the picture will become red.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172234Z" creationid="Алексей" creationdate="20170913T172234Z">
+        <seg>Например, если вы введете слово `station' и нажмите {&lt;u1&gt; Показать все}, все станции на экране станут красными.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1957,6 +1973,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TIP: Entering symbols of the same type at once saves you a lot of time because you need not change symbol type and fill options for each new symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172327Z" creationid="Алексей" creationdate="20170913T172327Z">
+        <seg>СОВЕТ. Ввод символов одного и того же типа одновременно экономит вам много времени, потому что вам не нужно менять тип символа и параметры заполнения для каждого нового символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table of Contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195002Z" creationid="Алексей" creationdate="20170909T195002Z">
@@ -2674,6 +2698,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170252Z" creationid="Алексей" creationdate="20170909T162009Z">
         <seg>Установщик для Windows включает все необходимые пакеты, за ис\-клю\-че\-нием {ghostscript}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion doesn't do any syntax checking; it only writes drawn objects with their attributes to a text file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172255Z" creationid="Алексей" creationdate="20170913T172255Z">
+        <seg>XTherion не выполняет проверку синтаксиса; он только записывает объекты с атрибутами в текстовый файл.</seg>
       </tuv>
     </tu>
     <tu>
