@@ -113,42 +113,16 @@ Missing character: There is no н in font cmti10!
 Missing character: There is no д in font cmti10!
 Missing character: There is no ы in font cmti10!
 
-Overfull \hbox (37.74188pt too wide) in paragraph at lines 748--749
-\it ласть\rm , а затем щелкните строки окружающие нужную область. Они автоматич
-ески|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\it л
-.\kern-0.48001
-.\it а
-.\it с
-.\it т
-.etc.
-
-
-Overfull \hbox (36.21176pt too wide) in paragraph at lines 748--749
-\rm вставляются в \it Область] и называются (если они еще не названы). Альтерна
-тивный|
-
-\hbox(8.11198+2.754)x452.96786, glue set - 1.0
-.\rm в
-.\rm с
-.\rm т
-.\rm а
-.\rm в
-.etc.
-
-
-Overfull \hbox (9.36562pt too wide) in paragraph at lines 748--749
-\it способ вставить их как []\rm text[]$[]$\it , содержимое которой (введенное 
-в меню Редактор|
+Overfull \hbox (12.47363pt too wide) in paragraph at lines 748--749
+\it Альтернативный способ вставить их как []\rm text[]$[]$\it , содержимое кото
+рой (введенное|
 
 \hbox(8.86581+2.754)x452.96786, glue set - 1.0
-.\it с
-.\it п
-.\it о
-.\it с
-.\it о
+.\it А
+.\it л
+.\it ь
+.\it т
+.\it е
 .etc.
 
 
@@ -597,7 +571,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 759413 bytes).
+Output written on thbook.pdf (85 pages, 759395 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
