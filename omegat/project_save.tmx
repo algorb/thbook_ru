@@ -2696,6 +2696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u6&gt;{&lt;u7&gt;10pt&lt;i0&gt;&lt;u8&gt; width 6cm height 0cm depth 4cm {/Subtype /Text /Name /Help /Contents (Hints: 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T134921Z" creationid="Алексей" creationdate="20170913T134921Z">
+        <seg>{&lt;u6&gt;{&lt;u7&gt;10pt&lt;i0&gt;&lt;u8&gt; width 6cm height 0cm depth 4cm {/Subtype /Text /Name /Help /Contents (Hints: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{mp/#1}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113840Z" creationid="Алексей" creationdate="20170910T062647Z">
