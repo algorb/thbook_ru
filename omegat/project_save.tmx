@@ -1069,6 +1069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exactly the same as in the outline in the {&lt;u0&gt; File commands} menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151120Z" creationid="Алексей" creationdate="20170913T151102Z">
+        <seg>Точно такой же, как в меню {&lt;u0&gt; Команды в файле}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examine this book, ponder the meaning we have dispersed in various places and gathered again; what we have concealed in one place we have disclosed in another, that it may be understood by your wisdom.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; ---Henricus C. Agrippa ab Nettesheym, &lt;u13&gt; 1533} }</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204059Z" creationid="Алексей" creationdate="20170909T204059Z">
@@ -1589,6 +1597,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170119Z" creationid="Алексей" creationdate="20170909T161323Z">
         <seg>Необходимо только в том случае, если вы хотите соз\-да\-вать 2D-карты в формате PDF или SVG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Newly created point, line and text objects are added before the currently marked line in the outline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151307Z" creationid="Алексей" creationdate="20170913T151307Z">
+        <seg>Вновь созданные точечные, линейные и текстовые объекты добавляются перед текущей выделенной строкой.</seg>
       </tuv>
     </tu>
     <tu>
