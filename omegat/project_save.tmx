@@ -797,6 +797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional tools.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172927Z" creationid="Алексей" creationdate="20170913T172927Z">
+        <seg>Дополнительные инструменты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally XTherion supports XVI (XTherion vector image) format, which displays centreline and LRUD information on the background, and PocketTopo data exported in Therion format (see below).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140516Z" creationid="Алексей" creationdate="20170913T140516Z">
@@ -1162,6 +1170,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150838Z" creationid="Алексей" creationdate="20170909T150838Z">
         <seg>Особенности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally draw cross-sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172918Z" creationid="Алексей" creationdate="20170913T172918Z">
+        <seg>В конец рисуем поперечные сечения.</seg>
       </tuv>
     </tu>
     <tu>
