@@ -989,6 +989,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on {&lt;u1&gt; Insert area} and then click on the lines surrounding the desired area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165434Z" creationid="Алексей" creationdate="20170913T165434Z">
+        <seg>Нажмите {&lt;u1&gt; Вставить область}, а затем щелкните строки, окружающие нужную область.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Context {&lt;u3&gt; all} means that the command may be used anywhere.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161344Z" creationid="Алексей" creationdate="20170910T150212Z">
@@ -2275,6 +2283,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131837Z" creationid="Алексей" creationdate="20170909T131837Z">
         <seg>Это было большим подспорьев в работе, особенно работая над крупными и сложными пещерными системами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are automatically inserted in the {&lt;u2&gt; Area control} and named (if not already named).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165812Z" creationid="Алексей" creationdate="20170913T165812Z">
+        <seg>Они автоматически вставляются в {&lt;u2&gt; Область] и называются (если они еще не названы).</seg>
       </tuv>
     </tu>
     <tu>
