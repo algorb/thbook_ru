@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  14 SEP 2017 00:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  14 SEP 2017 00:30
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -69,7 +69,7 @@ loading : Context Support Macros / PDF
 ) (etc/optarg.tex) (etc/verbatim.tex)
 \footnum=\count37
  (ch00.tex [1{C:/Users/РђР»РµРєСЃРµР№/AppData/Local/MiKTeX/2.9/pdftex/config/pd
-ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex) [3] [4]
+ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 \openout1 = `etc/contents.tex'.
 
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
@@ -88,70 +88,7 @@ grid-flip (none)/vertical/horizontal|
 .\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
-[33] [34] [35] [36] [37]
-Overfull \hbox (9.15157pt too wide) in paragraph at lines 743--744
-[]\bf Рисование линий \rm аналогично рисованию в других программах редактирован
-ия|
-
-\hbox(8.094+2.85599)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\bf Р
-.\bf и
-.\kern-0.192
-.\bf с
-.etc.
-
-
-Overfull \hbox (17.17393pt too wide) in paragraph at lines 743--744
-\rm войти в режим вставки линии, кроме использования сочетания Ctrl-l.) Нажмите
-,|
-
-\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
-.\rm в
-.\rm о
-.\kern-0.12001
-.\rm й
-.\rm т
-.etc.
-
-
-Overfull \hbox (1.13942pt too wide) in paragraph at lines 743--744
-\rm точка. Затем нажмите где-нибудь еще (эта точка будет второй точкой кривой)|
-
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\rm т
-.\rm о
-.\kern-0.12001
-.\rm ч
-.\rm к
-.etc.
-
-
-Overfull \hbox (3.34587pt too wide) in paragraph at lines 743--744
-\rm это объяснение кажется слишком неясным, вы может поработать в некоторых|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\rm э
-.\rm т
-.\rm о
-.\glue 4.31999 plus 2.592 minus 1.032
-.\rm о
-.etc.
-
-
-Overfull \hbox (6.83951pt too wide) in paragraph at lines 743--744
-\rm режима вставки. Начало и ориентация линии отмечены небольшой оранжевой|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\rm р
-.\rm е
-.\rm ж
-.\rm и
-.\rm м
-.etc.
-
-[38]
+[33] [34] [35] [36] [37] [38]
 Overfull \hbox (26.50757pt too wide) in paragraph at lines 745--746
 \rm или имя. Важным является чек-бокс \it обратная\rm : The-rion требует ориент
 ированных|
@@ -697,9 +634,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 740214 bytes).
+Output written on thbook.pdf (85 pages, 759434 bytes).
 PDF statistics:
- 445 PDF objects out of 1000 (max. 8388607)
+ 543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
