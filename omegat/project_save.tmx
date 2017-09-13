@@ -748,6 +748,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A shortcut for all this is Ctrl-p.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150522Z" creationid="Алексей" creationdate="20170913T150522Z">
+        <seg>Сочетание клавишь для этого -- Ctrl-p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A synonym term `centerline' may be used.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T005816Z" creationid="Алексей" creationdate="20170912T004901Z">
@@ -895,8 +903,8 @@
       <tuv lang="EN-US">
         <seg>As with scrap insertion, go to the {&lt;u1&gt; File commands} menu, click on the {&lt;u2&gt; Action} submenu and select {&lt;u3&gt; Insert point}; than press newly renamed {&lt;u4&gt; Insert point} button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150358Z" creationid="Алексей" creationdate="20170913T150358Z">
-        <seg>Как и в случае вставки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать новую переименованную кнопку {&lt;u4&gt; Вставить точку}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150443Z" creationid="Алексей" creationdate="20170913T150358Z">
+        <seg>Как и в случае вставки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать кнопку с изменившимся названием на {&lt;u4&gt; Вставить точку}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1505,6 +1513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its attributes can be adjusted in the {&lt;u5&gt; Point control} menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150609Z" creationid="Алексей" creationdate="20170913T150609Z">
+        <seg>Ее атрибуты можно настроить в меню {&lt;u5&gt; Точка}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its purpose is to help</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
@@ -1807,6 +1823,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185735Z" creationid="Алексей" creationdate="20170909T185735Z">
         <seg>Временные файлы данных не показаны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Than click on the desired spot in the working area and you'll see a blue dot representing a point symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150535Z" creationid="Алексей" creationdate="20170913T150535Z">
+        <seg>Затем нажмите на нужное место в рабочей области, и вы увидите синюю точку, представляющую символ точки.</seg>
       </tuv>
     </tu>
     <tu>
