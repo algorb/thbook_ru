@@ -88,21 +88,7 @@ grid-flip (none)/vertical/horizontal|
 .\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
-[33] [34] [35] [36]
-Overfull \hbox (11.55551pt too wide) in paragraph at lines 722--723
-\rm сан-ному в главе \it ‘ормат данных\rm . Ќа самом деле в редакторе карт испо
-льзуетс€|
-
-\hbox(8.44798+2.85599)x452.96786, glue set - 1.0
-.\rm с
-.\rm а
-.\rm н
-.\discretionary
-..\rm -
-.\rm н
-.etc.
-
-[37]
+[33] [34] [35] [36] [37]
 Overfull \hbox (10.02997pt too wide) in paragraph at lines 735--736
 []\rm For mod-i-fy-ing previously-created com-mands, there are ad-di-tional men
 us---e.g. \it Scrap|
@@ -408,7 +394,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 756941 bytes).
+Output written on thbook.pdf (85 pages, 756905 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
