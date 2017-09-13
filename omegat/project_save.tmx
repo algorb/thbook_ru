@@ -1400,8 +1400,8 @@
       <tuv lang="EN-US">
         <seg>In the file saved by XTherion, there'll only be whatever you type into the {&lt;u3&gt; Text editor} or see in the {&lt;u4&gt; Command preview}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170336Z" creationid="Алексей" creationdate="20170913T170336Z">
-        <seg>В файле, сохраненном XTherion, будет только то, что вы введете в {&lt;u3&gt; Текстовый редактор} или см. в {&lt;u4&gt; Просмотр команды}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170753Z" creationid="Алексей" creationdate="20170913T170336Z">
+        <seg>В файле, сохраненном XTherion, будет только то, что вы введете в {&lt;u3&gt;Редактор} или см. в {&lt;u4&gt; Просмотр команды}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1505,8 +1505,8 @@
       <tuv lang="EN-US">
         <seg>It may be an area definition or whatever you want, such as a comment beginning with a `|&lt;u8&gt;|' character.] command, the contents of which (entered in the {&lt;u5&gt; Text editor} menu of the Map editor) is usual |area ... endarea| multi-line command (see the chapter {&lt;u6&gt; Data format}.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170647Z" creationid="Алексей" creationdate="20170913T170647Z">
-        <seg>Это может быть определение области или что угодно, например комментарий, начинающийся с `|&lt;u8&gt;|' символа.], содержимое которой (введенное в меню {&lt;u5&gt; Текстовый редактор} в редакторе карты) обычно | area ... endarea | многострочная команда (см. раздел {&lt;u6&gt; Формат данных}.)
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170826Z" creationid="Алексей" creationdate="20170913T170647Z">
+        <seg>Это может быть определение области или что угодно, например комментарий, начинающийся с `|&lt;u8&gt;|' символа.], содержимое которой (введенное в меню {&lt;u5&gt; Редактор} в редакторе карты) обычно |area ... endarea| многострочная команда (см. раздел {&lt;u6&gt; Формат данных}.)
 </seg>
       </tuv>
     </tu>
@@ -1967,8 +1967,8 @@
       <tuv lang="EN-US">
         <seg>The command |text| is not a Therion command!</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170214Z" creationid="Алексей" creationdate="20170913T170204Z">
-        <seg>Команда |еуче| -- это не команда Therion'а!</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170708Z" creationid="Алексей" creationdate="20170913T170204Z">
+        <seg>Команда |text| -- это не команда Therion'а!</seg>
       </tuv>
     </tu>
     <tu>
