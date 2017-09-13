@@ -1109,6 +1109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First one sets attributes for the whole curve, like type or name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164910Z" creationid="Алексей" creationdate="20170913T164910Z">
+        <seg>Сначала устанавливаются атрибуты для всей кривой, такие как тип или имя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205417Z" creationid="Алексей" creationdate="20170908T205417Z">
@@ -1185,6 +1193,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154311Z" creationid="Алексей" creationdate="20170911T154234Z">
         <seg>Например, имена станций съемки могут быть одинаковыми, если они находятся в разных survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For line symbols, there are two control menus: {&lt;u0&gt; Line control} and {&lt;u1&gt; Line point control}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164851Z" creationid="Алексей" creationdate="20170913T164851Z">
+        <seg>Для символов линии существуют два управляющих меню: {&lt;u0&gt; Линия} и {&lt;u1&gt; Точка линии}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,6 +1912,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170857Z" creationid="Алексей" creationdate="20170912T170857Z">
         <seg>Quantity list может содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The check-box {&lt;u2&gt; reverse} is important: Therion requires oriented curves and it is not unusual that you begin to draw from the wrong end.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165011Z" creationid="Алексей" creationdate="20170913T165011Z">
+        <seg>Важным является чек-бокс {&lt;u2&gt; обратная}: Therion требует ориентированных кривых, и нет ничего необычного в том, что вы начинаете рисовать с неправильного конца.</seg>
       </tuv>
     </tu>
     <tu>
