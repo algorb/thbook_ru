@@ -903,8 +903,8 @@
       <tuv lang="EN-US">
         <seg>As with scrap insertion, go to the {&lt;u1&gt; File commands} menu, click on the {&lt;u2&gt; Action} submenu and select {&lt;u3&gt; Insert point}; than press newly renamed {&lt;u4&gt; Insert point} button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150443Z" creationid="Алексей" creationdate="20170913T150358Z">
-        <seg>Как и в случае вставки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать кнопку с изменившимся названием на {&lt;u4&gt; Вставить точку}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151954Z" creationid="Алексей" creationdate="20170913T150358Z">
+        <seg>Как и в случае встав\-ки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать кнопку с изменившимся наз\-ва\-нием на {&lt;u4&gt; Вставить точку}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1175,8 +1175,8 @@
       <tuv lang="EN-US">
         <seg>For modifying previously-created commands, there are additional menus---e.g. {&lt;u0&gt; Scrap control} for the |scrap| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150046Z" creationid="Алексей" creationdate="20170913T150046Z">
-        <seg>Для изменения ранее созданных команд есть дополнительные меню -- например {&lt;u0&gt; Скрап} для команды |scrap|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151717Z" creationid="Алексей" creationdate="20170913T150046Z">
+        <seg>Для изменения ранее созданных команд есть дополнительные меню -- напри\-мер {&lt;u0&gt; Скрап} для команды |scrap|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1215,8 +1215,8 @@
       <tuv lang="EN-US">
         <seg>Here you can change the ID (very important!) and other options.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150107Z" creationid="Алексей" creationdate="20170913T150107Z">
-        <seg>Здесь вы можете изменить ID (очень важно!) И другие опции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151741Z" creationid="Алексей" creationdate="20170913T150107Z">
+        <seg>Здесь вы можете изменить ID (очень важно!) и другие опции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,8 +1611,8 @@
       <tuv lang="EN-US">
         <seg>Newly created point, line and text objects are added before the currently marked line in the outline.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151307Z" creationid="Алексей" creationdate="20170913T151307Z">
-        <seg>Вновь созданные точечные, линейные и текстовые объекты добавляются перед текущей выделенной строкой.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T152137Z" creationid="Алексей" creationdate="20170913T151307Z">
+        <seg>Вновь созданные точечные, линейные и текстовые объ\-екты добавляются перед текущей выделенной строкой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,8 +1910,8 @@
       <tuv lang="EN-US">
         <seg>The full contents of any command is displayed in the {&lt;u0&gt; Command preview} menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145927Z" creationid="Алексей" creationdate="20170913T145927Z">
-        <seg>Полное содержимое любой команды отображается в меню {&lt;u0&gt; Просмотр команды}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151643Z" creationid="Алексей" creationdate="20170913T145927Z">
+        <seg>Полное содержимое любой команды отображается в меню {&lt;u0&gt; Просмотр коман\-ды}.</seg>
       </tuv>
     </tu>
     <tu>
