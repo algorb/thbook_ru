@@ -113,28 +113,16 @@ Missing character: There is no н in font cmti10!
 Missing character: There is no д in font cmti10!
 Missing character: There is no ы in font cmti10!
 
-Overfull \hbox (20.85567pt too wide) in paragraph at lines 748--749
-[]\bf Области \rm определяются окружающими их линиями. Нажмите \it Вставить обл
-асть\rm ,|
-
-\hbox(8.11198+2.85599)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\bf О
-.\bf б
-.\kern-0.336
-.\bf л
-.etc.
-
-
-Overfull \hbox (0.10991pt too wide) in paragraph at lines 748--749
-\rm а затем щелкните строки, окружающие нужную область. Они автоматически|
+Overfull \hbox (41.28429pt too wide) in paragraph at lines 748--749
+\it ласть\rm , а затем щелкните строки, окружающие нужную область. Они автомати
+чески|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\rm а
-.\glue 4.31999 plus 2.592 minus 1.032
-.\rm з
-.\rm а
-.\rm т
+.\it л
+.\kern-0.48001
+.\it а
+.\it с
+.\it т
 .etc.
 
 
@@ -609,7 +597,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 759419 bytes).
+Output written on thbook.pdf (85 pages, 759418 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
