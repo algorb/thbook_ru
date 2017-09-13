@@ -796,6 +796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All opened images are placed in the upper-left corner of the working area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140541Z" creationid="Алексей" creationdate="20170913T140541Z">
+        <seg>Все добавленные изображения помещаются в верхний левый угол рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Almost every coordinate system used worldwide has its own EPSG number.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133302Z" creationid="Алексей" creationdate="20170910T132409Z">
@@ -1041,6 +1049,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131646Z" creationid="Алексей" creationdate="20170910T131646Z">
         <seg>Поддерживаются следующие системы координат:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For better performance on slower computers, it's possible to temporarily unload a currently unused image from memory by unchecking its {&lt;u5&gt; Visibility} check-box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140751Z" creationid="Алексей" creationdate="20170913T140751Z">
+        <seg>Для повышения производительности на более медленных компьютерах можно временно выгрузить неиспользуемое изображение из памяти, сняв флажок {&lt;u5&gt; показать}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1437,6 +1453,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
         <seg>Значение цветов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move them by double clicking and dragging with the right mouse button or through a menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140613Z" creationid="Алексей" creationdate="20170913T140613Z">
+        <seg>Переместите их можно двойным щелчком правой кнопкой мыши и перетаскиванием или через меню.</seg>
       </tuv>
     </tu>
     <tu>
