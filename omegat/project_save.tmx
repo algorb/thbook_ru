@@ -677,6 +677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u1&gt;In the case of survey stations, XTherion automatically increases the station number for the next symbol inserted.] It is a good idea to start with drawing all survey stations (don't forget to give them names according to real names in the centreline command), than all passage walls followed by all other point symbols, lines and areas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172824Z" creationid="Алексей" creationdate="20170913T172446Z">
+        <seg>&lt;u1&gt; В случае станций съемки XTherion автоматически увеличивает номер станции для следующего вставленного символа.] Рекомендуется начать с рисования всех станций съемки (не забудьте дать им имена (номера) в соответствии с настоящими именами в команде centreline), далее все хода, за которыми следуют все остальные точечные символы, линии и области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u2&gt; &lt;u3&gt;&lt;u5&gt;{&lt;u1&gt;&lt;u6&gt;&lt;u7&gt;&lt;u8&gt;} &lt;u4&gt;&lt;u9&gt;{=}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113741Z" creationid="Алексей" creationdate="20170910T055017Z">
@@ -3139,6 +3147,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150251Z" creationid="Алексей" creationdate="20170910T150251Z">
         <seg>{&lt;u0&gt; Опции:} список доступных опций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Options} box preserves the old value and it's enough to change a few characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172548Z" creationid="Алексей" creationdate="20170913T172418Z">
+        <seg>Поле {&lt;u0&gt; Опции} сохраняет старое значение, и достаточно изменить всего несколько символов.</seg>
       </tuv>
     </tu>
     <tu>
