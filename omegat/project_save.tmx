@@ -758,8 +758,8 @@
       <tuv lang="EN-US">
         <seg>Actually, only a subset of the Therion commands are used in the Map editor: multi-line |scrap ... endscrap| commands which may contain |point|, |line| and |area| commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143915Z" creationid="Алексей" creationdate="20170913T143915Z">
-        <seg>На самом деле в редакторе карт используется только часть команд Therion: multi-line |scrap ... endscrap| команды, которые могут содержать команды |point|, |line| и |area|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145208Z" creationid="Алексей" creationdate="20170913T145208Z">
+        <seg>На самом деле в редакторе карт используется только несколько команд Therion'а: многострочная команда |scrap ... endscrap| может содержать команды |point|, |line| и |area|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,6 +800,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145528Z" creationid="Алексей" creationdate="20170909T145528Z">
         <seg>После окончания огромного 166-страничного Атласа пещер мертвых летучих мышей в начале 1997 года у нас вскоре возникла проблема: мы нашли новые ходы, соединения между известными ходами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After pressing this button a new scrap will be inserted in the beginning of the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144416Z" creationid="Алексей" creationdate="20170913T144416Z">
+        <seg>После нажатия этой кнопки в начало файла будет вставлен новый скрап.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1451,8 +1459,8 @@
       <tuv lang="EN-US">
         <seg>It's important to remember, that you're actually creating a text file which should conform to the syntax described in the chapter {&lt;u1&gt; Data format}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143732Z" creationid="Алексей" creationdate="20170913T143732Z">
-        <seg>Важно помнить, что вы на самом деле создаете текстовый файл, который должен соответствовать синтаксису, описанному в главе {&lt;u1&gt; Формат данных}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144720Z" creationid="Алексей" creationdate="20170913T143732Z">
+        <seg>Важно помнить, что вы на самом деле создаете текстовый файл, который должен соответствовать синтаксису, опи\-сан\-ному в главе {&lt;u1&gt; Формат данных}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1828,8 +1836,8 @@
       <tuv lang="EN-US">
         <seg>The size and zoom setting of the {&lt;u0&gt; drawing area} is adjusted in the corresponding menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143513Z" creationid="Алексей" creationdate="20170913T143513Z">
-        <seg>Размер и масштабирование {&lt;u0&gt; области рисования} настраивается в соответствующем меню.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144601Z" creationid="Алексей" creationdate="20170913T143513Z">
+        <seg>Размер и масштабирование {&lt;u0&gt; области рисования} настраивается в соот\-вет\-ству\-ющем меню.
 </seg>
       </tuv>
     </tu>
@@ -2116,6 +2124,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This changes the {&lt;u4&gt; Action button} to {&lt;u5&gt; Insert scrap} if it had any other value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144348Z" creationid="Алексей" creationdate="20170913T144348Z">
+        <seg>Это изменит кнопку {&lt;u4&gt; Действие} на {&lt;u5&gt; Вставить скрап}, если у нее было другое значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220455Z" creationid="Алексей" creationdate="20170909T210129Z">
@@ -2134,8 +2150,8 @@
       <tuv lang="EN-US">
         <seg>This corresponds with a section of hand-drawn map, which is built up from points, lines and filled areas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144042Z" creationid="Алексей" creationdate="20170913T144042Z">
-        <seg>Это соответствует этапу ручного рисованния карты, которая строится из точек, линий и заполненных областей.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144843Z" creationid="Алексей" creationdate="20170913T144042Z">
+        <seg>Это соответствует этапу ручного рисованния карты, которая стро\-ится из точек, линий и заполненных областей.
 </seg>
       </tuv>
     </tu>
@@ -2406,6 +2422,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
         <seg>Вы можете создавать эти файлы в любом текстовом редакторе, например  {&lt;u0&gt; ed} или {&lt;u1&gt; vi}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should see lines</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144422Z" creationid="Алексей" creationdate="20170913T144422Z">
+        <seg>Вы должны видеть строки</seg>
       </tuv>
     </tu>
     <tu>
@@ -2724,8 +2748,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u1&gt; Auto adjust} calculates optimal size of the working area according to the sizes and positions of loaded background images.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143625Z" creationid="Алексей" creationdate="20170913T143524Z">
-        <seg>{&lt;u1&gt; Авто} вычисляет оптимальный размер рабочей области в соответствии с размерами и позициями загруженных фоновых изображений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144625Z" creationid="Алексей" creationdate="20170913T143524Z">
+        <seg>{&lt;u1&gt; Авто} вычисляет оптимальный размер рабочей области в соот\-вет\-ствии с размерами и позициями загруженных фоновых изображений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3110,16 @@ endline|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204642Z" creationid="Алексей" creationdate="20170909T204642Z">
         <seg>|point 643.5 505.0 gradient -orientation 144.7|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|scrap - scrap1 endscrap end of file|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144458Z" creationid="Алексей" creationdate="20170913T144437Z">
+        <seg>|scrap - scrap1
+endscrap
+end of file|</seg>
       </tuv>
     </tu>
     <tu>
