@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to draw maps?.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181442Z" creationid="Алексей" creationdate="20170914T181442Z">
+        <seg>Как рисовать карты?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to enter centreline?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180438Z" creationid="Алексей" creationdate="20170914T174851Z">
@@ -1741,6 +1749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's almost always a {&lt;u0&gt; bad&lt;u1&gt;} idea to try to fit each scrap to corresponding |*.th| file with centreline from one survey trip.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181850Z" creationid="Алексей" creationdate="20170914T181850Z">
+        <seg>Попытка подобрать скрап к ​​соответствующему |*.th| файлу с ниткой хода одной съемки -- это почти всегда {&lt;u0&gt;плохая&lt;u1&gt;} идея.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's handy to start with an empty template file as shown below, where dots will be replaced with appropriate texts.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175320Z" creationid="Алексей" creationdate="20170914T175320Z">
@@ -1971,6 +1987,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180837Z" creationid="Алексей" creationdate="20170909T180837Z">
         <seg>Запустите программу установки и следуйте инструкциям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scrap is the basic building block of the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181517Z" creationid="Алексей" creationdate="20170914T181517Z">
+        <seg>Скрап является основным блоком карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2244,6 +2268,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164647Z" creationid="Алексей" creationdate="20170913T164647Z">
         <seg>Линия будет завершена после выхода из режима вставки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most important thing is to devise division of the cave into scraps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181503Z" creationid="Алексей" creationdate="20170914T181503Z">
+        <seg>Самое главное -- придумать деление пещеры на скрапы.</seg>
       </tuv>
     </tu>
     <tu>
