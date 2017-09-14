@@ -909,6 +909,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although everything (well, almost everything) about Therion input files has been explained, this chapter offers some additional tips and hints.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T174830Z" creationid="Алексей" creationdate="20170914T174830Z">
+        <seg>Несмотря на то, что все (ну, почти все) о входных файлах Therion'а было сказано, в этой главе приведены некоторые дополнительные советы и подсказки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the data format may look confusing for the first time, it will be explained in the following chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142149Z" creationid="Алексей" creationdate="20170909T141633Z">
@@ -2518,6 +2526,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152538Z" creationid="Алексей" creationdate="20170909T151312Z">
         <seg>Файлы содержат инструкции для Therion, такие как:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thinking in Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T174744Z" creationid="Алексей" creationdate="20170914T174726Z">
+        <seg>Несколько мыслей о Therion'е.</seg>
       </tuv>
     </tu>
     <tu>
