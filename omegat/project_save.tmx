@@ -3095,6 +3095,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{5.3}{&lt;u1&gt; Help/Calibrate bitmap} produces OziExplorer-compatible MAP file based on georeferencig data included in a PDF map&lt;u2&gt;Calibration information for nine distinct points is present if centreline contains station(s) fixed using geodetic coordinate system(s)].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T014854Z" creationid="Алексей" creationdate="20170914T014854Z">
+        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат].
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Areas} are specified by their surrounding lines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T165318Z" creationid="Алексей" creationdate="20170913T165318Z">
