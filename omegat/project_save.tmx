@@ -1328,8 +1328,8 @@
       <tuv lang="EN-US">
         <seg>For really large caves it's possible to build a hierarchical structure of directories.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181334Z" creationid="Алексей" creationdate="20170914T181334Z">
-        <seg>Для действительно больших пещер можно построить иерархическую структуру каталогов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183443Z" creationid="Алексей" creationdate="20170914T181334Z">
+        <seg>Для действительно больших пещер можно построить иерархическую струк\-туру каталогов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,8 +1563,8 @@
       <tuv lang="EN-US">
         <seg>In such a case we create one special file called |INDEX.th| which includes all other |*.th| files from given directory and contains |equate| commands to define connections between surveys.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181431Z" creationid="Алексей" creationdate="20170914T181431Z">
-        <seg>В этом случае мы создаем один специальный файл с именем |INDEX.th| который включает все остальные |* .th| файлы из данного каталога и содержит команды |equate| для определения связей между съемками.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183514Z" creationid="Алексей" creationdate="20170914T181431Z">
+        <seg>В этом случае мы создаем один специальный файл с именем |INDEX.th| который включает все остальные |*.th| файлы из данного каталога и содержит команды |equate| для определения связей между съемками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1767,8 +1767,8 @@
       <tuv lang="EN-US">
         <seg>It's almost always a {&lt;u0&gt; bad&lt;u1&gt;} idea to try to fit each scrap to corresponding |*.th| file with centreline from one survey trip.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181850Z" creationid="Алексей" creationdate="20170914T181850Z">
-        <seg>Попытка подобрать скрап к ​​соответствующему |*.th| файлу с ниткой хода одной съемки -- это почти всегда {&lt;u0&gt;плохая&lt;u1&gt;} идея.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183641Z" creationid="Алексей" creationdate="20170914T181850Z">
+        <seg>Попытка подобрать скрап к соответствующему |*.th| файлу с ниткой хода одной съемки -- это почти всегда {&lt;u0&gt;плохая&lt;u1&gt;} идея.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2017,8 +2017,8 @@
       <tuv lang="EN-US">
         <seg>Scraps in general are independent on centreline hierarchy so try to forget the survey hierarchy when drawing maps and choose best scrap joins.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182039Z" creationid="Алексей" creationdate="20170914T182039Z">
-        <seg>Скрапы в целом независимы от иерархии нитки хода, поэтому старайтесь не привязываться к съемке когда рисуете карты и выбираете лучшие объединения скрапов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183734Z" creationid="Алексей" creationdate="20170914T182039Z">
+        <seg>Скрапы в целом независимы от иерархии нитки хода, поэтому старайтесь не привязываться к съемке когда рисуете карты и вы\-би\-ра\-ете лучшие объединения скрапов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2387,8 +2387,8 @@
       <tuv lang="EN-US">
         <seg>The survey stations names will be referenced using |@| symbol (e.g. |1@a|) in the scraps.&lt;u1&gt;If you include maps in the top-level survey, you may reference any survey station in any scrap, which is very flexible.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183334Z" creationid="Алексей" creationdate="20170914T183334Z">
-        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt; Если вы включаете карты в начале survey, вы можете ссылаться на любую станцию ​​в любом скрапе, что представляет собой очень гибким инструмент.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T184000Z" creationid="Алексей" creationdate="20170914T183334Z">
+        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt;Если вы включаете карты в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент.</seg>
       </tuv>
     </tu>
     <tu>
