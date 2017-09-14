@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  14 SEP 2017 09:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  14 SEP 2017 09:09
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,8 +89,8 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36] [37] [38] [39]
-Overfull \hbox (33.85939pt too wide) in paragraph at lines 780--781
-\rm Рисунок просто отображается на фоне как сканированное растровые изображения
+Overfull \hbox (31.14737pt too wide) in paragraph at lines 780--781
+\rm Рисунок просто отображается на фоне как сканированное растровое изображение
 ,|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
