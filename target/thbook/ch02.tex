@@ -831,17 +831,28 @@ XTherion не выполняет проверку синтаксиса; он только записывает объекты с атрибу
 
 * LeftClick = select object on the top * RightClick = select object right below the top object (useful when several points lie above each other) \endlist
 
-\subchapter Thinking in Therion. 
+\subchapter Несколько мыслей о Therion'е. 
 
-Although everything (well, almost everything) about Therion input files has been explained, this chapter offers some additional tips and hints. 
+Несмотря на то, что все (ну, почти все) о входных файлах Therion'а было сказано, в этой главе приведены некоторые дополнительные советы и подсказки. 
 
-\subsubchapter How to enter centreline?. 
+\subsubchapter Как войти в нитку хода?. 
 
-The basic building block is the |centreline| command. If the cave is larger than a few meters it's a good idea to split data in more files and separate centreline data from map data. 
+Основным блоком построения карт является команда |centreline|. Если пещера больше нескольких метров, неплохо было бы разделить данные в большем количестве файлов и отделить данные нитки хода от данных карты.
+ 
 
-We usually use one |*.th| file containing centreline per survey trip. It's handy to start with an empty template file as shown below, where dots will be replaced with appropriate texts. 
+Обычно мы используем один |*.th| файл содержащий нитку хода для каждой отдельной съемки. Удобно начинать с пустого файла шаблона, как показано ниже, где точки будут заменены соответствующим текстом. 
 
-|encoding ISO8859-1 survey ... -title "..." centreline team "..." team "..." date ... units clino compass grad data normal from to compass clino length ... ... ... ... ... endcentreline endsurvey| 
+|encoding ISO8859-1
+survey ... -title "..."
+	centreline
+		team "..."
+		team "..."
+		date ...
+		units clino compass grad
+		data normal from to compass clino length
+			... ... ... ... ...
+	endcentreline
+endsurvey| 
 
 To create a unique namespace the |centreline| command is enclosed in |survey| ... |endsurvey| command. It's useful when the survey has the same name as the file which contains it. \[E.g.~|survey entrance| in the file |entrance.th|.] The points will than be referenced using |@| character---see the |survey| command description. 
 
