@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, there is a survey |main| which contains surveys |a|, |b|, |c| and |d|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182333Z" creationid="Алексей" creationdate="20170914T182333Z">
+        <seg>Например, есть survey |main| который содержит surveys |a|, |b|, |c| и |d|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For greatest portability use relative paths and Unix slashes `|/|', not Windows backslashes `|&lt;u0&gt;', as directory separators.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T152136Z" creationid="Алексей" creationdate="20170911T151041Z">
@@ -2868,6 +2876,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193748Z" creationid="Алексей" creationdate="20170909T145050Z">
         <seg>Мы использовали вывод одного из них (TJIKPR) в качестве фонового слоя со станциями для ручного рисования карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We usually insert maps in the last-but-one level in survey hierarchy.&lt;u0&gt;Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182225Z" creationid="Алексей" creationdate="20170914T182225Z">
+        <seg>We usually insert maps in the last-but-one level in survey hierarchy.&lt;u0&gt;Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy.</seg>
       </tuv>
     </tu>
     <tu>
