@@ -1384,9 +1384,8 @@
       <tuv lang="EN-US">
         <seg>If the PDF file is used directly, you have to set DPI and output format before automatic conversion&lt;u0&gt;|ghostscript| and |convert| should be installed on your system.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015103Z" creationid="Алексей" creationdate="20170914T015103Z">
-        <seg>Если используется непосредственно файл PDF, то вам необходимо установить DPI и формат вывода перед автоматическим преобразованием &lt;u0&gt;|ghostscript| и |convert| должен быть установлен в вашей системе.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020600Z" creationid="Алексей" creationdate="20170914T015103Z">
+        <seg>Если используется непосредственно файл PDF, то вам необходимо уста\-но\-вить DPI и формат вывода перед автоматическим преобразованием &lt;u0&gt;|Ghostscript| и |convert| должны быть установлены в вашей системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1401,8 +1400,8 @@
       <tuv lang="EN-US">
         <seg>If the map in PDF format has been converted to raster using external program, convertor uses raster image {&lt;u0&gt; and} pdf map with the same base name located in the same directory to calculate the calibration data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T014943Z" creationid="Алексей" creationdate="20170914T014943Z">
-        <seg>Если карта в формате PDF была преобразована в растровое изображение с использованием внешней программы, конвертер использует растровое изображение {&lt;u0&gt; и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020328Z" creationid="Алексей" creationdate="20170914T014943Z">
+        <seg>Если карта в формате PDF была преобразована в растровое изо\-бра\-же\-ние с использованием внешней программы, конвертер использует растровое изо\-бра\-же\-ние {&lt;u0&gt; и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.
 </seg>
       </tuv>
     </tu>
@@ -1823,8 +1822,8 @@
       <tuv lang="EN-US">
         <seg>Note, that Windows installation does not include |ghostscript|] to a raster format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015140Z" creationid="Алексей" creationdate="20170914T015140Z">
-        <seg>Обратите внимание, что установщик Windows не содержит |ghostscript|] в растровый формат.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020524Z" creationid="Алексей" creationdate="20170914T015140Z">
+        <seg>Обратите внимание, что установщик Windows не содержит |ghostscript|.] в растровый формат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,8 +2129,8 @@
       <tuv lang="EN-US">
         <seg>The drawing is just displayed on the background like scanned bitmaps and should be digitized manually.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015816Z" creationid="Алексей" creationdate="20170914T015816Z">
-        <seg>Рисунок просто отображается на фоне как сканированные растровые изображения, и должен быть оцифрован вручную.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020926Z" creationid="Алексей" creationdate="20170914T015816Z">
+        <seg>Рисунок просто отображается на фоне как сканированное растровое изобра\-жение, и должен быть оцифрован вручную.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3155,8 +3154,8 @@
       <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; Help/Calibrate bitmap} produces OziExplorer-compatible MAP file based on georeferencig data included in a PDF map&lt;u2&gt;Calibration information for nine distinct points is present if centreline contains station(s) fixed using geodetic coordinate system(s)].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T014854Z" creationid="Алексей" creationdate="20170914T014854Z">
-        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат].
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020121Z" creationid="Алексей" creationdate="20170914T014854Z">
+        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат.].
 </seg>
       </tuv>
     </tu>
@@ -3164,8 +3163,8 @@
       <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; PocketTopo data} exported in Therion format&lt;u2&gt;This is a special text format which needs to be imported using XTherion and can not be processed by Therion directly.] from PocketTopo application can be imported in text editor as well as in map editor ({&lt;u3&gt; File $&lt;u5&gt;$ Import $&lt;u6&gt;$ PocketTopo therion export} and {&lt;u4&gt; Backgroud Images $&lt;u7&gt;$ Insert $&lt;u8&gt;$ PocketTopo therion export}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015621Z" creationid="Алексей" creationdate="20170914T015621Z">
-        <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированы в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редакторе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изображения $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020741Z" creationid="Алексей" creationdate="20170914T015621Z">
+        <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редак\-торе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изоб\-ра\-же\-ния $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,6 +3269,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144625Z" creationid="Алексей" creationdate="20170913T143524Z">
         <seg>{&lt;u1&gt; Авто} вычисляет оптимальный размер рабочей области в соот\-вет\-ствии с размерами и позициями загруженных фоновых изображений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u1&gt; General}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015916Z" creationid="Алексей" creationdate="20170914T015911Z">
+        <seg>{&lt;u1&gt; Общие}</seg>
       </tuv>
     </tu>
     <tu>
