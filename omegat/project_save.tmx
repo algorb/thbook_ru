@@ -911,8 +911,8 @@
       <tuv lang="EN-US">
         <seg>Although everything (well, almost everything) about Therion input files has been explained, this chapter offers some additional tips and hints.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T174830Z" creationid="Алексей" creationdate="20170914T174830Z">
-        <seg>Несмотря на то, что все (ну, почти все) о входных файлах Therion'а было сказано, в этой главе приведены некоторые дополнительные советы и подсказки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180326Z" creationid="Алексей" creationdate="20170914T174830Z">
+        <seg>Несмотря на то, что все (ну, почти все) о входных файлах Therion'а было сказано, в этой главе приведены некоторые дополнительные советы и под\-сказки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1352,8 @@
       <tuv lang="EN-US">
         <seg>How to enter centreline?.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T174851Z" creationid="Алексей" creationdate="20170914T174851Z">
-        <seg>Как войти в нитку хода?.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180438Z" creationid="Алексей" creationdate="20170914T174851Z">
+        <seg>Как ввести нитку хода?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,7 +3655,7 @@ endcommand|</seg>
       <tuv lang="EN-US">
         <seg>|encoding ISO8859-1 survey ... -title "..." centreline team "..." team "..." date ... units clino compass grad data normal from to compass clino length ... ... ... ... ... endcentreline endsurvey|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180204Z" creationid="Алексей" creationdate="20170914T175342Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180214Z" creationid="Алексей" creationdate="20170914T175342Z">
         <seg>|encoding ISO8859-1
 survey ... -title "..."
 	centreline
@@ -3665,7 +3665,8 @@ survey ... -title "..."
 		units clino compass grad
 		data normal from to compass clino length
 			... ... ... ... ...
-	endcentrelineendsurvey|</seg>
+	endcentreline
+endsurvey|</seg>
       </tuv>
     </tu>
     <tu>
