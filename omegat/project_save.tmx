@@ -1717,6 +1717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's handy to start with an empty template file as shown below, where dots will be replaced with appropriate texts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175320Z" creationid="Алексей" creationdate="20170914T175320Z">
+        <seg>Удобно начинать с пустого файла шаблона, как показано ниже, где точки будут заменены соответствующим текстом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's important to remember, that you're actually creating a text file which should conform to the syntax described in the chapter {&lt;u1&gt; Data format}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144720Z" creationid="Алексей" creationdate="20170913T143732Z">
@@ -3641,6 +3649,23 @@ endcommand|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172132Z" creationid="Алексей" creationdate="20170910T172132Z">
         <seg>|encoding &lt;encoding-name&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|encoding ISO8859-1 survey ... -title "..." centreline team "..." team "..." date ... units clino compass grad data normal from to compass clino length ... ... ... ... ... endcentreline endsurvey|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180204Z" creationid="Алексей" creationdate="20170914T175342Z">
+        <seg>|encoding ISO8859-1
+survey ... -title "..."
+	centreline
+		team "..."
+		team "..."
+		date ...
+		units clino compass grad
+		data normal from to compass clino length
+			... ... ... ... ...
+	endcentrelineendsurvey|</seg>
       </tuv>
     </tu>
     <tu>
