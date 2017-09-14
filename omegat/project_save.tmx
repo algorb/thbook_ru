@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to enter centreline?.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T174851Z" creationid="Алексей" creationdate="20170914T174851Z">
+        <seg>Как войти в нитку хода?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a data line starts with a word reserved for an option, you have to insert `|!|' in front of it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
@@ -1394,6 +1402,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020600Z" creationid="Алексей" creationdate="20170914T015103Z">
         <seg>Если используется непосредственно файл PDF, то вам необходимо уста\-но\-вить DPI и формат вывода перед автоматическим преобразованием &lt;u0&gt;|Ghostscript| и |convert| должны быть установлены в вашей системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the cave is larger than a few meters it's a good idea to split data in more files and separate centreline data from map data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175025Z" creationid="Алексей" creationdate="20170914T175025Z">
+        <seg>Если пещера больше нескольких метров, неплохо было бы разделить данные в большем количестве файлов и отделить данные нитки хода от данных карты.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2103,6 +2120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic building block is the |centreline| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T174926Z" creationid="Алексей" creationdate="20170914T174926Z">
+        <seg>Основным блоком построения карт является команда |centreline|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The check-box {&lt;u2&gt; reverse} is important: Therion requires oriented curves and it is not unusual that you begin to draw from the wrong end.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173316Z" creationid="Алексей" creationdate="20170913T165011Z">
@@ -2747,6 +2772,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193748Z" creationid="Алексей" creationdate="20170909T145050Z">
         <seg>Мы использовали вывод одного из них (TJIKPR) в качестве фонового слоя со станциями для ручного рисования карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We usually use one |*.th| file containing centreline per survey trip.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175249Z" creationid="Алексей" creationdate="20170914T175249Z">
+        <seg>Обычно мы используем один |*.th| файл содержащий нитку хода для каждой отдельной съемки.</seg>
       </tuv>
     </tu>
     <tu>
