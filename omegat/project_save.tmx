@@ -1382,10 +1382,28 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the PDF file is used directly, you have to set DPI and output format before automatic conversion&lt;u0&gt;|ghostscript| and |convert| should be installed on your system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015103Z" creationid="Алексей" creationdate="20170914T015103Z">
+        <seg>Если используется непосредственно файл PDF, то вам необходимо установить DPI и формат вывода перед автоматическим преобразованием &lt;u0&gt;|ghostscript| и |convert| должен быть установлен в вашей системе.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163148Z" creationid="Алексей" creationdate="20170909T155342Z">
         <seg>Если коор\-ди\-наты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the map in PDF format has been converted to raster using external program, convertor uses raster image {&lt;u0&gt; and} pdf map with the same base name located in the same directory to calculate the calibration data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T014943Z" creationid="Алексей" creationdate="20170914T014943Z">
+        <seg>Если карта в формате PDF была преобразована в растровое изображение с использованием внешней программы, конвертер использует растровое изображение {&lt;u0&gt; и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.
+</seg>
       </tuv>
     </tu>
     <tu>
