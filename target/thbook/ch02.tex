@@ -769,15 +769,18 @@ XTherion не выполняет проверку синтаксиса; он только записывает объекты с атрибу
 
 \subsubchapter Дополнительные инструменты. 
 
-\NEW{5.3}{\bf Help/Calibrate bitmap} produces OziExplorer-compatible MAP file based on georeferencig data included in a PDF map\[Calibration information for nine distinct points is present if centreline contains station(s) fixed using geodetic coordinate system(s)]. 
+\NEW{5.3}{\bf Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF\[Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат].
+ 
 
-If the map in PDF format has been converted to raster using external program, convertor uses raster image {\it and} pdf map with the same base name located in the same directory to calculate the calibration data. 
+Если карта в формате PDF была преобразована в растровое изображение с использованием внешней программы, конвертер использует растровое изображение {\it и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.
+ 
 
-If the PDF file is used directly, you have to set DPI and output format before automatic conversion\[|ghostscript| and |convert| should be installed on your system. Note, that Windows installation does not include |ghostscript|] to a raster format. 
+Если используется непосредственно файл PDF, то вам необходимо установить DPI и формат вывода перед автоматическим преобразованием \[|ghostscript| и |convert| должен быть установлен в вашей системе.
+ Обратите внимание, что установщик Windows не содержит |ghostscript|] в растровый формат. 
 
-\NEW{5.3}{\bf PocketTopo data} exported in Therion format\[This is a special text format which needs to be imported using XTherion and can not be processed by Therion directly.] from PocketTopo application can be imported in text editor as well as in map editor ({\it File $\to$ Import $\to$ PocketTopo therion export} and {\it Backgroud Images $\to$ Insert $\to$ PocketTopo therion export}). The same file is used for both imports. Importing sketch does not create scrap data directly. The drawing is just displayed on the background like scanned bitmaps and should be digitized manually. 
+\NEW{5.3}{\bf Данные PocketTopo} экспортированы в формате Therion'а\[Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редакторе карт ({\it Файл $\to$ Импорт $\to$ PocketTopo therion export} и {\it Фоновые изображения $\to$ Вставить $\to$ PocketTopo therion export}). Тот же файл используется для обоих импортов. Импорт эскиза напрямую не создает данные скрапа. Рисунок просто отображается на фоне как сканированные растровые изображения, и должен быть оцифрован вручную. 
 
-\subsubchapter Keyboard and mouse shortcuts in the Map editor. {\it General} \list
+\subsubchapter Сочитания клавишь и мыши в редакторе карт. {\it Общие} \list
 
 * Ctrl+Z = undo * Ctrl+Y = redo * F9 = compile current project * to select object in the listbox using keyboard: switch using `Tab' into desired listbox; move with underlined cursor to desired object; press `Space' * PageUp/PageDown = scroll up/down in the side panel * Shift+PageUp/PageDown = scroll up/down in file commands window \endlist
 
