@@ -2385,6 +2385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The survey stations names will be referenced using |@| symbol (e.g. |1@a|) in the scraps.&lt;u1&gt;If you include maps in the top-level survey, you may reference any survey station in any scrap, which is very flexible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183334Z" creationid="Алексей" creationdate="20170914T183334Z">
+        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt; Если вы включаете карты в начале survey, вы можете ссылаться на любую станцию ​​в любом скрапе, что представляет собой очень гибким инструмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The syntax is</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220119Z" creationid="Алексей" creationdate="20170909T205734Z">
