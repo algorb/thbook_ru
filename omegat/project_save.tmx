@@ -661,6 +661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u0&gt;E.g. |survey entrance| in the file |entrance.th|.] The points will than be referenced using |@| character---see the |survey| command description.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181322Z" creationid="Алексей" creationdate="20170914T181322Z">
+        <seg>&lt;u0&gt;Например |survey entrance| в файле |entry.th|.] На точки можно будет ссылаться используя символ |@| -- смотрите описание команды |survey|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u0&gt;Here we're concerned with creating data, so only the two first modes are described in this section.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T141713Z" creationid="Алексей" creationdate="20170912T172948Z">
@@ -1310,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For really large caves it's possible to build a hierarchical structure of directories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181334Z" creationid="Алексей" creationdate="20170914T181334Z">
+        <seg>Для действительно больших пещер можно построить иерархическую структуру каталогов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For those who want to understand more about it, here is a brief explanation of the above flowchart.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185525Z" creationid="Алексей" creationdate="20170909T185525Z">
@@ -1517,6 +1533,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124400Z" creationid="Алексей" creationdate="20170910T124400Z">
         <seg>В многоязычных строках только текст между |&lt;lang:XX&gt;| (где |XX| - это язык, выбранный в файле инициализации или конфигурации) и следующим тегом |&lt;lang:YY&gt;| отображается на выходе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In such a case we create one special file called |INDEX.th| which includes all other |*.th| files from given directory and contains |equate| commands to define connections between surveys.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181431Z" creationid="Алексей" creationdate="20170914T181431Z">
+        <seg>В этом случае мы создаем один специальный файл с именем |INDEX.th| который включает все остальные |* .th| файлы из данного каталога и содержит команды |equate| для определения связей между съемками.</seg>
       </tuv>
     </tu>
     <tu>
