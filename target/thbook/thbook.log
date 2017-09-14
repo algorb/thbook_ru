@@ -89,28 +89,16 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36] [37] [38] [39]
-Overfull \hbox (10.33975pt too wide) in paragraph at lines 780--781
-\rm торе карт (\it Файл $\sy !$ \it Импорт $\sy !$ \it Pock-et-Topo the-rion ex
--port \rm и \it Фоновые изображения|
-
-\hbox(8.44798+2.69398)x452.96786, glue set - 1.0
-.\rm т
-.\rm о
-.\kern-0.168
-.\rm р
-.\rm е
-.etc.
-
-
-Overfull \hbox (7.39555pt too wide) in paragraph at lines 780--781
-\rm обоих импортов. Импорт эскиза напрямую не создает данные скрапа. Рисунок|
+Overfull \hbox (36.3674pt too wide) in paragraph at lines 780--781
+\rm Рисунок просто отображается на фоне как сканированные растровые изображения
+,|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\rm о
-.\rm б
-.\rm о
-.\kern-0.12001
+.\rm Р
 .\rm и
+.\kern-0.12001
+.\rm с
+.\rm у
 .etc.
 
 [40] [41] [42] [43] [44] [45]) (ch03.tex [46] [47 <./pic/herakl.pdf>] [48]
@@ -406,7 +394,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (85 pages, 760043 bytes).
+Output written on thbook.pdf (85 pages, 760051 bytes).
 PDF statistics:
  543 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
