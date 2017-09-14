@@ -1999,6 +1999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scraps in general are independent on centreline hierarchy so try to forget the survey hierarchy when drawing maps and choose best scrap joins.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182039Z" creationid="Алексей" creationdate="20170914T182039Z">
+        <seg>Скрапы в целом независимы от иерархии нитки хода, поэтому старайтесь не привязываться к съемке когда рисуете карты и выбираете лучшие объединения скрапов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See also an example in the {&lt;u0&gt; Appendix}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145821Z" creationid="Алексей" creationdate="20170910T145738Z">
@@ -2300,6 +2308,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
         <seg>Показ подменю сбоку может быть настроен пользователем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reason is that connections between scraps should be as simple as possible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181905Z" creationid="Алексей" creationdate="20170914T181905Z">
+        <seg>Причина в том, что соединения между скрапами должны быть как можно более простыми.</seg>
       </tuv>
     </tu>
     <tu>
