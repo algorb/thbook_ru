@@ -1465,6 +1465,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Importing sketch does not create scrap data directly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015749Z" creationid="Алексей" creationdate="20170914T015749Z">
+        <seg>Импорт эскиза напрямую не создает данные скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 1999 we begun to think about creating own program for map drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143708Z" creationid="Алексей" creationdate="20170909T142536Z">
@@ -1729,6 +1737,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132647Z" creationid="Алексей" creationdate="20170910T132636Z">
         <seg>JTSK не поддерживается на выходе (как и iJTSK).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard and mouse shortcuts in the Map editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015902Z" creationid="Алексей" creationdate="20170914T015902Z">
+        <seg>Сочитания клавишь и мыши в редакторе карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,6 +2128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The drawing is just displayed on the background like scanned bitmaps and should be digitized manually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015816Z" creationid="Алексей" creationdate="20170914T015816Z">
+        <seg>Рисунок просто отображается на фоне как сканированные растровые изображения, и должен быть оцифрован вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first argument is his/her name, the others describe the roles of the person in the team (optional---currently not used).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164640Z" creationid="Алексей" creationdate="20170912T164640Z">
@@ -2172,6 +2196,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
         <seg>Показ подменю сбоку может быть настроен пользователем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same file is used for both imports.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015636Z" creationid="Алексей" creationdate="20170914T015636Z">
+        <seg>Тот же файл используется для обоих импортов.</seg>
       </tuv>
     </tu>
     <tu>
