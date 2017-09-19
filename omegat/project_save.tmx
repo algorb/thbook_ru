@@ -2803,6 +2803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter explains how |-clip|, |-place|, |-visibility| and |-context| options of |point|, |line| and |area| commands exactly work.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T142646Z" creationid="Алексей" creationdate="20170919T142646Z">
+        <seg>В этой главе объясняется работа опций |-clip|, |-place|, |-visibility| и |-context | команд |point|, |line| и |area|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220455Z" creationid="Алексей" creationdate="20170909T210129Z">
@@ -3060,6 +3068,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204621Z" creationid="Алексей" creationdate="20170909T204621Z">
         <seg>Какие аргументы и опции доступны, зависит от конкретной команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While exporting the map, Therion has to determine three attributes for each point, line or area symbol: visibility, clipping and ordering.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T142922Z" creationid="Алексей" creationdate="20170919T142922Z">
+        <seg>При экспорте карты Therion должен определить три атрибута для каждого из символов -- точки, линии или области: видимость, подрезание и упорядочение.</seg>
       </tuv>
     </tu>
     <tu>
