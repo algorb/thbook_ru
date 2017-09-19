@@ -2354,8 +2354,8 @@
       <tuv lang="EN-US">
         <seg>The height and depth of the passage are computed from |passage-height| and |dimensions| point map symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011355Z" creationid="Алексей" creationdate="20170919T011355Z">
-        <seg>Высота и глубина хода вычисляются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011442Z" creationid="Алексей" creationdate="20170919T011355Z">
+        <seg>Высота и глубина хода вычис\-ля\-ются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,8 +2378,8 @@
       <tuv lang="EN-US">
         <seg>The model is created from scrap outlines.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011110Z" creationid="Алексей" creationdate="20170919T011110Z">
-        <seg>Модель создается из внешних линий скрапов</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011508Z" creationid="Алексей" creationdate="20170919T011110Z">
+        <seg>Модель создается из внешних линий скрапов.</seg>
       </tuv>
     </tu>
     <tu>
