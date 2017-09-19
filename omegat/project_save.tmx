@@ -1941,6 +1941,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004445Z" creationid="Алексей" creationdate="20170919T004445Z">
+        <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One-line commands and multi-line commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204339Z" creationid="Алексей" creationdate="20170909T204339Z">
