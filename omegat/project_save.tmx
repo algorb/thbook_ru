@@ -344,6 +344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; point symbols:} symbolic passage fills (bedrock&lt;u3&gt; guano), * {&lt;u1&gt; line symbols:} all line symbols which don't have |-outline| option set with the exception of |section|, |arrow|, |label|, |gradient| and |water-flow| * {&lt;u2&gt; area symbols:} all.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T144621Z" creationid="Алексей" creationdate="20170919T143849Z">
+        <seg>* {&lt;u0&gt; точечные символы:} символы наполнения ходов (почва&lt;u3&gt; гуано), * {&lt;u1&gt; линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (|выносная линия сечения|), |arrow| (|стрелка|), |label| (|текстовая метка|), |gradient| (|уклон хода|) и |water-flow| (|водоток|) * {&lt;u2&gt; символы области:} все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u1&gt; ext&lt;u6&gt;keyword} = keyword that can also contain |+*.,'| characters, but not on the first position.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123737Z" creationid="Алексей" creationdate="20170910T123623Z">
@@ -2759,6 +2767,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123355Z" creationid="Алексей" creationdate="20170910T123355Z">
         <seg>Therion использует следующие типы данных:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are by default all the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143841Z" creationid="Алексей" creationdate="20170919T143841Z">
+        <seg>По умолчанию это все следующие объекты:</seg>
       </tuv>
     </tu>
     <tu>
