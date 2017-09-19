@@ -346,8 +346,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; point symbols:} symbolic passage fills (bedrock&lt;u3&gt; guano), * {&lt;u1&gt; line symbols:} all line symbols which don't have |-outline| option set with the exception of |section|, |arrow|, |label|, |gradient| and |water-flow| * {&lt;u2&gt; area symbols:} all.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T145126Z" creationid="Алексей" creationdate="20170919T143849Z">
-        <seg>* {&lt;u0&gt; точечные символы:} символы наполнения ходов (почва&lt;u3&gt; гуано) (bedrock&lt;u3&gt; guano); * {&lt;u1&gt; линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (|выносная линия сечения|), |arrow| (|стрелка|), |label| (|текстовая метка|), |gradient| (|уклон хода|) и |water-flow| (|водоток|) * {&lt;u2&gt; символы области:} все</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T145255Z" creationid="Алексей" creationdate="20170919T143849Z">
+        <seg>* {&lt;u0&gt; точечные символы:} символы наполнения ходов (почва&lt;u3&gt; гуано); * {&lt;u1&gt; линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (|выносная линия сечения|), |arrow| (|стрелка|), |label| (|текстовая метка|), |gradient| (|уклон хода|) и |water-flow| (|водоток|); * {&lt;u2&gt; символы области:} все.</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,8 +951,8 @@
       <tuv lang="EN-US">
         <seg>All other symbols are not clipped by the scrap boundary.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T144741Z" creationid="Алексей" creationdate="20170919T144741Z">
-        <seg>Все остальные символы не подрезаются границей скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T145341Z" creationid="Алексей" creationdate="20170919T144741Z">
+        <seg>Все остальные символы не под\-ре\-за\-ются границей скрапа.</seg>
       </tuv>
     </tu>
     <tu>
