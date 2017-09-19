@@ -864,15 +864,15 @@ endsurvey|
 
 We usually insert maps in the last-but-one level in survey hierarchy.\[Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy. Например, есть survey |main| который содержит surveys |a|, |b|, |c| и |d|. Surveys |a| -- |d| содержат данные нитки хода от четырех съемок, и каждый из них находится в отдельном файле. Есть карта |main_map| которая содержит скрапы |s1| и |s2|. Если |main_map| находится в survey |main|, скрап |s1| может содержать часть нитки хода из survey |a|, полную нитку хода |b| и часть |c|; |s2| будет содержать часть |a| и |c| и полную нитку |d|. Названия станций survey будут иметь символ |@| (например, |1@a|). \[Если вы подключаете файлы карт в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент. С другой стороны вы можете использовать более длинные имена в ссылках на станции, например |3@dno.katakomby.jmn.dumbier|.] 
 
-Scraps are usually stored in |*.th2| files. Each file may contain more scraps. To keep data well organized, we have some naming conventions: in the file |foo.th2| all scraps are named |foo_si|, where |i| is |1|, |2| an so on. Cross-sections are named |foo_ci|, lines |foo_li| etc. This helps a lot with large cave systems: if some scrap is referenced, you immediately know in which file it had been defined. 
+Скрапы обычно хранятся в |*.th2| файлах. Каждый файл может содержать несколько скрапов. Чтобы данные были хорошо организованы, мы приняли несколько соглашений об именах файлов: в файле |foo.th2| все скрапы именуются |foo_si|, где |i| -- |1|, |2| и так далее. Поперечные сечения именуются |foo_ci|, линии |foo_li| и т.п. Это очень помогает с большими пещерными системами: если упоминается какой-то скрап, вы сразу же знаете в каком файле он был определен. 
 
-Similar to |*.th| files, there may be one file |INDEX.th2| per directory which includes all |*.th2| files, defines scrap joins and maps. 
+Можно создавать один файл |INDEX.th2| на каталог, который подключает все |*.th2| файлы, описывает maps и объединения скрапов. 
 
-When drawing scraps you should check if the outline is properly defined: all lines creating the outer border should have |-outline out| option; all lines surrounding inner pillars |-outline in| option. Scrap outlines can't intersect themselves---otherwise the inner side of the scrap can't be determined. There are two simple tests that scrap outline is correct: \list
+При рисовании скрапов вы должны проверить, правильно ли определен контур: все линии создающие внешнюю границу должны иметь опцию |-outline out|; все линии окружающие внутренние колонны опцию |-outline in|. Границы скрапа не могут пересекаться, иначе внутренняя сторона скрапа не может быть определена. Есть два простых теста, которые определяют правильность скрапа: \list
 
-* there is no \MP\ warning ``|scrap outline intersects itself|'' * when you set passage fill to any color (|color map-fg <number>| option in |layout|), you may see what Therion considers to be inside of the scrap. \endlist
+* не существует \MP\ warning ``|scrap outline intersects itself|'' * когда вы устанавливаете цвет заливки ходов (|color map-fg <номер>| опция в |layout|), вы можете видеть что Therion считает внутренней областью скрапа. \endlist
 
-\subsubchapter How to create models?. 
+\subsubchapter Как создать модели?. 
 
 The model is created from scrap outlines. The height and depth of the passage are computed from |passage-height| and |dimensions| point map symbols. 
 
