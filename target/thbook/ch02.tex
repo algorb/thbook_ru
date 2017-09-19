@@ -880,23 +880,23 @@ We usually insert maps in the last-but-one level in survey hierarchy.\[Remember 
 
 \subsubchapter How the map is put together. 
 
-This chapter explains how |-clip|, |-place|, |-visibility| and |-context| options of |point|, |line| and |area| commands exactly work. It gives also explanation of |color|, |transparency|, |symbol-hide| and |symbol-show| options of the |layout| command. 
+В этой главе объясняется работа опций |-clip|, |-place|, |-visibility| и |-context | команд |point|, |line| и |area|. Также объясняются опции |color|, |transparent |, |symbol-hide| и |symbol-show| команды |layout|. 
 
-While exporting the map, Therion has to determine three attributes for each point, line or area symbol: visibility, clipping and ordering. 
+При экспорте карты Therion должен определить три атрибута для каждого из символов -- точки, линии или области: видимость, подрезание и упорядочение. 
 
-(1) Symbol is visible if all of the following is true: 
+(1) Символ отображается, если верно следующее: 
 
 \list
 
-* it has |-visibility| option set |on| (all symbols by default), * it hasn't been hidden by the |-symbol-hide| option in layout, * if its |-context| option is set, the corresponding symbol hasn't been hidden by the |-symbol-hide| option in layout. \endlist
+* он имеет опцию |-visibility| со значением |on| (все символы по умолчанию); * он не был скрыт опцией |-symbol-hide| в layout; * если его опция |-context| установлена, а соответствующий символ не был скрыт опцией |-symbol-hide| в layout. \endlist
 
-Only visible symbols are exported. 
+Экспортируются только видимые символы. 
 
-(2) Some symbols are clipped by the scrap outline. These are by default all the following: \list
+(2) Некоторые символы могут подрезаться абрисом скрапа. По умолчанию это все следующие объекты: \list
 
-* {\it point symbols:} symbolic passage fills (bedrock\dots guano), * {\it line symbols:} all line symbols which don't have |-outline| option set with the exception of |section|, |arrow|, |label|, |gradient| and |water-flow| * {\it area symbols:} all. \endlist
+* {\it точечные символы:} символы наполнения ходов (почва\dots гуано), * {\it линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (|выносная линия сечения|), |arrow| (|стрелка|), |label| (|текстовая метка|), |gradient| (|уклон хода|) и |water-flow| (|водоток|) * {\it символы области:} все \endlist
 
-The default setting may be changed using the |-clip option|, if this is allowed for particular symbol. All other symbols are not clipped by the scrap boundary. 
+Значение по умолчанию может быть изменено с помощью опции |-clip|, если это разрешено для определенного символа. Все остальные символы не подрезаются границей скрапа. 
 
 (3) Ordering: Each symbol belongs to one of the following groups which are drawn consecutively: 
 
