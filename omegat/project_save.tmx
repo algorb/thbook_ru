@@ -1665,6 +1665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It gives also explanation of |color|, |transparency|, |symbol-hide| and |symbol-show| options of the |layout| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143111Z" creationid="Алексей" creationdate="20170919T143111Z">
+        <seg>Также объясняются опции |color|, |transparent |, |symbol-hide| и |symbol-show| команды |layout|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It helps a lot with creating input data files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173237Z" creationid="Алексей" creationdate="20170912T172818Z">
