@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cross-sections are named |foo_ci|, lines |foo_li| etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005221Z" creationid="Алексей" creationdate="20170919T005221Z">
+        <seg>Поперечные сечения именуются |foo_ci|, линии |foo_li| и т.п.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Currently it works in three main modes: text editor, map editor and compiler.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172914Z" creationid="Алексей" creationdate="20170912T172914Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
         <seg>В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each file may contain more scraps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005019Z" creationid="Алексей" creationdate="20170919T005019Z">
+        <seg>Каждый файл может содержать несколько скрапов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,8 +1959,8 @@
       <tuv lang="EN-US">
         <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004654Z" creationid="Алексей" creationdate="20170919T004445Z">
-        <seg>С другой стороны вы можете использовать более длинные имена в ссылках на станции, например |3@dno.katakomby.jmn.dumbier|]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004910Z" creationid="Алексей" creationdate="20170919T004445Z">
+        <seg>С другой стороны вы можете использовать более длинные имена в ссылках на станции, например |3@dno.katakomby.jmn.dumbier|.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2019,6 +2035,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181517Z" creationid="Алексей" creationdate="20170914T181517Z">
         <seg>Скрап является основным блоком карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scraps are usually stored in |*.th2| files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004953Z" creationid="Алексей" creationdate="20170919T004953Z">
+        <seg>Скрапы обычно хранятся в |*.th2| файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2866,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133629Z" creationid="Алексей" creationdate="20170910T132459Z">
         <seg>Чтобы найти номер вашей системы, см. |extern/proj4/nad/epsg| файл в дистрибутиве исходников.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To keep data well organized, we have some naming conventions: in the file |foo.th2| all scraps are named |foo_si|, where |i| is |1|, |2| an so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005148Z" creationid="Алексей" creationdate="20170919T005148Z">
+        <seg>Чтобы данные были хорошо организованы, мы приняли несколько соглашений об именах файлов: в файле |foo.th2| все скрапы именуются |foo_si|, где |i| -- |1|, |2| и так далее.</seg>
       </tuv>
     </tu>
     <tu>
