@@ -2087,6 +2087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar to |*.th| files, there may be one file |INDEX.th2| per directory which includes all |*.th2| files, defines scrap joins and maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005542Z" creationid="Алексей" creationdate="20170919T005542Z">
+        <seg>Можно создавать один файл |INDEX.th2| на каталог, который подключает все |*.th2| файлы, описывает maps и объединения скрапов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we could either draw the whole Atlas again, or accept that the location of some places was not accurate---in the case of loops with a length of approximately 1 km there were sometimes errors of about 10 m---and try to distort the new passages to fit to old ones.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193716Z" creationid="Алексей" creationdate="20170909T150257Z">
@@ -2768,6 +2776,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144843Z" creationid="Алексей" creationdate="20170913T144042Z">
         <seg>Это соответствует этапу ручного рисованния карты, которая стро\-ится из точек, линий и заполненных областей.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This helps a lot with large cave systems: if some scrap is referenced, you immediately know in which file it had been defined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005308Z" creationid="Алексей" creationdate="20170919T005308Z">
+        <seg>Это очень помогает с большими пещерными системами: если упоминается какой-то скрап, вы сразу же знаете в каком файле он был определен.</seg>
       </tuv>
     </tu>
     <tu>
