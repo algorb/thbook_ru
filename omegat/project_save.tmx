@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(3) Ordering: Each symbol belongs to one of the following groups which are drawn consecutively:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T152546Z" creationid="Алексей" creationdate="20170919T152546Z">
+        <seg>Упорядочевание: каждый символ относится к одной из следующих групп, которые последовательно выводятся:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Cf. chapter {&lt;u2&gt; Data format}).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143928Z" creationid="Алексей" creationdate="20170913T143928Z">
@@ -283,6 +291,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192347Z" creationid="Алексей" creationdate="20170909T190102Z">
         <seg>* черный --- программы и макросы Therion'а (XTherion написан на Tcl/Tk, поэтому для него требуется этот интерпретатор); * красный --- &lt;u0&gt;&lt;u1&gt; пакет; * зеленый --- входные файлы, созданные пользователем и выходные файлы, созданные Therion'ом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* bottom = all symbols with |-place bottom| option set * default-bottom = all |area| symbols by default * default = symbols which don't belong to any other group * default-top = |ceiling-step| and |chimney| by default * top = all symbols with |-place top| option set</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T153124Z" creationid="Алексей" creationdate="20170919T153124Z">
+        <seg>* bottom = все символы с опцией |-place bottom|; * default-bottom = все символы |области| по умолчанию; * default = символы, которые не принадлежат ни к какой другой группе; * default-top =  |ceiling-step| (|уступ потолка|) и |chimney| (|камин|) по умолчанию; * top = все символы с опцией |-place top|.</seg>
       </tuv>
     </tu>
     <tu>
