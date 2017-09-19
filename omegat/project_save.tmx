@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(2) Some symbols are clipped by the scrap outline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143814Z" creationid="Алексей" creationdate="20170919T143814Z">
+        <seg>(2) Некоторые символы могут подрезаться абрисом скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Cf. chapter {&lt;u2&gt; Data format}).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143928Z" creationid="Алексей" creationdate="20170913T143928Z">
@@ -2018,6 +2026,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145840Z" creationid="Алексей" creationdate="20170913T145840Z">
         <seg>Показаваются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only visible symbols are exported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143602Z" creationid="Алексей" creationdate="20170919T143602Z">
+        <seg>Экспортируются только видимые символы.</seg>
       </tuv>
     </tu>
     <tu>
