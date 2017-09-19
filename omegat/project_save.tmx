@@ -1943,8 +1943,8 @@
       <tuv lang="EN-US">
         <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004445Z" creationid="Алексей" creationdate="20170919T004445Z">
-        <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004654Z" creationid="Алексей" creationdate="20170919T004445Z">
+        <seg>С другой стороны вы можете использовать более длинные имена в ссылках на станции, например |3@dno.katakomby.jmn.dumbier|]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2395,8 +2395,8 @@
       <tuv lang="EN-US">
         <seg>The survey stations names will be referenced using |@| symbol (e.g. |1@a|) in the scraps.&lt;u1&gt;If you include maps in the top-level survey, you may reference any survey station in any scrap, which is very flexible.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T184000Z" creationid="Алексей" creationdate="20170914T183334Z">
-        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt;Если вы включаете карты в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004804Z" creationid="Алексей" creationdate="20170914T183334Z">
+        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt;Если вы подключаете файлы карт в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент.</seg>
       </tuv>
     </tu>
     <tu>
