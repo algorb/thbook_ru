@@ -304,6 +304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* there is no &lt;u0&gt;&lt;u1&gt;warning ``|scrap outline intersects itself|'' * when you set passage fill to any color (|color map-fg &lt;number&gt;| option in |layout|), you may see what Therion considers to be inside of the scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T010313Z" creationid="Алексей" creationdate="20170919T010313Z">
+        <seg>* не существует &lt;u0&gt;&lt;u1&gt;warning ``|scrap outline intersects itself|'' * когда вы устанавливаете цвет заливки ходов (|color map-fg &lt;номер&gt;| опция в |layout|), вы можете видеть что Therion считает внутренней областью скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; keyword} = a sequence of |A-Z|, |a-z|, |0-9| and |_-/| characters (not starting with `|-|').</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123617Z" creationid="Алексей" creationdate="20170910T123617Z">
@@ -2551,6 +2559,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205031Z" creationid="Алексей" creationdate="20170909T204302Z">
         <seg>Существует нес\-колько правил о том, как должен выглядеть такой файл:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two simple tests that scrap outline is correct:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005948Z" creationid="Алексей" creationdate="20170919T005948Z">
+        <seg>Есть два простых теста, которые определяют правильность скрапа:</seg>
       </tuv>
     </tu>
     <tu>
