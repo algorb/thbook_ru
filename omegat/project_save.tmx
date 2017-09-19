@@ -2039,6 +2039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrap outlines can't intersect themselves---otherwise the inner side of the scrap can't be determined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005858Z" creationid="Алексей" creationdate="20170919T005858Z">
+        <seg>Границы скрапа не могут пересекаться, иначе внутренняя сторона скрапа не может быть определена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scraps are usually stored in |*.th2| files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004953Z" creationid="Алексей" creationdate="20170919T004953Z">
@@ -2988,6 +2996,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151008Z" creationid="Алексей" creationdate="20170913T151008Z">
         <seg>Каков порядок команд в выходном файле?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When drawing scraps you should check if the outline is properly defined: all lines creating the outer border should have |-outline out| option; all lines surrounding inner pillars |-outline in| option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005743Z" creationid="Алексей" creationdate="20170919T005743Z">
+        <seg>При рисовании скрапов вы должны проверить, правильно ли определен контур: все линии создающие внешнюю границу должны иметь опцию |-outline out|; все линии окружающие внутренние колонны опцию |-outline in|.</seg>
       </tuv>
     </tu>
     <tu>
