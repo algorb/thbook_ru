@@ -1940,6 +1940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If two stations are given---direction is applied only to given shot.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T070310Z" creationid="Алексей" creationdate="20170920T070310Z">
+        <seg>Если заданы две станции -- направление применяется только к данному замеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can not see these points, you can either</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174436Z" creationid="Алексей" creationdate="20170913T171204Z">
@@ -4692,6 +4700,14 @@ endsurvey|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|left/right| = same as above, but direction is specified explicitly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T070343Z" creationid="Алексей" creationdate="20170920T070334Z">
+        <seg>|left/right| =как указано выше, но направление указано явно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|line wall -id walltobereferenced 1174.0 744.5 1194.0 756.5 1192.5 757.5 1176.0 791.0 smooth off 1205.5 788.0 1195.5 832.5 1173.5 879.0 endline|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220257Z" creationid="Алексей" creationdate="20170909T205851Z">
@@ -4745,6 +4761,14 @@ end of file|</seg>
         <seg>|survey &lt;id&gt; [OPTIONS]
 	... другие объекты ...
 endsurvey [&lt;id&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|vertical| = do not move station (shot) in $X$ direction, use only $Z$ component of the shot</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T070452Z" creationid="Алексей" creationdate="20170920T070452Z">
+        <seg>|vertical| = не перемещайте станцию (замер) в направлении $X$, использует только $Z$ компонент замера.</seg>
       </tuv>
     </tu>
     <tu>
