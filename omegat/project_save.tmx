@@ -625,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |grade &lt;grade list&gt;| = sets standard deviations according to the survey grade specification (see grade command).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T043926Z" creationid="Алексей" creationdate="20170920T043926Z">
+        <seg>* |grade &lt;grade list&gt;| = устанавливаются стандартные отклонения для угла наклона съемки (смотрите команду grade).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
