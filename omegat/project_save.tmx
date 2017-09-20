@@ -625,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
+        <seg>* |grid-angle &lt;значение&gt; &lt;единицы&gt;| = задает угол магнитной сетки (склонение от направления на север).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |id &lt;ext_keyword&gt;| = id of the object * |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163945Z" creationid="Алексей" creationdate="20170912T163557Z">
@@ -635,8 +643,8 @@
       <tuv lang="EN-US">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = description of the instrument that was used to survey the given quantities (same keywords as team person's role) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T171143Z" creationid="Алексей" creationdate="20170912T165244Z">
-        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который исполь\-зо\-вался для определения количественных данных (те же значения, что и роль человека в команде) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T035946Z" creationid="Алексей" creationdate="20170912T165244Z">
+        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который исполь\-зо\-вался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1646,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161010Z" creationid="Алексей" creationdate="20170911T155806Z">
         <seg>Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с исполь\-зо\-ва\-нием встроенной геомагнитной модели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no declination is specified, or the declination is reset (|-|), then a valid declination specification is searched for in all surveys the data object is in.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040340Z" creationid="Алексей" creationdate="20170920T040340Z">
+        <seg>Если ни одно cклонение не указано, или cклонение сброшено (|-|), тогда действительная спецификация склонения ищется во всех съемках, в которых находится объект данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3567,8 +3583,8 @@
       <tuv lang="EN-US">
         <seg>`|infer equates on|' will case program to interpret shots with 0 length as equate commands (which means that no tape corrections are applied) * |declination &lt;value&gt; &lt;units&gt;| = sets the declination for subsequent shots $$true&lt;u2&gt;bearing = measured&lt;u3&gt;bearing + declination.$$ The declination is positive when the magnetic north is east of true north.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T035706Z" creationid="Алексей" creationdate="20170920T035706Z">
-        <seg>`|infer equates on| ' программа будет интерпретировать замеры с длиной 0 в качестве команды equate (что означает, что не применяются никакие корректировки длины); * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$true&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение. $$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040051Z" creationid="Алексей" creationdate="20170920T035706Z">
+        <seg>`|infer equates on|' программа будет интерпретировать замеры с длиной 0 в качестве команды equate (что означает, что не применяются никакие корректировки длины). * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$истинный&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение$$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
       </tuv>
     </tu>
     <tu>
