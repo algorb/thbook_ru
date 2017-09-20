@@ -1187,8 +1187,16 @@
       <tuv lang="EN-US">
         <seg>Also ``|not|'' is allowed before a flag.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051336Z" creationid="Алексей" creationdate="20170920T051336Z">
-        <seg>Также перед флагом допускается команда ``|not|''.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052033Z" creationid="Алексей" creationdate="20170920T051336Z">
+        <seg>Также перед флагом допускается приставка ``|not|''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also |not| is allowed before a flag, to remove previously added flag.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052102Z" creationid="Алексей" creationdate="20170920T052023Z">
+        <seg>Также приставка |not| может быть использована перед флагом, чтобы удалить ранее добавленный флаг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3601,6 +3609,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172717Z" creationid="Алексей" creationdate="20170912T172717Z">
         <seg>XTherion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also specify custom attributes to the station using |attr| flag followed by attribute name and value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052135Z" creationid="Алексей" creationdate="20170920T052135Z">
+        <seg>Вы также можете указать пользовательские атрибуты для станции, используя флаг |attr|, за которым следуют имя и значение атрибута.</seg>
       </tuv>
     </tu>
     <tu>
