@@ -587,21 +587,22 @@
       <tuv lang="EN-US">
         <seg>*map area is filled with |color map-bg| *surface bitmaps are displayed if |surface| is set |bottom| *FOR each scrap: outline is filled white *grid is displayed if |grid| is set |bottom| *preview below&lt;u3&gt;As specified using the |preview| option in the |map| command] is filled with |color preview-below| *FOR each level&lt;u4&gt;Level is a collection of scraps not separated by a |break| in the |map| command]: BEGIN of transparency FOR each scrap: outline is filled with |color map-fg| FOR each scrap: |area| symbols are filled and clipped to scrap boundary END of transparency BEGIN of clipping by text labels (for all labels in this and upper levels) FOR each scrap: draw all symbols to be clipped (with the exception of |line survey|) ordered from bottom to top draw |line survey| symbols clip to scrap boundary FOR each scrap: draw all symbols not to be clipped (with the exception of |point station| and all labels) ordered from bottom to top draw |point station| symbols END of clipping by text labels FOR each scrap: draw all (point and line) labels (including |wall-altitude|) *preview above is drawn with |color preview-above| *surface bitmaps are displayed if |surface| is set |top| *grid is displayed if |grid| is set |top|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T013606Z" creationid="Алексей" creationdate="20170919T153939Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T014858Z" creationid="Алексей" creationdate="20170919T153939Z">
         <seg>* область карты заполняется |color map-bg|; * растровые изображения поверхности отображаются, если |surface| установ\-лен в |bottom|; * ДЛЯ каждого скрапа: абрисы заполняются белым; * рисуется сетка если |grid| установлен в |bottom|; * анонс внизу &lt;u3&gt;Согласно спецификации опции |preview| в команде |map|.] заполняется |color preview-below|; * ДЛЯ каждого уровня&lt;u4&gt;Уровень -- это коллекция скрапов не разделенная |break| в команде |map|.]:
       НАЧАЛО прозрачности
-           ДЛЯ каждого скрапа: абрис заполняется |color map-fg|
-            ДЛЯ каждого СКРАПА: символы |области| заполняются и обрезаются до границы скрапа
+            ДЛЯ каждого скрапа: абрис заполняется |color map-fg|
+           ДЛЯ каждого скрапа: символы |области| заполняются и обрезаются до границы скрапа
       КОНЕЦ прозрачности
       НАЧАЛО обрезания текстовых меток (для всех текстовых меток на этом и верхних уровнях)
             ДЛЯ каждого скрапа:
-                  рисуются все символы, подлежащие подрезанию (за исключением |line survey|), упорядоченные снизу к верхней
-                  ничьей | символьный
-                  клип на ломовую границу
-            ДЛЯ каждого лома:
-                  нарисуйте все символы, которые не должны быть обрезаны (за исключением | точечной станции | и всех этикеток), упорядоченной снизу вверх | символы
-            END обрезания с помощью текстовых меток
-            ДЛЯ каждого лома: нарисуйте все (точечные и линейные) метки (в том числе на стене) * Анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface| установлен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
+                  рисуются все подрезанные символы (за исключением |line survey|), упорядочиваются снизу вверх
+                  рисуются |line survey| символы
+                  отсекаются границы скрапов
+            ДЛЯ каждого скрапа:
+                  рисуются все неотсеченные символы (за исключением |point station| и всех текстовых меток), упорядочеваются снизу вверх
+                  рисуются |point station| символы
+      КОНЕЦ отсечения текстовых меток
+      ДЛЯ каждого скрапа: рисуются все (точечные и линейные) текстовые метки (в том числе |wall-altitude|); * Анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface| установлен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
       </tuv>
     </tu>
     <tu>
