@@ -2684,6 +2684,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measured value is calculated using the following formula: $measured&lt;u4&gt;value = (read&lt;u5&gt;value - zero&lt;u6&gt;error) &lt;u7&gt; scale$.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045035Z" creationid="Алексей" creationdate="20170920T045035Z">
+        <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - zero&lt;u6&gt;error) &lt;u7&gt; масштаб$.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The model is created from scrap outlines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011508Z" creationid="Алексей" creationdate="20170919T011110Z">
@@ -2769,6 +2777,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174400Z" creationid="Алексей" creationdate="20170912T174400Z">
         <seg>Подменю могут быть свернуты; вы можете развернуть их, нажав кнопку меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supported quantities are the same as sd.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045115Z" creationid="Алексей" creationdate="20170920T045115Z">
+        <seg>Поддерживаемые единицы такие же, как в sd.</seg>
       </tuv>
     </tu>
     <tu>
