@@ -4692,6 +4692,14 @@ endsurvey|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|ignore| = ignore specified station (shot), continue extended elevation with other station (shot) if possible</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T070718Z" creationid="Алексей" creationdate="20170920T070602Z">
+        <seg>|ignore| = игнорировать указанную станцию (замер), продолжить развертку как у другой станции (замера), если возможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|input &lt;file-name&gt;|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151046Z" creationid="Алексей" creationdate="20170911T151046Z">
@@ -4751,6 +4759,14 @@ endline|</seg>
         <seg>|scrap - scrap1
 endscrap
 end of file|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|start| = specify starting station (shot)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T070545Z" creationid="Алексей" creationdate="20170920T070507Z">
+        <seg>|start| = указать начальную станцию (замер)</seg>
       </tuv>
     </tu>
     <tu>
