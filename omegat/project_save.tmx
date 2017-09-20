@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LeftClick = select object on the top * RightClick = select object right below the top object (useful when several points lie above each other)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T030350Z" creationid="Алексей" creationdate="20170920T030350Z">
+        <seg>* щелчок левой кнопкой мыши = выбрать верхний объект; * щелчок правой кнопкой мыши = выбрать объект под верхним объектом (полезно, когда несколько точек лежат друг над другом). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211239Z" creationid="Алексей" creationdate="20170909T205554Z">
@@ -3882,6 +3890,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172548Z" creationid="Алексей" creationdate="20170913T172418Z">
         <seg>Поле {&lt;u0&gt; Опции} сохраняет старое значение, и достаточно изменить всего несколько символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Selecting an existing object}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T030217Z" creationid="Алексей" creationdate="20170920T030217Z">
+        <seg>{&lt;u0&gt; Выбор существующего объекта}</seg>
       </tuv>
     </tu>
     <tu>
