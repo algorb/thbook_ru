@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LeftClick + drag = move line point * Ctrl+LeftClick + drag = move line point close to the existing point (normally it is moved right above closest existing point) * LeftClick on control point + drag = move control point</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024454Z" creationid="Алексей" creationdate="20170920T024454Z">
+        <seg>* щелчок левой кнопкой мыши+перемещение = перемещение точки линии; * Ctrl+щелчок левой кнопкой мыши+перемещение = перемещение точки линии близко к существующей точке (обычно она перемещается на ближайшую существующую точку); * щелчок левой кнопкой мыши на контрольной точке+перемещение = переместить контрольную точку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211239Z" creationid="Алексей" creationdate="20170909T205554Z">
@@ -372,6 +380,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174613Z" creationid="Алексей" creationdate="20170913T171459Z">
         <seg>* нажать кнопку {&lt;u0&gt; Масштаб} в меню {&lt;u1&gt; Скрап} и щелкнуть два разных места на изображении, где должны быть конечные точки калибровочной стрелки, или * переместить указатель мыши в нужную позицию, прочитать координаты указателя и ввести эти координаты в {&lt;u2&gt; масштабирующие точки для кар\-тинки} в меню {&lt;u3&gt; Скрап}.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* select the point before which you want to insert points; insert required points; press Esc or left-click on the point you selected at the beginning</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024609Z" creationid="Алексей" creationdate="20170920T024609Z">
+        <seg>* выберите точку, перед которой вы хотите вставить новые точки; вставить необходимые точки; нажмите Esc или щелкните левой кнопкой мыши по выбранной вами точке в начале.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3658,6 +3674,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020741Z" creationid="Алексей" creationdate="20170914T015621Z">
         <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редак\-торе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изоб\-ра\-же\-ния $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Adding line point}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024518Z" creationid="Алексей" creationdate="20170920T024506Z">
+        <seg>{&lt;u0&gt; Добавление точки линии}</seg>
       </tuv>
     </tu>
     <tu>
