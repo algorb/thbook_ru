@@ -1195,8 +1195,8 @@
       <tuv lang="EN-US">
         <seg>Also |not| is allowed before a flag, to remove previously added flag.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052102Z" creationid="Алексей" creationdate="20170920T052023Z">
-        <seg>Также приставка |not| может быть использована перед флагом, чтобы удалить ранее добавленный флаг.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053618Z" creationid="Алексей" creationdate="20170920T052023Z">
+        <seg>Также приставка |not| может быть использована перед флагом, чтобы уда\-лить ранее добавленный флаг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,8 +1500,8 @@
       <tuv lang="EN-US">
         <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053031Z" creationid="Алексей" creationdate="20170920T052831Z">
-        <seg>Исследовательские длины являются частью статистики съемки/пещеры, отображаемой отдельно.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053755Z" creationid="Алексей" creationdate="20170920T052831Z">
+        <seg>Исследовательские длины являются частью статистики съем\-ки/пещеры, отображаемой отдельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1927,8 +1927,8 @@
       <tuv lang="EN-US">
         <seg>If |""| is specified as a comment, it is ignored.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051446Z" creationid="Алексей" creationdate="20170920T051446Z">
-        <seg>Если |""| указан как комментарий, он игнорируется.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053154Z" creationid="Алексей" creationdate="20170920T051446Z">
+        <seg>Если в качестве комментария указан |""|, то он игнорируется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2613,8 +2613,9 @@
       <tuv lang="EN-US">
         <seg>Supported flags: |entrance|, |continuation|, |air-draught[:winter/summer]|, |sink|, |spring|, |doline|, |dig|, &lt;u0&gt;{5.3}|arch|, |overhang|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052002Z" creationid="Алексей" creationdate="20170920T051457Z">
-        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053523Z" creationid="Алексей" creationdate="20170920T051457Z">
+        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught
+[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,8 +3656,8 @@
       <tuv lang="EN-US">
         <seg>You can also specify custom attributes to the station using |attr| flag followed by attribute name and value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052135Z" creationid="Алексей" creationdate="20170920T052135Z">
-        <seg>Вы также можете указать пользовательские атрибуты для станции, используя флаг |attr|, за которым следуют имя и значение атрибута.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053648Z" creationid="Алексей" creationdate="20170920T052135Z">
+        <seg>Вы также можете указать пользовательские атрибуты для станции, исполь\-зуя флаг |attr|, за которым следуют имя и значение атрибута.</seg>
       </tuv>
     </tu>
     <tu>
