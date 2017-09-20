@@ -593,10 +593,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |break| = can be used with interleaved data to separate two traverses * |mark [&lt;station list&gt;] &lt;type&gt;| = set the type of named stations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045610Z" creationid="Алексей" creationdate="20170920T045610Z">
+        <seg>* |break| = может использоваться с чередованными данными, чтобы отделить два пересечения. * |mark [&lt;список станций&gt;] &lt;тип&gt;| = установить тип именованных станций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]| = set the instrument calibration.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044827Z" creationid="Алексей" creationdate="20170920T044827Z">
-        <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;масштаб&gt;]| = установить калибровку прибора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045239Z" creationid="Алексей" creationdate="20170920T044827Z">
+        <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;масштаб&gt;]| = установка калибровки прибора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -715,8 +723,8 @@
       <tuv lang="EN-US">
         <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt;| = set the units for given measurements (same quantities as for sd).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044709Z" creationid="Алексей" creationdate="20170920T044709Z">
-        <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;| = установка единиц для данных измерений (так же как и для sd).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045153Z" creationid="Алексей" creationdate="20170920T044709Z">
+        <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;| = установка единиц для данных измере\-ний (так же как и для sd).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,8 +2694,8 @@
       <tuv lang="EN-US">
         <seg>The measured value is calculated using the following formula: $measured&lt;u4&gt;value = (read&lt;u5&gt;value - zero&lt;u6&gt;error) &lt;u7&gt; scale$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045035Z" creationid="Алексей" creationdate="20170920T045035Z">
-        <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - zero&lt;u6&gt;error) &lt;u7&gt; масштаб$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045305Z" creationid="Алексей" creationdate="20170920T045035Z">
+        <seg>Измеренное значение рассчитывается по следующей формуле: $измерен\-ное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - zero&lt;u6&gt;error) &lt;u7&gt; масштаб$.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2783,8 +2791,8 @@
       <tuv lang="EN-US">
         <seg>The supported quantities are the same as sd.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045115Z" creationid="Алексей" creationdate="20170920T045115Z">
-        <seg>Поддерживаемые единицы такие же, как в sd.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045354Z" creationid="Алексей" creationdate="20170920T045115Z">
+        <seg>Поддержи\-ваемые единицы такие же, как в sd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4266,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153912Z" creationid="Алексей" creationdate="20170911T153912Z">
         <seg>|&lt;object-id&gt;@&lt;subsurvey-id&gt;|,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;type&gt;| is one of: fixed, painted and temporary (default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045813Z" creationid="Алексей" creationdate="20170920T045637Z">
+        <seg>|&lt;type&gt;| может принимать одно из значений: fixed (фиксированным), painted (нарисованный) и temporary (временным) (по умолчанию).</seg>
       </tuv>
     </tu>
     <tu>
