@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>* Ctrl+Z = undo * Ctrl+Y = redo * F9 = compile current project * to select object in the listbox using keyboard: switch using `Tab' into desired listbox; move with underlined cursor to desired object; press `Space' * PageUp/PageDown = scroll up/down in the side panel * Shift+PageUp/PageDown = scroll up/down in file commands window</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T022137Z" creationid="Алексей" creationdate="20170920T021357Z">
-        <seg>* Ctrl+Z = отменить изменения; * Ctrl+Y = вернуть изменения; * F9 = компилировать текущий проект; * для выбора объекта в списке с помощью клавиатуры: переключатель с помощью `Tab' into desired listbox; move with underlined cursor to desired object; press `Space' * PageUp/PageDown = scroll up/down in the side panel * Shift+PageUp/PageDown = scroll up/down in file commands window</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T022856Z" creationid="Алексей" creationdate="20170920T021357Z">
+        <seg>* Ctrl+Z = отменить изменения; * Ctrl+Y = вернуть изменения; * F9 = компилировать текущий проект; * для выбора объекта в списке с помощью клавиатуры: переключайтесь с помощью `Tab' в желаемый список; перемещаться на нужный объект (объект подчеркивается); Нажмите `Пробел' * PageUp/PageDown = скролинг вверх/вниз в боковой панели * Shift+PageUp/PageDown = скролинг вверх/вниз в окне Команды в файле;</seg>
       </tuv>
     </tu>
     <tu>
