@@ -609,6 +609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = fix station coordinates (with specified errors---only the units transformation, not calibration, is applied to them).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T054335Z" creationid="Алексей" creationdate="20170920T054204Z">
+        <seg>* |cs &lt;система координат&gt;| = система координат для станций с фиксированными координатами. * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = фиксировать координаты станции (с указанными ошибками -- к ним применяется только преобразование единиц, а не калибровка).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |date &lt;date&gt;| = survey date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164008Z" creationid="Алексей" creationdate="20170912T163954Z">
@@ -621,6 +629,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160051Z" creationid="Алексей" creationdate="20170911T155944Z">
         <seg>* |entrance &lt;имя-станции&gt;| = указывает главный вход в пещеру, представленный в этом survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |equate &lt;station list&gt;| = set points that are equivalent * |data &lt;style&gt; &lt;readings order&gt;| = set data style (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) and readings order.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T054530Z" creationid="Алексей" creationdate="20170920T054530Z">
+        <seg>* |equate &lt;список станций&gt;| = эквивалентность заданных точек. * |data &lt;стиль&gt; &lt;порядок чтения&gt;| = установить стиль данных (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) и порядок чтения.</seg>
       </tuv>
     </tu>
     <tu>
