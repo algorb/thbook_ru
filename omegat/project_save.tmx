@@ -426,8 +426,8 @@
       <tuv lang="EN-US">
         <seg>* select the point at which you want to split the line; press {&lt;u0&gt; Edit line} $&lt;u3&gt;$ {&lt;u1&gt; Split line} in the {&lt;u2&gt; Line control} panel</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024935Z" creationid="Алексей" creationdate="20170920T024935Z">
-        <seg>* выберите точку, в которой вы хотите разделить линию; нажмите {&lt;u0&gt; Править линию} $&lt;u3&gt;$ {&lt;u1&gt; Разделить линию} в панели {&lt;u2&gt; Линия&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T031533Z" creationid="Алексей" creationdate="20170920T024935Z">
+        <seg>* выберите точку, в которой вы хотите разделить линию; нажмите {&lt;u0&gt; Править линию} $&lt;u3&gt;$ {&lt;u1&gt; Разделить линию} в панели {&lt;u2&gt; Линия}.</seg>
       </tuv>
     </tu>
     <tu>
