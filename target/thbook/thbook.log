@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 SEP 2017 08:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 SEP 2017 08:56
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,7 +89,7 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-Overfull \hbox (2.30348pt too wide) in paragraph at lines 928--928
+Overfull \hbox (2.30348pt too wide) in paragraph at lines 929--929
  [][] \rm растровые изображения поверхности отображаются если []\rm sur-face[] 
 \rm установлен|
 
@@ -398,7 +398,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (86 pages, 763309 bytes).
+Output written on thbook.pdf (86 pages, 763284 bytes).
 PDF statistics:
  546 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
