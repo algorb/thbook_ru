@@ -4247,6 +4247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u1&gt; Dot} should be used for shots ending on features inside passage, {&lt;u2&gt; dash} for shots ending on passage walls, floor or ceiling.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063208Z" creationid="Алексей" creationdate="20170920T063208Z">
+        <seg>{&lt;u1&gt; Dot} следует использовать для замеров, заканчивающихся внутри хода, {&lt;u2&gt; dash} для замеров, заканчивающихся на стенах хода, на полу или потолке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u1&gt; General}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015916Z" creationid="Алексей" creationdate="20170914T015911Z">
