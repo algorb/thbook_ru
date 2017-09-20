@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Ctrl+P = switch to `insert point' mode * LeftClick = insert point at given position * Ctrl+LeftClick = insert point very close to existing point (normally it will be inserted right above the closest point) * Esc = escape from the `inset point' mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025228Z" creationid="Алексей" creationdate="20170920T025228Z">
+        <seg>* Ctrl+P = переход в режим `вставки точки'; * щелчок левой кнопкой мыши = вставка точки в заданной позицию; * Ctrl+щелчок левой кнопкой мыши = вставка точки очень близко к существующей точке (обычно она будет вставлена на ближайшую точку); * Esc = выход из режим `вставки точки'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Ctrl+R = insert scrap</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023215Z" creationid="Алексей" creationdate="20170920T023202Z">
@@ -3778,6 +3786,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023254Z" creationid="Алексей" creationdate="20170920T023225Z">
         <seg>{&lt;u0&gt; Вставка линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Inserting point}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025019Z" creationid="Алексей" creationdate="20170920T025010Z">
+        <seg>{&lt;u0&gt; Вставка точек}</seg>
       </tuv>
     </tu>
     <tu>
