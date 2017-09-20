@@ -384,10 +384,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* select the point at which you want to split the line; press {&lt;u0&gt; Edit line} $&lt;u3&gt;$ {&lt;u1&gt; Split line} in the {&lt;u2&gt; Line control} panel</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024935Z" creationid="Алексей" creationdate="20170920T024935Z">
+        <seg>* выберите точку, в которой вы хотите разделить линию; нажмите {&lt;u0&gt; Править линию} $&lt;u3&gt;$ {&lt;u1&gt; Разделить линию} в панели {&lt;u2&gt; Линия&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* select the point before which you want to insert points; insert required points; press Esc or left-click on the point you selected at the beginning</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024609Z" creationid="Алексей" creationdate="20170920T024609Z">
         <seg>* выберите точку, перед которой вы хотите вставить новые точки; вставить необходимые точки; нажмите Esc или щелкните левой кнопкой мыши по выбранной вами точке в начале.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* select the point you want to delete; press {&lt;u0&gt; Edit line} $&lt;u3&gt;$ {&lt;u1&gt; Delete point} in the {&lt;u2&gt; Line control} panel</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024741Z" creationid="Алексей" creationdate="20170920T024741Z">
+        <seg>* выберите точку, которую хотите удалить; нажмите {&lt;u0&gt; Править линию} $&lt;u3&gt;$ {&lt;u1&gt; Удалить точку} в панели {&lt;u2&gt; Линия}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Deleting line point}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024625Z" creationid="Алексей" creationdate="20170920T024613Z">
+        <seg>{&lt;u0&gt; Удаление точки линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Description:} notes concerning this command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145923Z" creationid="Алексей" creationdate="20170910T145857Z">
@@ -3794,6 +3818,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172548Z" creationid="Алексей" creationdate="20170913T172418Z">
         <seg>Поле {&lt;u0&gt; Опции} сохраняет старое значение, и достаточно изменить всего несколько символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Splitting line}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024815Z" creationid="Алексей" creationdate="20170920T024804Z">
+        <seg>{&lt;u0&gt; Раздиление линии}</seg>
       </tuv>
     </tu>
     <tu>
