@@ -1850,6 +1850,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If passages are more or less vertical (|inclination &gt; vthreshold|), even UD becomes perpendicular to the shot -- otherwise passages would not look very good.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064403Z" creationid="Алексей" creationdate="20170920T064403Z">
+        <seg>Если ходы более или менее вертикальные (|наклон &gt; vthreshold|), тогда даже UD становится перпендикулярным к замеру, в противном случае ходы выглядят не очень хорошо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If passeges are horizontal (|inclination &lt; vthreshold|), LR is perpendicular to the shot and UD is vertical.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064254Z" creationid="Алексей" creationdate="20170920T064254Z">
+        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикулярным к замеру, а UD вертикальными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If set |auto|, passage is generated only if there is no scrap referencing given centreline.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063932Z" creationid="Алексей" creationdate="20170920T063932Z">
