@@ -769,6 +769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |vthreshold &lt;number&gt; &lt;units&gt;| = threshold for interpreting LRUD readings as left-right-front-back reading perpendicular to the shot.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064054Z" creationid="Алексей" creationdate="20170920T064054Z">
+        <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации показаний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*map area is filled with |color map-bg| *surface bitmaps are displayed if |surface| is set |bottom| *FOR each scrap: outline is filled white *grid is displayed if |grid| is set |bottom| *preview below&lt;u3&gt;As specified using the |preview| option in the |map| command] is filled with |color preview-below| *FOR each level&lt;u4&gt;Level is a collection of scraps not separated by a |break| in the |map| command]: BEGIN of transparency FOR each scrap: outline is filled with |color map-fg| FOR each scrap: |area| symbols are filled and clipped to scrap boundary END of transparency BEGIN of clipping by text labels (for all labels in this and upper levels) FOR each scrap: draw all symbols to be clipped (with the exception of |line survey|) ordered from bottom to top draw |line survey| symbols clip to scrap boundary FOR each scrap: draw all symbols not to be clipped (with the exception of |point station| and all labels) ordered from bottom to top draw |point station| symbols END of clipping by text labels FOR each scrap: draw all (point and line) labels (including |wall-altitude|) *preview above is drawn with |color preview-above| *surface bitmaps are displayed if |surface| is set |top| *grid is displayed if |grid| is set |top|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T015853Z" creationid="Алексей" creationdate="20170919T153939Z">
