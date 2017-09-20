@@ -176,16 +176,16 @@
       <tuv lang="EN-US">
         <seg>* Crtl+L = insert new line and enter an `insert line point' mode * LeftClick = insert line point (without control points) * Ctrl+LeftClick = insert line point very close to existing point (normally it's inserted right above closest existing point) * LeftClick + drag = insert line point (with control points) * hold Ctrl while dragging = fix the distance of previous control point * LeftClick + drag on the control point = move its position * RightClick on one of the previous points = selects the previous point while in insert mode (useful if you want to change also the direction of previous control point) * Esc or LeftClick on the last point = end the line insertion * LeftClick on the first line point = close the line and end line insertion</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T031421Z" creationid="Алексей" creationdate="20170920T023515Z">
-        <seg>* Crtl+L = вставить новую линию и войти в режим `вставка точек линии'; * Щелчек левой кнопкой мыши = вставить точку линии (без контрольных точек) * Ctrl+щелчек левой кнопкой мыши = вставить точку линии очень близко к существующей точке (обычно она вставлена прямо над ближайшую существующую точку); * щелчек левой кнопкой мыши+тянуть = вставить точку линии (с контрольными точками); * удерживать Ctrl при перемещении = изменить расстояние предыдущей контрольной точки; * щелчек левой кнопкой мыши+переместить контрольную точку = переместить ее положение; * щелчек правой кнопкой мыши на одной из предыдущих точек = выбирает предыдущую точку в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки); * Esc или щелчек левой кнопкой мыши на последней точке = завершение вставки линии; * щелчек левой кнопкой мыши на первой точке линии = замкнуть линию и завершить вставку линии.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T032624Z" creationid="Алексей" creationdate="20170920T023515Z">
+        <seg>* Crtl+L = вставить новую линию и войти в режим `вставка точек линии'; * щелчек левой кнопкой мыши = вставить точку линии (без контрольных точек) * Ctrl+щелчек левой кнопкой мыши = вставить точку линии очень близко к существующей точке (обычно она вставляется на ближайшую существую\-щую точку); * щелчек левой кнопкой мыши+тянуть = вставить точку линии (с контроль\-ными точками); * удерживать Ctrl при перемещении = изменить расстояние предыдущей контрольной точки; * щелчек левой кнопкой мыши+переместить контрольную точку = перемес\-тить ее положение; * щелчек правой кнопкой мыши на одной из предыдущих точек = выбирает предыдущую точку в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки); * Esc или щелчек левой кнопкой мыши на последней точке = завершение вставки линии; * щелчек левой кнопкой мыши на первой точке линии = замкнуть линию и завершить вставку линии.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* Ctrl+P = switch to `insert point' mode * LeftClick = insert point at given position * Ctrl+LeftClick = insert point very close to existing point (normally it will be inserted right above the closest point) * Esc = escape from the `inset point' mode</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025228Z" creationid="Алексей" creationdate="20170920T025228Z">
-        <seg>* Ctrl+P = переход в режим `вставки точки'; * щелчок левой кнопкой мыши = вставка точки в заданной позицию; * Ctrl+щелчок левой кнопкой мыши = вставка точки очень близко к существующей точке (обычно она будет вставлена на ближайшую точку); * Esc = выход из режим `вставки точки'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T033020Z" creationid="Алексей" creationdate="20170920T025228Z">
+        <seg>* Ctrl+P = переход в режим `вставки точки'; * щелчок левой кнопкой мыши = вставка точки в заданной позицию; * Ctrl+щелчок левой кнопкой мыши = вставка точки очень близко к сущест\-вующей точке (обычно она будет вставлена на ближайшую точку); * Esc = выход из режим `вставки точки'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>* Ctrl+Z = undo * Ctrl+Y = redo * F9 = compile current project * to select object in the listbox using keyboard: switch using `Tab' into desired listbox; move with underlined cursor to desired object; press `Space' * PageUp/PageDown = scroll up/down in the side panel * Shift+PageUp/PageDown = scroll up/down in file commands window</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T031255Z" creationid="Алексей" creationdate="20170920T021357Z">
-        <seg>* Ctrl+Z = отменить изменения; * Ctrl+Y = вернуть изменения; * F9 = компилировать текущий проект; * для выбора объекта в списке с помощью клавиатуры: переключайтесь с помощью `Tab' в желаемый список; перемещаться на нужный объект (объект подчеркивается); Нажмите `Пробел' * PageUp/PageDown = скролинг вверх/вниз в боковой панели * Shift+PageUp/PageDown = скролинг вверх/вниз в окне Команды в файле.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T032242Z" creationid="Алексей" creationdate="20170920T021357Z">
+        <seg>* Ctrl+Z = отменить изменения; * Ctrl+Y = вернуть изменения; * F9 = компилировать текущий проект; * для выбора объекта в списке с помощью клавиатуры: переключайтесь с помощью `Tab' в желаемый список; перемещаться на нужный объект (объект подчеркивается); нажмите `Пробел'; * PageUp/PageDown = скролинг вверх/вниз в боковой панели; * Shift+PageUp/PageDown = скролинг вверх/вниз в окне Команды в файле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>* LeftClick + drag = move line point * Ctrl+LeftClick + drag = move line point close to the existing point (normally it is moved right above closest existing point) * LeftClick on control point + drag = move control point</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024454Z" creationid="Алексей" creationdate="20170920T024454Z">
-        <seg>* щелчок левой кнопкой мыши+перемещение = перемещение точки линии; * Ctrl+щелчок левой кнопкой мыши+перемещение = перемещение точки линии близко к существующей точке (обычно она перемещается на ближайшую существующую точку); * щелчок левой кнопкой мыши на контрольной точке+перемещение = переместить контрольную точку.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T032813Z" creationid="Алексей" creationdate="20170920T024454Z">
+        <seg>* щелчок левой кнопкой мыши+перемещение = перемещение точки линии; * Ctrl+щелчок левой кнопкой мыши+перемещение = перемещение точки линии близко к существующей точке (обычно она перемещается на бли\-жайшую существующую точку); * щелчок левой кнопкой мыши на контрольной точке+перемещение = пере\-местить контрольную точку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,8 +418,8 @@
       <tuv lang="EN-US">
         <seg>* select area you want to edit * pres `Insert' in the {&lt;u0&gt; Area control} to insert other border lines at current cursor position * pres `Insert ID' to insert border with given ID at current cursor position * pres `Delete' to remove selected area border line</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T030148Z" creationid="Алексей" creationdate="20170920T030148Z">
-        <seg>* выберите область, которую вы хотите отредактировать; * нажмите `Вставить' в {&lt;u0&gt; Область}, чтобы вставить другие границы в текущую позицию курсора; * нажмите `Вставить по ID', чтобы вставить границу с заданным ID в текущую позицию курсора; * нажмите `Delete', чтобы удалить выбранную границу области.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T033203Z" creationid="Алексей" creationdate="20170920T030148Z">
+        <seg>* выберите область, которую вы хотите отредактировать; * нажмите `Вставить' в {&lt;u0&gt; Область}, чтобы вставить другие границы в текущую позицию курсора; * нажмите `Вставить по ID', чтобы вставить границу с заданным ID в теку\-щую позицию курсора; * нажмите `Delete', чтобы удалить выбранную границу области.</seg>
       </tuv>
     </tu>
     <tu>
