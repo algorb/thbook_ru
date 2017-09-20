@@ -89,24 +89,6 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36] [37] [38] [39] [40]
-Overfull \hbox (18.4515pt too wide) in paragraph at lines 796--796
- [][]\rm щелчек левой кнопкой мыши+тянуть $\mit .$ \rm вставить точку линии (с 
-контрольными|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\rm щ
-.\kern-0.14401
-.etc.
-
-
 Overfull \hbox (13.89145pt too wide) in paragraph at lines 796--796
  [][]\rm щелчек левой кнопкой мыши+переместить контрольную точку $\mit .$ \rm п
 ереместить|
@@ -482,7 +464,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (86 pages, 764785 bytes).
+Output written on thbook.pdf (86 pages, 764744 bytes).
 PDF statistics:
  546 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
