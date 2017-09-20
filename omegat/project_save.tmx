@@ -1762,6 +1762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If backward and forward compass or clino reading are given, the average of them is computed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T062750Z" creationid="Алексей" creationdate="20170920T062750Z">
+        <seg>Если есть прямые и обратные данные азимута или угла, то вычисляется среднее из них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If flag is set to |approx[imate]|, it is included to total length calculations, but also displayed separately in survey statistics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050916Z" creationid="Алексей" creationdate="20170920T050916Z">
@@ -4010,6 +4018,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112751Z" creationid="Алексей" creationdate="20170910T112751Z">
         <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudr�k) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.3} If one of the shot stations is named either `|.|' or `|-|', the shot has |splay| attribute set.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063000Z" creationid="Алексей" creationdate="20170920T063000Z">
+        <seg>{5.3} Если в замере одна из станций имеет название `|.|' или `|-|', то у замера устанавливается атрибут |splay|.</seg>
       </tuv>
     </tu>
     <tu>
