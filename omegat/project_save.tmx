@@ -595,8 +595,8 @@
       <tuv lang="EN-US">
         <seg>* |break| = can be used with interleaved data to separate two traverses * |mark [&lt;station list&gt;] &lt;type&gt;| = set the type of named stations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045610Z" creationid="Алексей" creationdate="20170920T045610Z">
-        <seg>* |break| = может использоваться с чередованными данными, чтобы отделить два пересечения. * |mark [&lt;список станций&gt;] &lt;тип&gt;| = установить тип именованных станций.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050024Z" creationid="Алексей" creationdate="20170920T045610Z">
+        <seg>* |break| = может использоваться между данными, чтобы отделить два пересе\-чения. * |mark [&lt;список станций&gt;] &lt;тип&gt;| = установить тип именованных станций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,6 +1760,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182910Z" creationid="Алексей" creationdate="20170914T182910Z">
         <seg>Если |main_map| находится в survey |main|, скрап |s1| может содержать часть нитки хода из survey |a|, полную нитку хода |b| и часть |c|; |s2| будет содержать часть |a| и |c| и полную нитку |d|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no station list, all subsequent stations are marked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045904Z" creationid="Алексей" creationdate="20170920T045904Z">
+        <seg>Если список станций отсутствует, все последующие станции будут отмечены соответствующим типом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4272,8 +4280,8 @@
       <tuv lang="EN-US">
         <seg>|&lt;type&gt;| is one of: fixed, painted and temporary (default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045813Z" creationid="Алексей" creationdate="20170920T045637Z">
-        <seg>|&lt;type&gt;| может принимать одно из значений: fixed (фиксированным), painted (нарисованный) и temporary (временным) (по умолчанию).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050131Z" creationid="Алексей" creationdate="20170920T045637Z">
+        <seg>|&lt;тип&gt;| может принимать одно из значений: fixed (фиксированным), painted (нари\-сованный) и temporary (временным) (по умолчанию).</seg>
       </tuv>
     </tu>
     <tu>
