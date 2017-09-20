@@ -593,6 +593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]| = set the instrument calibration.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044827Z" creationid="Алексей" creationdate="20170920T044827Z">
+        <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;масштаб&gt;]| = установить калибровку прибора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |date &lt;date&gt;| = survey date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164008Z" creationid="Алексей" creationdate="20170912T163954Z">
@@ -627,8 +635,8 @@
       <tuv lang="EN-US">
         <seg>* |grade &lt;grade list&gt;| = sets standard deviations according to the survey grade specification (see grade command).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T043926Z" creationid="Алексей" creationdate="20170920T043926Z">
-        <seg>* |grade &lt;grade list&gt;| = устанавливаются стандартные отклонения для угла наклона съемки (смотрите команду grade).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044332Z" creationid="Алексей" creationdate="20170920T043926Z">
+        <seg>* |grade &lt;grade list&gt;| = устанавливаются стандартные отклонения для угла нак\-лона съемки (смотрите команду grade).</seg>
       </tuv>
     </tu>
     <tu>
@@ -701,6 +709,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161345Z" creationid="Алексей" creationdate="20170911T155932Z">
         <seg>* |title &lt;строка&gt;| = описание объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt;| = set the units for given measurements (same quantities as for sd).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044709Z" creationid="Алексей" creationdate="20170920T044709Z">
+        <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;| = установка единиц для данных измерений (так же как и для sd).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1660,8 +1676,8 @@
       <tuv lang="EN-US">
         <seg>If multiple grades are specified, only the last one applies.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044212Z" creationid="Алексей" creationdate="20170920T044137Z">
-        <seg>Если указано несколько определений, то применяется только последнее.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044428Z" creationid="Алексей" creationdate="20170920T044137Z">
+        <seg>Если указано несколько опре\-делений, то применяется только последнее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3487,8 +3503,8 @@
       <tuv lang="EN-US">
         <seg>You can specify grades only for position or only for surveys.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044244Z" creationid="Алексей" creationdate="20170920T044244Z">
-        <seg>Вы можете указать определения только для позиции или только для съемок.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044457Z" creationid="Алексей" creationdate="20170920T044244Z">
+        <seg>Вы можете указать определе\-ния только для позиции или только для съемок.</seg>
       </tuv>
     </tu>
     <tu>
