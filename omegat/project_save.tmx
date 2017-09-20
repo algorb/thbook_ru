@@ -635,8 +635,8 @@
       <tuv lang="EN-US">
         <seg>* |equate &lt;station list&gt;| = set points that are equivalent * |data &lt;style&gt; &lt;readings order&gt;| = set data style (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) and readings order.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T054530Z" creationid="Алексей" creationdate="20170920T054530Z">
-        <seg>* |equate &lt;список станций&gt;| = эквивалентность заданных точек. * |data &lt;стиль&gt; &lt;порядок чтения&gt;| = установить стиль данных (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) и порядок чтения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T054700Z" creationid="Алексей" creationdate="20170920T054530Z">
+        <seg>* |equate &lt;список станций&gt;| = эквивалентность заданных точек. * |data &lt;стиль&gt; &lt;порядок считывания&gt;| = установить стиль данных (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) и порядок считывания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2471,6 +2471,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184018Z" creationid="Алексей" creationdate="20170909T162101Z">
         <seg>Прочтите {&lt;u0&gt; Приложение}, если вы хотите скомпилировать Therion самостоятельно.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reading is one of the following keywords: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;dimension may be specified as a pair |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, meaning the size at the beginning and end of the shot], down/floor, left, right, ignore, ignoreall.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T054924Z" creationid="Алексей" creationdate="20170920T054632Z">
+        <seg>Считывание может принимать одно из следующих ключевых слов: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
     </tu>
     <tu>
