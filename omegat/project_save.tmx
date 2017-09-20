@@ -1842,6 +1842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If set |auto|, passage is generated only if there is no scrap referencing given centreline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063932Z" creationid="Алексей" creationdate="20170920T063932Z">
+        <seg>Если установлен |auto|, то ход генерируется только в том случае, если отсутствует скрап содержащий данную нитку хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the PDF file is used directly, you have to set DPI and output format before automatic conversion&lt;u0&gt;|ghostscript| and |convert| should be installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020600Z" creationid="Алексей" creationdate="20170914T015103Z">
