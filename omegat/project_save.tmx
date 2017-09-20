@@ -1658,6 +1658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If multiple grades are specified, only the last one applies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044212Z" creationid="Алексей" creationdate="20170920T044137Z">
+        <seg>Если указано несколько определений, то применяется только последнее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no declination is specified and some geodetic coordinate system is defined, the declination is automatically computed using built-in geomagnetic model.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161010Z" creationid="Алексей" creationdate="20170911T155806Z">
@@ -1760,6 +1768,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131549Z" creationid="Алексей" creationdate="20170910T131549Z">
         <seg>Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и |layout| и т. д.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to change an SD, use the sd option after this command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044106Z" creationid="Алексей" creationdate="20170920T044106Z">
+        <seg>Если вы хотите изменить SD, используйте опцию sd после этой команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to combine them, you must use them in one grade line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044306Z" creationid="Алексей" creationdate="20170920T044306Z">
+        <seg>Если вы хотите их комбинировать, вы должны использовать их в одной строке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3457,6 +3481,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131348Z" creationid="Алексей" creationdate="20170910T131348Z">
         <seg>Вы также можете указать вывод |cs| в конфигурационном файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify grades only for position or only for surveys.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044244Z" creationid="Алексей" creationdate="20170920T044244Z">
+        <seg>Вы можете указать определения только для позиции или только для съемок.</seg>
       </tuv>
     </tu>
     <tu>
