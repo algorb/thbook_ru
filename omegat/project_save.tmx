@@ -408,6 +408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* select area you want to edit * pres `Insert' in the {&lt;u0&gt; Area control} to insert other border lines at current cursor position * pres `Insert ID' to insert border with given ID at current cursor position * pres `Delete' to remove selected area border line</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T030148Z" creationid="Алексей" creationdate="20170920T030148Z">
+        <seg>* выберите область, которую вы хотите отредактировать; * нажмите `Вставить' в {&lt;u0&gt; Область}, чтобы вставить другие границы в текущую позицию курсора; * нажмите `Вставить по ID', чтобы вставить границу с заданным ID в текущую позицию курсора; * нажмите `Delete', чтобы удалить выбранную границу области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* select the point at which you want to split the line; press {&lt;u0&gt; Edit line} $&lt;u3&gt;$ {&lt;u1&gt; Split line} in the {&lt;u2&gt; Line control} panel</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024935Z" creationid="Алексей" creationdate="20170920T024935Z">
@@ -3786,6 +3794,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173031Z" creationid="Алексей" creationdate="20170913T164412Z">
         <seg>{&lt;u0&gt; Рисование линий} аналогично рисованию в других программах редактирова\-ния векторной графики, которые работают с кривыми Безье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Editing area}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025939Z" creationid="Алексей" creationdate="20170920T025930Z">
+        <seg>{&lt;u0&gt; Редактирование области}</seg>
       </tuv>
     </tu>
     <tu>
