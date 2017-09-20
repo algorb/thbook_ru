@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* RightClick = scroll drawing area * Double RightClick on the image = move the image</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023122Z" creationid="Алексей" creationdate="20170920T023122Z">
+        <seg>* Клик правой кнопкой мыши = скролинг области рисования; * Двойной щелчок правой кнопкой мыши по изображению = перемещение изображения;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Run XTherion (under Unix and MacOS X by typing `xtherion' in the command line, under Windows there is a shortcut in the {&lt;u0&gt; Start} menu).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192843Z" creationid="Алексей" creationdate="20170909T132610Z">
@@ -3674,6 +3682,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145923Z" creationid="Алексей" creationdate="20170910T145857Z">
         <seg>{&lt;u0&gt; Описание:} примечания относительно этой команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Drawing area and background images}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T022931Z" creationid="Алексей" creationdate="20170920T022923Z">
+        <seg>{&lt;u0&gt; Область рисования и фоновые изображения}</seg>
       </tuv>
     </tu>
     <tu>
