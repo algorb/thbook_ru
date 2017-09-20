@@ -88,25 +88,8 @@ grid-flip (none)/vertical/horizontal|
 .\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
-[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-Overfull \hbox (2.30348pt too wide) in paragraph at lines 931--931
- [][] \rm растровые изображения поверхности отображаются если []\rm sur-face[] 
-\rm установлен|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\glue 4.31999 plus 2.592 minus 1.032
-.\rm р
-.etc.
-
-) (ch03.tex [47] [48 <./pic/herakl.pdf>] [49] [50]
+[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46])
+(ch03.tex [47] [48 <./pic/herakl.pdf>] [49] [50]
 Overfull \hbox (32.7214pt too wide) in paragraph at lines 143--144
 \rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
 t/line/area/group/special>|
@@ -398,7 +381,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (86 pages, 763239 bytes).
+Output written on thbook.pdf (86 pages, 763208 bytes).
 PDF statistics:
  546 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
