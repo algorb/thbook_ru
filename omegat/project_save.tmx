@@ -1722,6 +1722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For small and simple caves, the whole cave may belong to one scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073145Z" creationid="Алексей" creationdate="20170920T073145Z">
+        <seg>Для небольших и простых пещер вся пещера может поместиться в одном скрапе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For those who want to understand more about it, here is a brief explanation of the above flowchart.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185525Z" creationid="Алексей" creationdate="20170909T185525Z">
@@ -2065,6 +2073,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193518Z" creationid="Алексей" creationdate="20170909T143608Z">
         <seg>В 2002 году мы представили первую версию Therion'а, которая отвечала нашим требованиям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In complicated systems, a scrap is usually one chamber or one passage.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073246Z" creationid="Алексей" creationdate="20170920T073246Z">
+        <seg>В сложных системах скрап обычно представляет собой один грот или один ход.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2599,6 +2615,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071911Z" creationid="Алексей" creationdate="20170920T071307Z">
         <seg>Для сохранения типизации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scrap is a piece of 2D map, which doesn't contain overlapping passages (i.e. all the passages may be drawn on the paper without overlapping).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073115Z" creationid="Алексей" creationdate="20170920T073115Z">
+        <seg>Скрап -- это часть 2D-карты, которая не содержит пересекающихся ходов (т.е. все хода могут быть нарисованы на бумаге не пересекаясь).</seg>
       </tuv>
     </tu>
     <tu>
