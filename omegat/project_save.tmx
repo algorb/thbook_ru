@@ -1802,6 +1802,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ideally, a scrap contains about 100 m of the cave.&lt;u0&gt;If necessary, scraps may be much smaller---just to display a few meters of the cave.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073419Z" creationid="Алексей" creationdate="20170920T073410Z">
+        <seg>В идеале, скрап содержит около 100 м пещеры.&lt;u0&gt;Если необходимо, скрапы могут быть намного меньше, несколько метров пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a data line starts with a word reserved for an option, you have to insert `|!|' in front of it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
@@ -4387,6 +4395,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015916Z" creationid="Алексей" creationdate="20170914T015911Z">
         <seg>{&lt;u1&gt; Общие}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u1&gt; When deciding about scrap size please take into account the following:} Using small scraps may take more time for cartographer to optimize scrap joins.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073519Z" creationid="Алексей" creationdate="20170920T073519Z">
+        <seg>{&lt;u1&gt; При определении размера скрапа учитывайте следующее:} Использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их объединения.</seg>
       </tuv>
     </tu>
     <tu>
