@@ -174,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Crtl+L = insert new line and enter an `insert line point' mode * LeftClick = insert line point (without control points) * Ctrl+LeftClick = insert line point very close to existing point (normally it's inserted right above closest existing point) * LeftClick + drag = insert line point (with control points) * hold Ctrl while dragging = fix the distance of previous control point * LeftClick + drag on the control point = move its position * RightClick on one of the previous points = selects the previous point while in insert mode (useful if you want to change also the direction of previous control point) * Esc or LeftClick on the last point = end the line insertion * LeftClick on the first line point = close the line and end line insertion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023515Z" creationid="Алексей" creationdate="20170920T023515Z">
+        <seg>* Crtl+L = вставить новую линию и войти в режим `вставка точек линии'; * Щелчек левой кнопкой мыши = вставить строку (без контрольных точек) * Ctrl + LeftClick = вставить точку строки очень близко к существующей точке (обычно она вставлена прямо над ближайшей существующей точкой ) * LeftClick + drag = вставить строку (с контрольными точками) * удерживать Ctrl при перетаскивании = исправить расстояние предыдущей контрольной точки * LeftClick + перетащить контрольную точку = переместить ее положение * RightClick на одной из предыдущих точек = выбирает предыдущая точка в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки) * Esc или LeftClick в последней точке = завершение вставки линии * LeftClick в первой строке = закрыть вставку линии и конечной линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Ctrl+R = insert scrap</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023215Z" creationid="Алексей" creationdate="20170920T023202Z">
+        <seg>* Ctrl+R = вставить скрап;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Ctrl+Z = undo * Ctrl+Y = redo * F9 = compile current project * to select object in the listbox using keyboard: switch using `Tab' into desired listbox; move with underlined cursor to desired object; press `Space' * PageUp/PageDown = scroll up/down in the side panel * Shift+PageUp/PageDown = scroll up/down in file commands window</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T022856Z" creationid="Алексей" creationdate="20170920T021357Z">
@@ -3698,6 +3714,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173031Z" creationid="Алексей" creationdate="20170913T164412Z">
         <seg>{&lt;u0&gt; Рисование линий} аналогично рисованию в других программах редактирова\-ния векторной графики, которые работают с кривыми Безье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Inserting line}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023254Z" creationid="Алексей" creationdate="20170920T023225Z">
+        <seg>{&lt;u0&gt; Вставка линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Inserting scrap}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023157Z" creationid="Алексей" creationdate="20170920T023147Z">
+        <seg>{&lt;u0&gt; Вставка скрапа}</seg>
       </tuv>
     </tu>
     <tu>
