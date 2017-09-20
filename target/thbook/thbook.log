@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 SEP 2017 10:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 SEP 2017 10:25
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,18 +89,6 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [33] [34] [35] [36] [37] [38] [39] [40]
-Overfull \hbox (16.68753pt too wide) in paragraph at lines 796--796
- \rm существующей точке (обычно она вставл€етс€ на ближайшую существующую|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\rm с
-.\rm у
-.\rm щ
-.\kern-0.14401
-.etc.
-
-
 Overfull \hbox (18.4515pt too wide) in paragraph at lines 796--796
  [][]\rm щелчек левой кнопкой мыши+т€нуть $\mit .$ \rm вставить точку линии (с 
 контрольными|
@@ -494,7 +482,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (86 pages, 764798 bytes).
+Output written on thbook.pdf (86 pages, 764785 bytes).
 PDF statistics:
  546 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
