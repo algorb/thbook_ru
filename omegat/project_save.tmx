@@ -391,6 +391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* press Ctrl+A or {&lt;u0&gt; File commands} $&lt;u3&gt;$ {&lt;u1&gt; Insert} $&lt;u4&gt;$ {&lt;u2&gt; area} to switch to the `insert area border' mode * RightClick on the lines, that surround desired area * Esc to finish area border lines insertion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025924Z" creationid="Алексей" creationdate="20170920T025924Z">
+        <seg>* нажмите Ctrl+A или {&lt;u0&gt; Команды в файле} $&lt;u3&gt;$ {&lt;u1&gt; Вставить} $&lt;u4&gt;$ {&lt;u2&gt; область}, чтобы переключиться в режим `вставки границ области'; * щелчок правой кнопкой мыши на линиях, которые окружают желаемую область; * Esc, чтобы закончить ввод границ области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* press {&lt;u0&gt; Scale} button in the {&lt;u1&gt; Scraps} menu and click on two different places on the image where the endpoints of calibration arrow should be, or * move mouse pointer to desired position, read pointer coordinates from the status bar and enter these coordinates into {&lt;u2&gt; picture scale points} boxes in the {&lt;u3&gt; Scraps} control.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174613Z" creationid="Алексей" creationdate="20170913T171459Z">
@@ -3794,6 +3802,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025247Z" creationid="Алексей" creationdate="20170920T025238Z">
         <seg>{&lt;u0&gt; Редактирование точки}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Inserting area}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025544Z" creationid="Алексей" creationdate="20170920T025534Z">
+        <seg>{&lt;u0&gt; Вставка области}</seg>
       </tuv>
     </tu>
     <tu>
