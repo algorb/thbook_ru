@@ -76,8 +76,8 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13] [14] [15] [16] [17] [18] [19]
 Overfull \hbox (4.32523pt too wide) in paragraph at lines 265--266
- \rm from, to, tape/length, [back]compass/[back]bearing, [back]clino/[back]grad
-ient,|
+ \rm from, to, tape/length, [back]compass/[back]bearing, [back]clino/[back]gra-
+dient,|
 
 \hbox(8.328+2.69398)x452.96786, glue set - 1.0
 .\glue(\leftskip) 12.0
