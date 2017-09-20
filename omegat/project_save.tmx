@@ -657,6 +657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]]| = control how the centerline is extended.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064652Z" creationid="Алексей" creationdate="20170920T064652Z">
+        <seg>* |extend &lt;spec&gt; [&lt;станция&gt; [&lt;станция&gt;]]| = определение развертки нитки хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |flags &lt;shot flags&gt;| = set flags for following shots.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
@@ -2057,6 +2065,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131313Z" creationid="Алексей" creationdate="20170909T131313Z">
         <seg>В 1990-е мы активно занимались спелеологией и созданием карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of vertical shots, UD is interpreted as north-south dimension from the station to allow tube-like modelling of verticals.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064546Z" creationid="Алексей" creationdate="20170920T064546Z">
+        <seg>В случае вертикальных замеров UD интерпретируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели.</seg>
       </tuv>
     </tu>
     <tu>
