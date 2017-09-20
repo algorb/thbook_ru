@@ -2521,6 +2521,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand smaller scraps will probably be less distorted by map warping algorithms than larger scraps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T173329Z" creationid="Алексей" creationdate="20170920T173329Z">
+        <seg>С другой стороны, маленькие скрапы, вероятно, будут менее искажены алгоритмами преобразования карт, чем более крупные скрапы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004910Z" creationid="Алексей" creationdate="20170919T004445Z">
