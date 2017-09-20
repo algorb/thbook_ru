@@ -691,8 +691,8 @@
       <tuv lang="EN-US">
         <seg>* |group| * |endgroup| = |group/endgroup| pair enables the user to make temporary changes in almost any setting (calibrate, units, sd, data, flags...) * |walls &lt;auto/on/off&gt;| = turn on/off passage shape generation from LRUD data for subsequent shots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065149Z" creationid="Алексей" creationdate="20170920T063533Z">
-        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065433Z" creationid="Алексей" creationdate="20170920T063533Z">
+        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...). * |walls &lt;auto/on/off&gt;| =включение/выключение генерации формы хода из дан\-ных LRUD для последующих замеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -779,8 +779,8 @@
       <tuv lang="EN-US">
         <seg>* |vthreshold &lt;number&gt; &lt;units&gt;| = threshold for interpreting LRUD readings as left-right-front-back reading perpendicular to the shot.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064054Z" creationid="Алексей" creationdate="20170920T064054Z">
-        <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации показаний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065548Z" creationid="Алексей" creationdate="20170920T064054Z">
+        <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации пока\-заний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1868,16 +1868,16 @@
       <tuv lang="EN-US">
         <seg>If passeges are horizontal (|inclination &lt; vthreshold|), LR is perpendicular to the shot and UD is vertical.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064254Z" creationid="Алексей" creationdate="20170920T064254Z">
-        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикулярным к замеру, а UD вертикальными.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065631Z" creationid="Алексей" creationdate="20170920T064254Z">
+        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикуляр\-ным к замеру, а UD вертикальными.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If set |auto|, passage is generated only if there is no scrap referencing given centreline.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063932Z" creationid="Алексей" creationdate="20170920T063932Z">
-        <seg>Если установлен |auto|, то ход генерируется только в том случае, если отсутствует скрап содержащий данную нитку хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065506Z" creationid="Алексей" creationdate="20170920T063932Z">
+        <seg>Если установлен |auto|, то ход генери\-руется только в том случае, если отсутствует скрап содержащий данную нитку хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2071,8 +2071,8 @@
       <tuv lang="EN-US">
         <seg>In the case of vertical shots, UD is interpreted as north-south dimension from the station to allow tube-like modelling of verticals.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064546Z" creationid="Алексей" creationdate="20170920T064546Z">
-        <seg>В случае вертикальных замеров UD интерпретируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065752Z" creationid="Алексей" creationdate="20170920T064546Z">
+        <seg>В случае вертикальных замеров UD интерпре\-тируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4543,6 +4543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|&lt;spec&gt;| is one of the following</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065947Z" creationid="Алексей" creationdate="20170920T065916Z">
+        <seg>|&lt;spec&gt;| принимает следующие значения:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|&lt;type&gt;| is one of: fixed, painted and temporary (default).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050131Z" creationid="Алексей" creationdate="20170920T045637Z">
@@ -4693,6 +4701,14 @@ endsurvey|</seg>
 	smooth off
 	1205.5 788.0 1195.5 832.5 1173.5 879.0
 endline|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|normal/reverse| = extend given and following stations to the same/reverse direction as previous station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T070225Z" creationid="Алексей" creationdate="20170920T070006Z">
+        <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/обратном направлении по отношению к предыдущей станции.</seg>
       </tuv>
     </tu>
     <tu>
