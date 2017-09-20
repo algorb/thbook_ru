@@ -641,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |flags &lt;shot flags&gt;| = set flags for following shots.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
+        <seg>* |flags &lt;флаги замеров&gt;| = установить флаги для следующих замеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |grade &lt;grade list&gt;| = sets standard deviations according to the survey grade specification (see grade command).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044332Z" creationid="Алексей" creationdate="20170920T043926Z">
@@ -1149,6 +1157,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044040Z" creationid="Алексей" creationdate="20170920T044040Z">
         <seg>Все ранее заданные стандартные отклонения или определения теряются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All shots having one of the stations named either `|.|' or `|-|' are |splay| shots by default (see also |data| command).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050827Z" creationid="Алексей" creationdate="20170920T050827Z">
+        <seg>Все замеры, имеющие в названии одной из станций `|.| ' или `|-|' по умолчанию имеют тип |splay| (смотрите также команду |data|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1686,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
         <seg>Если строка данных начинается со слова, зарезервированного для опции, вам нужно вставить `|!|' перед ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If flag is set to |approx[imate]|, it is included to total length calculations, but also displayed separately in survey statistics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050916Z" creationid="Алексей" creationdate="20170920T050916Z">
+        <seg>Если флаг установлен на |approx[imate]|, он включается в вычисления общей длины, но также отображается отдельно в статистике съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2797,6 +2821,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The supported flags are: |surface| (for surface measurements), |duplicate| (for duplicated surveys), |splay| (for short side legs that are hidden in maps and models by default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050547Z" creationid="Алексей" creationdate="20170920T050425Z">
+        <seg>Поддержи\-ваемые флаги: |surface| (для измерений на поверхности), |duplicate| (для дубли\-рованных съемок), |splay| (для коротких боковых замеров, которые по умол\-чанию скрыты на картах и моделях).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supported quantities are the same as sd.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045354Z" creationid="Алексей" creationdate="20170920T045115Z">
@@ -3067,6 +3099,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143841Z" creationid="Алексей" creationdate="20170919T143841Z">
         <seg>По умолчанию это все следующие объекты:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are excluded from length calculations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050443Z" creationid="Алексей" creationdate="20170920T050443Z">
+        <seg>Они исключаются из расчетов длины.</seg>
       </tuv>
     </tu>
     <tu>
