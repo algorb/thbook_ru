@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 SEP 2017 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 SEP 2017 13:52
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -73,8 +73,67 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 \openout1 = `etc/contents.tex'.
 
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
-[MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex) (ch03.tex [10] [11 <./pic/herakl.
-pdf>] [12] [13]
+[MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
+[12] [13] [14] [15] [16] [17] [18] [19] [20]
+Overfull \hbox (18.48155pt too wide) in paragraph at lines 273--274
+ [][][]\rm vthreshold <число> <единицы>[] $\mit .$ \rm пороговое значение для и
+нтерпретации показаний|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\rm v
+.etc.
+
+
+Overfull \hbox (15.81894pt too wide) in paragraph at lines 275--276
+ []\rm Если ходы горизонтальны ([]\rm наклон < vthresh-old[]\rm ), LR считается
+ перпендикулярным|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\rm Е
+.\rm с
+.\kern0.168
+.etc.
+
+
+Overfull \hbox (37.10242pt too wide) in paragraph at lines 277--278
+ \rm выглядят не очень хорошо. В случае вертикальных замеров UD интерпретируетс
+я|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\rm в
+.\rm ы
+.\rm г
+.\kern-0.14401
+.etc.
+
+[21] [22] [23] [24] [25] [26] [27] [MP to PDF] (mp/xsect.1) [28] [29] [30]
+[31] [32]
+Overfull \hbox (54.1014pt too wide) in paragraph at lines 586--587
+\rm grid <ori-gin x> <ori-gin y> <x spac-ing> <y spac-ing> <x count> <y count> 
+grid-flip (none)/vertical/horizontal|
+
+\hbox(6.94+2.37999)x452.96786, glue set - 1.0
+.\rm g
+.\rm r
+.\rm i
+.\rm d
+.\glue 3.59999 plus 2.15999 minus 0.86
+.etc.
+
+[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47])
+(ch03.tex [48] [49 <./pic/herakl.pdf>] [50] [51]
 Overfull \hbox (32.7214pt too wide) in paragraph at lines 143--144
 \rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
 t/line/area/group/special>|
@@ -154,8 +213,8 @@ d/scrap-names/station-|
 .\rm g
 .etc.
 
-[14] [15] [16] [17] [18] [MP to PDF] (mp/page.1) [19] [20 <./pic/page.pdf>]
-[21] [22] [23]) (ch04.tex [24]
+[52] [53] [54] [55] [56] [MP to PDF] (mp/page.1) [57] [58 <./pic/page.pdf>]
+[59] [60] [61]) (ch04.tex [62]
 Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
 \rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
 real, ADJ_BEARING|
@@ -168,7 +227,7 @@ real, ADJ_BEARING|
 .\rm _
 .etc.
 
-[25] [26 <./pic/database.pdf>]
+[63] [64 <./pic/database.pdf>]
 Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
 []\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
 INE where TOPO_DATE|
@@ -181,7 +240,7 @@ INE where TOPO_DATE|
 .\rm e
 .etc.
 
-[27]) (ch05.tex [28] [29 <./pic/thom.jpg>] [30]
+[65]) (ch05.tex [66] [67 <./pic/thom.jpg>] [68]
 Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
  []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
  {/Bor-der [0 0 0]} goto name|
@@ -194,7 +253,7 @@ Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
 .\kern-0.1
 .etc.
 
-[31]
+[69]
 Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
 []\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
@@ -259,7 +318,7 @@ w$} \show-point-erlist\pointerD|
 .\rm p
 .etc.
 
-[32] [33]
+[70] [71]
 Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
 []\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
 eg-end-text-size={\size[20]}|
@@ -272,7 +331,7 @@ eg-end-text-size={\size[20]}|
 .\kern-0.1
 .etc.
 
-[34] [35] [36]
+[72] [73] [74]
 Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 []\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
 -def; init-sym-bol("l_wall_bedrock_UIS");[] |
@@ -285,7 +344,7 @@ Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 .\rm f
 .etc.
 
-[37]
+[75]
 Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
 []\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
 aled (0.02u); pat-ternxstep(.18u);|
@@ -298,7 +357,7 @@ aled (0.02u); pat-ternxstep(.18u);|
 .\rm i
 .etc.
 
-) (ch06.tex [38] [39] [40] [41]
+) (ch06.tex [76] [77] [78] [79]
 Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
  [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
 n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
@@ -317,7 +376,7 @@ n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
 .\kern-0.12001
 .etc.
 
-[42] [43]
+[80] [81]
 Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
  []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
@@ -330,71 +389,25 @@ tf" \"/usr/share/fonts/Serif-|
 .\rm f
 .etc.
 
-[44] [45] [46] [47] [48]) (ch07.tex
+[82] [83] [84] [85] [86]) (ch07.tex
 \samplepath=\toks26
  Warning: skipping the case studies)
-[49] )pdfTeX warning (dest): Page 87 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 86 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 84 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 83 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 80 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 78 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 77 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 76 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 75 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 74 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 73 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 72 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 67 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 66 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 65 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 63 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 62 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 60 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 58 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 57 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 52 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 51 has been referenced but does not exist!
-
-pdfTeX warning (dest): Page 50 has been referenced but does not exist!
-
-{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmti8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
-fb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+[87] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmti8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D
+:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
 
 pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
@@ -412,9 +425,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (49 pages, 552860 bytes).
+Output written on thbook.pdf (87 pages, 759879 bytes).
 PDF statistics:
- 445 PDF objects out of 1000 (max. 8388607)
+ 516 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
