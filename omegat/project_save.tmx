@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LeftClick + drag = move point * Ctrl+LeftClick + drag = move point close to the existing point (normally it is moved right above closest existing point) * LeftClick + drag on point arrows = change point orientation or sizes (according to given switches in Point control panel)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025529Z" creationid="Алексей" creationdate="20170920T025529Z">
+        <seg>* щелчок левой кнопкой мыши+перетаскивание = перемещение точки; * Ctrl+щелчок левой кнопкой мыши+перетаскивание = перемещение точки близко к существующей точке (обычно она перемещается на ближайшую существующую точку); * щелчок левой кнопкой мыши+перетаскивание стрелок точки = изменение ориентации и/или размера точки (согласно заданным переключателям в панели управления точки).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211239Z" creationid="Алексей" creationdate="20170909T205554Z">
@@ -3778,6 +3786,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024246Z" creationid="Алексей" creationdate="20170920T024236Z">
         <seg>{&lt;u0&gt; Редактирование линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Editing point}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025247Z" creationid="Алексей" creationdate="20170920T025238Z">
+        <seg>{&lt;u0&gt; Редактирование точки}</seg>
       </tuv>
     </tu>
     <tu>
