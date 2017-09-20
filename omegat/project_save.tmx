@@ -3718,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Editing line}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024246Z" creationid="Алексей" creationdate="20170920T024236Z">
+        <seg>{&lt;u0&gt; Редактирование линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Inserting line}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T023254Z" creationid="Алексей" creationdate="20170920T023225Z">
