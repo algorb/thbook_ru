@@ -1490,6 +1490,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example:&lt;u0&gt;&lt;u1&gt; |station 40 "ugly crollway" continuation explored 100m|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052937Z" creationid="Алексей" creationdate="20170920T052937Z">
+        <seg>Пример:&lt;u0&gt;&lt;u1&gt; |station 40 "ужасная прогулка" continuation explored 100m|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053031Z" creationid="Алексей" creationdate="20170920T052831Z">
+        <seg>Исследовательские длины являются частью статистики съемки/пещеры, отображаемой отдельно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Features.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150838Z" creationid="Алексей" creationdate="20170909T150838Z">
@@ -2243,8 +2259,8 @@
       <tuv lang="EN-US">
         <seg>Just add |explored &lt;explored-length&gt;| to the station flags.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052642Z" creationid="Алексей" creationdate="20170920T052642Z">
-        <seg>Просто добавьте флаг |explored &lt;explored-length&gt;| для станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053016Z" creationid="Алексей" creationdate="20170920T052642Z">
+        <seg>Просто добавьте флаг |explored &lt;исследовательская-длинна&gt;| для станции.</seg>
       </tuv>
     </tu>
     <tu>
