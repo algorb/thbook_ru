@@ -713,6 +713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;]| = set the station comment and its flags.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051430Z" creationid="Алексей" creationdate="20170920T051430Z">
+        <seg>* |station &lt;станция&gt; &lt;комментарий&gt; [&lt;флаги&gt;]| = установить комментарий станции и ее флаги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164949Z" creationid="Алексей" creationdate="20170912T164533Z">
@@ -1163,8 +1171,8 @@
       <tuv lang="EN-US">
         <seg>All shots having one of the stations named either `|.|' or `|-|' are |splay| shots by default (see also |data| command).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050827Z" creationid="Алексей" creationdate="20170920T050827Z">
-        <seg>Все замеры, имеющие в названии одной из станций `|.| ' или `|-|' по умолчанию имеют тип |splay| (смотрите также команду |data|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051211Z" creationid="Алексей" creationdate="20170920T050827Z">
+        <seg>Все замеры, имеющие в названии одной из станций `|.|' или `|-|' по умолча\-нию имеют тип |splay| (смотрите также команду |data|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1173,6 +1181,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133302Z" creationid="Алексей" creationdate="20170910T132409Z">
         <seg>Почти каждая сис\-тема координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also ``|not|'' is allowed before a flag.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051336Z" creationid="Алексей" creationdate="20170920T051336Z">
+        <seg>Также перед флагом допускается команда ``|not|''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1869,6 +1885,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If |""| is specified as a comment, it is ignored.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051446Z" creationid="Алексей" creationdate="20170920T051446Z">
+        <seg>Если |""| указан как комментарий, он игнорируется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Importing sketch does not create scrap data directly.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015749Z" creationid="Алексей" creationdate="20170914T015749Z">
@@ -2101,6 +2125,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172147Z" creationid="Алексей" creationdate="20170910T172147Z">
         <seg>Это должна быть самая первая команда в файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be used for shots, that were not surveyed properly and need to be resurveyed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051128Z" creationid="Алексей" creationdate="20170920T051128Z">
+        <seg>Он должен использоваться для замеров, которые не были сняты должным образом и нуждаются в пересъемке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2527,6 +2559,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161211Z" creationid="Алексей" creationdate="20170910T145728Z">
         <seg>Изу\-че\-ние примеров файлов, распространяемых вместе с Therion, поможет вам понять основы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supported flags: |entrance|, |continuation|, |air-draught[:winter/summer]|, |sink|, |spring|, |doline|, |dig|, &lt;u0&gt;{5.3}|arch|, |overhang|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052002Z" creationid="Алексей" creationdate="20170920T051457Z">
+        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
       </tuv>
     </tu>
     <tu>
