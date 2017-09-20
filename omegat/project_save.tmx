@@ -1642,6 +1642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For interleaved data both newline and direction keywords are supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T062540Z" creationid="Алексей" creationdate="20170920T062540Z">
+        <seg>Для разноуровневых данных поддерживаются ключевые слова новой строки и направления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For line symbols, there are two control menus: {&lt;u0&gt; Line control} and {&lt;u1&gt; Line point control}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164851Z" creationid="Алексей" creationdate="20170913T164851Z">
