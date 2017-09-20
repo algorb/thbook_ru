@@ -3565,6 +3565,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`|infer equates on|' will case program to interpret shots with 0 length as equate commands (which means that no tape corrections are applied) * |declination &lt;value&gt; &lt;units&gt;| = sets the declination for subsequent shots $$true&lt;u2&gt;bearing = measured&lt;u3&gt;bearing + declination.$$ The declination is positive when the magnetic north is east of true north.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T035706Z" creationid="Алексей" creationdate="20170920T035706Z">
+        <seg>`|infer equates on| ' программа будет интерпретировать замеры с длиной 0 в качестве команды equate (что означает, что не применяются никакие корректировки длины); * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$true&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение. $$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>all</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151102Z" creationid="Алексей" creationdate="20170911T151102Z">
