@@ -753,6 +753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current centreline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071207Z" creationid="Алексей" creationdate="20170920T071101Z">
+        <seg>* |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет данный префикс/суффикс для всех станций съемки в текущей нитки хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164949Z" creationid="Алексей" creationdate="20170912T164533Z">
@@ -1850,6 +1858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no stations are specified, |&lt;spec&gt;| is valid for following shots specified.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071044Z" creationid="Алексей" creationdate="20170920T071044Z">
+        <seg>Если ни одна из станций не указана, |&lt;spec&gt;| действует для следующих указанных замеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not specified and there is exactly one station marked entrance in this survey, it is considered to represent a cave also.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160314Z" creationid="Алексей" creationdate="20170911T160314Z">
@@ -2575,6 +2591,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180837Z" creationid="Алексей" creationdate="20170909T180837Z">
         <seg>Запустите программу установки и следуйте инструкциям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves some typing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071307Z" creationid="Алексей" creationdate="20170920T071307Z">
+        <seg>Saves some typing.</seg>
       </tuv>
     </tu>
     <tu>
