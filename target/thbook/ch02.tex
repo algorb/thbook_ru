@@ -266,17 +266,17 @@ none, survey \endcontext
 
 Смотрите руководство к Survex для подробностей. 
 
-For interleaved data both newline and direction keywords are supported. If backward and forward compass or clino reading are given, the average of them is computed. 
+Для разноуровневых данных поддерживаются ключевые слова новой строки и направления. Если есть прямые и обратные данные азимута или угла, то вычисляется среднее из них. 
 
-\NEW{5.3} If one of the shot stations is named either `|.|' or `|-|', the shot has |splay| attribute set. {\it Dot} should be used for shots ending on features inside passage, {\it dash} for shots ending on passage walls, floor or ceiling. Although Therion makes no distinction between them yet, it should be used to improve 3D modeling in the future. 
+\NEW{5.3} Если в замере одна из станций имеет название `|.|' или `|-|', то у замера устанавливается атрибут |splay|. {\it Dot} следует использовать для замеров, заканчивающихся внутри хода, {\it dash} для замеров, заканчивающихся на стенах хода, на полу или потолке. Хотя Therion еще не делает различий между ними, его следует использовать для улучшения 3D-моделирования в будущем. 
 
-* |group| * |endgroup| = |group/endgroup| pair enables the user to make temporary changes in almost any setting (calibrate, units, sd, data, flags...) * |walls <auto/on/off>| = turn on/off passage shape generation from LRUD data for subsequent shots. If set |auto|, passage is generated only if there is no scrap referencing given centreline. * |vthreshold <number> <units>| = threshold for interpreting LRUD readings as left-right-front-back reading perpendicular to the shot. 
+* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...). * |walls <auto/on/off>| = включение/выключение генерации формы хода из данных LRUD для последующих замеров. Если установлен |auto|, то ход генерируется только в том случае, если отсутствует скрап содержащий данную нитку хода. * |vthreshold <число> <единицы>| = пороговое значение для интерпретации показаний LRUD как показания лево-право-верх-низ, перпендикулярное замеру. 
 
-If passeges are horizontal (|inclination < vthreshold|), LR is perpendicular to the shot and UD is vertical. 
+Если ходы горизонтальны (|наклон < vthreshold|), LR считается перпендикулярным к замеру, а UD вертикальными. 
 
-If passages are more or less vertical (|inclination > vthreshold|), even UD becomes perpendicular to the shot -- otherwise passages would not look very good. In the case of vertical shots, UD is interpreted as north-south dimension from the station to allow tube-like modelling of verticals. 
+Если ходы более или менее вертикальные (|наклон > vthreshold|), тогда даже UD становится перпендикулярным к замеру, в противном случае ходы выглядят не очень хорошо. В случае вертикальных замеров UD интерпретируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели. 
 
-* |extend <spec> [<station> [<station>]]| = control how the centerline is extended. |<spec>| is one of the following 
+* |extend <spec> [<станция> [<станция>]]| = определение развертки нитки хода. |<spec>| is one of the following 
 
 |normal/reverse| = extend given and following stations to the same/reverse direction as previous station. If two stations are given---direction is applied only to given shot. 
 
