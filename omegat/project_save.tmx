@@ -1482,6 +1482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example:&lt;u0&gt;&lt;u1&gt; |station 4 "pit to explore" continuation attr code "V"|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052253Z" creationid="Алексей" creationdate="20170920T052253Z">
+        <seg>Пример:&lt;u0&gt;&lt;u1&gt; |station 4 "колодец для изучения" continuation attr code "V"|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Features.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150838Z" creationid="Алексей" creationdate="20170909T150838Z">
@@ -1808,6 +1816,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182910Z" creationid="Алексей" creationdate="20170914T182910Z">
         <seg>Если |main_map| находится в survey |main|, скрап |s1| может содержать часть нитки хода из survey |a|, полную нитку хода |b| и часть |c|; |s2| будет содержать часть |a| и |c| и полную нитку |d|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a passage, that was explored, but not surveyed yet, estimated explored length of this passage can be added to the station with |continuation| flag.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052557Z" creationid="Алексей" creationdate="20170920T052557Z">
+        <seg>Если есть ход, который был исследован, но еще не снят, то предполагаемая исследуемая длина этого хода может быть учтена добавлением флага |continuation|.</seg>
       </tuv>
     </tu>
     <tu>
