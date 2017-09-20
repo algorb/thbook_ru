@@ -253,13 +253,13 @@ none, survey \endcontext
 
 Если флаг установлен на |approx[imate]|, он включается в вычисления общей длины, но также отображается отдельно в статистике съемки. Он должен использоваться для замеров, которые не были сняты должным образом и нуждаются в пересъемке. 
 
-Also ``|not|'' is allowed before a flag. * |station <station> <comment> [<flags>]| = set the station comment and its flags. If |""| is specified as a comment, it is ignored. 
+Также перед флагом допускается приставка ``|not|''. * |station <станция> <комментарий> [<флаги>]| = установить комментарий станции и ее флаги. Если |""| указан как комментарий, он игнорируется. 
 
-Supported flags: |entrance|, |continuation|, |air-draught[:winter/summer]|, |sink|, |spring|, |doline|, |dig|, \NEW{5.3}|arch|, |overhang|. Also |not| is allowed before a flag, to remove previously added flag. 
+Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), \NEW{5.3}|arch| (свод), |overhang| (нависание потолка). Также приставка |not| может быть использована перед флагом, чтобы удалить ранее добавленный флаг. 
 
-You can also specify custom attributes to the station using |attr| flag followed by attribute name and value. Example:\hfil\break |station 4 "pit to explore" continuation attr code "V"| 
+Вы также можете указать пользовательские атрибуты для станции, используя флаг |attr|, за которым следуют имя и значение атрибута. Пример:\hfil\break |station 4 "колодец для изучения" continuation attr code "V"| 
 
-If there is a passage, that was explored, but not surveyed yet, estimated explored length of this passage can be added to the station with |continuation| flag. Just add |explored <explored-length>| to the station flags. Explored lengths are a part of survey/cave statistics, displayed separately. Example:\hfil\break |station 40 "ugly crollway" continuation explored 100m| 
+Если есть ход, который был исследован, но еще не снят, то предполагаемая исследуемая длина этого хода может быть учтена добавлением к станции флага |continuation|. Просто добавьте флаг |explored <исследовательская-длинна>| для станции. Исследовательские длины являются частью статистики съемки/пещеры, отображаемой отдельно. Пример:\hfil\break |station 40 "ужасная прогулка" continuation explored 100m| 
 
 * |cs <coordinate system>| = coordinate system for stations with fixed coordinates * |fix <station> [<x> <y> <z> [<std x> <std y> <std z>]]| = fix station coordinates (with specified errors---only the units transformation, not calibration, is applied to them). * |equate <station list>| = set points that are equivalent * |data <style> <readings order>| = set data style (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) and readings order. Reading is one of the following keywords: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/\penalty0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling\[dimension may be specified as a pair |[<from> <to>\char"5D|, meaning the size at the beginning and end of the shot], down/floor, left, right, ignore, ignoreall. 
 
