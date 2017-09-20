@@ -2101,8 +2101,8 @@
       <tuv lang="EN-US">
         <seg>Ordering of symbols inside of each group follows the order of commands in the input file&lt;u0&gt;Or {&lt;u1&gt; File commands} menu in XTherion]: symbols which come first are drawn last (i.e. they are displayed at the top of each group).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T002947Z" creationid="Алексей" creationdate="20170919T153332Z">
-        <seg>Порядок символов внутри каждой группы соответствует порядку команд во входном файле&lt;u0&gt;Или в меню {\itКоманды в файле} XTherion'а]: символы, которые идут первыми, нарисованы последними (т.е. они отображаются в верхней части каждой группы).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T003154Z" creationid="Алексей" creationdate="20170919T153332Z">
+        <seg>Порядок символов внутри каждой группы соответствует порядку команд во входном файле&lt;u0&gt;Или в меню {Команды в файле} XTherion'а.]: символы, которые идут первыми, нарисованы последними (т.е. они отображаются в верхней части каждой группы).</seg>
       </tuv>
     </tu>
     <tu>
