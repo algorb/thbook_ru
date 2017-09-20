@@ -691,8 +691,8 @@
       <tuv lang="EN-US">
         <seg>* |group| * |endgroup| = |group/endgroup| pair enables the user to make temporary changes in almost any setting (calibrate, units, sd, data, flags...) * |walls &lt;auto/on/off&gt;| = turn on/off passage shape generation from LRUD data for subsequent shots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063533Z" creationid="Алексей" creationdate="20170920T063533Z">
-        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...). * |walls &lt;auto/on/off&gt;| = включение/выключение генерации формы хода из данных LRUD для последующих замеров.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065149Z" creationid="Алексей" creationdate="20170920T063533Z">
+        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1676,8 +1676,8 @@
       <tuv lang="EN-US">
         <seg>For interleaved data both newline and direction keywords are supported.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T062540Z" creationid="Алексей" creationdate="20170920T062540Z">
-        <seg>Для разноуровневых данных поддерживаются ключевые слова новой строки и направления.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064743Z" creationid="Алексей" creationdate="20170920T062540Z">
+        <seg>Для разноуровневых данных поддерживаются ключевые слова новой стро\-ки и направления.</seg>
       </tuv>
     </tu>
     <tu>
