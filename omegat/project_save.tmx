@@ -262,10 +262,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Non-linear transformation of the scrap which (1) moves joined points together, (2) doesn't move survey stations, (3) is continuous.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004519Z" creationid="Алексей" creationdate="20170921T004512Z">
+        <seg>* Non-linear transformation of the scrap which (1) moves joined points together, (2) doesn't move survey stations, (3) is continuous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004311Z" creationid="Алексей" creationdate="20170921T004311Z">
-        <seg>* Нелинейно трансформированный скрап перемещается к корректным позициям станций съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004515Z" creationid="Алексей" creationdate="20170921T004311Z">
+        <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1606,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172918Z" creationid="Алексей" creationdate="20170913T172918Z">
         <seg>В конец рисуем поперечные сечения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally the position of curves' control points is adjusted to preserve smoothness.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004618Z" creationid="Алексей" creationdate="20170921T004618Z">
+        <seg>В конце положение контрольных точек кривых корректируется, чтобы сохранить гладкость.</seg>
       </tuv>
     </tu>
     <tu>
