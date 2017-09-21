@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004311Z" creationid="Алексей" creationdate="20170921T004311Z">
+        <seg>* Нелинейно трансформированный скрап перемещается к корректным позициям станций съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193010Z" creationid="Алексей" creationdate="20170909T140929Z">
@@ -1486,6 +1494,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
         <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displayed blue in the |debug| mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004353Z" creationid="Алексей" creationdate="20170921T004353Z">
+        <seg>Отображается синим в режиме |debug|.</seg>
       </tuv>
     </tu>
     <tu>
