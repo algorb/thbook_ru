@@ -3328,6 +3328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion does the transformation from this local coordinate system to the real coordinates using the positions of survey stations, which are specified both in the scrap as point map symbols and in centreline data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003436Z" creationid="Алексей" creationdate="20170921T003436Z">
+        <seg>Therion делает преобразование этой локальной системы координат в реальные координаты, используя позиции станций съемки, которые определены в скрапе как символы точки на карте и определены в нитке хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion exports data for 2D maps in &lt;u0&gt;&lt;u2&gt;format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191631Z" creationid="Алексей" creationdate="20170909T190914Z">
