@@ -2635,6 +2635,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrap consists of point, line and area map symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T002511Z" creationid="Алексей" creationdate="20170921T002511Z">
+        <seg>Скрап состоит из точечных, строковых и областных символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scrap is a piece of 2D map, which doesn't contain overlapping passages (i.e. all the passages may be drawn on the paper without overlapping).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073115Z" creationid="Алексей" creationdate="20170920T073115Z">
