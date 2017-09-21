@@ -3635,6 +3635,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using too large scraps may exhaust &lt;u2&gt;'s memory if passage fills are frequently used and the map editor in XTherion is much less responsive when editing huge scraps.] Each scrap is processed separately by &lt;u3&gt;; scraps which are too large may exceed &lt;u4&gt;'s memory and cause errors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T002352Z" creationid="Алексей" creationdate="20170921T002352Z">
+        <seg>Слишком большие скрапы может исчерпать &lt;u2&gt; память, если часто используются заливки хода. Кроме того редактор карт в XTherion'е медленнее реагирует при редактировании больших скрапов.] Каждый скрап обрабатывается отдельно &lt;u3&gt;; слишком большие скрапы могут превысить размер &lt;u4&gt; памяти и вызвать ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually some level of this hierarchical structure survey represents caves, higher levels karst areas and lower levels e.g. passages.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154246Z" creationid="Алексей" creationdate="20170911T153551Z">
