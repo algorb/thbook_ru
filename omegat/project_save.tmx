@@ -3133,6 +3133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result is final map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004642Z" creationid="Алексей" creationdate="20170921T004642Z">
+        <seg>Результат -- готовая карта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The same file is used for both imports.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015636Z" creationid="Алексей" creationdate="20170914T015636Z">
