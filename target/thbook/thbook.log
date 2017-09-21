@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 SEP 2017 07:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 SEP 2017 07:50
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -75,76 +75,29 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 ) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-Missing character: There is no ѕ in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no о in font cmti10!
-Missing character: There is no п in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no д in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no л in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no н in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no з in font cmti10!
-Missing character: There is no м in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no с in font cmti10!
-Missing character: There is no к in font cmti10!
-Missing character: There is no р in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no п in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no у in font cmti10!
-Missing character: There is no ч in font cmti10!
-Missing character: There is no и in font cmti10!
-Missing character: There is no т in font cmti10!
-Missing character: There is no ы in font cmti10!
-Missing character: There is no в in font cmti10!
-Missing character: There is no а in font cmti10!
-Missing character: There is no й in font cmti10!
-Missing character: There is no т in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no с in font cmti10!
-Missing character: There is no л in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no д in font cmti10!
-Missing character: There is no у in font cmti10!
-Missing character: There is no ю in font cmti10!
-Missing character: There is no щ in font cmti10!
-Missing character: There is no е in font cmti10!
-Missing character: There is no е in font cmti10!
-
-Overfull \hbox (0.98145pt too wide) in paragraph at lines 304--304
- \rm »спользование небольших скрапов может потребовать больше времени дл€ их об
-рисовки|
+Overfull \hbox (5.71155pt too wide) in paragraph at lines 304--304
+ \rm может потребовать больше времени дл€ их обрисовки и дл€ оптимизации их объ
+единени€.|
 
 \hbox(6.70499+2.01)x452.96786, glue set - 1.0
 .\glue(\leftskip) 18.0
-.\rm »
-.\rm с
-.\rm п
-.\kern-0.1
+.\rm м
+.\rm о
+.\kern-0.22002
+.\rm ж
 .etc.
 
 
-Overfull \hbox (31.20467pt too wide) in paragraph at lines 304--304
- \rm заливки хода.  роме того редактор карт в XThe-rion'е медленнее реагирует п
-ри редактировании|
+Overfull \hbox (4.19446pt too wide) in paragraph at lines 304--304
+ \rm исчерпать \manfnt META\rm -\manfnt POST\rm пам€ть, если часто используютс€
+ заливки хода.  роме того редактор|
 
 \hbox(6.70499+2.37999)x452.96786, glue set - 1.0
 .\glue(\leftskip) 18.0
-.\rm з
-.\rm а
-.\kern0.09999
-.\rm л
+.\rm и
+.\kern-0.1
+.\rm с
+.\rm ч
 .etc.
 
 
@@ -549,7 +502,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (87 pages, 767249 bytes).
+Output written on thbook.pdf (87 pages, 767147 bytes).
 PDF statistics:
  549 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
