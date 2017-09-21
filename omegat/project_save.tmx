@@ -1514,6 +1514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each scrap has its own local cartesian coordinate system, which usually corresponds with the millimeter paper (if you measure the coordinates of map symbols by hand) or pixels of the scanned image (if you use XTherion).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003206Z" creationid="Алексей" creationdate="20170921T003206Z">
+        <seg>У каждого скрапа есть своя собственная локальная декартова система координат, которая обычно соответствует миллиметровой бумаге (если Вы определяете координаты символов карты вручную) или пикселям отсканированного изображения (если Вы используете XTherion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each survey has its own namespace specified by its |&lt;id&gt;| argument.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153719Z" creationid="Алексей" creationdate="20170911T153638Z">
@@ -3420,6 +3428,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211345Z" creationid="Алексей" creationdate="20170909T205617Z">
         <seg>Эти строки могут содержать либо данные, либо параметры, которые при\-ме\-ня\-ются к последующим данным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These lines shouldn't intersect---otherwise Therion (&lt;u0&gt;) can't determine the interior of the scrap and &lt;u1&gt;&lt;u2&gt;issues a warning message ``|scrap outline intersects itself|''.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003025Z" creationid="Алексей" creationdate="20170921T003025Z">
+        <seg>Эти линии не должны пересекаться, иначе, Therion (&lt;u0&gt;) не может определить внутреннюю часть скрапа и &lt;u1&gt;&lt;u2&gt;выдает предупреждение ''|scrap outline intersects itself|''.</seg>
       </tuv>
     </tu>
     <tu>
