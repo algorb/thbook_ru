@@ -3093,6 +3093,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result is displayed red if |debug| option of the |layout| command is set |on|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004036Z" creationid="Алексей" creationdate="20170921T004036Z">
+        <seg>Результат отображается красный, если опция |debug| в команде |layout| установлена в |on|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The same file is used for both imports.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015636Z" creationid="Алексей" creationdate="20170914T015636Z">
@@ -4002,6 +4010,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114048Z" creationid="Алексей" creationdate="20170910T065038Z">
         <seg>`@=12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`Best' means that the sum of squared distances between corresponding stations before and after transformation is minimal.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003933Z" creationid="Алексей" creationdate="20170921T003933Z">
+        <seg>'Лучше всего' означает, что сумма квадратов расстояний между соответствующими станциями до и после трансформации минимальна.</seg>
       </tuv>
     </tu>
     <tu>
