@@ -2635,6 +2635,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrap border consists of lines with the |-outline out| or |-outline in| options (passage walls have |-outline out| by default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T002839Z" creationid="Алексей" creationdate="20170921T002839Z">
+        <seg>Граница скрапа состоит из линий с опцией |-outline| или |-outline in| (стены хода по умалчанию имеют опцию |-outline out|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scrap consists of point, line and area map symbols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T002511Z" creationid="Алексей" creationdate="20170921T002511Z">
@@ -2695,6 +2703,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145821Z" creationid="Алексей" creationdate="20170910T145738Z">
         <seg>Смотрите также примеры в {&lt;u0&gt; Приложении}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See chapter {&lt;u0&gt; How the map is put together} for explanation how and in which order are they displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T002642Z" creationid="Алексей" creationdate="20170921T002642Z">
+        <seg>Смотрите главу {&lt;u0&gt;, Как карта собирается в единое целое} для объяснения, как и в котором порядке они выводятся при отображении.</seg>
       </tuv>
     </tu>
     <tu>
