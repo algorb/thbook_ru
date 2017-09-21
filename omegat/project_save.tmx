@@ -1956,6 +1956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the scrap doesn't contain at least two survey stations with the |-name| reference, you have to use the |-scale| option for calibrating the scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003621Z" creationid="Алексей" creationdate="20170921T003621Z">
+        <seg>Если скрап не содержит по крайней мере две станции съемки с определением |-name|, тогда Вы должны использовать опцию |-scale| для калибровки скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the |main_map| is located in the |main| survey, scrap |s1| may cover part of the centreline from survey |a|, complete survey |b| and part of |c|; |s2| will cover part of the |a| and |c| surveys and a complete |d| survey.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182910Z" creationid="Алексей" creationdate="20170914T182910Z">
@@ -3186,6 +3194,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205737Z" creationid="Алексей" creationdate="20170909T204457Z">
         <seg>Их синтаксис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformation consists of the following steps: &lt;u0&gt; * Linear transformation (shifting, scaling and rotation) which `best' fits stations drawn in the scrap to real ones.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003830Z" creationid="Алексей" creationdate="20170921T003830Z">
+        <seg>Трансформация состоит из следующих шагов: &lt;u0&gt; * Линейное преобразование (смещение, масштабирование и вращение), которые 'лучше всего' соответствуют станциям.</seg>
       </tuv>
     </tu>
     <tu>
