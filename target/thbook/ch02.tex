@@ -327,25 +327,25 @@ none, survey \endcontext
 
 \options
 
-* |projection <specification>| = указывает проекцию чертежа. Each projection is identified by a type and optionally by an index in the form |type[:index]|. The index can be any keyword. The following projection types are supported: 
+* |projection <specification>| = указывает проекцию чертежа. Каждая проекция идентифицируется типом и дополнительно индексом в форме |type[:index]|. Индекс может быть любым ключевым словом. Поддерживаются следующие типы проекций: 
 
-1. |none| = no projection, used for cross sections or maps that are independent of survey data (e.g.~digitization of old maps where no centreline data are available). No index is allowed for this projection. 
+1. |none| = нет проекции, используется для сечений или карт, которые не зависят от данных съемки (например, оцифровка старых карт, где нет нитки хода). Для этой проекции не указывается индекс. 
 
-2. |plan| = basic plan projection (default). 
+2. |plan| = проекция основного плана (по умолчанию). 
 
-3. |elevation| = orthogonal projection (a.k.a.\ projected profile) which optionally takes a view direction as an argument (e.g.~|[elevation 10]| or |[elevation 10 deg]|). 
+3. |elevation| = ортогональная проекция (проецируемый профиль a.k.a.\ ), которая опционально принимает в качестве аргумента азимут сечения (например, |[elevation 10]| или |[elevation 10 deg]|). 
 
-4. |extended| = extended elevation (a.k.a.\ extended profile). 
+4. |extended| = разрез-развертка (развертка a.k.a.\ ). 
 
-* |scale <specification>| = is used to pre-scale (convert coordinates from pixels to meters) the scrap data. If scrap projection is none, this is the only transformation that is done with coordinates. The |<specification>| has four forms: 
+* |scale <specification>| = используется для предварительного масштабирования (преобразования координат пикселей в метры) данных скрапа. Если проекция скрапа установлена в none, то это единственное преобразование, которое выполняется с координатами. |<specification>| имеет четыре формы: 
 
-1. |<number>| = |<number>| meters per drawing unit. 
+1. |<number>| = |<number>| метров на единицу чертежа. 
 
-2. |[<number> <length units>]| = |<number> <length units>| per drawing unit. 
+2. |[<number> <length units>]| = |<number> <length units>| на единицу чертежа. 
 
 3. |[<num1> <num2> <length units>]| = |<num1>| drawing units corresponds to |<num2> <length units>| in reality. 
 
-4. |[<num1> ... <num8> [<length units>]]| = this is the most general format, where you specify, in order, the $x$ and $y$ coordinates of two points in the scrap and two points in reality. Optionally, you can also specify units for the coordinates of the `points in reality'. This form allows you to apply both scaling and rotation to the scrap. * |cs <coordinate system>| = assumes that (calibrated) local scrap coordinates are given in specified coordinate system. It is useful for absolute placing of imported sketches where no survey stations are specified.\[If there are some survey stations in the scrap, the |cs| specification is ignored.] * |stations <list of station names>| = stations you want to plot to the scrap, but which are not used for scrap transformation. You don't have to specify (draw) them with the |point station| command. * |sketch <filename> <x> <y>| = underlying sketch bitmap specification (lower left corner coordinates). * |walls <on/off/auto>| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names <prefix> <suffix>| = adds given prefix/suffix to all survey stations in the current scrap. Для сохранения типизации. 
+4. |[<num1> ... <num8> [<length units>]]| = это самый общий формат, где вы указываете по порядку координаты $x$ и $y$ двух точек в скрапе и две точки в действительности. При желании вы также можете указать единицы для координат `точек в действительности'. Эта форма позволяет применять как масштабирование, так и поворот скрапа. * |cs <coordinate system>| = assumes that (calibrated) local scrap coordinates are given in specified coordinate system. It is useful for absolute placing of imported sketches where no survey stations are specified.\[If there are some survey stations in the scrap, the |cs| specification is ignored.] * |stations <list of station names>| = stations you want to plot to the scrap, but which are not used for scrap transformation. You don't have to specify (draw) them with the |point station| command. * |sketch <filename> <x> <y>| = underlying sketch bitmap specification (lower left corner coordinates). * |walls <on/off/auto>| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names <prefix> <suffix>| = adds given prefix/suffix to all survey stations in the current scrap. Для сохранения типизации. 
 
 * |author <date> <person>| = author of the data and its creation date * |copyright <date> <string>| = copyright date and name * |title <string>| = description of the object \endoptions
 
