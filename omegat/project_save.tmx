@@ -785,6 +785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |sketch &lt;filename&gt; &lt;x&gt; &lt;y&gt;| = underlying sketch bitmap specification (lower left corner coordinates).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180935Z" creationid="Алексей" creationdate="20170922T180809Z">
+        <seg>* |sketch &lt;имя файла&gt; &lt;x&gt; &lt;y&gt;| = определение растрового рисунка в качестве эскиза/подложки (координаты нижнего левого угла).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;]| = set the station comment and its flags.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051430Z" creationid="Алексей" creationdate="20170920T051430Z">
@@ -829,6 +837,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065548Z" creationid="Алексей" creationdate="20170920T064054Z">
         <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации пока\-заний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |walls &lt;on/off/auto&gt;| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180948Z" creationid="Алексей" creationdate="20170922T180948Z">
+        <seg>* |walls &lt;on/off/auto&gt;| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current scrap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4114,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131302Z" creationid="Алексей" creationdate="20170910T131302Z">
         <seg>Вы можете указать опцию |cs| в объектах |centreline|, |surface|, |import| и |layout| и ввести XY в выбранной системе координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have to specify (draw) them with the |point station| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180755Z" creationid="Алексей" creationdate="20170922T180755Z">
+        <seg>Вам не нужно указывать (рисовать) их с помощью команды |point station|.</seg>
       </tuv>
     </tu>
     <tu>
