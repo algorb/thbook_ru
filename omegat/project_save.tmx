@@ -755,16 +755,16 @@
       <tuv lang="EN-US">
         <seg>* |projection &lt;specification&gt;| = specifies the drawing projection.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171954Z" creationid="Алексей" creationdate="20170922T171930Z">
-        <seg>* |projection &lt;specification&gt;| = указывает проекцию чертежа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175016Z" creationid="Алексей" creationdate="20170922T171930Z">
+        <seg>* |projection &lt;спецификация&gt;| = указывает проекцию чертежа.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |scale &lt;specification&gt;| = is used to pre-scale (convert coordinates from pixels to meters) the scrap data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173824Z" creationid="Алексей" creationdate="20170922T173742Z">
-        <seg>* |scale &lt;specification&gt;| = используется для предварительного масштабирования (преобразования координат пикселей в метры) данных скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175042Z" creationid="Алексей" creationdate="20170922T173742Z">
+        <seg>* |scale &lt;спецификация&gt;| = используется для предварительного масштабирования (преобразования координат пикселей в метры) данных скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1572,8 +1572,8 @@
       <tuv lang="EN-US">
         <seg>Each projection is identified by a type and optionally by an index in the form |type[:index]|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T172958Z" creationid="Алексей" creationdate="20170922T172958Z">
-        <seg>Каждая проекция идентифицируется типом и дополнительно индексом в форме |type[:index]|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174445Z" creationid="Алексей" creationdate="20170922T172958Z">
+        <seg>Каждая проекция идентифицируется типом и дополнительно индексом в форме |тип[:индекс]|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1988,8 +1988,8 @@
       <tuv lang="EN-US">
         <seg>If scrap projection is none, this is the only transformation that is done with coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173906Z" creationid="Алексей" creationdate="20170922T173906Z">
-        <seg>Если проекция скрапа установлена в none, то это единственное преобразование, которое выполняется с координатами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175155Z" creationid="Алексей" creationdate="20170922T173906Z">
+        <seg>Если проек\-ция скрапа установлена в none, то это единственное преобразование, кото\-рое выполняется с координатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,6 +2666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, you can also specify units for the coordinates of the `points in reality'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174254Z" creationid="Алексей" creationdate="20170922T174254Z">
+        <seg>При желании вы также можете указать единицы для координат `точек в действительности'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordering of symbols inside of each group follows the order of commands in the input file&lt;u0&gt;Or {&lt;u1&gt; File commands} menu in XTherion]: symbols which come first are drawn last (i.e. they are displayed at the top of each group).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T003154Z" creationid="Алексей" creationdate="20170919T153332Z">
@@ -3087,8 +3095,8 @@
       <tuv lang="EN-US">
         <seg>The following projection types are supported:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173025Z" creationid="Алексей" creationdate="20170922T173025Z">
-        <seg>Поддерживаются следующие типы проекций:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174554Z" creationid="Алексей" creationdate="20170922T173025Z">
+        <seg>Поддерживаются следую\-щие типы проекций:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3369,8 +3377,8 @@
       <tuv lang="EN-US">
         <seg>The |&lt;specification&gt;| has four forms:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173934Z" creationid="Алексей" creationdate="20170922T173916Z">
-        <seg>|&lt;specification&gt;| имеет четыре формы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175138Z" creationid="Алексей" creationdate="20170922T173916Z">
+        <seg>|&lt;Спецификация&gt;| имеет четыре формы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3685,6 +3693,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144843Z" creationid="Алексей" creationdate="20170913T144042Z">
         <seg>Это соответствует этапу ручного рисованния карты, которая стро\-ится из точек, линий и заполненных областей.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This form allows you to apply both scaling and rotation to the scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174322Z" creationid="Алексей" creationdate="20170922T174322Z">
+        <seg>Эта форма позволяет применять как масштабирование, так и поворот скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4825,8 +4841,8 @@
       <tuv lang="EN-US">
         <seg>|&lt;number&gt;| = |&lt;number&gt;| meters per drawing unit.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174020Z" creationid="Алексей" creationdate="20170922T173957Z">
-        <seg>|&lt;number&gt;| = |&lt;number&gt;| метров на единицу чертежа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175246Z" creationid="Алексей" creationdate="20170922T173957Z">
+        <seg>|&lt;число&gt;| = |&lt;число&gt;| метров на единицу чертежа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4881,16 +4897,16 @@
       <tuv lang="EN-US">
         <seg>|[&lt;num1&gt; &lt;num2&gt; &lt;length units&gt;]| = |&lt;num1&gt;| drawing units corresponds to |&lt;num2&gt; &lt;length units&gt;| in reality.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174053Z" creationid="Алексей" creationdate="20170922T174053Z">
-        <seg>|[&lt;num1&gt; &lt;num2&gt; &lt;length units&gt;]| = |&lt;num1&gt;| drawing units corresponds to |&lt;num2&gt; &lt;length units&gt;| in reality.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175655Z" creationid="Алексей" creationdate="20170922T174053Z">
+        <seg>|[&lt;число1&gt; &lt;число2&gt; &lt;единицы длины&gt;]| = |&lt;число1&gt;| чертежных единиц соответствуют |&lt;число2&gt; &lt;единиц длины&gt;| в действительности.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|[&lt;number&gt; &lt;length units&gt;]| = |&lt;number&gt; &lt;length units&gt;| per drawing unit.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174047Z" creationid="Алексей" creationdate="20170922T174038Z">
-        <seg>|[&lt;number&gt; &lt;length units&gt;]| = |&lt;number&gt; &lt;length units&gt;| на единицу чертежа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175346Z" creationid="Алексей" creationdate="20170922T174038Z">
+        <seg>|[&lt;число&gt; &lt;единица длины&gt;]| = |&lt;число&gt; &lt;единиц длины&gt;| на единицу чертежа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4980,8 +4996,8 @@ endcommand|</seg>
       <tuv lang="EN-US">
         <seg>|elevation| = orthogonal projection (a.k.a.&lt;u0&gt;projected profile) which optionally takes a view direction as an argument (e.g. |[elevation 10]| or |[elevation 10 deg]|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173554Z" creationid="Алексей" creationdate="20170922T173246Z">
-        <seg>|elevation| = ортогональная проекция (проецируемый профиль a.k.a.&lt;u0&gt;), которая опционально принимает в качестве аргумента азимут сечения (например, |[elevation 10]| или |[elevation 10 deg]|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174842Z" creationid="Алексей" creationdate="20170922T173246Z">
+        <seg>|elevation| = ортогональная проекция (проецируемый профиль a.k.a.), кото\-рая опционально принимает в качестве аргумента азимут сечения (напри\-мер, |[elevation 10]| или |[elevation 10 deg]|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5022,8 +5038,8 @@ endsurvey|</seg>
       <tuv lang="EN-US">
         <seg>|extended| = extended elevation (a.k.a.&lt;u0&gt;extended profile).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173729Z" creationid="Алексей" creationdate="20170922T173611Z">
-        <seg>|extended| = разрез-развертка (развертка a.k.a.&lt;u0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174911Z" creationid="Алексей" creationdate="20170922T173611Z">
+        <seg>|extended| = разрез-развертка (развертка a.k.a.).</seg>
       </tuv>
     </tu>
     <tu>
