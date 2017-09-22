@@ -753,6 +753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |projection &lt;specification&gt;| = specifies the drawing projection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171954Z" creationid="Алексей" creationdate="20170922T171930Z">
+        <seg>* |projection &lt;specification&gt;| = указывает проекцию чертежа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170742Z" creationid="Алексей" creationdate="20170912T170635Z">
@@ -833,6 +841,14 @@
       КОНЕЦ отсечения текстовых меток
       ДЛЯ каждого скрапа: рисуются все (точечные и линейные) текстовые
          метки (в том числе |wall-altitude|); * анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface| установ\-лен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*|&lt;id&gt;| = scrap identifier</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171847Z" creationid="Алексей" creationdate="20170922T171819Z">
+        <seg>*|&lt;id&gt;| = идентификатор скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1550,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161239Z" creationid="Алексей" creationdate="20170910T145836Z">
         <seg>В каждом из следующих разделов описывается одна команда Therion, исполь\-зую\-щая следующую структуру:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each projection is identified by a type and optionally by an index in the form |type[:index]|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T172958Z" creationid="Алексей" creationdate="20170922T172958Z">
+        <seg>Каждая проекция идентифицируется типом и дополнительно индексом в форме |type[:index]|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4981,10 +5005,10 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|scrap &lt;id&gt; [OPTIONS] ... point, line and area commands ... endscrap [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171618Z" creationid="Алексей" creationdate="20170922T171448Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171754Z" creationid="Алексей" creationdate="20170922T171448Z">
         <seg>|scrap &lt;id&gt; [ОПЦИИ]
-	... команды точек, линий и областей ...
-endscrap [&lt;id&gt;]|</seg>
+						... команды точек, линий и областей ...
+					endscrap [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
