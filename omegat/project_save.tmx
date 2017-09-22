@@ -843,8 +843,8 @@
       <tuv lang="EN-US">
         <seg>* |walls &lt;on/off/auto&gt;| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180948Z" creationid="Алексей" creationdate="20170922T180948Z">
-        <seg>* |walls &lt;on/off/auto&gt;| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current scrap.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T181407Z" creationid="Алексей" creationdate="20170922T180948Z">
+        <seg>* |walls &lt;on/off/auto&gt;| = указывает, следует ли использовать скрап в создании 3D-модели * |flip (none)/horizontal/vertical| = зеркально отображает скрап после трансформации масштаба * |station-names &lt;prefix&gt; &lt;suffix&gt;| = добавляет префикс/суффикс ко всем станциям скрапа в текущей съемки.</seg>
       </tuv>
     </tu>
     <tu>
