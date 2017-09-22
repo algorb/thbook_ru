@@ -761,6 +761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |scale &lt;specification&gt;| = is used to pre-scale (convert coordinates from pixels to meters) the scrap data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173824Z" creationid="Алексей" creationdate="20170922T173742Z">
+        <seg>* |scale &lt;specification&gt;| = используется для предварительного масштабирования (преобразования координат пикселей в метры) данных скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170742Z" creationid="Алексей" creationdate="20170912T170635Z">
@@ -4952,6 +4960,14 @@ endsurvey|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172645Z" creationid="Алексей" creationdate="20170912T172634Z">
         <seg>|equate &lt;список станций&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|extended| = extended elevation (a.k.a.&lt;u0&gt;extended profile).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173729Z" creationid="Алексей" creationdate="20170922T173611Z">
+        <seg>|extended| = разрез-развертка (развертка a.k.a.&lt;u0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
