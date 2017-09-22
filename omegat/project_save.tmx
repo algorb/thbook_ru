@@ -965,6 +965,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174101Z" creationid="Алексей" creationdate="20170922T174101Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 &lt;u1&gt;&lt;u2&gt; &lt;u5&gt;&lt;u6&gt;&gt;139 &lt;u7&gt;0=glyphtounicode.tex &lt;u8&gt;0&lt;u9&gt;{No glyph to unicode mapping found!}&lt;u10&gt;&lt;u11&gt;0&lt;u12&gt; glyphtounicode.tex&lt;u13&gt;=1</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112736Z" creationid="Алексей" creationdate="20170910T052823Z">
@@ -1974,6 +1982,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065631Z" creationid="Алексей" creationdate="20170920T064254Z">
         <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикуляр\-ным к замеру, а UD вертикальными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If scrap projection is none, this is the only transformation that is done with coordinates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173906Z" creationid="Алексей" creationdate="20170922T173906Z">
+        <seg>Если проекция скрапа установлена в none, то это единственное преобразование, которое выполняется с координатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,6 +3363,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173404Z" creationid="Алексей" creationdate="20170913T165237Z">
         <seg>Меню {&lt;u3&gt; Точка линии} позволяет вам отрегулировать атрибуты любой выбранной точки на линии, например, сглаживание кривой в этой точке (которая включена по умолчанию) или наличие соседних кон\-троль\-ных точек (`|&lt;&lt;|' и `|&gt;&gt;|').
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The |&lt;specification&gt;| has four forms:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173934Z" creationid="Алексей" creationdate="20170922T173916Z">
+        <seg>|&lt;specification&gt;| имеет четыре формы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,6 +4823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|&lt;number&gt;| = |&lt;number&gt;| meters per drawing unit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174020Z" creationid="Алексей" creationdate="20170922T173957Z">
+        <seg>|&lt;number&gt;| = |&lt;number&gt;| метров на единицу чертежа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|.&lt;u0&gt;Note: it's not possible to reference any object from the higher-level surveys.]</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154054Z" creationid="Алексей" creationdate="20170911T154006Z">
@@ -4835,6 +4867,30 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155637Z" creationid="Алексей" creationdate="20170911T155637Z">
         <seg>|[&lt;дата1&gt; &lt;начение1&gt; [&lt;дата2&gt; &lt;значение2&gt; ... ] &lt;единицы&gt;]| установит склонение для нескольких дат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|[&lt;num1&gt; ... &lt;num8&gt; [&lt;length units&gt;]]| = this is the most general format, where you specify, in order, the $x$ and $y$ coordinates of two points in the scrap and two points in reality.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174217Z" creationid="Алексей" creationdate="20170922T174106Z">
+        <seg>|[&lt;num1&gt; ... &lt;num8&gt; [&lt;length units&gt;]]| = это самый общий формат, где вы указываете по порядку координаты $x$ и $y$ двух точек в скрапе и две точки в действительности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|[&lt;num1&gt; &lt;num2&gt; &lt;length units&gt;]| = |&lt;num1&gt;| drawing units corresponds to |&lt;num2&gt; &lt;length units&gt;| in reality.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174053Z" creationid="Алексей" creationdate="20170922T174053Z">
+        <seg>|[&lt;num1&gt; &lt;num2&gt; &lt;length units&gt;]| = |&lt;num1&gt;| drawing units corresponds to |&lt;num2&gt; &lt;length units&gt;| in reality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|[&lt;number&gt; &lt;length units&gt;]| = |&lt;number&gt; &lt;length units&gt;| per drawing unit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174047Z" creationid="Алексей" creationdate="20170922T174038Z">
+        <seg>|[&lt;number&gt; &lt;length units&gt;]| = |&lt;number&gt; &lt;length units&gt;| на единицу чертежа.</seg>
       </tuv>
     </tu>
     <tu>
