@@ -609,6 +609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T181604Z" creationid="Алексей" creationdate="20170922T181434Z">
+        <seg>* |author &lt;date&gt; &lt;person&gt;| = автор данных и дата их создания  * |copyright &lt;date&gt; &lt;string&gt;| = авторские права и их дата * |title &lt;string&gt;| = описание объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |break| = can be used with interleaved data to separate two traverses * |mark [&lt;station list&gt;] &lt;type&gt;| = set the type of named stations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050024Z" creationid="Алексей" creationdate="20170920T045610Z">
