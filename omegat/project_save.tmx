@@ -4914,6 +4914,14 @@ endcommand|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|elevation| = orthogonal projection (a.k.a.&lt;u0&gt;projected profile) which optionally takes a view direction as an argument (e.g. |[elevation 10]| or |[elevation 10 deg]|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173554Z" creationid="Алексей" creationdate="20170922T173246Z">
+        <seg>|elevation| = ортогональная проекция (проецируемый профиль a.k.a.&lt;u0&gt;), которая опционально принимает в качестве аргумента азимут сечения (например, |[elevation 10]| или |[elevation 10 deg]|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|encoding &lt;encoding-name&gt;|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172132Z" creationid="Алексей" creationdate="20170910T172132Z">
@@ -5005,6 +5013,14 @@ endline|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071513Z" creationid="Алексей" creationdate="20170920T070006Z">
         <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/обрат\-ном направлении по отношению к предыдущей станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|plan| = basic plan projection (default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173233Z" creationid="Алексей" creationdate="20170922T173222Z">
+        <seg>|plan| = проекция основного плана (по умолчанию).</seg>
       </tuv>
     </tu>
     <tu>
