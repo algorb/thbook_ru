@@ -625,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |cs &lt;coordinate system&gt;| = assumes that (calibrated) local scrap coordinates are given in specified coordinate system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180232Z" creationid="Алексей" creationdate="20170922T180136Z">
+        <seg>* |cs &lt;система координат&gt;| = предполагается, что (калиброванные) локальные координаты скрапа приведены к заданной системе координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = fix station coordinates (with specified errors---only the units transformation, not calibration, is applied to them).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T055101Z" creationid="Алексей" creationdate="20170920T054204Z">
@@ -2338,6 +2346,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173551Z" creationid="Алексей" creationdate="20170912T173551Z">
         <seg>Можно написать лучшую, более удобную для пользователя, более WYSIWYG, быструю, более надежную и удобную в использовании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is useful for absolute placing of imported sketches where no survey stations are specified.&lt;u0&gt;If there are some survey stations in the scrap, the |cs| specification is ignored.] * |stations &lt;list of station names&gt;| = stations you want to plot to the scrap, but which are not used for scrap transformation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180726Z" creationid="Алексей" creationdate="20170922T180726Z">
+        <seg>Это полезно для абсолютного размещения импортированных эскизов, где не указана ни одна станция съемки.&lt;u0&gt;Если в скрапе есть несколько станций съемки, |cs| игнорируется.] * |stations &lt;список имен станций&gt; | = станции, которые вы хотите использовать в скрапе, но которые не используются для его  трансформации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4889,16 +4905,16 @@
       <tuv lang="EN-US">
         <seg>|[&lt;num1&gt; ... &lt;num8&gt; [&lt;length units&gt;]]| = this is the most general format, where you specify, in order, the $x$ and $y$ coordinates of two points in the scrap and two points in reality.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174217Z" creationid="Алексей" creationdate="20170922T174106Z">
-        <seg>|[&lt;num1&gt; ... &lt;num8&gt; [&lt;length units&gt;]]| = это самый общий формат, где вы указываете по порядку координаты $x$ и $y$ двух точек в скрапе и две точки в действительности.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180035Z" creationid="Алексей" creationdate="20170922T174106Z">
+        <seg>|[&lt;число1&gt; ... &lt;число8&gt; [&lt;единица длины&gt;]]| = это самый общий формат, где вы указываете по порядку координаты $x$ и $y$ двух точек в скрапе и две точки в действительности.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|[&lt;num1&gt; &lt;num2&gt; &lt;length units&gt;]| = |&lt;num1&gt;| drawing units corresponds to |&lt;num2&gt; &lt;length units&gt;| in reality.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175655Z" creationid="Алексей" creationdate="20170922T174053Z">
-        <seg>|[&lt;число1&gt; &lt;число2&gt; &lt;единицы длины&gt;]| = |&lt;число1&gt;| чертежных единиц соответствуют |&lt;число2&gt; &lt;единиц длины&gt;| в действительности.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175936Z" creationid="Алексей" creationdate="20170922T174053Z">
+        <seg>|[&lt;число1&gt; &lt;число2&gt; &lt;единица длины&gt;]| = |&lt;число1&gt;| чертежных единиц соответ\-ствует |&lt;число2&gt; &lt;единиц длины&gt;| в действительности.</seg>
       </tuv>
     </tu>
     <tu>
