@@ -2561,6 +2561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No index is allowed for this projection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173211Z" creationid="Алексей" creationdate="20170922T173211Z">
+        <seg>Для этой проекции не указывается индекс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note, that Windows installation does not include |ghostscript|] to a raster format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020524Z" creationid="Алексей" creationdate="20170914T015140Z">
@@ -3053,6 +3061,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following projection types are supported:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173025Z" creationid="Алексей" creationdate="20170922T173025Z">
+        <seg>Поддерживаются следующие типы проекций:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T171035Z" creationid="Алексей" creationdate="20170912T164655Z">
@@ -3073,6 +3089,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011442Z" creationid="Алексей" creationdate="20170919T011355Z">
         <seg>Высота и глубина хода вычис\-ля\-ются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The index can be any keyword.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173018Z" creationid="Алексей" creationdate="20170922T173018Z">
+        <seg>Индекс может быть любым ключевым словом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4965,6 +4989,14 @@ endsurvey|</seg>
 	smooth off
 	1205.5 788.0 1195.5 832.5 1173.5 879.0
 endline|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|none| = no projection, used for cross sections or maps that are independent of survey data (e.g. digitization of old maps where no centreline data are available).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173157Z" creationid="Алексей" creationdate="20170922T173059Z">
+        <seg>|none| = нет проекции, используется для сечений или карт, которые не зависят от данных съемки (например, оцифровка старых карт, где нет нитки хода).</seg>
       </tuv>
     </tu>
     <tu>
