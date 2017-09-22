@@ -4979,6 +4979,16 @@ end of file|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|scrap &lt;id&gt; [OPTIONS] ... point, line and area commands ... endscrap [&lt;id&gt;]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171618Z" creationid="Алексей" creationdate="20170922T171448Z">
+        <seg>|scrap &lt;id&gt; [ОПЦИИ]
+	... команды точек, линий и областей ...
+endscrap [&lt;id&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|start| = specify starting station (shot)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071434Z" creationid="Алексей" creationdate="20170920T070507Z">
