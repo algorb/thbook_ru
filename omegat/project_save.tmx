@@ -835,8 +835,8 @@
       <tuv lang="EN-US">
         <seg>* |subtype &lt;keyword&gt;| = determines the object's subtype.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090049Z" creationid="Алексей" creationdate="20170923T090049Z">
-        <seg>* |subtype &lt;keyword&gt;| = determines the object's subtype.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090125Z" creationid="Алексей" creationdate="20170923T090049Z">
+        <seg>* |subtype &lt;подтип&gt;| = определяет подтип объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3213,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following subtypes for given types are supported:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090135Z" creationid="Алексей" creationdate="20170923T090135Z">
+        <seg>Поддерживаются следующие подтипы для заданных типов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following types are supported:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023718Z" creationid="Алексей" creationdate="20170923T023718Z">
@@ -4803,6 +4811,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030219Z" creationid="Алексей" creationdate="20170923T025911Z">
         <seg>{&lt;u0&gt; спелео-формы:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, &lt;u1&gt;{5.4}|clay-tree|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; station:}&lt;u1&gt;if station subtype is not specified, Therion reads it from centreline, if it's specified there] |temporary| (default), |painted|, |natural|, |fixed|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090335Z" creationid="Алексей" creationdate="20170923T090148Z">
+        <seg>{&lt;u0&gt; станция:}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указан в нитке хода.] |temporary| (default), |painted|, |natural|, |fixed|;</seg>
       </tuv>
     </tu>
     <tu>
