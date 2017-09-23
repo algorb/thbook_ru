@@ -552,6 +552,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;type&gt;| determines the type of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023708Z" creationid="Алексей" creationdate="20170923T023701Z">
+        <seg>* |&lt;тип&gt;| определяет тип объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |&lt;x&gt;| and |&lt;y&gt;| are the drawing coordinates of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023651Z" creationid="Алексей" creationdate="20170923T023629Z">
+        <seg>* |&lt;x&gt;| и |&lt;y&gt;| являются координатами чертежа объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |EPSG:&lt;number&gt;| = Most of EPSG coordinate systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132355Z" creationid="Алексей" creationdate="20170910T132347Z">
@@ -1758,6 +1774,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174316Z" creationid="Алексей" creationdate="20170912T174316Z">
         <seg>Для каждого режима работы есть дополнительное меню справа или слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each scrap (with the exception of scraps in `none' projection) at least one station with station reference (|-name| option) has to be specified.], |section|&lt;u2&gt;|section| is an anchor for placing the cross-section at this point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T024749Z" creationid="Алексей" creationdate="20170923T024749Z">
+        <seg>Для каждого скрапа (за исключением скрапов с проекцией `none') должна быть указана хотя бы одна станция с опцией |-name|.], |section|&lt;u2&gt;|section| является местом для размещения поперечного сечения в этой точке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3153,6 +3177,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T171035Z" creationid="Алексей" creationdate="20170912T164655Z">
         <seg>Поддерживаются следующие значения: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following types are supported:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023718Z" creationid="Алексей" creationdate="20170923T023718Z">
+        <seg>Поддерживаются следующие типы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4667,6 +4699,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145946Z" creationid="Алексей" creationdate="20170910T145936Z">
         <seg>{&lt;u0&gt; Синтаксис:} описание синтаксиса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; special objects:} |station|&lt;u1&gt;Survey station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023827Z" creationid="Алексей" creationdate="20170923T023750Z">
+        <seg>{&lt;u0&gt; специальные объекты:} |station|&lt;u1&gt;Станция съемки.</seg>
       </tuv>
     </tu>
     <tu>
