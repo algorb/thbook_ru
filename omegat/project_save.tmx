@@ -833,6 +833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |subtype &lt;keyword&gt;| = determines the object's subtype.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090049Z" creationid="Алексей" creationdate="20170923T090049Z">
+        <seg>* |subtype &lt;keyword&gt;| = determines the object's subtype.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164949Z" creationid="Алексей" creationdate="20170912T164533Z">
