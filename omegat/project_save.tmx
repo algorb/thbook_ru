@@ -4759,6 +4759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; symbolic passage fills:}&lt;u2&gt;Unlike other point symbols, these are clipped by the scrap border.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025716Z" creationid="Алексей" creationdate="20170923T025624Z">
+        <seg>{&lt;u0&gt; символы заполнения хода:}&lt;u2&gt;В отличие от других точечных символов, они подрезаются границей скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
