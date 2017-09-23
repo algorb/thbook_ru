@@ -3133,6 +3133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cross section must be in the separate scrap with `none' projection specified.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T024857Z" creationid="Алексей" creationdate="20170923T024857Z">
+        <seg>Поперечное сечение должно быть в отдельном скрапе с проекцией `none'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data files specify only what is where, not what it looks like.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162738Z" creationid="Алексей" creationdate="20170909T154657Z">
@@ -3834,6 +3842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This symbol has no visual representation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T024833Z" creationid="Алексей" creationdate="20170923T024833Z">
+        <seg>Этот символ не имеет визуального представления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This way you can also move objects between scraps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151506Z" creationid="Алексей" creationdate="20170913T151506Z">
@@ -4154,6 +4170,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044457Z" creationid="Алексей" creationdate="20170920T044244Z">
         <seg>Вы можете указать определе\-ния только для позиции или только для съемок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify it through the |-scrap| option.], |dimensions|&lt;u3&gt;Use |-value| option to specify passage dimensions above/below centerline plane used while creating 3D model.];</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025107Z" creationid="Алексей" creationdate="20170923T025107Z">
+        <seg>Вы можете указать ее через опцию |-scrap|.], |dimensions|&lt;u3&gt;Используя опцию |-value| можно указать размеры хода выше/ниже плоскости нитки хода, используемой при создании 3D-модели.];</seg>
       </tuv>
     </tu>
     <tu>
