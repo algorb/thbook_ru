@@ -1418,6 +1418,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any subtype specification can be used with user defined type (|u|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091857Z" creationid="Алексей" creationdate="20170923T091857Z">
+        <seg>Любой подтип может использоваться с пользовательским типом (|u|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any volunteers?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173605Z" creationid="Алексей" creationdate="20170912T173605Z">
@@ -2313,6 +2321,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144246Z" creationid="Алексей" creationdate="20170913T144246Z">
         <seg>В меню {&lt;u1&gt; Команды в файле} выберите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить скрап}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case you need also to define corresponding metapost symbol (see the chapter {&lt;u0&gt; New map symbols}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091948Z" creationid="Алексей" creationdate="20170923T091948Z">
+        <seg>В этом случае вам также необходимо определить соответствующий метапост символ (смотрите главу {&lt;u0&gt; Новые символы карты}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,6 +3394,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174400Z" creationid="Алексей" creationdate="20170912T174400Z">
         <seg>Подменю могут быть свернуты; вы можете развернуть их, нажав кнопку меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |station:fixed|]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091817Z" creationid="Алексей" creationdate="20170923T091817Z">
+        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использованием `|:|' в качестве разделителя.&lt;u0&gt;Например, |station:fixed|.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4767,6 +4791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; air-draught:} |winter|, |summer|, |undefined| (default);</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091641Z" creationid="Алексей" creationdate="20170923T091054Z">
+        <seg>{&lt;u0&gt; air-draught (ток воздуха):} |winter| (зимой), |summer| (летом), |undefined| (не опреде\-лено) (по умолчанию);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; equipment:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030252Z" creationid="Алексей" creationdate="20170923T030246Z">
@@ -4817,8 +4849,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; station:}&lt;u1&gt;if station subtype is not specified, Therion reads it from centreline, if it's specified there] |temporary| (default), |painted|, |natural|, |fixed|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090335Z" creationid="Алексей" creationdate="20170923T090148Z">
-        <seg>{&lt;u0&gt; станция:}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указан в нитке хода.] |temporary| (default), |painted|, |natural|, |fixed|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091514Z" creationid="Алексей" creationdate="20170923T090148Z">
+        <seg>{&lt;u0&gt; station (станция)}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указан в нитке хода.]{&lt;u0&gt;:} |temporary| (default), |painted|, |natural|, |fixed|;</seg>
       </tuv>
     </tu>
     <tu>
