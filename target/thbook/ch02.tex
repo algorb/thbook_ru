@@ -353,11 +353,11 @@ none, survey \endcontext
 
 \description
 
-Point is a command for drawing a point map symbol. \enddescription
+Точка -- это команда для рисования символа точки. \enddescription
 
 \syntax
 
-|point <x> <y> <type> [OPTIONS]| \endsyntax
+|point <x> <y> <тип> [ОПЦИИ]| \endsyntax
 
 \context
 
@@ -365,21 +365,21 @@ scrap \endcontext
 
 \arguments
 
-* |<x>| and |<y>| are the drawing coordinates of an object. * |<type>| determines the type of an object. The following types are supported: 
+* |<x>| и |<y>| являются координатами чертежа объекта. * |<тип>| определяет тип объекта. Поддерживаются следующие типы: 
 
-{\it special objects:} |station|\[Survey station. For each scrap (with the exception of scraps in `none' projection) at least one station with station reference (|-name| option) has to be specified.], |section|\[|section| is an anchor for placing the cross-section at this point. This symbol has no visual representation. The cross section must be in the separate scrap with `none' projection specified. You can specify it through the |-scrap| option.], |dimensions|\[Use |-value| option to specify passage dimensions above/below centerline plane used while creating 3D model.]; 
+{\it специальные объекты:} |station|\[Станция съемки. Для каждого скрапа (за исключением скрапов с проекцией `none') должна быть указана хотя бы одна станция с опцией |-name|.], |section|\[|section| является местом для размещения поперечного сечения в этой точке. Этот символ не имеет визуального представления. Поперечное сечение должно быть в отдельном скрапе с проекцией `none'. Вы можете указать ее через опцию |-scrap|.], |dimensions|\[Используя опцию |-value| можно указать размеры хода выше/ниже плоскости нитки хода, используемой при создании 3D-модели.]; 
 
-{\it labels:} |label|, |remark|, |altitude|\[General altitude label. All altitudes are exported as a difference against grid $Z$ origin (which is 0 by default). To display altitude on the passage wall, use |altitude| option for any line point of the passage wall], |height|\[Height of formations inside of the passage (like pit etc.); see below for details.], |passage-height|\[Height of the passage; see below for details.], |station-name|\[If no text is specified, the name of the nearest station is used.], \penalty-100 |date|; 
+{\it labels:} |label|, |remark|, |altitude|\[Знак общей высоты. Все высоты экспортируются как разница от $Z$ сетки (по умолчанию 0). Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода], |height|\[Высота внутри хода (например, яма и т. д.); смотрите ниже подробнее.], |passage-height|\[Высота хода; смотрите ниже.], |station-name|\[Если текст не указан, используется имя ближайшей станции.], \penalty-100 |date|; 
 
-{\it symbolic passage fills:}\[Unlike other point symbols, these are clipped by the scrap border. See the chapter {\it How the map is put together}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|; 
+{\it символы заполнения хода:}\[В отличие от других точечных символов, они подрезаются границей скрапа. Смотрите главу {\it Как карта собирается в единое целое}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|; 
 
-{\it speleothems:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, \NEW{5.4}|clay-tree|; 
+{\it спелео-формы:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, \NEW{5.4}|clay-tree|; 
 
-{\it equipment:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|; 
+{\it оборудование:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|; 
 
-{\it passage ends:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, \NEW{5.4}|clay-choke|, |entrance|; 
+{\it окончание ходов:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, \NEW{5.4}|clay-choke|, |entrance|; 
 
-{\it others:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|\[Always use |spring| and |sink| symbols with a |water-flow| arrow.], |sink|, \NEW{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|\[Number of ticks is set according to |-scale| option], |map-connection|\[Virtual point, used to indicate connection between shifted maps (extended elevation, map offset).], |extra|\[Additional morphing point.], |u|\[For user defined point symbols.]. 
+{\it другие:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|\[Всегда используйте |spring| и |sink| символы  с |water-flow| arrow.], |sink|, \NEW{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|\[Number of ticks is set according to |-scale| option], |map-connection|\[Виртуальная точка, используемая для указания соединения между выносками карт (разрез-развертка, смещение карты).], |extra|\[Точка морфинга.], |u|\[Пользовательские точечные символы.]. 
 
 \endarguments
 
@@ -441,7 +441,7 @@ scrap \endcontext
 
 \arguments
 
-* |<type>| is a keyword that determines the type of line. The following types are supported: 
+* |<type>| is a keyword that determines the type of line. Поддерживаются следующие типы: 
 
 {\it passages:} |wall|, |contour|, |slope|\[Slope line marks upper border of the sloping area. It's necessary to specify |l-size| in at least one point. Gradient lines length and orientation is an average of specified |l-size|s and |orientation|s in the nearest points. If there is no orientation specification, gradient marks are perpendicular to the slope line.], |floor-step|, |pit|, |ceiling-step|, |chimney|, |overhang|, |ceiling-meander|, |floor-meander|; 
 
@@ -471,7 +471,7 @@ Any subtype specification can be used with user defined type (|u|). In this case
 
 {\it Type-specific options:}\Nobreak 
 
-* |altitude <value>| = can be specified only with the wall type. This option creates an altitude label on the wall. All altitudes are exported as a difference against grid $Z$ origin (which is 0 by default). If the value is specified, it gives the altitude difference of the point on the wall relative to the nearest station. The value can be prefixed by a keyword ``|fix|'', then no nearest station is taken into consideration; the absolute given value is used instead. Units can follow the value. Examples: |+4|, |[+4 m]|, |[fix 1510 m]|. * |border <on/off>| = this option can be specified only with the `slope' symbol type. It switches on/off the border line of the slope. * |direction <begin/end/both/none/point>| = can be used only with the section type. It indicates where to put a direction arrow on the section line. None is default. * |gradient <none/center/point>| = can be used only with the contour type and indicates where to put a gradient mark on the contour line. If there is no gradient specification, behaviour is symbol-set dependent (e.g. no tick in UIS, tick in the middle in SKBB). * |head <begin/end/both/none>| = can be used only with the arrow type and indicates where to put an arrow head. End is default. * |text <string>| = valid only for label lines. * \NEW{5.4}|height <value>| = height of pit or wall:pit; available in \MP\ as a numeric variable |ATTR__height|. \endcomopt
+* |altitude <value>| = can be specified only with the wall type. This option creates an altitude label on the wall. Все высоты экспортируются как разница от $Z$ сетки (по умолчанию 0). If the value is specified, it gives the altitude difference of the point on the wall relative to the nearest station. The value can be prefixed by a keyword ``|fix|'', then no nearest station is taken into consideration; the absolute given value is used instead. Units can follow the value. Examples: |+4|, |[+4 m]|, |[fix 1510 m]|. * |border <on/off>| = this option can be specified only with the `slope' symbol type. It switches on/off the border line of the slope. * |direction <begin/end/both/none/point>| = can be used only with the section type. It indicates where to put a direction arrow on the section line. None is default. * |gradient <none/center/point>| = can be used only with the contour type and indicates where to put a gradient mark on the contour line. If there is no gradient specification, behaviour is symbol-set dependent (e.g. no tick in UIS, tick in the middle in SKBB). * |head <begin/end/both/none>| = can be used only with the arrow type and indicates where to put an arrow head. End is default. * |text <string>| = valid only for label lines. * \NEW{5.4}|height <value>| = height of pit or wall:pit; available in \MP\ as a numeric variable |ATTR__height|. \endcomopt
 
 \options
 
