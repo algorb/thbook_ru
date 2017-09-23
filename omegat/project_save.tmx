@@ -2917,8 +2917,8 @@
       <tuv lang="EN-US">
         <seg>See the chapter {&lt;u1&gt; How the map is put together}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025906Z" creationid="Алексей" creationdate="20170923T025906Z">
-        <seg>Смотрите главу {&lt;u1&gt; Как карта собирается в единое целое}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031933Z" creationid="Алексей" creationdate="20170923T025906Z">
+        <seg>Смотрите главу {Как карта собирается в единое целое}.]{&lt;u1&gt;:} |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,8 +3151,8 @@
       <tuv lang="EN-US">
         <seg>The cross section must be in the separate scrap with `none' projection specified.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T024857Z" creationid="Алексей" creationdate="20170923T024857Z">
-        <seg>Поперечное сечение должно быть в отдельном скрапе с проекцией `none'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031519Z" creationid="Алексей" creationdate="20170923T024857Z">
+        <seg>Поперечное сечение должно быть в отдель\-ном скрапе с проекцией `none'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3909,8 +3909,8 @@
       <tuv lang="EN-US">
         <seg>To display altitude on the passage wall, use |altitude| option for any line point of the passage wall], |height|&lt;u2&gt;Height of formations inside of the passage (like pit etc.); see below for details.], |passage-height|&lt;u3&gt;Height of the passage; see below for details.], |station-name|&lt;u4&gt;If no text is specified, the name of the nearest station is used.], &lt;u5&gt;-100 |date|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025606Z" creationid="Алексей" creationdate="20170923T025606Z">
-        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода], |height|&lt;u2&gt;Высота внутри хода (например, яма и т. д.); смотрите ниже подробнее.], |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.], |station-name|&lt;u4&gt;Если текст не указан, используется имя ближайшей станции.], &lt;u5&gt;-100 |date|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031659Z" creationid="Алексей" creationdate="20170923T025606Z">
+        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода.], |height|&lt;u2&gt;Высота внутри хода (например, яма и т. д.); смотрите ниже подробнее.], |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.], |station-name|&lt;u4&gt;Если текст не указан, используется имя ближайшей станции.], &lt;u5&gt;-100 |date|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,7 +4463,7 @@
       <tuv lang="EN-US">
         <seg>scrap</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023547Z" creationid="Алексей" creationdate="20170923T023547Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031412Z" creationid="Алексей" creationdate="20170923T023547Z">
         <seg>scrap</seg>
       </tuv>
     </tu>
@@ -4761,16 +4761,16 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;General altitude label.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025138Z" creationid="Алексей" creationdate="20170923T025128Z">
-        <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;Знак общей высоты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031603Z" creationid="Алексей" creationdate="20170923T025128Z">
+        <seg>{&lt;u0&gt; метки:} |label|, |remark|, |altitude|&lt;u1&gt;Знак общей высоты.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; others:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Always use |spring| and |sink| symbols with a |water-flow| arrow.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option], |map-connection|&lt;u3&gt;Virtual point, used to indicate connection between shifted maps (extended elevation, map offset).], |extra|&lt;u4&gt;Additional morphing point.], |u|&lt;u5&gt;For user defined point symbols.].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031150Z" creationid="Алексей" creationdate="20170923T030441Z">
-        <seg>{&lt;u0&gt; другие:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Всегда используйте |spring| и |sink| символы  с |water-flow| arrow.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option], |map-connection|&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт (разрез-развертка, смещение карты).], |extra|&lt;u4&gt;Точка морфинга.], |u|&lt;u5&gt;Пользовательские точечные символы.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T032207Z" creationid="Алексей" creationdate="20170923T030441Z">
+        <seg>{&lt;u0&gt; другие:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Всегда используйте символы |spring| и |sink| со стрелкой |water-flow|.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option.], |map-connection|&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт (раз\-рез-развертка, смещение карты).], |extra|&lt;u4&gt;Точка морфинга.], |u|&lt;u5&gt;Пользовательские точечные символы.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -4801,8 +4801,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; symbolic passage fills:}&lt;u2&gt;Unlike other point symbols, these are clipped by the scrap border.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025716Z" creationid="Алексей" creationdate="20170923T025624Z">
-        <seg>{&lt;u0&gt; символы заполнения хода:}&lt;u2&gt;В отличие от других точечных символов, они подрезаются границей скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031831Z" creationid="Алексей" creationdate="20170923T025624Z">
+        <seg>{&lt;u0&gt; символы заполнения хода}&lt;u2&gt;В отличие от других точечных символов, они подрезаются границей скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5339,7 +5339,7 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>|point &lt;x&gt; &lt;y&gt; &lt;type&gt; [OPTIONS]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023527Z" creationid="Алексей" creationdate="20170923T023515Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031415Z" creationid="Алексей" creationdate="20170923T023515Z">
         <seg>|point &lt;x&gt; &lt;y&gt; &lt;тип&gt; [ОПЦИИ]|</seg>
       </tuv>
     </tu>
