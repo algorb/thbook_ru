@@ -2915,6 +2915,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the chapter {&lt;u1&gt; How the map is put together}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025906Z" creationid="Алексей" creationdate="20170923T025906Z">
+        <seg>Смотрите главу {&lt;u1&gt; Как карта собирается в единое целое}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sets the survey stations equivalence.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172626Z" creationid="Алексей" creationdate="20170912T172626Z">
@@ -4755,6 +4763,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023827Z" creationid="Алексей" creationdate="20170923T023750Z">
         <seg>{&lt;u0&gt; специальные объекты:} |station|&lt;u1&gt;Станция съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; speleothems:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, &lt;u1&gt;{5.4}|clay-tree|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030219Z" creationid="Алексей" creationdate="20170923T025911Z">
+        <seg>{&lt;u0&gt; спелео-формы:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, &lt;u1&gt;{5.4}|clay-tree|;</seg>
       </tuv>
     </tu>
     <tu>
