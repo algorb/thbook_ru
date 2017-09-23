@@ -4751,10 +4751,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; equipment:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030252Z" creationid="Алексей" creationdate="20170923T030246Z">
+        <seg>{&lt;u0&gt; оборудование:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;General altitude label.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025138Z" creationid="Алексей" creationdate="20170923T025128Z">
         <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;Знак общей высоты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; passage ends:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030418Z" creationid="Алексей" creationdate="20170923T030418Z">
+        <seg>{&lt;u0&gt; passage ends:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
       </tuv>
     </tu>
     <tu>
