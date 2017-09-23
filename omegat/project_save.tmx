@@ -1289,6 +1289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All altitudes are exported as a difference against grid $Z$ origin (which is 0 by default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025301Z" creationid="Алексей" creationdate="20170923T025301Z">
+        <seg>Все высоты экспортируются как разница от $Z$ сетки (по умолчанию 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All opened images are placed in the upper-left corner of the working area.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140541Z" creationid="Алексей" creationdate="20170913T140541Z">
@@ -3891,6 +3899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To display altitude on the passage wall, use |altitude| option for any line point of the passage wall], |height|&lt;u2&gt;Height of formations inside of the passage (like pit etc.); see below for details.], |passage-height|&lt;u3&gt;Height of the passage; see below for details.], |station-name|&lt;u4&gt;If no text is specified, the name of the nearest station is used.], &lt;u5&gt;-100 |date|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025606Z" creationid="Алексей" creationdate="20170923T025606Z">
+        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода], |height|&lt;u2&gt;Высота внутри хода (например, яма и т. д.); смотрите ниже подробнее.], |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.], |station-name|&lt;u4&gt;Если текст не указан, используется имя ближайшей станции.], &lt;u5&gt;-100 |date|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To escape from `insert' to `select' mode, press {&lt;u6&gt; Esc} key on the keyboard or {&lt;u7&gt; Select} button in the {&lt;u8&gt; File commands} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150833Z" creationid="Алексей" creationdate="20170913T150833Z">
@@ -4723,6 +4739,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145946Z" creationid="Алексей" creationdate="20170910T145936Z">
         <seg>{&lt;u0&gt; Синтаксис:} описание синтаксиса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;General altitude label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025138Z" creationid="Алексей" creationdate="20170923T025128Z">
+        <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;Знак общей высоты.</seg>
       </tuv>
     </tu>
     <tu>
