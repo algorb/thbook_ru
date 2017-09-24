@@ -5159,6 +5159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; border:} |visible| (default), |invisible|, |temporary|, |presumed|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113431Z" creationid="Алексей" creationdate="20170924T113257Z">
+        <seg>{&lt;u0&gt; граница:} |visible| (видимая) (по умолчанию), |invisible| (неотображаемая), |temporary| (временная), |presumed| (предполагаемая);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; dimensions:} |-value [&lt;above&gt; &lt;below&gt; [&lt;units&gt;]]| specifies passage dimensions a­bo­ve/below centerline plane used in 3D model.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064146Z" creationid="Алексей" creationdate="20170924T063656Z">
