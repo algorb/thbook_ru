@@ -801,6 +801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |place &lt;bottom/default/top&gt;| = changes displaying order in the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043243Z" creationid="Алексей" creationdate="20170924T043243Z">
+        <seg>* |place &lt;bottom/default/top&gt;| = changes displaying order in the map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |projection &lt;specification&gt;| = specifies the drawing projection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175016Z" creationid="Алексей" creationdate="20170922T171930Z">
