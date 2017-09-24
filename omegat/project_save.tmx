@@ -2921,6 +2921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No section curve is displayed.&lt;u8&gt;&lt;u9&gt;&lt;u10&gt;{xsect.1}], |survey|&lt;u2&gt;Survey line is automatically drawn by Therion.], |map-connection|&lt;u3&gt;Used to indicate connection between maps (in offset, or the same points in extended elevation).], |u|&lt;u4&gt;For user defined line symbols.].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T112041Z" creationid="Алексей" creationdate="20170924T111551Z">
+        <seg>Кривая сечения не отображается.&lt;u8&gt;&lt;u9&gt;&lt;u10&gt;{xsect.1}], |survey| (нитка хода)&lt;u2&gt;Нитка хода автоматически рисуется Therion'ом.], |map-connection| (линия выноса)&lt;u3&gt;Используется для указания соединения между картами (при смещении или же точками в разрез-развертке).], |u|&lt;u4&gt;Для определенных пользователем линейных символов.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal is default.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040654Z" creationid="Алексей" creationdate="20170924T040654Z">
