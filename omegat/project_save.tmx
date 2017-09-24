@@ -665,6 +665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.&lt;u7&gt;Example: if you specify |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044756Z" creationid="Алексей" creationdate="20170924T044440Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|.&lt;u7&gt;Пример: если вы укажете |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = assumes that (calibrated) local scrap coordinates are given in specified coordinate system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180232Z" creationid="Алексей" creationdate="20170922T180136Z">
@@ -917,6 +925,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045153Z" creationid="Алексей" creationdate="20170920T044709Z">
         <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;| = установка единиц для данных измере\-ний (так же как и для sd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |visibility &lt;on/off&gt;| = displays/hides the symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044432Z" creationid="Алексей" creationdate="20170924T044411Z">
+        <seg>* |visibility &lt;on/off&gt;| = отображает/скрывает символ.</seg>
       </tuv>
     </tu>
     <tu>
