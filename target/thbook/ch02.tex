@@ -417,13 +417,13 @@ scrap \endcontext
 
 * |value| = значение точек height (высота уступа/камина/колодца), passage-height (высота хода), altitude (высотная отметка) или dimensions (размеры хода). 
 
-{\it height:} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глу\-бину колодца или высоту уступа. Числовое значение может сопровож\-даться необязательным символом `|?|', чтобы добавить единицы измерения (напри\-мер~|-value [40? ft]|). 
+{\it height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глу\-бину колодца или высоту уступа. Числовое значение может сопровож\-даться необязательным символом `|?|', чтобы добавить единицы измерения (напри\-мер~|-value [40? ft]|). 
 
-{\it passage-height:} the following four forms of value are supported: |+<number>| (the height of the ceiling), |-<number>| (the depth of the floor or water depth), |<number>| (the distance between floor and ceiling) and |[+<number> -<number>]| (the distance to ceiling and distance to floor). 
+{\it passage-height (высота хода):} поддерживаются следующие четыре формы значения: |+<число>| (высота потолка), |-<число>| (глубина этажа или глубина воды), |<число>| (расстояние между потолком и полом) и |[+<число> -<число>]| (расстояние до потолка и расстояние до пола). 
 
-{\it altitude:} the value specified is the altitude difference from the nearest station. If the altitude value is prefixed by ``|fix|'' (e.g. |-value [fix 1300]|), this value is used as an absolute altitude. The value can optionally be followed by length units. 
+{\it altitude (высотная отметка):} указанное значение представляет собой разницу высот по сравнению с ближайшей станции. Если значение altitude (высотная отметка) имеет префикс ``|fix|'' (например |-value [fix 1300]|), то это значение используется как абсолютная высота. Значение может сопровождаться единицами измерения. 
 
-{\it dimensions:} |-value [<above> <below> [<units>]]| specifies passage dimensions a\-bo\-ve/below centerline plane used in 3D model. \endoptions
+{\it dimensions (размеры хода):} |-value [<выше> <ниже> [<единицы>]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-модели. \endoptions
 
 \subsubchapter `line'. 
 
