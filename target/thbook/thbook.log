@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  24 SEP 2017 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  24 SEP 2017 13:56
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -76,7 +76,7 @@ ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
 [MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
 [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
 [27]
-Overfull \hbox (19.97153pt too wide) in paragraph at lines 444--445
+Overfull \hbox (19.97153pt too wide) in paragraph at lines 453--454
  [][][]\rm <type>[] \rm is a key-word that de-ter-mines the type of line. Подде
 рживаются следующие|
 
@@ -93,8 +93,8 @@ Overfull \hbox (19.97153pt too wide) in paragraph at lines 444--445
 .\rm <
 .etc.
 
-[MP to PDF] (mp/xsect.1) [28] [29] [30] [31] [32] [33]
-Overfull \hbox (54.1014pt too wide) in paragraph at lines 588--589
+[28] [MP to PDF] (mp/xsect.1) [29] [30] [31] [32] [33]
+Overfull \hbox (54.1014pt too wide) in paragraph at lines 597--598
 \rm grid <ori-gin x> <ori-gin y> <x spac-ing> <y spac-ing> <x count> <y count> 
 grid-flip (none)/vertical/horizontal|
 
@@ -106,8 +106,8 @@ grid-flip (none)/vertical/horizontal|
 .\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
-[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47])
-(ch03.tex [48] [49 <./pic/herakl.pdf>] [50] [51]
+[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
+(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52]
 Overfull \hbox (32.7214pt too wide) in paragraph at lines 143--144
 \rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
 t/line/area/group/special>|
@@ -187,8 +187,8 @@ d/scrap-names/station-|
 .\rm g
 .etc.
 
-[52] [53] [54] [55] [56] [MP to PDF] (mp/page.1) [57] [58 <./pic/page.pdf>]
-[59] [60] [61]) (ch04.tex [62]
+[53] [54] [55] [56] [57] [MP to PDF] (mp/page.1) [58] [59 <./pic/page.pdf>]
+[60] [61] [62]) (ch04.tex [63]
 Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
 \rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
 real, ADJ_BEARING|
@@ -201,7 +201,7 @@ real, ADJ_BEARING|
 .\rm _
 .etc.
 
-[63] [64 <./pic/database.pdf>]
+[64] [65 <./pic/database.pdf>]
 Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
 []\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
 INE where TOPO_DATE|
@@ -214,7 +214,7 @@ INE where TOPO_DATE|
 .\rm e
 .etc.
 
-[65]) (ch05.tex [66] [67 <./pic/thom.jpg>] [68]
+[66]) (ch05.tex [67] [68 <./pic/thom.jpg>] [69]
 Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
  []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
  {/Bor-der [0 0 0]} goto name|
@@ -227,7 +227,7 @@ Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
 .\kern-0.1
 .etc.
 
-[69]
+[70]
 Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
 []\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
@@ -292,7 +292,7 @@ w$} \show-point-erlist\pointerD|
 .\rm p
 .etc.
 
-[70] [71]
+[71] [72]
 Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
 []\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
 eg-end-text-size={\size[20]}|
@@ -305,7 +305,7 @@ eg-end-text-size={\size[20]}|
 .\kern-0.1
 .etc.
 
-[72] [73] [74]
+[73] [74] [75]
 Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 []\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
 -def; init-sym-bol("l_wall_bedrock_UIS");[] |
@@ -318,7 +318,7 @@ Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 .\rm f
 .etc.
 
-[75]
+[76]
 Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
 []\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
 aled (0.02u); pat-ternxstep(.18u);|
@@ -331,7 +331,7 @@ aled (0.02u); pat-ternxstep(.18u);|
 .\rm i
 .etc.
 
-) (ch06.tex [76] [77] [78] [79]
+) (ch06.tex [77] [78] [79] [80]
 Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
  [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
 n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
@@ -350,7 +350,7 @@ n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
 .\kern-0.12001
 .etc.
 
-[80] [81]
+[81] [82]
 Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
  []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
@@ -363,10 +363,10 @@ tf" \"/usr/share/fonts/Serif-|
 .\rm f
 .etc.
 
-[82] [83] [84] [85] [86]) (ch07.tex
+[83] [84] [85] [86] [87]) (ch07.tex
 \samplepath=\toks26
  Warning: skipping the case studies)
-[87] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
+[88] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
@@ -399,9 +399,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (87 pages, 769593 bytes).
+Output written on thbook.pdf (88 pages, 769896 bytes).
 PDF statistics:
- 549 PDF objects out of 1000 (max. 8388607)
+ 552 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
