@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |border:invisible|]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113944Z" creationid="Алексей" creationdate="20170924T113944Z">
+        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использованием `|: | ' в качестве разделителя. &lt;u0&gt; Например. | Граница: невидимая |]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |station:fixed|]</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T092234Z" creationid="Алексей" creationdate="20170923T091817Z">
@@ -5281,8 +5289,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; survey:} |cave| (default), |surface| (default if centreline has surface flag).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113605Z" creationid="Алексей" creationdate="20170924T113554Z">
-        <seg>{&lt;u0&gt; survey (съемка):} |cave| (default), |surface| (default if centreline has surface flag).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113856Z" creationid="Алексей" creationdate="20170924T113554Z">
+        <seg>{&lt;u0&gt; survey (нитка хода):} |cave| (пещерная) (по умолчанию), |surface| (поверхностная) (по умолчанию, если у нитка хода имеет флаг surface).</seg>
       </tuv>
     </tu>
     <tu>
