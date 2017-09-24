@@ -2592,6 +2592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may contain following formatting keywords:&lt;u0&gt;For SVG output, only |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| and |&lt;lang:XX&gt;| keywords are taken into account; all others are silently ignored.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052046Z" creationid="Алексей" creationdate="20170924T051852Z">
+        <seg>Он может содержать следующие зарезервированные слова для форматирования:&lt;u0&gt;Для вывода SVG только |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| и |&lt;lang:XX&gt;| учитываются зарезервированные слова; все остальные игнорируются.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may look quite complicated, but this approach has a lot of advantages:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152335Z" creationid="Алексей" creationdate="20170909T151938Z">
@@ -5291,6 +5299,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195228Z" creationid="Алексей" creationdate="20170909T195228Z">
         <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;br&gt;| = line break</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052101Z" creationid="Алексей" creationdate="20170924T052053Z">
+        <seg>|&lt;br&gt;| = разрыв строки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;center&gt;|/|&lt;centre&gt;|, |&lt;left&gt;|, |&lt;right&gt;| = line alignment for multi-line labels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052137Z" creationid="Алексей" creationdate="20170924T052108Z">
+        <seg>|&lt;center&gt;|/|&lt;centre&gt;|, |&lt;left&gt;|, |&lt;right&gt;| = выравнивание строк для многострочных меток.</seg>
       </tuv>
     </tu>
     <tu>
