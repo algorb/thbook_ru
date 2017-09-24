@@ -659,8 +659,8 @@
       <tuv lang="EN-US">
         <seg>* |clip &lt;on/off&gt;| = specify whether a symbol is clipped by the scrap border.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043830Z" creationid="Алексей" creationdate="20170924T043830Z">
-        <seg>* |clip &lt;on/off&gt;| = specify whether a symbol is clipped by the scrap border.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043930Z" creationid="Алексей" creationdate="20170924T043830Z">
+        <seg>* |clip &lt;on/off&gt;| = указывает, подрезать ли символ границей скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -685,6 +685,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164008Z" creationid="Алексей" creationdate="20170912T163954Z">
         <seg>* |date &lt;дата&gt;| = дата съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044017Z" creationid="Алексей" creationdate="20170924T044017Z">
+        <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4338,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131302Z" creationid="Алексей" creationdate="20170910T131302Z">
         <seg>Вы можете указать опцию |cs| в объектах |centreline|, |surface|, |import| и |layout| и ввести XY в выбранной системе координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot specify this option for the following symbols: station, station-name, label, remark, date, altitude, height, passage-height.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044005Z" creationid="Алексей" creationdate="20170924T043944Z">
+        <seg>Вы не можете указать этот параметр для следующих символов: station, station-name, label, remark, date, altitude, height, passage-height.</seg>
       </tuv>
     </tu>
     <tu>
