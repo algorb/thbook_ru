@@ -881,6 +881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |scrap &lt;reference&gt;| = if the point type is section, this is a reference to a cross-section scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051039Z" creationid="Алексей" creationdate="20170924T050819Z">
+        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это сечение, то эта сноска ссылается на поперечное сечение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170742Z" creationid="Алексей" creationdate="20170912T170635Z">
