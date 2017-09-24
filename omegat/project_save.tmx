@@ -2050,6 +2050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gradient lines length and orientation is an average of specified |l-size|s and |orientation|s in the nearest points.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070501Z" creationid="Алексей" creationdate="20170924T070501Z">
+        <seg>Длина и ориентация уклона определяется указанными |l-size| и |ориентация| в ближайших точках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hand-editing of such files is not easy---especially when you draw maps, you need to think in spatial (Cartesian coordinate) terms.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
@@ -2725,6 +2733,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144720Z" creationid="Алексей" creationdate="20170913T143732Z">
         <seg>Важно помнить, что вы на самом деле создаете текстовый файл, который должен соответствовать синтаксису, опи\-сан\-ному в главе {&lt;u1&gt; Формат данных}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's necessary to specify |l-size| in at least one point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070202Z" creationid="Алексей" creationdate="20170924T070202Z">
+        <seg>Необходимо указать |l-size| по меньшей мере для одной точки.</seg>
       </tuv>
     </tu>
     <tu>
