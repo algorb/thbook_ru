@@ -2052,8 +2052,8 @@
       <tuv lang="EN-US">
         <seg>Gradient lines length and orientation is an average of specified |l-size|s and |orientation|s in the nearest points.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070501Z" creationid="Алексей" creationdate="20170924T070501Z">
-        <seg>Длина и ориентация уклона определяется указанными |l-size| и |ориентация| в ближайших точках.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070835Z" creationid="Алексей" creationdate="20170924T070501Z">
+        <seg>Длина и ориентация уклона определяется указанными |l-size| и |orientation| (ориентация) в ближайших точках.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,6 +2312,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052649Z" creationid="Алексей" creationdate="20170920T052557Z">
         <seg>Если есть ход, который был исследован, но еще не снят, то предполагаемая исследуемая длина этого хода может быть учтена добавлением к станции флага |continuation|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no orientation specification, gradient marks are perpendicular to the slope line.], |floor-step|, |pit|, |ceiling-step|, |chimney|, |overhang|, |ceiling-meander|, |floor-meander|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T071206Z" creationid="Алексей" creationdate="20170924T070528Z">
+        <seg>Если ориентация отсутствует, то градиентные метки перпендикулярны линии наклона.], |floor-step| (уступ пола), |pit| (колодец), |ceiling-step| (уступ потолка), |chimney| (камин), |overhang| (нависание потолка), |ceiling-meander| (меандр, канал в потолке), |floor-meander| (меандр, канал в потолке);</seg>
       </tuv>
     </tu>
     <tu>
@@ -3463,8 +3471,8 @@
       <tuv lang="EN-US">
         <seg>The following types are supported:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023718Z" creationid="Алексей" creationdate="20170923T023718Z">
-        <seg>Поддерживаются следующие типы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070650Z" creationid="Алексей" creationdate="20170923T023718Z">
+        <seg>Под\-держиваются следующие типы:</seg>
       </tuv>
     </tu>
     <tu>
