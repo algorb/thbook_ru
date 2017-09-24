@@ -667,8 +667,8 @@
       <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.&lt;u7&gt;Example: if you specify |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044756Z" creationid="Алексей" creationdate="20170924T044440Z">
-        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|.&lt;u7&gt;Пример: если вы укажете |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045639Z" creationid="Алексей" creationdate="20170924T044440Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|.&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.] * |id &lt;идентификатор&gt;| = ID символа.</seg>
       </tuv>
     </tu>
     <tu>
