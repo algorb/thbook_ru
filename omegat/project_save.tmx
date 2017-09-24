@@ -3400,8 +3400,8 @@
       <tuv lang="EN-US">
         <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |station:fixed|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091817Z" creationid="Алексей" creationdate="20170923T091817Z">
-        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использованием `|:|' в качестве разделителя.&lt;u0&gt;Например, |station:fixed|.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T092234Z" creationid="Алексей" creationdate="20170923T091817Z">
+        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использова\-нием `|:|' в качестве разделителя&lt;u0&gt;Например, |station:fixed|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -4849,8 +4849,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; station:}&lt;u1&gt;if station subtype is not specified, Therion reads it from centreline, if it's specified there] |temporary| (default), |painted|, |natural|, |fixed|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091514Z" creationid="Алексей" creationdate="20170923T090148Z">
-        <seg>{&lt;u0&gt; station (станция)}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указан в нитке хода.]{&lt;u0&gt;:} |temporary| (default), |painted|, |natural|, |fixed|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T092349Z" creationid="Алексей" creationdate="20170923T090148Z">
+        <seg>{&lt;u0&gt; station (станция)}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указана в нитке хода.]{&lt;u0&gt;:} |temporary| (default), |painted|, |natural|, |fixed|;</seg>
       </tuv>
     </tu>
     <tu>
