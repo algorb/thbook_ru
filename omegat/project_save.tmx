@@ -2234,6 +2234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the altitude value is prefixed by ``|fix|'' (e.g. |-value [fix 1300]|), this value is used as an absolute altitude.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063556Z" creationid="Алексей" creationdate="20170924T063453Z">
+        <seg>Если значение altitude (высотная отметка) имеет префикс ``|fix|'' (например |-value [fix 1300]|), то это значение используется как абсолютная высота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the cave is larger than a few meters it's a good idea to split data in more files and separate centreline data from map data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175025Z" creationid="Алексей" creationdate="20170914T175025Z">
@@ -3678,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value can optionally be followed by length units.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063629Z" creationid="Алексей" creationdate="20170924T063629Z">
+        <seg>Значение может сопровождаться единицами измерения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The visual representation is added by &lt;u0&gt;&lt;u1&gt;in later phases of data processing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170529Z" creationid="Алексей" creationdate="20170909T154742Z">
@@ -5043,6 +5059,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063442Z" creationid="Алексей" creationdate="20170924T063346Z">
         <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой разницу высот по сравнению с ближайшей станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; dimensions:} |-value [&lt;above&gt; &lt;below&gt; [&lt;units&gt;]]| specifies passage dimensions a­bo­ve/below centerline plane used in 3D model.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063839Z" creationid="Алексей" creationdate="20170924T063656Z">
+        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-модели.</seg>
       </tuv>
     </tu>
     <tu>
