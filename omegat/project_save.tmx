@@ -1834,6 +1834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples: the lower side of a pitch, higher side of a chimney and interior of a passage are on the left side of pitch, chimney or wall symbols, respectively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T065152Z" creationid="Алексей" creationdate="20170924T065152Z">
+        <seg>Примеры: нижняя сторона уклона, верхняя сторона камина и внутренняя часть хода расположены на левой стороне шага, дымохода или символов стены соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053755Z" creationid="Алексей" creationdate="20170920T052831Z">
