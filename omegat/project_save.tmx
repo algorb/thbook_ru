@@ -667,8 +667,8 @@
       <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.&lt;u7&gt;Example: if you specify |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045639Z" creationid="Алексей" creationdate="20170924T044440Z">
-        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|.&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.] * |id &lt;идентификатор&gt;| = ID символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050018Z" creationid="Алексей" creationdate="20170924T044440Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.]. * |id &lt;идентификатор&gt;| = идентификатор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -699,8 +699,8 @@
       <tuv lang="EN-US">
         <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044238Z" creationid="Алексей" creationdate="20170924T044017Z">
-        <seg>* |dist &lt;дистанция&gt;| = применяется для дополнительных точек, указывает расстояние до ближайшей станции (или станции, указанной с помощью опции |-from|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045804Z" creationid="Алексей" creationdate="20170924T044017Z">
+        <seg>* |dist &lt;дистанция&gt;| = применяется для дополнительных точек, указывает рас\-стояние до ближайшей станции (или станции, указанной с помощью опции |-from|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -745,6 +745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |extend [prev[ious] &lt;station&gt;]| = if the point type is station and scrap projection is extended elevation, you can adjust the extension of the centreline using this option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050319Z" creationid="Алексей" creationdate="20170924T050305Z">
+        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки - это проецирование станции и лома, увеличенная высота, вы можете отрегулировать расширение осевой линии, используя эту опцию..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |flags &lt;shot flags&gt;| = set flags for following shots.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
@@ -755,8 +763,8 @@
       <tuv lang="EN-US">
         <seg>* |from &lt;station&gt;| = valid for extra points, specifies reference station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044402Z" creationid="Алексей" creationdate="20170924T044320Z">
-        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает опорную станцию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045844Z" creationid="Алексей" creationdate="20170924T044320Z">
+        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает опор\-ную станцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -805,6 +813,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
         <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (раз\-ре\-шено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |name &lt;reference&gt;| = if the point type is station, this option gives the reference to the real survey station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050253Z" creationid="Алексей" creationdate="20170924T050145Z">
+        <seg>* |name &lt;ссылка&gt;| = если тип точки -- это станция, то эта опция дает ссылку на реальную станцию съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,6 +4931,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145946Z" creationid="Алексей" creationdate="20170910T145936Z">
         <seg>{&lt;u0&gt; Синтаксис:} описание синтаксиса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Type-specific options:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050124Z" creationid="Алексей" creationdate="20170924T050115Z">
+        <seg>{&lt;u0&gt; Специальные параметры:}</seg>
       </tuv>
     </tu>
     <tu>
