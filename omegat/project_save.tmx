@@ -1762,6 +1762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each line symbol is oriented and its visualization may depend on its orientation (e.g. pitch edge ticks).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064445Z" creationid="Алексей" creationdate="20170924T064445Z">
+        <seg>Каждый символ линии ориентирован, и его визуализация может зависеть от его ориентации (например, pitch edge ticks)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of the following sections describes one Therion command using the following structure:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161239Z" creationid="Алексей" creationdate="20170910T145836Z">
@@ -2785,6 +2793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line is a command for drawing a line symbol on the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064405Z" creationid="Алексей" creationdate="20170924T064405Z">
+        <seg>Line -- это команда для рисования символа линии на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magnetic declination.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133150Z" creationid="Алексей" creationdate="20170910T133150Z">
@@ -3445,6 +3461,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The general rule is that the free space is on the left, rock on the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064557Z" creationid="Алексей" creationdate="20170924T064557Z">
+        <seg>Общее правило заключается в том, что свободное пространство находится слева, скала справа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The height and depth of the passage are computed from |passage-height| and |dimensions| point map symbols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011442Z" creationid="Алексей" creationdate="20170919T011355Z">
@@ -3519,8 +3543,8 @@
       <tuv lang="EN-US">
         <seg>The numeric value can be optionally followed by `|?|', if the value is presumed and units can be added (e.g. |-value [40?</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T062757Z" creationid="Алексей" creationdate="20170924T053341Z">
-        <seg>Числовое значение может сопровож\-даться необязательным символом `|?|', чтобы добавить единицы измерения (напри\-мер |-value [40?</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064012Z" creationid="Алексей" creationdate="20170924T053341Z">
+        <seg>Числовое значение может сопровождаться необязательным символом `|?|', чтобы доба\-вить единицы измерения (напри\-мер |-value [40?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,6 +4630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`line'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064333Z" creationid="Алексей" creationdate="20170924T064333Z">
+        <seg>`line'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`map'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172554Z" creationid="Алексей" creationdate="20170912T172554Z">
@@ -5057,16 +5089,16 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; altitude:} the value specified is the altitude difference from the nearest station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063442Z" creationid="Алексей" creationdate="20170924T063346Z">
-        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой разницу высот по сравнению с ближайшей станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064103Z" creationid="Алексей" creationdate="20170924T063346Z">
+        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой раз\-ницу высот по сравнению с ближайшей станции.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; dimensions:} |-value [&lt;above&gt; &lt;below&gt; [&lt;units&gt;]]| specifies passage dimensions a­bo­ve/below centerline plane used in 3D model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063839Z" creationid="Алексей" creationdate="20170924T063656Z">
-        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064146Z" creationid="Алексей" creationdate="20170924T063656Z">
+        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-мо\-дели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5081,8 +5113,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; height:} according to the sign of the value (positive, negative or unsigned), this type of symbol represents chimney height, pit depth or step height in general.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T062905Z" creationid="Алексей" creationdate="20170924T053140Z">
-        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глу\-бину колодца или высоту уступа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063949Z" creationid="Алексей" creationdate="20170924T053140Z">
+        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа предста\-вляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
       </tuv>
     </tu>
     <tu>
