@@ -2373,6 +2373,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignored if there is no |&lt;br&gt;| tag.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052235Z" creationid="Алексей" creationdate="20170924T052203Z">
+        <seg>Игнорируется, если нет тега |&lt;br&gt;|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Importing sketch does not create scrap data directly.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015749Z" creationid="Алексей" creationdate="20170914T015749Z">
@@ -4774,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{5.3} |&lt;rtl&gt;| and |&lt;/rtl&gt;| = marks beginning and end of a right-to-left written text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052508Z" creationid="Алексей" creationdate="20170924T052405Z">
+        <seg>{5.3} |&lt;rtl&gt;| и |&lt;/rtl&gt;| = отмечает начало и конец вывода текста справа налево;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; Help/Calibrate bitmap} produces OziExplorer-compatible MAP file based on georeferencig data included in a PDF map&lt;u2&gt;Calibration information for nine distinct points is present if centreline contains station(s) fixed using geodetic coordinate system(s)].</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020121Z" creationid="Алексей" creationdate="20170914T014854Z">
@@ -5305,8 +5321,8 @@
       <tuv lang="EN-US">
         <seg>|&lt;br&gt;| = line break</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052101Z" creationid="Алексей" creationdate="20170924T052053Z">
-        <seg>|&lt;br&gt;| = разрыв строки</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052142Z" creationid="Алексей" creationdate="20170924T052053Z">
+        <seg>|&lt;br&gt;| = разрыв строки;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,10 +5359,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|&lt;rm&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;ss&gt;|, |&lt;si&gt;| = font switches</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052354Z" creationid="Алексей" creationdate="20170924T052324Z">
+        <seg>|&lt;rm&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;ss&gt;|, |&lt;si&gt;| = переключают шрифты;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|&lt;spec&gt;| is one of the following</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065947Z" creationid="Алексей" creationdate="20170920T065916Z">
         <seg>|&lt;spec&gt;| принимает следующие значения:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;thsp&gt;| = thin space</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052320Z" creationid="Алексей" creationdate="20170924T052302Z">
+        <seg>|&lt;thsp&gt;| = тонкий пробел;</seg>
       </tuv>
     </tu>
     <tu>
