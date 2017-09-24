@@ -5161,8 +5161,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; border:} |visible| (default), |invisible|, |temporary|, |presumed|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113431Z" creationid="Алексей" creationdate="20170924T113257Z">
-        <seg>{&lt;u0&gt; граница:} |visible| (видимая) (по умолчанию), |invisible| (неотображаемая), |temporary| (временная), |presumed| (предполагаемая);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113619Z" creationid="Алексей" creationdate="20170924T113257Z">
+        <seg>{&lt;u0&gt; border (граница):} |visible| (видимая) (по умолчанию), |invisible| (неотображаемая), |temporary| (временная), |presumed| (предполагаемая);</seg>
       </tuv>
     </tu>
     <tu>
@@ -5279,10 +5279,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; survey:} |cave| (default), |surface| (default if centreline has surface flag).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113605Z" creationid="Алексей" creationdate="20170924T113554Z">
+        <seg>{&lt;u0&gt; survey (съемка):} |cave| (default), |surface| (default if centreline has surface flag).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; symbolic passage fills:}&lt;u2&gt;Unlike other point symbols, these are clipped by the scrap border.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031831Z" creationid="Алексей" creationdate="20170923T025624Z">
         <seg>{&lt;u0&gt; символы заполнения хода}&lt;u2&gt;В отличие от других точечных символов, они подрезаются границей скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; water-flow:} |permanent| (default), |conjectural|, |intermittent|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113712Z" creationid="Алексей" creationdate="20170924T113438Z">
+        <seg>{&lt;u0&gt; water-flow (водоток):} |permanent| (постоянный) (по умолчанию), |conjectural| (предполагаемый), |intermittent| (временный);</seg>
       </tuv>
     </tu>
     <tu>
