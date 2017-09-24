@@ -625,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |align| = alignment of the symbol or text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040424Z" creationid="Алексей" creationdate="20170924T040411Z">
+        <seg>* |align| = выравнивание символа или текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T182158Z" creationid="Алексей" creationdate="20170922T181434Z">
@@ -777,6 +785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |orientation/orient &lt;number&gt;| = defines the orientation of the symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040310Z" creationid="Алексей" creationdate="20170924T040242Z">
+        <seg>* |orientation/orient &lt;число&gt;| = определяет ориентацию символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |person-rename &lt;old name&gt; &lt;new name&gt;| = rename a person whose name has been changed</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161338Z" creationid="Алексей" creationdate="20170911T155903Z">
@@ -797,6 +813,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175042Z" creationid="Алексей" creationdate="20170922T173742Z">
         <seg>* |scale &lt;спецификация&gt;| = используется для предварительного масштабирования (преобразования координат пикселей в метры) данных скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |scale| = symbol scale, can be: tiny (xs), small (s), normal (m), large (l), huge (xl) or a numeric value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040533Z" creationid="Алексей" creationdate="20170924T040533Z">
+        <seg>* |scale| = symbol scale, can be: tiny (xs), small (s), normal (m), large (l), huge (xl) or a numeric value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,6 +961,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114059Z" creationid="Алексей" creationdate="20170910T065156Z">
         <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0 $&lt;u0&gt;$ |number| $&lt;$ 360.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040354Z" creationid="Алексей" creationdate="20170924T040349Z">
+        <seg>0 $&lt;u0&gt;$ |число| $&lt;$ 360.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2078,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160314Z" creationid="Алексей" creationdate="20170911T160314Z">
         <seg>Если это не указано, и в этом survey есть только одна станция отмеченная входом, он считается также входом в пещеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not specified, it's oriented to north.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040345Z" creationid="Алексей" creationdate="20170924T040345Z">
+        <seg>Если не указано, то ориентировано на север.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3281,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023718Z" creationid="Алексей" creationdate="20170923T023718Z">
         <seg>Поддерживаются следующие типы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following values are accepted: center, c, top, t, bottom, b, left, l, right, r, top-left, tl, top-right, tr, bottom-left, bl, bottom-right, br.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040455Z" creationid="Алексей" creationdate="20170924T040441Z">
+        <seg>Принимает следующие значения: center, c, top, t, bottom, b, left, l, right, r, top-left, tl, top-right, tr, bottom-left, bl, bottom-right, br.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4859,6 +4907,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031831Z" creationid="Алексей" creationdate="20170923T025624Z">
         <seg>{&lt;u0&gt; символы заполнения хода}&lt;u2&gt;В отличие от других точечных символов, они подрезаются границей скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; water-flow:} |permanent| (default), |intermittent|, |paleo|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040204Z" creationid="Алексей" creationdate="20170924T040143Z">
+        <seg>{&lt;u0&gt; water-flow (водоток):} |permanent| (по умолчанию), |intermittent|, |paleo|.</seg>
       </tuv>
     </tu>
     <tu>
