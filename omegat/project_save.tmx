@@ -691,8 +691,8 @@
       <tuv lang="EN-US">
         <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044017Z" creationid="Алексей" creationdate="20170924T044017Z">
-        <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044238Z" creationid="Алексей" creationdate="20170924T044017Z">
+        <seg>* |dist &lt;дистанция&gt;| = применяется для дополнительных точек, указывает расстояние до ближайшей станции (или станции, указанной с помощью опции |-from|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -741,6 +741,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
         <seg>* |flags &lt;флаги замеров&gt;| = установить флаги для следующих замеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |from &lt;station&gt;| = valid for extra points, specifies reference station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044402Z" creationid="Алексей" creationdate="20170924T044320Z">
+        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает опорную станцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2110,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160314Z" creationid="Алексей" creationdate="20170911T160314Z">
         <seg>Если это не указано, и в этом survey есть только одна станция отмеченная входом, он считается также входом в пещеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not specified, appropriate value from LRUD data is used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044305Z" creationid="Алексей" creationdate="20170924T044305Z">
+        <seg>Если не указано, используется соответствующее значение из данных LRUD.</seg>
       </tuv>
     </tu>
     <tu>
