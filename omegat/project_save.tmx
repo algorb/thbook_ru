@@ -3485,6 +3485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following subtypes are supported for given types:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T112132Z" creationid="Алексей" creationdate="20170924T112132Z">
+        <seg>Для данных типов поддерживаются следующие подтипы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following subtypes for given types are supported:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090135Z" creationid="Алексей" creationdate="20170923T090135Z">
@@ -5935,5 +5943,16 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">thbook/ch02.tex</prop>
+      <prop type="prev">The following subtypes are supported for given types:</prop>
+      <prop type="next">{&lt;u0&gt; border:} |visible| (default), |invisible|, |temporary|, |presumed|;</prop>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; wall:} |invisible|, |bedrock| (default), |sand|, |clay|, |pebbles|, |debris|, |blocks|, |ice|, |underlying|, &lt;u1&gt;{5.4}|overlying|, |unsurveyed|, |presumed|, |pit|&lt;u2&gt;Usually open to surface.], |flowstone|, |moonmilk|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113244Z" creationid="Алексей" creationdate="20170924T112142Z">
+        <seg>{&lt;u0&gt; wall (стена):} |invisible| (неотображаемая), |bedrock| (коренная порода) (по умолчанию), |sand| (песчаная), |clay| (глинистая), |pebbles| (из крупной гальки), |debris| (из щебня), |blocks| (из блоков), |ice| (ледяная), |underlying| (???), &lt;u1&gt;{5.4}|overlying| (???), |unsurveyed| (???), |presumed| (предполагаемая), |pit| (стены колодца)&lt;u2&gt;Обычно открытые с поверхности.], |flowstone| (глыбовые), |moonmilk| (покрытые мондмильхом);</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
