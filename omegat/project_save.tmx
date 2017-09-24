@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |explored &lt;length&gt;| = if the point type is continuation, you can specify length of passages explored but not surveyed yet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051235Z" creationid="Алексей" creationdate="20170924T051235Z">
+        <seg>* |explored &lt;length&gt;| = if the point type is continuation, you can specify length of passages explored but not surveyed yet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]]| = control how the centerline is extended.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064652Z" creationid="Алексей" creationdate="20170920T064652Z">
