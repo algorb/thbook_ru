@@ -560,6 +560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;type&gt;| is a keyword that determines the type of line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T065732Z" creationid="Алексей" creationdate="20170924T065702Z">
+        <seg>* |&lt;type&gt;| это зарезервированное слово, которое определяет тип линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;x&gt;| and |&lt;y&gt;| are the drawing coordinates of an object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023651Z" creationid="Алексей" creationdate="20170923T023629Z">
@@ -5151,6 +5159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; passages:} |wall|, |contour|, |slope|&lt;u1&gt;Slope line marks upper border of the sloping area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070056Z" creationid="Алексей" creationdate="20170924T065756Z">
+        <seg>{&lt;u0&gt; символы ходов:} |wall| (стена), |contour| (контур), |slope| (склон)&lt;u1&gt;Линия склона обозначает верхнюю границу области склона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; special objects:} |station|&lt;u1&gt;Survey station.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023827Z" creationid="Алексей" creationdate="20170923T023750Z">
@@ -5696,6 +5712,23 @@ endsurvey|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071427Z" creationid="Алексей" creationdate="20170920T070334Z">
         <seg>|left/right| =как указано выше, но направление указано явно;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|line &lt;type&gt; [OPTIONS] [OPTIONS] ... [LINE DATA] ... [OPTIONS] ... [LINE DATA] ... endline|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T065559Z" creationid="Алексей" creationdate="20170924T065440Z">
+        <seg>|line &lt;type&gt; [OPTIONS]
+	[OPTIONS]
+	...
+	[LINE DATA]
+	...
+	[OPTIONS]
+	...
+	[LINE DATA]
+	...
+endline|</seg>
       </tuv>
     </tu>
     <tu>
