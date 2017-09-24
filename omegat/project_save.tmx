@@ -5167,6 +5167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; labels:} |label|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110434Z" creationid="Алексей" creationdate="20170924T110407Z">
+        <seg>{&lt;u0&gt; текстовые метки:} |label| (текстовая метка);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; others:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Always use |spring| and |sink| symbols with a |water-flow| arrow.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option], |map-connection|&lt;u3&gt;Virtual point, used to indicate connection between shifted maps (extended elevation, map offset).], |extra|&lt;u4&gt;Additional morphing point.], |u|&lt;u5&gt;For user defined point symbols.].</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T032207Z" creationid="Алексей" creationdate="20170923T030441Z">
@@ -5211,6 +5219,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023827Z" creationid="Алексей" creationdate="20170923T023750Z">
         <seg>{&lt;u0&gt; специальные объекты:} |station|&lt;u1&gt;Станция съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; special:} |border|, |arrow|, |section|&lt;u1&gt;Line showing cross-section position.&lt;u5&gt;{5.3}&lt;u6&gt; If both control points (red dots) of a B&lt;u7&gt;ezier curve (grey line) are given then the section line (blue) is drawn up to the perpendicular projection (dotted) of the first control point and from the projection (dotted) of the section control point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110931Z" creationid="Алексей" creationdate="20170924T110931Z">
+        <seg>{&lt;u0&gt; special:} |border|, |arrow|, |section|&lt;u1&gt;Line showing cross-section position.&lt;u5&gt;{5.3}&lt;u6&gt; If both control points (red dots) of a B&lt;u7&gt;ezier curve (grey line) are given then the section line (blue) is drawn up to the perpendicular projection (dotted) of the first control point and from the projection (dotted) of the section control point.</seg>
       </tuv>
     </tu>
     <tu>
