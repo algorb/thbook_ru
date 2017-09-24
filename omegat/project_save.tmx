@@ -657,6 +657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |clip &lt;on/off&gt;| = specify whether a symbol is clipped by the scrap border.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043830Z" creationid="Алексей" creationdate="20170924T043830Z">
+        <seg>* |clip &lt;on/off&gt;| = specify whether a symbol is clipped by the scrap border.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = assumes that (calibrated) local scrap coordinates are given in specified coordinate system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180232Z" creationid="Алексей" creationdate="20170922T180136Z">
@@ -803,8 +811,8 @@
       <tuv lang="EN-US">
         <seg>* |place &lt;bottom/default/top&gt;| = changes displaying order in the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043243Z" creationid="Алексей" creationdate="20170924T043243Z">
-        <seg>* |place &lt;bottom/default/top&gt;| = changes displaying order in the map.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043413Z" creationid="Алексей" creationdate="20170924T043243Z">
+        <seg>* |place &lt;bottom/default/top&gt;| = порядок отображения изменений на карте.</seg>
       </tuv>
     </tu>
     <tu>
