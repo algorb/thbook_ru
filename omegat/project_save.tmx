@@ -969,6 +969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |value| = value of height, passage-height or altitude label or point dimensions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053130Z" creationid="Алексей" creationdate="20170924T052628Z">
+        <seg>* |value| = значение точек height (высота уступа/камина/колодца), passage-height (высота хода), altitude (высотная отметка) или dimensions (размеры хода).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |visibility &lt;on/off&gt;| = displays/hides the symbol.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044432Z" creationid="Алексей" creationdate="20170924T044411Z">
@@ -4803,6 +4811,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020741Z" creationid="Алексей" creationdate="20170914T015621Z">
         <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редак\-торе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изоб\-ра\-же\-ния $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.3}|&lt;lang:XX&gt;| = creates multilingual label (see |string| type for detailed description)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052618Z" creationid="Алексей" creationdate="20170924T052515Z">
+        <seg>{5.3}|&lt;lang:XX&gt;| = создает многоязычную текстовую метку (подробнее смотрите описание типа |string|).</seg>
       </tuv>
     </tu>
     <tu>
