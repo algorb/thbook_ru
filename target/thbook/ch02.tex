@@ -433,7 +433,7 @@ Line -- это команда для рисования символа линии на карте. Каждый символ линии ор
 
 \syntax
 
-|line <type> [OPTIONS]
+|line <тип> [OPTIONS]
 	[OPTIONS]
 	...
 	[LINE DATA]
@@ -450,29 +450,29 @@ scrap \endcontext
 
 \arguments
 
-* |<type>| это зарезервированное слово, которое определяет тип линии. Под\-держиваются следующие типы: 
+* |<тип>| это зарезервированное слово, которое определяет тип линии. Под\-держиваются следующие типы: 
 
 {\it символы ходов:} |wall| (стена), |contour| (контур), |slope| (склон)\[Линия склона обозначает верхнюю границу области склона. Необходимо указать |l-size| по меньшей мере для одной точки. Длина и ориентация уклона определяется указанными |l-size| и |orientation| (ориентация) в ближайших точках. Если ориентация отсутствует, то градиентные метки перпендикулярны линии наклона.], |floor-step| (уступ пола), |pit| (колодец), |ceiling-step| (уступ потолка), |chimney| (камин), |overhang| (нависание потолка), |ceiling-meander| (меандр, канал в потолке), |floor-meander| (меандр, канал в потолке); 
 
-{\it passage fills:} |flowstone|, |moonmilk|, |rock-border|\[Outer outline of large boulders. If the line is closed, it is filled with the background colour.], |rock-edge|\[Inner edges of large boulders.], |water-flow|; 
+{\it заливка ходов:} |flowstone| (натечный каскад), |moonmilk| (мондмильх), |rock-border| (внешняя кромка глыбы)\[Внешние границы крупных валунов. Если линия замкнута, она заполняется цветом фона.], |rock-edge| (внутренняя кромка глыбы)\[Внутренние края больших валунов.], |water-flow| (водоток); 
 
-{\it labels:} |label|; 
+{\it текстовые метки:} |label| (текстовая метка); 
 
-{\it special:} |border|, |arrow|, |section|\[Line showing cross-section position.\NEW{5.3}\  If both control points (red dots) of a B\'ezier curve (grey line) are given then the section line (blue) is drawn up to the perpendicular projection (dotted) of the first control point and from the projection (dotted) of the section control point. No section curve is displayed.\hfil\break\MPpic{xsect.1}], |survey|\[Survey line is automatically drawn by Therion.], |map-connection|\[Used to indicate connection between maps (in offset, or the same points in extended elevation).], |u|\[For user defined line symbols.]. \endarguments
+{\it специальные:} |border| (граница), |arrow| (стрелка), |section| (выносная линия сечения)\[Линия показывает положение поперечного сечения.\NEW{5.3}\  If both control points (red dots) of a B\'ezier curve (grey line) are given then the section line (blue) is drawn up to the perpendicular projection (dotted) of the first control point and from the projection (dotted) of the section control point. Кривая сечения не отображается.\hfil\break\MPpic{xsect.1}], |survey| (нитка хода)\[Нитка хода автоматически рисуется Therion'ом.], |map-connection| (линия выноса)\[Используется для указания соединения между картами (при смещении или же точками в разрез-развертке).], |u|\[Для определенных пользователем линейных символов.]. \endarguments
 
 \comopt
 
-* |subtype <keyword>| = determines line subtype. The following subtypes are supported for given types: 
+* |subtype <подтип>| = определяет подтип линии. Для данных типов поддерживаются следующие подтипы: 
 
-{\it wall:} |invisible|, |bedrock| (default), |sand|, |clay|, |pebbles|, |debris|, |blocks|, |ice|, |underlying|, \NEW{5.4}|overlying|, |unsurveyed|, |presumed|, |pit|\[Usually open to surface.], |flowstone|, |moonmilk|; 
+{\it wall (стена):} |invisible| (неотображаемая), |bedrock| (коренная порода) (по умолчанию), |sand| (песчаная), |clay| (глинистая), |pebbles| (из крупной гальки), |debris| (из щебня), |blocks| (из блоков), |ice| (ледяная), |underlying| (???), \NEW{5.4}|overlying| (???), |unsurveyed| (???), |presumed| (предполагаемая), |pit| (стены колодца)\[Обычно открытые с поверхности.], |flowstone| (глыбовые), |moonmilk| (покрытые мондмильхом); 
 
-{\it border:} |visible| (default), |invisible|, |temporary|, |presumed|; 
+{\it border (граница):} |visible| (видимая) (по умолчанию), |invisible| (неотображаемая), |temporary| (временная), |presumed| (предполагаемая); 
 
-{\it water-flow:} |permanent| (default), |conjectural|, |intermittent|; 
+{\it water-flow (водоток):} |permanent| (постоянный) (по умолчанию), |conjectural| (предполагаемый), |intermittent| (временный); 
 
-{\it survey:} |cave| (default), |surface| (default if centreline has surface flag). 
+{\it survey (нитка хода):} |cave| (пещерная) (по умолчанию), |surface| (поверхностная) (по умолчанию, если у нитка хода имеет флаг surface). 
 
-The subtype may be specified also directly in |<type>| specification using `|:|' as a separator.\[E.g.~|border:invisible|] 
+Подтип может быть указан также непосредственно в |<типе>| с использованием `|:|' в качестве разделителя.\[Например, |border:invisible|.] 
 
 Любой подтип может использоваться с пользовательским типом (|u|). В этом случае вам также необходимо определить соответствующий метапост символ (смотрите главу {\it Новые символы карты}). 
 
