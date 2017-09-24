@@ -937,6 +937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |subtype &lt;keyword&gt;| = determines line subtype.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T112115Z" creationid="Алексей" creationdate="20170924T112054Z">
+        <seg>* |subtype &lt;подтип&gt;| = определяет подтип линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |subtype &lt;keyword&gt;| = determines the object's subtype.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090125Z" creationid="Алексей" creationdate="20170923T090049Z">
