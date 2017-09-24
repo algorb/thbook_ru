@@ -3511,8 +3511,8 @@
       <tuv lang="EN-US">
         <seg>The numeric value can be optionally followed by `|?|', if the value is presumed and units can be added (e.g. |-value [40?</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T054429Z" creationid="Алексей" creationdate="20170924T053341Z">
-        <seg>Числовое значение может сопровождаться необязательным символом `|?|', чтобы добавить единицы измерения (напри\-мер |-value [40?</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T062757Z" creationid="Алексей" creationdate="20170924T053341Z">
+        <seg>Числовое значение может сопровож\-даться необязательным символом `|?|', чтобы добавить единицы измерения (напри\-мер |-value [40?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,8 +5049,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; height:} according to the sign of the value (positive, negative or unsigned), this type of symbol represents chimney height, pit depth or step height in general.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T054120Z" creationid="Алексей" creationdate="20170924T053140Z">
-        <seg>{&lt;u0&gt; height:} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глу\-бину колодца или высоту уступа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T062905Z" creationid="Алексей" creationdate="20170924T053140Z">
+        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глу\-бину колодца или высоту уступа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5075,6 +5075,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030436Z" creationid="Алексей" creationdate="20170923T030418Z">
         <seg>{&lt;u0&gt; окончание ходов:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; passage-height:} the following four forms of value are supported: |+&lt;number&gt;| (the height of the ceiling), |-&lt;number&gt;| (the depth of the floor or water depth), |&lt;number&gt;| (the distance between floor and ceiling) and |[+&lt;number&gt; -&lt;number&gt;]| (the distance to ceiling and distance to floor).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063331Z" creationid="Алексей" creationdate="20170924T062915Z">
+        <seg>{&lt;u0&gt; passage-height (высота хода):} поддерживаются следующие четыре формы значения: |+&lt;число&gt;| (высота потолка), |-&lt;число&gt;| (глубина этажа или глубина воды), |&lt;число&gt;| (расстояние между потолком и полом) и |[+&lt;число&gt; -&lt;число&gt;]| (расстояние до потолка и расстояние до пола).</seg>
       </tuv>
     </tu>
     <tu>
