@@ -739,8 +739,8 @@
       <tuv lang="EN-US">
         <seg>* |explored &lt;length&gt;| = if the point type is continuation, you can specify length of passages explored but not surveyed yet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051235Z" creationid="Алексей" creationdate="20170924T051235Z">
-        <seg>* |explored &lt;length&gt;| = if the point type is continuation, you can specify length of passages explored but not surveyed yet.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051715Z" creationid="Алексей" creationdate="20170924T051235Z">
+        <seg>* |explored &lt;длина&gt;| = если тип точки -- это continuation (продолжение), то вы можете указать длину ходов, исследованных, но пока не снятых.</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,8 +755,8 @@
       <tuv lang="EN-US">
         <seg>* |extend [prev[ious] &lt;station&gt;]| = if the point type is station and scrap projection is extended elevation, you can adjust the extension of the centreline using this option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050806Z" creationid="Алексей" creationdate="20170924T050305Z">
-        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это станция, а скрап является разрез-разверткой, то вы можете регулировать развертку нитки хода, используя эту опцию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051406Z" creationid="Алексей" creationdate="20170924T050305Z">
+        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это (station) станция, а скрап является extended elevation (разрез-разверткой), то вы можете регулировать развертку нитки хода, используя эту опцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -827,8 +827,8 @@
       <tuv lang="EN-US">
         <seg>* |name &lt;reference&gt;| = if the point type is station, this option gives the reference to the real survey station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050253Z" creationid="Алексей" creationdate="20170924T050145Z">
-        <seg>* |name &lt;ссылка&gt;| = если тип точки -- это станция, то эта опция дает ссылку на реальную станцию съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051333Z" creationid="Алексей" creationdate="20170924T050145Z">
+        <seg>* |name &lt;ссылка&gt;| = если тип точки -- это station (станция), то эта опция дает ссылку на реальную станцию съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -891,8 +891,8 @@
       <tuv lang="EN-US">
         <seg>* |scrap &lt;reference&gt;| = if the point type is section, this is a reference to a cross-section scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051039Z" creationid="Алексей" creationdate="20170924T050819Z">
-        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это сечение, то эта сноска ссылается на поперечное сечение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051449Z" creationid="Алексей" creationdate="20170924T050819Z">
+        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это section (сечение), то эта сноска ссылается на скрап поперечного сечения.</seg>
       </tuv>
     </tu>
     <tu>
