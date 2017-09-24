@@ -755,8 +755,8 @@
       <tuv lang="EN-US">
         <seg>* |extend [prev[ious] &lt;station&gt;]| = if the point type is station and scrap projection is extended elevation, you can adjust the extension of the centreline using this option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051406Z" creationid="Алексей" creationdate="20170924T050305Z">
-        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это (station) станция, а скрап является extended elevation (разрез-разверткой), то вы можете регулировать развертку нитки хода, используя эту опцию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053554Z" creationid="Алексей" creationdate="20170924T050305Z">
+        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это station (станция), а скрап является extended elevation (разрез-разверткой), то вы можете регулиро\-вать развертку нитки хода, используя эту опцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -891,8 +891,8 @@
       <tuv lang="EN-US">
         <seg>* |scrap &lt;reference&gt;| = if the point type is section, this is a reference to a cross-section scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051449Z" creationid="Алексей" creationdate="20170924T050819Z">
-        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это section (сечение), то эта сноска ссылается на скрап поперечного сечения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053631Z" creationid="Алексей" creationdate="20170924T050819Z">
+        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это section (сечение), то эта сноска ссыла\-ется на скрап поперечного сечения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -947,8 +947,8 @@
       <tuv lang="EN-US">
         <seg>* |text| = text of the label, remark or continuation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051843Z" creationid="Алексей" creationdate="20170924T051753Z">
-        <seg>* |text| = текст label (метки), remark (примечания) или continuation (продолжения).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053723Z" creationid="Алексей" creationdate="20170924T051753Z">
+        <seg>* |text| = текст label (метки), remark (примечания) или continuation (продолже\-ния).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,8 +2610,8 @@
       <tuv lang="EN-US">
         <seg>It may contain following formatting keywords:&lt;u0&gt;For SVG output, only |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| and |&lt;lang:XX&gt;| keywords are taken into account; all others are silently ignored.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052046Z" creationid="Алексей" creationdate="20170924T051852Z">
-        <seg>Он может содержать следующие зарезервированные слова для форматирования:&lt;u0&gt;Для вывода SVG только |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| и |&lt;lang:XX&gt;| учитываются зарезервированные слова; все остальные игнорируются.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053923Z" creationid="Алексей" creationdate="20170924T051852Z">
+        <seg>Он может содержать следующие зарезервированные слова для фор\-матирования&lt;u0&gt;Для вывода SVG учитываются только зарезервированные слова |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| и |&lt;lang:XX&gt;|; все остальные игнорируются.]:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,8 +3511,8 @@
       <tuv lang="EN-US">
         <seg>The numeric value can be optionally followed by `|?|', if the value is presumed and units can be added (e.g. |-value [40?</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053437Z" creationid="Алексей" creationdate="20170924T053341Z">
-        <seg>Числовое значение может быть необязательно сопровождаться `|?|', Если значение предполагается и единицы могут быть добавлены  (например |-value [40?</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T054429Z" creationid="Алексей" creationdate="20170924T053341Z">
+        <seg>Числовое значение может сопровождаться необязательным символом `|?|', чтобы добавить единицы измерения (напри\-мер |-value [40?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4677,6 +4677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ft]|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053442Z" creationid="Алексей" creationdate="20170924T053442Z">
+        <seg>ft]|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in the preview window above the {&lt;u0&gt; Insert scrap} button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145518Z" creationid="Алексей" creationdate="20170913T145518Z">
@@ -5041,8 +5049,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; height:} according to the sign of the value (positive, negative or unsigned), this type of symbol represents chimney height, pit depth or step height in general.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053330Z" creationid="Алексей" creationdate="20170924T053140Z">
-        <seg>{&lt;u0&gt; height:} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T054120Z" creationid="Алексей" creationdate="20170924T053140Z">
+        <seg>{&lt;u0&gt; height:} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глу\-бину колодца или высоту уступа.</seg>
       </tuv>
     </tu>
     <tu>
