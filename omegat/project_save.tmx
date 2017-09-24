@@ -2285,8 +2285,8 @@
       <tuv lang="EN-US">
         <seg>If the line is closed, it is filled with the background colour.], |rock-edge|&lt;u2&gt;Inner edges of large boulders.], |water-flow|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110057Z" creationid="Алексей" creationdate="20170924T110057Z">
-        <seg>If the line is closed, it is filled with the background colour.], |rock-edge|&lt;u2&gt;Inner edges of large boulders.], |water-flow|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110252Z" creationid="Алексей" creationdate="20170924T110057Z">
+        <seg>Если линия замкнута, она заполняется цветом фона.], |rock-edge| (внутренняя кромка глыбы)&lt;u2&gt;Внутренние края больших валунов.], |water-flow| (водоток);</seg>
       </tuv>
     </tu>
     <tu>
