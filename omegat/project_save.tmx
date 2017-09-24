@@ -2283,6 +2283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the line is closed, it is filled with the background colour.], |rock-edge|&lt;u2&gt;Inner edges of large boulders.], |water-flow|;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110057Z" creationid="Алексей" creationdate="20170924T110057Z">
+        <seg>If the line is closed, it is filled with the background colour.], |rock-edge|&lt;u2&gt;Inner edges of large boulders.], |water-flow|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the map in PDF format has been converted to raster using external program, convertor uses raster image {&lt;u0&gt; and} pdf map with the same base name located in the same directory to calculate the calibration data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020328Z" creationid="Алексей" creationdate="20170914T014943Z">
@@ -5171,6 +5179,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030436Z" creationid="Алексей" creationdate="20170923T030418Z">
         <seg>{&lt;u0&gt; окончание ходов:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; passage fills:} |flowstone|, |moonmilk|, |rock-border|&lt;u1&gt;Outer outline of large boulders.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110037Z" creationid="Алексей" creationdate="20170924T105812Z">
+        <seg>{&lt;u0&gt; заливка ходов:} |flowstone| (натечный каскад), |moonmilk| (мондмильх), |rock-border| (внешняя кромка глыбы)&lt;u1&gt;Внешние границы крупных валунов.</seg>
       </tuv>
     </tu>
     <tu>
