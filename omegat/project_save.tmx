@@ -747,8 +747,8 @@
       <tuv lang="EN-US">
         <seg>* |extend [prev[ious] &lt;station&gt;]| = if the point type is station and scrap projection is extended elevation, you can adjust the extension of the centreline using this option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050319Z" creationid="Алексей" creationdate="20170924T050305Z">
-        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки - это проецирование станции и лома, увеличенная высота, вы можете отрегулировать расширение осевой линии, используя эту опцию..</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050806Z" creationid="Алексей" creationdate="20170924T050305Z">
+        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это станция, а скрап является разрез-разверткой, то вы можете регулировать развертку нитки хода, используя эту опцию.</seg>
       </tuv>
     </tu>
     <tu>
