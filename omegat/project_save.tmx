@@ -819,8 +819,8 @@
       <tuv lang="EN-US">
         <seg>* |scale| = symbol scale, can be: tiny (xs), small (s), normal (m), large (l), huge (xl) or a numeric value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040533Z" creationid="Алексей" creationdate="20170924T040533Z">
-        <seg>* |scale| = symbol scale, can be: tiny (xs), small (s), normal (m), large (l), huge (xl) or a numeric value.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040636Z" creationid="Алексей" creationdate="20170924T040533Z">
+        <seg>* |scale| = масштаб символа, может принимать значения: tiny (xs), small (s), normal (m), large (l), huge (xl) или числовое значение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,6 +2697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Named sizes scale by $&lt;u1&gt; 2$, so that $xs &lt;u2&gt; 0.5$, $s &lt;u3&gt; 0.707$, $m &lt;u4&gt; 1.0$, $l &lt;u5&gt; 1.414$ and $xl &lt;u6&gt; 2.0$.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T041249Z" creationid="Алексей" creationdate="20170924T040658Z">
+        <seg>Именованные масштабы кратны $&lt;u1&gt; 2$, и имеют следующие значения -- $xs &lt;u2&gt; 0.5$, $s &lt;u3&gt; 0.707$, $m &lt;u4&gt; 1.0$, $l &lt;u5&gt; 1.414$ and $xl &lt;u6&gt; 2.0$.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Necessary only if you want to create 2D maps in PDF or SVG format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170119Z" creationid="Алексей" creationdate="20170909T161323Z">
@@ -2725,6 +2733,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173211Z" creationid="Алексей" creationdate="20170922T173211Z">
         <seg>Для этой проекции не указывается индекс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal is default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040654Z" creationid="Алексей" creationdate="20170924T040654Z">
+        <seg>По умолчанию normal.</seg>
       </tuv>
     </tu>
     <tu>
