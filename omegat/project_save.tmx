@@ -3509,6 +3509,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The numeric value can be optionally followed by `|?|', if the value is presumed and units can be added (e.g. |-value [40?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053437Z" creationid="Алексей" creationdate="20170924T053341Z">
+        <seg>Числовое значение может быть необязательно сопровождаться `|?|', Если значение предполагается и единицы могут быть добавлены  (например |-value [40?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The order of submenus on the side may be customized by the user.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
@@ -5027,6 +5035,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030252Z" creationid="Алексей" creationdate="20170923T030246Z">
         <seg>{&lt;u0&gt; оборудование:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; height:} according to the sign of the value (positive, negative or unsigned), this type of symbol represents chimney height, pit depth or step height in general.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053330Z" creationid="Алексей" creationdate="20170924T053140Z">
+        <seg>{&lt;u0&gt; height:} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
       </tuv>
     </tu>
     <tu>
