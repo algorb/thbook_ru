@@ -1764,8 +1764,8 @@
       <tuv lang="EN-US">
         <seg>Each line symbol is oriented and its visualization may depend on its orientation (e.g. pitch edge ticks).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064445Z" creationid="Алексей" creationdate="20170924T064445Z">
-        <seg>Каждый символ линии ориентирован, и его визуализация может зависеть от его ориентации (например, pitch edge ticks)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064613Z" creationid="Алексей" creationdate="20170924T064445Z">
+        <seg>Каждый символ линии ориентирован, и его визуализация может зависеть от его ориентации (например, галочка на границе линии).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3463,8 +3463,8 @@
       <tuv lang="EN-US">
         <seg>The general rule is that the free space is on the left, rock on the right.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064557Z" creationid="Алексей" creationdate="20170924T064557Z">
-        <seg>Общее правило заключается в том, что свободное пространство находится слева, скала справа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064756Z" creationid="Алексей" creationdate="20170924T064557Z">
+        <seg>Главное правило заключается в том, что свободное пространство хода находится слева, а порода справа.</seg>
       </tuv>
     </tu>
     <tu>
