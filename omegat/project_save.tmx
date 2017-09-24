@@ -945,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |text| = text of the label, remark or continuation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051843Z" creationid="Алексей" creationdate="20170924T051753Z">
+        <seg>* |text| = текст label (метки), remark (примечания) или continuation (продолжения).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161345Z" creationid="Алексей" creationdate="20170911T155932Z">
@@ -4054,6 +4062,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T024833Z" creationid="Алексей" creationdate="20170923T024833Z">
         <seg>Этот символ не имеет визуального представления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This value is afterwards displayed in survey/cave statistics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051740Z" creationid="Алексей" creationdate="20170924T051740Z">
+        <seg>Это значение впоследствии отображается в статистике съемки/пещеры.</seg>
       </tuv>
     </tu>
     <tu>
