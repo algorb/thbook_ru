@@ -5039,6 +5039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; altitude:} the value specified is the altitude difference from the nearest station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063442Z" creationid="Алексей" creationdate="20170924T063346Z">
+        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой разницу высот по сравнению с ближайшей станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; equipment:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030252Z" creationid="Алексей" creationdate="20170923T030246Z">
