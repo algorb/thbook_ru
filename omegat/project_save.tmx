@@ -3902,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The same as the |select| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111116Z" creationid="Алексей" creationdate="20171021T111116Z">
+        <seg>Так же, как и в команде |select|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The same file is used for both imports.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015636Z" creationid="Алексей" creationdate="20170914T015636Z">
@@ -4560,6 +4568,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142559Z" creationid="Алексей" creationdate="20170913T140239Z">
         <seg>К сожалению, из-за ограничений языка Tcl/Tk, под\-дер\-жи\-ва\-ются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselects objects from export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111013Z" creationid="Алексей" creationdate="20171021T111013Z">
+        <seg>Отменяет выбор объектов для экспорта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6349,6 +6365,14 @@ end of file|</seg>
         <seg>|survey &lt;id&gt; [OPTIONS]
 	... другие объекты ...
 endsurvey [&lt;id&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|unselect &lt;object&gt; [OPTIONS]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111031Z" creationid="Алексей" creationdate="20171021T111018Z">
+        <seg>|unselect &lt;объект&gt; [ОПЦИИ]|</seg>
       </tuv>
     </tu>
     <tu>
