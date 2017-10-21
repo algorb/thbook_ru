@@ -2,13 +2,14 @@
 
 \vbox{\hsize=93.2mm\baselineskip=12pt \rightline{\eightit Невозможно дважды войти в одну реку.} \pic{herakl.pdf} \vskip1pt \eightrm \rightline{---Heraclitus of Ephesus, {\eightmit 6}th/{\eightmit 5}th century BC} } 
 
-\chapter Processing data. 
+\chapter Обработка данных. 
 
-Besides data files, which contain survey data, Therion uses a configuration file, which contains instructions on how the data should be presented. 
+Помимо файлов данных, содержащих данные съемки, Therion использует файл конфигурации, содержащий инструкции о том, как данные должны обрабатываться. 
 
-\subchapter Configuration file. 
+\subchapter Конфигурационный файл. 
 
-The configuration filename can be given as an argument to therion. By default Therion searches for file named |thconfig| in the current working directory. It is read like any other therion file (i.e.~one command per line; empty lines or lines starting with `|#|' are ignored; lines ended with a backslash continue on the next line.) A list of currently supported commands follow. 
+Имя конфигурационного файла можно указать в качестве аргумента для Therion'а. По умолчанию Therion ищет файл с именем |thconfig| в текущем рабочем каталоге. Он обрабатывается как любой другой файл (т.е. одна команда на строку, пустые строки или строки, начинающиеся с `|#|', игнорируются; строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке.) Ниже список поддерживаемых в данный момент команд.
+ 
 
 \subsubchapter `system'. Allows to execute system commands during therion compilation.\[E.g. to open or refresh external PDF viewer.] Normally Therion waits until the subprocess is finished. If you want to continue compilation without break, use |<command> &| syntax on Linux and |start <command>| syntax on Windows. 
 

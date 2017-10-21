@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 12:17
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,38 +89,7 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
-(ch03.tex [49]
-Missing character: There is no Í in font cmti8!
-Missing character: There is no å in font cmti8!
-Missing character: There is no â in font cmti8!
-Missing character: There is no î in font cmti8!
-Missing character: There is no ç in font cmti8!
-Missing character: There is no ì in font cmti8!
-Missing character: There is no î in font cmti8!
-Missing character: There is no æ in font cmti8!
-Missing character: There is no í in font cmti8!
-Missing character: There is no î in font cmti8!
-Missing character: There is no ä in font cmti8!
-Missing character: There is no â in font cmti8!
-Missing character: There is no à in font cmti8!
-Missing character: There is no æ in font cmti8!
-Missing character: There is no ä in font cmti8!
-Missing character: There is no û in font cmti8!
-Missing character: There is no â in font cmti8!
-Missing character: There is no î in font cmti8!
-Missing character: There is no é in font cmti8!
-Missing character: There is no ò in font cmti8!
-Missing character: There is no è in font cmti8!
-Missing character: There is no â in font cmti8!
-Missing character: There is no î in font cmti8!
-Missing character: There is no ä in font cmti8!
-Missing character: There is no í in font cmti8!
-Missing character: There is no ó in font cmti8!
-Missing character: There is no ð in font cmti8!
-Missing character: There is no å in font cmti8!
-Missing character: There is no ê in font cmti8!
-Missing character: There is no ó in font cmti8!
- [50 <./pic/herakl.pdf>] [51] [52]
+(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52]
 Overfull \hbox (32.7214pt too wide) in paragraph at lines 143--144
 \rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
 t/line/area/group/special>|
@@ -392,9 +361,8 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmti8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-tt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+nts/cm/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc
+10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
 
 pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
@@ -412,9 +380,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (88 pages, 771311 bytes).
+Output written on thbook.pdf (88 pages, 753269 bytes).
 PDF statistics:
- 552 PDF objects out of 1000 (max. 8388607)
+ 547 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
