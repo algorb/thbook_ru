@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A) * |rotate &lt;value&gt;| = rotates the map (M, A; default: |0|) * |units &lt;metric/imperial&gt;| = set output units (M, A; default: |metric|) * |symbol-set &lt;symbol-set&gt;| = use |symbol-set| for all map symbols, if available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121936Z" creationid="Алексей" creationdate="20171021T121720Z">
+        <seg>(M, A) * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|) * |units &lt;metric / imperial&gt;| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is usual for cross sections.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010145Z" creationid="Алексей" creationdate="20170912T172537Z">
