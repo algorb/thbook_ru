@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 19:50
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -90,221 +90,59 @@ grid-flip (none)/vertical/horizontal|
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
 (ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54] [55] [56] [57]
-[58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61] [62] [63])
-(ch04.tex [64]
-Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
-\rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
-real, ADJ_BEARING|
+[58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 375--376
+ [][] |
+
+\hbox(89.31197+1.49399)x452.96786
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\kern 12.0
+.\vbox(89.31197+1.49399)x440.96786
+..\hbox(8.11198+2.754)x345.1316
+...\glue(\tabskip) 0.0
+...\hbox(8.11198+2.754)x73.81195 []
+...\glue(\tabskip) 0.0
+...\hbox(8.11198+2.754)x271.31966, glue set 177.91177fil []
+...\glue(\tabskip) 0.0
+..\glue 3.0 plus 1.0 minus 1.0
+..\rule(0.4+0.0)x345.1316
+..\glue 3.0 plus 1.0 minus 1.0
+..\hbox(8.04599+2.412)x345.1316
+...\glue(\tabskip) 0.0
+...\hbox(8.04599+2.412)x73.81195, glue set 23.64001fil []
+...\glue(\tabskip) 0.0
+...\hbox(8.04599+2.412)x271.31966 []
+...\glue(\tabskip) 0.0
+..etc.
+.\penalty 10000
+.etc.
+
+[62] [63]) (ch04.tex [64]
+Overfull \hbox (0.8417pt too wide) in paragraph at lines 23--24
+ \rm ERR_BEARING real, ERR_GRADIENT real); cre-ate ta-ble SHOT_FLAG (SHOT_ID in
+-te-ger, FLAG|
 
 \hbox(6.70499+2.245)x452.96786, glue set - 1.0
-.\rm L
-.\rm I
-.\rm N
+.\glue(\leftskip) 12.0
 .\rm E
+.\rm R
+.\rm R
 .\rm _
 .etc.
 
 [65] [66 <./pic/database.pdf>]
-Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
-[]\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
-INE where TOPO_DATE|
+Overfull \hbox (8.19174pt too wide) in paragraph at lines 38--39
+ []\rm select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SUR-NAME from CEN-TRE-LIN
+E, TOPO,|
 
 \hbox(6.70499+2.245)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\rm s
 .\rm e
 .\rm l
-.\rm e
-.etc.
-
-[67]) (ch05.tex [68] [69 <./pic/thom.jpg>] [70]
-Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
- []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
- {/Bor-der [0 0 0]} goto name|
-
-\hbox(7.25499+2.37999)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\rm \
-.\rm d
-.\kern-0.1
-.etc.
-
-[71]
-Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
-[]\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
-r-ing\space(\the\pagenum)\fi|
-
-\hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm \
-.\rm l
-.\rm i
-.\rm n
 .etc.
 
 
-Overfull \hbox (163.80124pt too wide) in paragraph at lines 150--150
-[]\rm \hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \hb
-ox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}|
-
-\hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm \
-.\rm h
-.\rm b
-.\rm o
-.etc.
-
-
-Overfull \hbox (5.53146pt too wide) in paragraph at lines 150--150
-\rm \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss} \raise1pt\hbox to 0pt{\hss$\l
-eftrightarrow$\hss}|
-
-\hbox(7.61499+2.245)x452.96786, glue set - 1.0
-.\rm \
-.\rm r
-.\rm a
-.\rm i
-.\rm s
-.etc.
-
-
-Overfull \hbox (38.90144pt too wide) in paragraph at lines 150--150
-\rm \rlap{\hskip0.7em\showpointer\pointerE}} \hbox to 0pt{\hss\showpointer\poin
-terS\hss} }\qquad\qquad|
-
-\hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\rm \
-.\rm r
-.\rm l
-.\rm a
-.\rm p
-.etc.
-
-
-Overfull \hbox (49.18141pt too wide) in paragraph at lines 150--150
-\rm \vtop{ \def\arr{$\uparrow$} \show-point-erlist\pointerU \def\arr{$\downarro
-w$} \show-point-erlist\pointerD|
-
-\hbox(7.61499+2.245)x452.96786, glue set - 1.0
-.\rm \
-.\rm v
-.\rm t
-.\rm o
-.\rm p
-.etc.
-
-[72] [73]
-Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
-[]\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
-eg-end-text-size={\size[20]}|
-
-\hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm c
-.\rm o
-.\rm d
-.\kern-0.1
-.etc.
-
-[74] [75] [76]
-Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
-[]\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
--def; init-sym-bol("l_wall_bedrock_UIS");[] |
-
-\hbox(7.25499+2.37999)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm d
-.\kern-0.1
-.\rm e
-.\rm f
-.etc.
-
-[77]
-Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
-[]\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
-aled (0.02u); pat-ternxstep(.18u);|
-
-\hbox(6.70499+2.245)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\rm b
-.\rm e
-.\rm g
-.\rm i
-.etc.
-
-) (ch06.tex [78] [79] [80] [81]
-Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
- [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
-n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
-
-
-\hbox(8.04599+2.37999)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\rm o
-.\kern-0.12001
-.etc.
-
-[82] [83]
-Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
- []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
-tf" \"/usr/share/fonts/Serif-|
-
-\hbox(7.25499+2.01)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\rm p
-.\rm d
-.\rm f
-.etc.
-
-[84] [85] [86] [87] [88]) (ch07.tex
-\samplepath=\toks26
- Warning: skipping the case studies)
-[89] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-tt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
-
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb11.pfb): glyph `dblgrave' undefined
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb12.pfb): glyph `cyrflex' undefined
-
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb12.pfb): glyph `dblgrave' undefined
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (89 pages, 764346 bytes).
-PDF statistics:
- 555 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Overfull \hbox (20.61166pt too wide) in pa
