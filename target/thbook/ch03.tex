@@ -142,7 +142,7 @@
 \syntax
 
 |layout <id> [ОПЦИИ]
-	copy <source layout id>
+	copy <id исходного макета>
 	cs <coordinate system>
 	north <true/grid>
 	scale <picture length> <real length>
@@ -203,11 +203,11 @@ endlayout| \endsyntax
 
 |<id>| = идентификатор макета (используется в команде |export|). \endarguments
 
-\comopt * |copy <source layout id>| = устанавливаются свойства макета, которые берутся из данных исходного макета. 
+\comopt * |copy <id исходного макета>| = устанавливаются свойства макета, которые берутся из данных исходного макета. 
 
-{\it map presentation-related:}\Nobreak 
+{\it Относящиеся к представлениям в виде карт:}\Nobreak 
 
-* |scale <picture length> <real length>| = set scale of output map or map atlas (M, A; default: |1 200|) * |base-scale <picture length> <real length>| = if set, Therion will optically scale the map by a (|scale/base-scale|) factor. This has the same effect as if the map printed in |base-scale| would be photo-reduced to the |scale|. (M, A) * |rotate <value>| = rotates the map (M, A; default: |0|) * |units <metric/imperial>| = set output units (M, A; default: |metric|) * |symbol-set <symbol-set>| = use |symbol-set| for all map symbols, if available. Be aware, that symbol set name is case sensitive. (M, A) 
+* |scale <длина изображения> <реальная длина>| = устанавливает масштаб выходной карты или атласа (M, A; по умолчанию: |1 200|) * |base-scale <длина изображения> <реальная длина>| = если установлено, Therion будет масштабировать карту с коэффициентом (|scale/base-scale|). This has the same effect as if the map printed in |base-scale| would be photo-reduced to the |scale|. (M, A) * |rotate <value>| = rotates the map (M, A; default: |0|) * |units <metric/imperial>| = set output units (M, A; default: |metric|) * |symbol-set <symbol-set>| = use |symbol-set| for all map symbols, if available. Be aware, that symbol set name is case sensitive. (M, A) 
 
 Therion uses following predefined symbol sets:\par UIS (International Union of Speleology)\par ASF (Australian Speleological Federation)\par AUT (Austrian Speleological Association)\par CCNP (Carlsbad Caverns National Park)\NEW{5.4}\par NZSS (New Zealand Symbol Set)\NEW{5.4}\par SKBB (Speleoklub Bansk\'a Bystrica) 
 
