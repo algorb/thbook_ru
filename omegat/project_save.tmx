@@ -554,8 +554,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;language ID&gt;| = standard ISO language identifier (e.g. |en| or |en_GB|) * |&lt;therion text&gt;| = therion text to translate.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111709Z" creationid="Алексей" creationdate="20171021T111312Z">
-        <seg>* |&lt;ID языка&gt;| = стандартный идентификатор языка ISO (например, |en| или |en_GB|) * |&lt;therion текст&gt;| = текст Therion'а для перевода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111806Z" creationid="Алексей" creationdate="20171021T111312Z">
+        <seg>* |&lt;ID языка&gt;| = стандартный идентификатор языка ISO (например, |en| или |en_GB|). * |&lt;therion текст&gt;| = текст Therion'а для перевода.</seg>
       </tuv>
     </tu>
     <tu>
