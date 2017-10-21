@@ -546,8 +546,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;file-name&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151107Z" creationid="Алексей" creationdate="20170911T151107Z">
-        <seg>* |&lt;file-name&gt;|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055748Z" creationid="Алексей" creationdate="20170911T151107Z">
+        <seg>* |&lt;имя файла&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, all survey objects are selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055904Z" creationid="Алексей" creationdate="20171021T055904Z">
+        <seg>По умолчанию выбираются все объекты съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, not supported on output.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132336Z" creationid="Алексей" creationdate="20170910T132336Z">
@@ -2396,10 +2404,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no scraps or maps in the data, centreline from all surveys is exported in the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060157Z" creationid="Алексей" creationdate="20171021T060157Z">
+        <seg>Если в данных нет скрапов или карт, то на карте будет отображаться нитка хода из всех съемок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a passage, that was explored, but not surveyed yet, estimated explored length of this passage can be added to the station with |continuation| flag.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052649Z" creationid="Алексей" creationdate="20170920T052557Z">
         <seg>Если есть ход, который был исследован, но еще не снят, то предполагаемая исследуемая длина этого хода может быть учтена добавлением к станции флага |continuation|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no map selected, all scraps belonging to selected surveys are selected by default for map export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060040Z" creationid="Алексей" creationdate="20171021T060040Z">
+        <seg>Если карта не выбрана, то выбираются все скрапы принадлежащие выбранным съемкам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,6 +5098,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031412Z" creationid="Алексей" creationdate="20170923T023547Z">
         <seg>scrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selects objects (surveys and maps) for export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055848Z" creationid="Алексей" creationdate="20171021T055848Z">
+        <seg>выбирает объекты (съемки и карты) для экспорта.</seg>
       </tuv>
     </tu>
     <tu>
