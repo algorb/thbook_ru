@@ -490,8 +490,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = display a particular symbol in the given symbol-set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124259Z" creationid="Алексей" creationdate="20171021T124144Z">
-        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = отображе\-ние определенного символа в заданном наборе символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125906Z" creationid="Алексей" creationdate="20171021T125245Z">
+        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор символоа&gt;| = отображение определенного символа в заданном наборе символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2108,7 +2108,7 @@
       <tuv lang="EN-US">
         <seg>Following symbols may not be used with this option: point {&lt;u0&gt; section} (which isn't rendered at all) and all point and line labels ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124826Z" creationid="Алексей" creationdate="20171021T124629Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125633Z" creationid="Алексей" creationdate="20171021T125535Z">
         <seg>Следующие символы не могут использоваться с этой опцией: point {&lt;u0&gt; section} (который вообще не отображается) и все точечные и линейные надписи ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
       </tuv>
     </tu>
@@ -2542,8 +2542,8 @@
       <tuv lang="EN-US">
         <seg>If the symbol has a subtype, |&lt;symbol-type&gt;| argument may have one of the following forms: |type:subtype| or simply |type|, which assigns new symbol set to all subtypes of a given symbol.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124609Z" creationid="Алексей" creationdate="20171021T124609Z">
-        <seg>Если символ имеет подтип, аргумент |&lt;symbol-type&gt;| может иметь одну из следующих форм: |type:subtype| или просто |type|, который присваивает новый набор символов всем подтипам данного символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130003Z" creationid="Алексей" creationdate="20171021T125436Z">
+        <seg>Если символ имеет подтип, аргумент |&lt;тип символа&gt;| может иметь одну из следующих форм: |тип:подтип| или просто |тип|, который присваивает новый набор символов всем подтипам данного символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,7 +4387,7 @@
       <tuv lang="EN-US">
         <seg>Therion uses following predefined symbol sets:&lt;u0&gt; UIS (International Union of Speleology)&lt;u1&gt; ASF (Australian Speleological Federation)&lt;u2&gt; AUT (Austrian Speleological Association)&lt;u3&gt; CCNP (Carlsbad Caverns National Park)&lt;u6&gt;{5.4}&lt;u4&gt; NZSS (New Zealand Symbol Set)&lt;u7&gt;{5.4}&lt;u5&gt; SKBB (Speleoklub Bansk&lt;u8&gt;a Bystrica)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T123904Z" creationid="Алексей" creationdate="20171021T122601Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125217Z" creationid="Алексей" creationdate="20171021T122601Z">
         <seg>Therion использует следующие предопределенные наборы символов:&lt;u0&gt; UIS (Международный союз спелеологии)&lt;u1&gt; ASF (Австралийская спелеологическая федерация)&lt;u2&gt; AUT (Австрийская спелеологическая ассоциация)&lt;u3&gt; CCNP (Национальный парк Карлсбадских пещер)&lt;u6&gt;{5.4}&lt;u4&gt; NZSS (набор символов Новой Зеландии)&lt;u7&gt;{5.4}&lt;u5&gt; SKBB (спелеоклуб Bansk{\my &lt;u8&gt;a} Bystrica).</seg>
       </tuv>
     </tu>
@@ -4597,8 +4597,8 @@
       <tuv lang="EN-US">
         <seg>This option overrides |symbol-set| option.&lt;u1&gt;}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124443Z" creationid="Алексей" creationdate="20171021T124443Z">
-        <seg>Этот опция переопределяет опцию |symbol-set|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125328Z" creationid="Алексей" creationdate="20171021T125328Z">
+        <seg>Этот опция переопределяет опцию |symbol-set|.&lt;u1&gt;}</seg>
       </tuv>
     </tu>
     <tu>
