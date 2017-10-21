@@ -168,8 +168,16 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt;| = change colour of particular symbol or group of symbols.&lt;u1&gt;Note: colour change currently applies to pattern fills only if (1) output format is PDF and (2) &lt;u2&gt;&lt;u3&gt;version is at least 1.000] (M, A)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182355Z" creationid="Алексей" creationdate="20171021T182053Z">
-        <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt;| = изменить цвет конкретного символа или группы символов.&lt;u1&gt;Примечание: изменение цвета в настоящее время применяется к заполнению шаблона только в том случае, если (1) формат вывода PDF и (2) &lt;u2&gt;&lt;u3&gt;версия не ниже 1.000] (M, A).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182641Z" creationid="Алексей" creationdate="20171021T182053Z">
+        <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;цвет&gt;| = изменить цвет конкретного символа или группы символов&lt;u1&gt;Примечание: изменение цвета в настоящее время применяется к заполнению шаблона только в том случае, если (1) формат вывода PDF и (2) &lt;u2&gt;&lt;u3&gt;версия не ниже 1.000.]. (M, A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;{5.4.1}|min-symbol-scale &lt;scale&gt;| = define minimal |&lt;scale&gt;|, from which points and lines are displayed on the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T183053Z" creationid="Алексей" creationdate="20171021T182700Z">
+        <seg>* &lt;u0&gt;{5.4.1}|min-symbol-scale &lt;масштаб&gt;| = определить минимальный |&lt;масштаб&gt;|, при кото\-ром точечные и линейные символы отображаются на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1973,6 +1981,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
         <seg>В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E.g. for |min-symbol-scale M|, no points or lines scaled |S| and |XS| will be shown on the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T183516Z" creationid="Алексей" creationdate="20171021T183142Z">
+        <seg>Например, при опции |min-symbol-scale M|, никакие точечные или линейные символы при масштабе |S|, и |XS| не будут показаны на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6459,7 +6475,7 @@ endsurvey|</seg>
       <tuv lang="EN-US">
         <seg>|layout &lt;id&gt; [OPTIONS] copy &lt;source layout id&gt; cs &lt;coordinate system&gt; north &lt;true/grid&gt; scale &lt;picture length&gt; &lt;real length&gt; base-scale &lt;picture length&gt; &lt;real length&gt; units &lt;metric/imperial&gt; rotate &lt;number&gt; symbol-set &lt;symbol-set&gt; symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;u0&gt; &lt;symbol-set&gt; symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-colour &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt; min-symbol-scale &lt;scale&gt; fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt; size &lt;width&gt; &lt;height&gt; &lt;units&gt; overlap &lt;value&gt; &lt;units&gt; page-setup &lt;dimensions&gt; &lt;units&gt; page-numbers &lt;on/off&gt; exclude-pages &lt;on/off&gt; &lt;list&gt; title-pages &lt;on/off&gt; nav-factor &lt;factor&gt; nav-size &lt;x-size&gt; &lt;y-size&gt; transparency &lt;on/off&gt; opacity &lt;value&gt; surface &lt;top/bottom/off&gt; surface-opacity &lt;value&gt; sketches &lt;on/off&gt; layers &lt;on/off&gt; grid &lt;off/top/bottom&gt; grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt; grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; grid-coords &lt;off/border/all&gt; origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; origin-label &lt;x-label&gt; &lt;y-label&gt; own-pages &lt;number&gt; page-grid &lt;on/off&gt; legend &lt;on/off/all&gt; legend-columns &lt;number&gt; legend-width &lt;n&gt; &lt;units&gt; map-comment &lt;string&gt; map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt; map-header-bg &lt;on/off&gt; map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt; statistics &lt;explo/topo/carto/copyright all/off/number&gt; &lt;explo/topo-length on/off&gt; scale-bar &lt;length&gt; &lt;units&gt; survey-level &lt;N/all&gt; language &lt;xx[_YY]&gt; colour/color &lt;item&gt; &lt;colour&gt; debug &lt;on/all/first/second/scrap-names/station-names/off&gt; doc-author &lt;string&gt; doc-keywords &lt;string&gt; doc-subject &lt;string&gt; doc-title &lt;string&gt; code &lt;metapost/tex-map/tex-atlas&gt; endcode endlayout|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141541Z" creationid="Алексей" creationdate="20171021T114109Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182845Z" creationid="Алексей" creationdate="20171021T114109Z">
         <seg>|layout &lt;id&gt; [ОПЦИИ]
 	copy &lt;id исходного макета&gt;
 	cs &lt;coordinate system&gt;
@@ -6472,8 +6488,8 @@ endsurvey|</seg>
 	symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор символов&gt;
 	symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;
 	symbol-show &lt;point/line/area/group/special&gt; &lt;тип символа&gt;
-	symbol-colour &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;colour&gt;
-	min-symbol-scale &lt;scale&gt;
+	symbol-colour &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;цвет&gt;
+	min-symbol-scale &lt;масштаб&gt;
 	fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt;
 	size &lt;width&gt; &lt;height&gt; &lt;units&gt;
 	overlap &lt;value&gt; &lt;units&gt;
