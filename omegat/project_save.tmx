@@ -1032,6 +1032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |size &lt;width&gt; &lt;height&gt; &lt;units&gt;| = set map size in the atlas mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191044Z" creationid="Алексей" creationdate="20171021T190938Z">
+        <seg>* |size &lt;ширина&gt; &lt;высота&gt; &lt;единицы&gt;| = задает размер карты в режиме атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |sketch &lt;filename&gt; &lt;x&gt; &lt;y&gt;| = underlying sketch bitmap specification (lower left corner coordinates).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180935Z" creationid="Алексей" creationdate="20170922T180809Z">
@@ -2027,8 +2035,8 @@
       <tuv lang="EN-US">
         <seg>Each of them may apply to line label according to its |-size| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190323Z" creationid="Алексей" creationdate="20171021T190323Z">
-        <seg>Каждый из них может применяться к строковому текстовому символу в соответствии с ее опцией |-размер|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190601Z" creationid="Алексей" creationdate="20171021T190323Z">
+        <seg>Каждый из этих размеров может приме\-няться к строковому текстовому символу в соответствии с ее опцией |-size|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2489,6 +2497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not specified, it will be calculated from |page-setup| and |overlap|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191131Z" creationid="Алексей" creationdate="20171021T191055Z">
+        <seg>Если не указано, то размер будет рассчитан по |page-setup| и |overlap|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not specified, it's oriented to north.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040345Z" creationid="Алексей" creationdate="20170924T040345Z">
@@ -2792,6 +2808,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073246Z" creationid="Алексей" creationdate="20170920T073246Z">
         <seg>В сложных системах скрап обычно представляет собой один грот или один ход.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In map mode applies iff |page-grid| is |on| (M, A; default: |18 22.2 cm|) * |overlap &lt;value&gt; &lt;units&gt;| = set overlap size in paper units in the atlas mode or map margin in the map mode (M, A; default: |1 cm|) * |page-setup &lt;dimensions&gt; &lt;units&gt;| = set page dimensions in this order: paper-width, paper-height, page-width, page-height, left-margin and top-margin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191631Z" creationid="Алексей" creationdate="20171021T191631Z">
+        <seg>В режиме карты применяется, если |page-grid| установлен в |on| (M, A; по умолчанию: |18 22,2 см|). * |overlap &lt;значение&gt; &lt;единицы&gt;| = установить размер перекрытия в единицах в режиме атласа или поля карты в режиме карты (M, A; по умолчанию: |1 см|). * |page-setup &lt;размеры&gt; &lt;единицы&gt;| = установить размеры страницы в таком порядке: ширина бумаги, высота бумаги, ширина страницы, высота страницы, левое поле и верхнее поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,6 +3911,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T144710Z" creationid="Алексей" creationdate="20170919T144710Z">
         <seg>Значение по умолчанию может быть изменено с помощью опции |-clip|, если это разрешено для определенного символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The defaults are |8 10 12 16 24| for scales upto 1:100; |7 8 10 14 20| for scales upto 1:200; |6 7 8 10 14| for scales upto 1:500 and |5 6 7 8 10| for scales smaller than 1:500.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190737Z" creationid="Алексей" creationdate="20171021T190617Z">
+        <seg>По умолчанию: |8 10 12 16 24| для шкал до 1:100; |7 8 10 14 20| для шкал до 1:200; |6 7 8 10 14| для шкал до 1:500 и |5 6 7 8 10| для шкал менее 1:500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5872,6 +5904,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T032207Z" creationid="Алексей" creationdate="20170923T030441Z">
         <seg>{&lt;u0&gt; другие:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Всегда используйте символы |spring| и |sink| со стрелкой |water-flow|.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option.], |map-connection|&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт (раз\-рез-развертка, смещение карты).], |extra|&lt;u4&gt;Точка морфинга.], |u|&lt;u5&gt;Пользовательские точечные символы.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; page layout related:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190833Z" creationid="Алексей" creationdate="20171021T190817Z">
+        <seg>{&lt;u0&gt; Относящиеся к макету страницы:}</seg>
       </tuv>
     </tu>
     <tu>
