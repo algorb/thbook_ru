@@ -153,7 +153,7 @@
 	symbol-assign <point/line/area/group/special> <тип символа> <набор символов>
 	symbol-hide <point/line/area/group/special> <тип символа>
 	symbol-show <point/line/area/group/special> <тип символа>
-	symbol-colour <point/line/area/group/special> <тип символа> <colour>
+	symbol-colour <point/line/area/group/special> <тип символа> <цвет>
 	min-symbol-scale <scale>
 	fonts-setup <tinysize> <smallsize> <normalsize> <largesize> <hugesize>
 	size <width> <height> <units>
@@ -229,7 +229,7 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 
 Может комбинироваться с |symbol-show|. (M, A). * |symbol-show <point/line/area/group/special> <тип символа>| = отображать определен\-ный символ или группу символов. Может комбинироваться с |symbol-hide|. (M, A). 
 
-* \NEW{5.3}|symbol-colo[u]r <point/line/area/group/special> <symbol-type> <colour>| = изменить цвет конкретного символа или группы символов.\[Примечание: изменение цвета в настоящее время применяется к заполнению шаблона только в том случае, если (1) формат вывода PDF и (2)~\MP\ версия не ниже 1.000] (M, A). 
+* \NEW{5.3}|symbol-colo[u]r <point/line/area/group/special> <тип символа> <цвет>| = изменить цвет конкретного символа или группы символов.\[Примечание: изменение цвета в настоящее время применяется к заполнению шаблона только в том случае, если (1) формат вывода PDF и (2)~\MP\ версия не ниже 1.000] (M, A). 
 
 * \NEW{5.4.1}|min-symbol-scale <scale>| = define minimal |<scale>|, from which points and lines are displayed on the map. E.g. for |min-symbol-scale M|, no points or lines scaled |S| and |XS| will be shown on the map. |<scale>| has the same format, as |scale| option for points and lines. 
 
