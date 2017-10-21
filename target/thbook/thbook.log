@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 21:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 21:30
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -90,32 +90,6 @@ grid-flip (none)/vertical/horizontal|
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
 (ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54] [55]
-Overfull \hbox (17.79948pt too wide) in paragraph at lines 228--229
- []\rm Используйте []\rm flag:<entrance/continuation/sink/spring/doline/dig>[] 
-\rm как []\rm <symbol-type>[] \rm чтобы|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\rm И
-.\rm с
-.\rm п
-.etc.
-
-
-Overfull \hbox (32.45192pt too wide) in paragraph at lines 228--229
- \rm скрыть станции с определенными флагами (например, []\rm symbol-hide point 
-flag:entrance[]\rm ). |
-
-\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\rm с
-.\rm к
-.\rm р
-.\kern-0.192
-.etc.
-
-
 Overfull \hbox (19.33147pt too wide) in paragraph at lines 230--231
  [][][]\rm symbol-show <point/line/area/group/special> <тип символа>[] $\mit .$
  \rm отображать определенный|
@@ -322,32 +296,4 @@ i8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-tt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
-
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb11.pfb): glyph `dblgrave' undefined
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb12.pfb): glyph `cyrflex' undefined
-
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb12.pfb): glyph `dblgrave' undefined
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (89 pages, 764899 bytes).
-PDF statistics:
- 555 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+nts/type1/public/amsfonts/cm/cmssdc
