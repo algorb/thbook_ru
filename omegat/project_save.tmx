@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt;| = change colour of particular symbol or group of symbols.&lt;u1&gt;Note: colour change currently applies to pattern fills only if (1) output format is PDF and (2) &lt;u2&gt;&lt;u3&gt;version is at least 1.000] (M, A)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182355Z" creationid="Алексей" creationdate="20171021T182053Z">
+        <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt;| = изменить цвет конкретного символа или группы символов.&lt;u1&gt;Примечание: изменение цвета в настоящее время применяется к заполнению шаблона только в том случае, если (1) формат вывода PDF и (2) &lt;u2&gt;&lt;u3&gt;версия не ниже 1.000] (M, A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.4}multiline comments inside |comment| ... |endcomment| block are allowed in data and configuration files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T221012Z" creationid="Алексей" creationdate="20170909T210939Z">
