@@ -681,6 +681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |cs &lt;coordinate system&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053845Z" creationid="Алексей" creationdate="20171021T053845Z">
+        <seg>* |cs &lt;coordinate system&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = assumes that (calibrated) local scrap coordinates are given in specified coordinate system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180232Z" creationid="Алексей" creationdate="20170922T180136Z">
@@ -821,6 +829,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T035946Z" creationid="Алексей" creationdate="20170912T165244Z">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который исполь\-зо\-вался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |language &lt;xx_[YY]&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053811Z" creationid="Алексей" creationdate="20171021T053811Z">
+        <seg>* |language &lt;xx_[YY]&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2674,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173126Z" creationid="Алексей" creationdate="20170912T173126Z">
         <seg>Его не обязательно использовать для Therion -- вы можете редактировать входные файлы в своем любимом текстовом редакторе и запускать Therion из командной строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not possible to specify more coordinate systems for different outputs (the last occurence of |cs| is used for all output files).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054049Z" creationid="Алексей" creationdate="20171021T054049Z">
+        <seg>Невозможно указать несколько систем координат для разных выходных данных (последнее указание | cs | используется для всех выходных файлов).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4759,6 +4783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`cs'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053840Z" creationid="Алексей" creationdate="20171021T053840Z">
+        <seg>`cs'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`encoding'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T162339Z" creationid="Алексей" creationdate="20170910T162339Z">
@@ -4779,6 +4811,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172322Z" creationid="Алексей" creationdate="20170910T172322Z">
         <seg>`input'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`language'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053800Z" creationid="Алексей" creationdate="20171021T053800Z">
+        <seg>`language'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5019,6 +5059,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052508Z" creationid="Алексей" creationdate="20170924T052405Z">
         <seg>{5.3} |&lt;rtl&gt;| и |&lt;/rtl&gt;| = отмечает начало и конец вывода текста справа налево;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.3}Outside of |layout| command specifies the coordinate system for output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053938Z" creationid="Алексей" creationdate="20171021T053903Z">
+        <seg>{5.3}Вне команды |layout| определяет систему координат для вывода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.3}Sets the output language for translatable texts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053837Z" creationid="Алексей" creationdate="20171021T053822Z">
+        <seg>{5.3}Устанавливает язык вывода для переводимых текстов.</seg>
       </tuv>
     </tu>
     <tu>
