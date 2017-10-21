@@ -360,9 +360,8 @@
       <tuv lang="EN-US">
         <seg>* although the support for WYSIWYG is limited, you get what you want</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160413Z" creationid="Алексей" creationdate="20170909T160331Z">
-        <seg>* Хотя поддержка WYSIWYG ограничена, вы всегда можете получить то, что хотите.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142602Z" creationid="Алексей" creationdate="20170909T160331Z">
+        <seg>* Хотя поддержка WYSIWYG ограничена, вы всегда можете получить то, что хотите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3003,9 +3002,8 @@
       <tuv lang="EN-US">
         <seg>It processes input files, which are---including 2D maps---in text format, and creates files with 2D maps or 3D model as the output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152424Z" creationid="Алексей" creationdate="20170909T151053Z">
-        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D-карты, и создает файлы с 2D-картами или 3D-моделью в качестве вывода.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142556Z" creationid="Алексей" creationdate="20170909T151053Z">
+        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D-карты, и создает файлы с 2D-картами или 3D-моделью в качестве вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3421,9 +3419,8 @@
       <tuv lang="EN-US">
         <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184018Z" creationid="Алексей" creationdate="20170909T162101Z">
-        <seg>Прочтите {&lt;u0&gt; Приложение}, если вы хотите скомпилировать Therion самостоятельно.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142611Z" creationid="Алексей" creationdate="20170909T162101Z">
+        <seg>Прочтите {&lt;u0&gt; Приложение}, если вы хотите скомпилировать Therion самостоятельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4685,9 +4682,8 @@
       <tuv lang="EN-US">
         <seg>Thus there is a special GUI for Therion called XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152146Z" creationid="Алексей" creationdate="20170909T151755Z">
-        <seg>Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142544Z" creationid="Алексей" creationdate="20170909T151755Z">
+        <seg>Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.</seg>
       </tuv>
     </tu>
     <tu>
