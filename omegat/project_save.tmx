@@ -505,8 +505,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = display a particular symbol in the given symbol-set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184445Z" creationid="Алексей" creationdate="20171021T125245Z">
-        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор\break символа&gt;| = отобра\-жение определенного символа в заданном наборе символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184910Z" creationid="Алексей" creationdate="20171021T125245Z">
+        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор|\break |символов&gt;| = отобра\-жение определенного символа в заданном наборе сим\-волов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,8 +1074,8 @@
       <tuv lang="EN-US">
         <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = don't display particular symbol or group of symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142122Z" creationid="Алексей" creationdate="20171021T141438Z">
-        <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = не отображать кон\-кретный символ или группу символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185332Z" creationid="Алексей" creationdate="20171021T185332Z">
+        <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = не отобра\-жать конкретный символ или группу символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5117,7 +5117,7 @@
       <tuv lang="EN-US">
         <seg>You may use |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| and &lt;u0&gt;{5.4}|group text| in |symbol-hide| and |symbol-show| commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141658Z" creationid="Алексей" creationdate="20171021T141556Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185308Z" creationid="Алексей" creationdate="20171021T185308Z">
         <seg>Вы можете использовать |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| и &lt;u0&gt;{5.4}|group text| в командах |symbol-hide| и |symbol-show|.</seg>
       </tuv>
     </tu>
