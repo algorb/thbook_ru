@@ -15,7 +15,7 @@
 
 \subsubchapter `encoding'. 
 
-Works like the |encoding| command in data files---specifies character sets. 
+Работает аналогично команде |encoding| в файлах данных -- задает кодировку символов. 
 
 \subsubchapter `language'. \syntax
 
@@ -25,7 +25,7 @@ Works like the |encoding| command in data files---specifies character sets.
 
 \endsyntax
 
-\NEW{5.3}Sets the output language for translatable texts. 
+\NEW{5.3}Устанавливает язык вывода для переводимых текстов. 
 
 \subsubchapter `cs'. 
 
@@ -37,11 +37,11 @@ Works like the |encoding| command in data files---specifies character sets.
 
 \endsyntax
 
-\NEW{5.3}Outside of |layout| command specifies the coordinate system for output. It is not possible to specify more coordinate systems for different outputs (the last occurence of |cs| is used for all output files). 
+\NEW{5.3}Вне команды |layout| определяет систему координат для вывода. Невозможно указать несколько систем координат для разных выходных данных (последнее указание |cs| используется для всех выходных файлов). 
 
-If no |cs| is defined in the configuration file, the first |cs| therion encounters in the data files is used as an output |cs|. 
+Если |cs| не определяется в файле конфигурации, то будет использован первый |cs| в файлах данных. 
 
-Inside the |layout| specifies coordinate system for subsequent location data (|origin|, |grid-origin|). 
+Внутри |layout| определяется система координат для последующих данных о местоположении (|origin|, |grid-origin|). 
 
 \subsubchapter `sketch-warp'. 
 
@@ -49,11 +49,11 @@ Inside the |layout| specifies coordinate system for subsequent location data (|o
 
 \list
 
-* |sketch-warp <algorithm>| \endlist
+* |sketch-warp <алгоритм>| \endlist
 
 \endsyntax
 
-Specifies which scrap warping (morphing) algorithm to use. Possible algorithms are |line|---the default; |plaquette|---invented by Marco Corvi. 
+Указывает, какой алгоритм преобразования скрапа (морфинг) использовать. Возможные алгоритмы: |line| -- по умолчанию; |plaquette| -- разработанный Marco Corvi. 
 
 \subsubchapter `input'. 
 
