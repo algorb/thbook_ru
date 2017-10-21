@@ -707,8 +707,8 @@
       <tuv lang="EN-US">
         <seg>* |copy &lt;source layout id&gt;| = set properties here that are not modified based on the given source layout.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T115626Z" creationid="Алексей" creationdate="20171021T115208Z">
-        <seg>* |copy &lt;id исходного макета&gt;| = устанавливаются свойства макета, которые берутся из данных исходного макета.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121027Z" creationid="Алексей" creationdate="20171021T115208Z">
+        <seg>* |copy &lt;id исходного макета&gt;| = устанавливаются свойства макета, которые бе\-рутся из данных исходного макета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4474,6 +4474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This has the same effect as if the map printed in |base-scale| would be photo-reduced to the |scale|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121703Z" creationid="Алексей" creationdate="20171021T121703Z">
+        <seg>Это имеет такой же эффект, как если бы карта, распечатанная в |base-scale|, была бы масштабирована к |scale|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This helps a lot with large cave systems: if some scrap is referenced, you immediately know in which file it had been defined.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T010505Z" creationid="Алексей" creationdate="20170919T005308Z">
@@ -6319,13 +6327,13 @@ endsurvey|</seg>
       <tuv lang="EN-US">
         <seg>|layout &lt;id&gt; [OPTIONS] copy &lt;source layout id&gt; cs &lt;coordinate system&gt; north &lt;true/grid&gt; scale &lt;picture length&gt; &lt;real length&gt; base-scale &lt;picture length&gt; &lt;real length&gt; units &lt;metric/imperial&gt; rotate &lt;number&gt; symbol-set &lt;symbol-set&gt; symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;u0&gt; &lt;symbol-set&gt; symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-colour &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt; min-symbol-scale &lt;scale&gt; fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt; size &lt;width&gt; &lt;height&gt; &lt;units&gt; overlap &lt;value&gt; &lt;units&gt; page-setup &lt;dimensions&gt; &lt;units&gt; page-numbers &lt;on/off&gt; exclude-pages &lt;on/off&gt; &lt;list&gt; title-pages &lt;on/off&gt; nav-factor &lt;factor&gt; nav-size &lt;x-size&gt; &lt;y-size&gt; transparency &lt;on/off&gt; opacity &lt;value&gt; surface &lt;top/bottom/off&gt; surface-opacity &lt;value&gt; sketches &lt;on/off&gt; layers &lt;on/off&gt; grid &lt;off/top/bottom&gt; grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt; grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; grid-coords &lt;off/border/all&gt; origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; origin-label &lt;x-label&gt; &lt;y-label&gt; own-pages &lt;number&gt; page-grid &lt;on/off&gt; legend &lt;on/off/all&gt; legend-columns &lt;number&gt; legend-width &lt;n&gt; &lt;units&gt; map-comment &lt;string&gt; map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt; map-header-bg &lt;on/off&gt; map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt; statistics &lt;explo/topo/carto/copyright all/off/number&gt; &lt;explo/topo-length on/off&gt; scale-bar &lt;length&gt; &lt;units&gt; survey-level &lt;N/all&gt; language &lt;xx[_YY]&gt; colour/color &lt;item&gt; &lt;colour&gt; debug &lt;on/all/first/second/scrap-names/station-names/off&gt; doc-author &lt;string&gt; doc-keywords &lt;string&gt; doc-subject &lt;string&gt; doc-title &lt;string&gt; code &lt;metapost/tex-map/tex-atlas&gt; endcode endlayout|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T115642Z" creationid="Алексей" creationdate="20171021T114109Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T120851Z" creationid="Алексей" creationdate="20171021T114109Z">
         <seg>|layout &lt;id&gt; [ОПЦИИ]
 	copy &lt;id исходного макета&gt;
 	cs &lt;coordinate system&gt;
 	north &lt;true/grid&gt;
-	scale &lt;picture length&gt; &lt;real length&gt;
-	base-scale &lt;picture length&gt; &lt;real length&gt;
+	scale &lt;длина изображения&gt; &lt;реальная длина&gt;
+	base-scale &lt;длина изображения&gt; &lt;реальная длина&gt;
 	units &lt;metric/imperial&gt;
 	rotate &lt;number&gt;
 	symbol-set &lt;symbol-set&gt;
