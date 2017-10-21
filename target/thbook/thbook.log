@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 19:42
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,9 +89,26 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
-(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54] [55] [56] [57]
-[58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61] [62] [63])
-(ch04.tex [64]
+(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54]
+Overfull \hbox (5.52547pt too wide) in paragraph at lines 214--214
+ [][][]\rm symbol-assign <point/line/area/group/special> <symbol-type> <symbol-
+set>[] $\mit .$ \rm отображение |
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\rm s
+.etc.
+
+[55] [56] [57] [58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61]
+[62] [63]) (ch04.tex [64]
 Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
 \rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
 real, ADJ_BEARING|
@@ -302,7 +319,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (89 pages, 764334 bytes).
+Output written on thbook.pdf (89 pages, 764382 bytes).
 PDF statistics:
  555 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
