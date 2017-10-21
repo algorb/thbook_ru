@@ -673,6 +673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |chapter-level &lt;number&gt;| = valid only when a map is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061311Z" creationid="Алексей" creationdate="20171021T061254Z">
+        <seg>* |chapter-level &lt;число&gt;| = действует только при выборе карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |clip &lt;on/off&gt;| = specify whether a symbol is clipped by the scrap border.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043930Z" creationid="Алексей" creationdate="20170924T043830Z">
@@ -1714,6 +1722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default 0 is used, if `|-|' or `|.|' is specified, no chapter is exported for this map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061509Z" creationid="Алексей" creationdate="20171021T061509Z">
+        <seg>По умолчанию используется 0; если используется `|-|' или `|.|', то для этой карты не экспортируется ни одна глава.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default 0 is used; if `basic' is specified, expansion is done up to the basic maps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061202Z" creationid="Алексей" creationdate="20171021T061202Z">
@@ -1854,6 +1870,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
         <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determines the level at which chapter expansion for atlas export is stopped.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061353Z" creationid="Алексей" creationdate="20171021T061353Z">
+        <seg>Определяет уровень, при котором прекращается расширение главы для экспорта в виде атласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2585,6 +2609,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053154Z" creationid="Алексей" creationdate="20170920T051446Z">
         <seg>Если в качестве комментария указан |""|, то он игнорируется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If |title-pages| option in |layout| is on, each chapter starts with a title page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061551Z" creationid="Алексей" creationdate="20171021T061551Z">
+        <seg>Если опция |title-pages| в |layout| включена, то каждая глава начинается с титульной страницы.</seg>
       </tuv>
     </tu>
     <tu>
