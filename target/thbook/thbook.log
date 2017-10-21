@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 19:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 19:37
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,1367 +89,159 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
-(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54]
-! Font \eightrm=?} not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   B
-l.212 ...SKBB (спелеоклуб Bansk{\font\eightrm ?} B
-                                                  ystrica).
-? 
-[55] [56] [57] [58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 375--376
- [][] |
-
-\hbox(89.31197+1.49399)x452.96786
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\kern 12.0
-.\vbox(89.31197+1.49399)x440.96786
-..\hbox(8.11198+2.754)x345.1316
-...\glue(\tabskip) 0.0
-...\hbox(8.11198+2.754)x73.81195 []
-...\glue(\tabskip) 0.0
-...\hbox(8.11198+2.754)x271.31966, glue set 177.91177fil []
-...\glue(\tabskip) 0.0
-..\glue 3.0 plus 1.0 minus 1.0
-..\rule(0.4+0.0)x345.1316
-..\glue 3.0 plus 1.0 minus 1.0
-..\hbox(8.04599+2.412)x345.1316
-...\glue(\tabskip) 0.0
-...\hbox(8.04599+2.412)x73.81195, glue set 23.64001fil []
-...\glue(\tabskip) 0.0
-...\hbox(8.04599+2.412)x271.31966 []
-...\glue(\tabskip) 0.0
-..etc.
-.\penalty 10000
-.etc.
-
-[62] [63]) (ch04.tex [64]
-Overfull \hbox (0.8417pt too wide) in paragraph at lines 23--24
- \rm ERR_BEARING real, ERR_GRADIENT real); cre-ate ta-ble SHOT_FLAG (SHOT_ID in
--te-ger, FLAG|
+(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54] [55] [56] [57]
+[58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61] [62] [63])
+(ch04.tex [64]
+Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
+\rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
+real, ADJ_BEARING|
 
 \hbox(6.70499+2.245)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
+.\rm L
+.\rm I
+.\rm N
 .\rm E
-.\rm R
-.\rm R
 .\rm _
 .etc.
 
 [65] [66 <./pic/database.pdf>]
-Overfull \hbox (8.19174pt too wide) in paragraph at lines 38--39
- []\rm select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SUR-NAME from CEN-TRE-LIN
-E, TOPO,|
+Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
+[]\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
+INE where TOPO_DATE|
 
 \hbox(6.70499+2.245)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\rm s
 .\rm e
 .\rm l
+.\rm e
 .etc.
 
+[67]) (ch05.tex [68] [69 <./pic/thom.jpg>] [70]
+Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
+ []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
+ {/Bor-der [0 0 0]} goto name|
 
-Overfull \hbox (20.61166pt too wide) in paragraph at lines 42--43
- []\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-
-LINE where TOPO_DATE|
-
-\hbox(6.70499+2.245)x452.96786, glue set - 1.0
+\hbox(7.25499+2.37999)x452.96786, glue set - 1.0
 .\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
-.\rm s
-.\rm e
-.\rm l
+.\rm \
+.\rm d
+.\kern-0.1
 .etc.
 
-[67]) (ch05.tex [68] [69 <./pic/thom.jpg>] [70] [71]
-Overfull \hbox (38.2614pt too wide) in paragraph at lines 150--150
- []\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-b
-er-ing\space(\the\pagenum)\fi|
+[71]
+Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
+[]\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
+r-ing\space(\the\pagenum)\fi|
 
 \hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\rm \
 .\rm l
 .\rm i
+.\rm n
 .etc.
 
 
-Overfull \hbox (175.80124pt too wide) in paragraph at lines 150--150
- []\rm \hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \h
-box to 0pt{\llap{\showpointer\pointerW\hskip0.7em}|
+Overfull \hbox (163.80124pt too wide) in paragraph at lines 150--150
+[]\rm \hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \hb
+ox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}|
 
 \hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\rm \
 .\rm h
 .\rm b
+.\rm o
 .etc.
 
 
-Overfull \hbox (17.53146pt too wide) in paragraph at lines 150--150
- \rm \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss} \raise1pt\hbox to 0pt{\hss$\
-leftrightarrow$\hss}|
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 150--150
+\rm \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss} \raise1pt\hbox to 0pt{\hss$\l
+eftrightarrow$\hss}|
 
 \hbox(7.61499+2.245)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
 .\rm \
 .\rm r
 .\rm a
 .\rm i
+.\rm s
 .etc.
 
 
-Overfull \hbox (50.90144pt too wide) in paragraph at lines 150--150
- \rm \rlap{\hskip0.7em\showpointer\pointerE}} \hbox to 0pt{\hss\showpointer\poi
-nterS\hss} }\qquad\qquad|
+Overfull \hbox (38.90144pt too wide) in paragraph at lines 150--150
+\rm \rlap{\hskip0.7em\showpointer\pointerE}} \hbox to 0pt{\hss\showpointer\poin
+terS\hss} }\qquad\qquad|
 
 \hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
 .\rm \
 .\rm r
 .\rm l
 .\rm a
-.etc.
-
-[72] [73] [74]
-Missing character: There is no - in font logo10!
- [75] [76] [77]) (ch06.tex [78]
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.3 \vbox{\hsize=
-                 93.2mm\baselineskip=12pt\leftskip3.5mm\parskip0pt \eightit
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.3 \vbox{\hsize=
-                 93.2mm\baselineskip=12pt\leftskip3.5mm\parskip0pt \eightit
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.3 \vbox{\hsize=93.2mm\baselineskip=
-                                     12pt\leftskip3.5mm\parskip0pt \eightit
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.3 \vbox{\hsize=93.2mm\baselineskip=
-                                     12pt\leftskip3.5mm\parskip0pt \eightit
-? 
-
-Overfull \hbox (9.95845pt too wide) in paragraph at lines 3--4
- []|
-
-\hbox(0.0+0.0)x0.0
-.\glue(\leftskip) 9.95845
-.\hbox(0.0+0.0)x0.0
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (15.95847pt too wide) in paragraph at lines 3--4
- \mit .$|
-
-\hbox(5.58334+0.0)x0.0
-.\glue(\leftskip) 9.95845
-.\mit .
-.\mathoff
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (52.82242pt too wide) in paragraph at lines 3--4
- \rm 93.2mm|
-
-\hbox(8.04599+0.228)x0.0
-.\glue(\leftskip) 9.95845
-.\rm 9
-.\rm 3
-.\rm .
-.\rm 2
-.etc.
-
-
-Overfull \hbox (15.95847pt too wide) in paragraph at lines 3--4
- \mit .$|
-
-\hbox(5.58334+0.0)x0.0
-.\glue(\leftskip) 9.95845
-.\mit .
-.\mathoff
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (33.81442pt too wide) in paragraph at lines 3--4
- \rm 12pt |
-
-\hbox(8.04599+2.412)x0.0
-.\glue(\leftskip) 9.95845
-.\rm 1
-.\rm 2
 .\rm p
+.etc.
+
+
+Overfull \hbox (49.18141pt too wide) in paragraph at lines 150--150
+\rm \vtop{ \def\arr{$\uparrow$} \show-point-erlist\pointerU \def\arr{$\downarro
+w$} \show-point-erlist\pointerD|
+
+\hbox(7.61499+2.245)x452.96786, glue set - 1.0
+.\rm \
+.\rm v
 .\rm t
+.\rm o
+.\rm p
 .etc.
 
+[72] [73]
+Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
+[]\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
+eg-end-text-size={\size[20]}|
 
-Overfull \hbox (33.8984pt too wide) in paragraph at lines 5--6
- [][]\eightit When|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
+\hbox(6.94+2.245)x452.96786, glue set - 1.0
 .\hbox(0.0+0.0)x0.0
-.\hbox(6.08398+0.17099)x0.0, glue set - 11.00697fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\eightit 1
-..\eightit .
-..\glue 3.90599 plus 5.67 minus 0.252
-.\eightit W
-.\eightit h
+.\rm c
+.\rm o
+.\rm d
+.\kern-0.1
 .etc.
 
-
-Overfull \hbox (14.90845pt too wide) in paragraph at lines 5--6
- \eightit a|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit a
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (25.00644pt too wide) in paragraph at lines 5--6
- \eightit dis-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit d
-.\eightit i
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (24.22345pt too wide) in paragraph at lines 5--6
- \eightit tin-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit i
-.\eightit n
-.\discretionary
-.etc.
-
-
-Overfull \hbox (41.6384pt too wide) in paragraph at lines 5--6
- \eightit guished|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit g
-.\eightit u
-.\eightit i
-.\eightit s
-.etc.
-
-
-Overfull \hbox (22.92744pt too wide) in paragraph at lines 5--6
- \eightit but|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit b
-.\eightit u
-.\eightit t
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (20.28143pt too wide) in paragraph at lines 5--6
- \eightit el-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit e
-.\eightit l
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (30.58641pt too wide) in paragraph at lines 5--6
- \eightit derly|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit d
-.\eightit e
-.\eightit r
-.\eightit l
-.etc.
-
-
-Overfull \hbox (24.16045pt too wide) in paragraph at lines 5--6
- \eightit sci-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit c
-.\eightit i
-.\discretionary
-.etc.
-
-
-Overfull \hbox (23.03543pt too wide) in paragraph at lines 5--6
- \eightit en-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit e
-.\eightit n
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (22.63945pt too wide) in paragraph at lines 5--6
- \eightit tist|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit i
-.\eightit s
-.\eightit t
-.etc.
-
-
-Overfull \hbox (33.29543pt too wide) in paragraph at lines 5--6
- \eightit states|
-
-\hbox(5.68799+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit t
-.\eightit a
-.\eightit t
-.etc.
-
-
-Overfull \hbox (26.03244pt too wide) in paragraph at lines 5--6
- \eightit that|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit a
-.\eightit t
-.etc.
-
-
-Overfull \hbox (33.86241pt too wide) in paragraph at lines 5--6
- \eightit some-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit o
-.\eightit m
-.\eightit e
-.etc.
-
-
-Overfull \hbox (31.20743pt too wide) in paragraph at lines 5--6
- \eightit thing|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit i
-.\eightit n
-.etc.
-
-
-Overfull \hbox (16.59145pt too wide) in paragraph at lines 5--6
- \eightit is|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit s
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (26.76143pt too wide) in paragraph at lines 5--6
- \eightit pos-|
-
-\hbox(4.3785+1.881)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit p
-.\eightit o
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (19.75945pt too wide) in paragraph at lines 5--6
- \eightit si-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit i
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (24.37642pt too wide) in paragraph at lines 5--6
- \eightit ble,|
-
-\hbox(6.08398+1.12048)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit b
-.\eightit l
-.\eightit e
-.\eightit ,
-.etc.
-
-
-Overfull \hbox (19.63342pt too wide) in paragraph at lines 5--6
- \eightit he|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit h
-.\eightit e
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (16.59145pt too wide) in paragraph at lines 5--6
- \eightit is|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit s
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (20.63245pt too wide) in paragraph at lines 5--6
- \eightit al-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit a
-.\eightit l
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (29.11943pt too wide) in paragraph at lines 5--6
- \eightit most|
-
-\hbox(5.68799+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit m
-.\eightit o
-.\eightit s
-.\eightit t
-.etc.
-
-
-Overfull \hbox (25.47443pt too wide) in paragraph at lines 5--6
- \eightit cer-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit c
-.\eightit e
-.\eightit r
-.\discretionary
-.etc.
-
-
-Overfull \hbox (33.43944pt too wide) in paragraph at lines 5--6
- \eightit tainly|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit a
-.\eightit i
-.\eightit n
-.etc.
-
-
-Overfull \hbox (31.61241pt too wide) in paragraph at lines 5--6
- \eightit right.|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit r
-.\eightit i
-.\eightit g
-.\eightit h
-.etc.
-
-
-Overfull \hbox (33.8984pt too wide) in paragraph at lines 5--6
- \eightit When|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit W
-.\eightit h
-.\eightit e
-.\eightit n
-.etc.
-
-
-Overfull \hbox (19.63342pt too wide) in paragraph at lines 5--6
- \eightit he|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit h
-.\eightit e
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (33.29543pt too wide) in paragraph at lines 5--6
- \eightit states|
-
-\hbox(5.68799+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit t
-.\eightit a
-.\eightit t
-.etc.
-
-
-Overfull \hbox (26.03244pt too wide) in paragraph at lines 5--6
- \eightit that|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit a
-.\eightit t
-.etc.
-
-
-Overfull \hbox (33.86241pt too wide) in paragraph at lines 5--6
- \eightit some-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit o
-.\eightit m
-.\eightit e
-.etc.
-
-
-Overfull \hbox (31.20743pt too wide) in paragraph at lines 5--6
- \eightit thing|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit i
-.\eightit n
-.etc.
-
-
-Overfull \hbox (16.59145pt too wide) in paragraph at lines 5--6
- \eightit is|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit s
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (23.32344pt too wide) in paragraph at lines 5--6
- \eightit im-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit m
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (26.76143pt too wide) in paragraph at lines 5--6
- \eightit pos-|
-
-\hbox(4.3785+1.881)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit p
-.\eightit o
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (19.75945pt too wide) in paragraph at lines 5--6
- \eightit si-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit i
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (24.37642pt too wide) in paragraph at lines 5--6
- \eightit ble,|
-
-\hbox(6.08398+1.12048)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit b
-.\eightit l
-.\eightit e
-.\eightit ,
-.etc.
-
-
-Overfull \hbox (19.63342pt too wide) in paragraph at lines 5--6
- \eightit he|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit h
-.\eightit e
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (16.59145pt too wide) in paragraph at lines 5--6
- \eightit is|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit s
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (27.17542pt too wide) in paragraph at lines 5--6
- \eightit very|
-
-\hbox(4.3785+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit v
-.\eightit e
-.\eightit r
-.\eightit y
-.etc.
-
-
-Overfull \hbox (31.13542pt too wide) in paragraph at lines 5--6
- \eightit prob-|
-
-\hbox(6.08398+1.881)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit p
-.\eightit r
-.\eightit o
-.\eightit b
-.etc.
-
-
-Overfull \hbox (18.07645pt too wide) in paragraph at lines 5--6
- \eightit a-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit a
-.\discretionary
-.\eightit -
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (22.28844pt too wide) in paragraph at lines 5--6
- \eightit bly|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit b
-.\eightit l
-.\eightit y
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (37.3814pt too wide) in paragraph at lines 5--6
- \eightit wrong. |
-
-\hbox(4.3785+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit w
-.\eightit r
-.\eightit o
-.\eightit n
-.etc.
-
-
-Overfull \hbox (24.92542pt too wide) in paragraph at lines 7--8
- [][]\eightit The|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
+[74] [75] [76]
+Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
+[]\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
+-def; init-sym-bol("l_wall_bedrock_UIS");[] |
+
+\hbox(7.25499+2.37999)x452.96786, glue set - 1.0
 .\hbox(0.0+0.0)x0.0
-.\hbox(6.08398+0.17099)x0.0, glue set - 11.00697fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\eightit 2
-..\eightit .
-..\glue 3.90599 plus 5.67 minus 0.252
-.\eightit T
-.\eightit h
+.\rm d
+.\kern-0.1
+.\rm e
+.\rm f
 .etc.
 
-
-Overfull \hbox (27.53543pt too wide) in paragraph at lines 7--8
- \eightit only|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit o
-.\eightit n
-.\eightit l
-.\eightit y
-.etc.
-
-
-Overfull \hbox (26.09541pt too wide) in paragraph at lines 7--8
- \eightit way|
-
-\hbox(4.3785+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit w
-.\kern-0.18001
-.\eightit a
-.\eightit y
-.etc.
-
-
-Overfull \hbox (17.62643pt too wide) in paragraph at lines 7--8
- \eightit of|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit o
-.\eightit f
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (25.00644pt too wide) in paragraph at lines 7--8
- \eightit dis-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit d
-.\eightit i
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (26.66243pt too wide) in paragraph at lines 7--8
- \eightit cov-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit c
-.\eightit o
-.\kern-0.09001
-.\eightit v
-.etc.
-
-
-Overfull \hbox (21.07343pt too wide) in paragraph at lines 7--8
- \eightit er-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit e
-.\eightit r
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (23.10744pt too wide) in paragraph at lines 7--8
- \eightit ing|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit n
-.\eightit g
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (22.65742pt too wide) in paragraph at lines 7--8
- \eightit the|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit e
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (25.87944pt too wide) in paragraph at lines 7--8
- \eightit lim-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit l
-.\eightit i
-.\eightit m
-.\discretionary
-.etc.
-
-
-Overfull \hbox (19.61545pt too wide) in paragraph at lines 7--8
- \eightit its|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit t
-.\eightit s
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (17.62643pt too wide) in paragraph at lines 7--8
- \eightit of|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit o
-.\eightit f
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (22.65742pt too wide) in paragraph at lines 7--8
- \eightit the|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit e
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (26.76143pt too wide) in paragraph at lines 7--8
- \eightit pos-|
-
-\hbox(4.3785+1.881)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit p
-.\eightit o
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (19.75945pt too wide) in paragraph at lines 7--8
- \eightit si-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit i
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (22.00943pt too wide) in paragraph at lines 7--8
- \eightit ble|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit b
-.\eightit l
-.\eightit e
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (16.59145pt too wide) in paragraph at lines 7--8
- \eightit is|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit s
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (17.81544pt too wide) in paragraph at lines 7--8
- \eightit to|
-
-\hbox(5.68799+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit o
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (27.42743pt too wide) in paragraph at lines 7--8
- \eightit ven-|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit v
-.\eightit e
-.\eightit n
-.\discretionary
-.etc.
-
-
-Overfull \hbox (25.97842pt too wide) in paragraph at lines 7--8
- \eightit ture|
-
-\hbox(5.68799+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit u
-.\eightit r
-.\eightit e
-.etc.
-
-
-Overfull \hbox (14.90845pt too wide) in paragraph at lines 7--8
- \eightit a|
-
-\hbox(4.3785+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit a
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (21.46945pt too wide) in paragraph at lines 7--8
- \eightit lit-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit l
-.\eightit i
-.\eightit t
-.\discretionary
-.etc.
-
-
-Overfull \hbox (20.13744pt too wide) in paragraph at lines 7--8
- \eightit tle|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit l
-.\eightit e
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (26.09541pt too wide) in paragraph at lines 7--8
- \eightit way|
-
-\hbox(4.3785+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit w
-.\kern-0.18001
-.\eightit a
-.\eightit y
-.etc.
-
-
-Overfull \hbox (26.73444pt too wide) in paragraph at lines 7--8
- \eightit past|
-
-\hbox(5.68799+1.881)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit p
-.\eightit a
-.\eightit s
-.\eightit t
-.etc.
-
-
-Overfull \hbox (30.09142pt too wide) in paragraph at lines 7--8
- \eightit them|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit e
-.\eightit m
-.etc.
-
-
-Overfull \hbox (25.88844pt too wide) in paragraph at lines 7--8
- \eightit into|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit n
-.\eightit t
-.\eightit o
-.etc.
-
-
-Overfull \hbox (22.65742pt too wide) in paragraph at lines 7--8
- \eightit the|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit h
-.\eightit e
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (23.32344pt too wide) in paragraph at lines 7--8
- \eightit im-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit m
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (26.76143pt too wide) in paragraph at lines 7--8
- \eightit pos-|
-
-\hbox(4.3785+1.881)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit p
-.\eightit o
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (19.75945pt too wide) in paragraph at lines 7--8
- \eightit si-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit i
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (24.37642pt too wide) in paragraph at lines 7--8
- \eightit ble. |
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit b
-.\eightit l
-.\eightit e
-.\eightit .
-.etc.
-
-
-Overfull \hbox (26.34743pt too wide) in paragraph at lines 9--9
- [][]\eightit Any|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
+[77]
+Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
+[]\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
+aled (0.02u); pat-ternxstep(.18u);|
+
+\hbox(6.70499+2.245)x452.96786, glue set - 1.0
 .\hbox(0.0+0.0)x0.0
-.\hbox(6.08398+0.17099)x0.0, glue set - 11.00697fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\eightit 3
-..\eightit .
-..\glue 3.90599 plus 5.67 minus 0.252
-.\eightit A
-.\eightit n
+.\rm b
+.\rm e
+.\rm g
+.\rm i
 .etc.
 
-
-Overfull \hbox (24.88043pt too wide) in paragraph at lines 9--9
- \eightit suf-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit s
-.\eightit u
-.\discretionary
-.\eightit f
-.etc.
-
-
-Overfull \hbox (18.64345pt too wide) in paragraph at lines 9--9
- \eightit fi-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit  (ligature fi)
-.\discretionary
-.\eightit -
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (37.48943pt too wide) in paragraph at lines 9--9
- \eightit ciently|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit c
-.\eightit i
-.\eightit e
-.\eightit n
-.etc.
-
-
-Overfull \hbox (23.32344pt too wide) in paragraph at lines 9--9
- \eightit ad-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit a
-.\eightit d
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (38.85742pt too wide) in paragraph at lines 9--9
- \eightit vanced|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit v
-.\eightit a
-.\eightit n
-.\eightit c
-.etc.
-
-
-Overfull \hbox (30.22643pt too wide) in paragraph at lines 9--9
- \eightit tech-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit e
-.\eightit c
-.\eightit h
-.etc.
-
-
-Overfull \hbox (25.82544pt too wide) in paragraph at lines 9--9
- \eightit nol-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit n
-.\eightit o
-.\eightit l
-.\discretionary
-.etc.
-
-
-Overfull \hbox (24.74542pt too wide) in paragraph at lines 9--9
- \eightit ogy|
-
-\hbox(4.3785+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit o
-.\eightit g
-.\eightit y
-.\glue(\rightskip) 0.0
-.etc.
-
-
-Overfull \hbox (16.59145pt too wide) in paragraph at lines 9--9
- \eightit is|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit s
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (21.19945pt too wide) in paragraph at lines 9--9
- \eightit in-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit i
-.\eightit n
-.\discretionary
-.\eightit -
-.etc.
-
-
-Overfull \hbox (25.00644pt too wide) in paragraph at lines 9--9
- \eightit dis-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit d
-.\eightit i
-.\eightit s
-.\discretionary
-.etc.
-
-
-Overfull \hbox (24.22345pt too wide) in paragraph at lines 9--9
- \eightit tin-|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit t
-.\eightit i
-.\eightit n
-.\discretionary
-.etc.
-
-
-Overfull \hbox (34.96042pt too wide) in paragraph at lines 9--9
- \eightit guish-|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit g
-.\eightit u
-.\eightit i
-.\eightit s
-.etc.
-
-
-Overfull \hbox (26.95943pt too wide) in paragraph at lines 9--9
- \eightit able|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit a
-.\eightit b
-.\eightit l
-.\eightit e
-.etc.
-
-
-Overfull \hbox (28.40842pt too wide) in paragraph at lines 9--9
- \eightit from|
-
-\hbox(6.08398+0.17099)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit f
-.\eightit r
-.\eightit o
-.\eightit m
-.etc.
-
-
-Overfull \hbox (36.94942pt too wide) in paragraph at lines 9--9
- \eightit magic. |
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 9.95845
-.\eightit m
-.\eightit a
-.\eightit g
-.\eightit i
-.etc.
-
-
-Overfull \vbox (52.05669pt too high) has occurred while \output is active
-\vbox(680.5899+0.0)x0.0
-.\glue(\topskip) 0.0 plus 60.0
-.\vbox(732.64659+1.55556)x0.0
-..\hbox(0.0+0.0)x0.0
-...\glue(\leftskip) 9.95845
-...\hbox(0.0+0.0)x0.0
-...\glue(\rightskip) 0.0
-...\rule(*+*)x5.0
-..\penalty 10000
-..\glue(\lineskip) 1.0
-..\hbox(5.58334+0.0)x0.0
-...\glue(\leftskip) 9.95845
-...\mit .
-...\mathoff
-...\glue(\rightskip) 0.0
-...\rule(*+*)x5.0
-..\glue(\lineskip) 1.0
-..etc.
-.\kern -1.55556
-.\glue 0.0 plus 1.0fil
-
-
-[79] [80] [81] [82]
-Overfull \hbox (34.41692pt too wide) in paragraph at lines 111--111
+) (ch06.tex [78] [79] [80] [81]
+Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
  [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
 n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
 
 
 \hbox(8.04599+2.37999)x452.96786, glue set - 1.0
-.\glue(\leftskip) 24.0
+.\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
 ..\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1461,220 +253,41 @@ n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
 .\kern-0.12001
 .etc.
 
-[83]
-Overfull \hbox (10.98355pt too wide) in paragraph at lines 179--180
- \rm put. Список текстов и доступных переводов смотрите в файле []\rm thlang/te
-xts.txt[]\rm . |
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 24.0
-.\rm p
-.\rm u
-.\rm t
-.\rm .
-.etc.
-
-[84]
-Overfull \hbox (15.39159pt too wide) in paragraph at lines 192--193
+[82] [83]
+Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
  []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
 
 \hbox(7.25499+2.01)x452.96786, glue set - 1.0
-.\glue(\leftskip) 24.0
+.\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\rm p
 .\rm d
 .\rm f
 .etc.
 
-[85] [86] [87] [88] [89]) (ch07.tex
+[84] [85] [86] [87] [88]) (ch07.tex
 \samplepath=\toks26
- [90]
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.9 \vbox{\hsize=
-                 93.2mm\baselineskip=12pt \rightline{\eightit There is no ro...
+ Warning: skipping the case studies)
+[89] )pdfTeX warning (dest): Page 91 has been referenced but does not exist!
 
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.9 \vbox{\hsize=
-                 93.2mm\baselineskip=12pt \rightline{\eightit There is no ro...
+pdfTeX warning (dest): Page 90 has been referenced but does not exist!
 
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.9 \vbox{\hsize=93.2mm\baselineskip=
-                                     12pt \rightline{\eightit There is no ro...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.9 \vbox{\hsize=93.2mm\baselineskip=
-                                     12pt \rightline{\eightit There is no ro...
-
-? 
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 9--9
- []|
-
-\hbox(0.0+0.0)x0.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (18.00002pt too wide) in paragraph at lines 9--9
- \mit .$|
-
-\hbox(5.58334+0.0)x0.0
-.\glue(\leftskip) 12.0
-.\mit .
-.\mathoff
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (54.86397pt too wide) in paragraph at lines 9--9
- \rm 93.2mm|
-
-\hbox(8.04599+0.228)x0.0
-.\glue(\leftskip) 12.0
-.\rm 9
-.\rm 3
-.\rm .
-.\rm 2
-.etc.
-
-
-Overfull \hbox (18.00002pt too wide) in paragraph at lines 9--9
- \mit .$|
-
-\hbox(5.58334+0.0)x0.0
-.\glue(\leftskip) 12.0
-.\mit .
-.\mathoff
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (35.85597pt too wide) in paragraph at lines 9--9
- \rm 12pt|
-
-\hbox(8.04599+2.412)x0.0
-.\glue(\leftskip) 12.0
-.\rm 1
-.\rm 2
-.\rm p
-.\rm t
-.etc.
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 9--9
- []|
-
-\hbox(6.08398+2.06549)x0.0
-.\glue(\leftskip) 12.0
-.\hbox(6.08398+2.06549)x0.0, glue set - 145.54774fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\eightit T
-..\eightit h
-..\eightit e
-..\eightit r
-..etc.
-.\glue(\rightskip) 0.0
-.\rule(*+*)x5.0
-
-
-Overfull \hbox (277.1797pt too wide) in paragraph at lines 9--9
- [] |
-
-\hbox(14.0003+0.0)x0.0
-.\glue(\leftskip) 12.0
-.\pdfrefximage(14.0003+0.0)x265.1797
-.\penalty 10000
-.\glue(\parfillskip) 0.0 plus 1.0fil
-.\glue(\rightskip) 0.0
-.etc.
-
-\quoteord=\count38
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.15 \newcount\quoteord \quoteord=
-                                  1 \catcode`\"=\active \def"{\ifnum\quoteor...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.15 \newcount\quoteord \quoteord=1 \catcode`\"=
-                                                \active \def"{\ifnum\quoteor...
-
-? 
-! Missing { inserted.
-l.15 ...ord=0``\else\global\quoteord=1\char34 \fi}
-                                                   \catcode`\'=\active \def'...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-=->\ifmmode \eq \else \unskip 
-                              \$\triangleright $ \ignorespaces \fi 
-l.15 ...global\quoteord=1\char34 \fi} \catcode`\'=
-                                                  \active \def'{\ifnum\quote...
-
-? 
-! Missing { inserted.
-l.15 ...eord=0`\else\global\quoteord=1\char39 \fi}
-                                                  
-? 
-)
-! I can't find file `../samples.doc/index.tex'.
-<to be read again> 
-                   \par 
-l.336 
-      
-Please type another input file name: 
-("D:\Program Files\MiKTeX 2.9\tex\latex\tools\.tex" File ignored) [91 <./pic/eu
-clid.pdf>] )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 206 ({)
-### bottom level{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/arc
-haic/givbc10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.
-pfb
+{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
 
 pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
@@ -1692,9 +305,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 764568 bytes).
+Output written on thbook.pdf (89 pages, 755983 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
+ 553 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
