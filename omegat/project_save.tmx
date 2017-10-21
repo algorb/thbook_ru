@@ -2505,6 +2505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not specified, it will be computed from |size| and |overlap| (A; default: |21 29.7 20 28.7 0.5 0.5 cm|) * |page-numbers &lt;on/off&gt;| = turn on/off page numbering (A; default: |true|) * |exclude-pages &lt;on/off&gt; &lt;list&gt;| = exclude specified pages from cave atlas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191833Z" creationid="Алексей" creationdate="20171021T191833Z">
+        <seg>Если не указано, то размеры будут вычислены из |size| и |overlap| (A; по умолчанию: |21 29,7 20 28,7 0,5 0,5 см|). * |page-numbers &lt;on/off&gt;| = включить/выключить нумерацию страниц (A; по умолчанию: |on|). * |exclude-pages &lt;on/off&gt; &lt;список&gt;| = исключить указанные страницы из атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not specified, it's oriented to north.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040345Z" creationid="Алексей" creationdate="20170924T040345Z">
