@@ -552,6 +552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;object&gt;| = any survey or map, identified by its ID.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060619Z" creationid="Алексей" creationdate="20171021T060432Z">
+        <seg>* |&lt;объект&gt;| = любая съемка или карта, имеющие идентификатор ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;type&gt;| determines the type of an object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023708Z" creationid="Алексей" creationdate="20170923T023701Z">
@@ -1700,8 +1708,8 @@
       <tuv lang="EN-US">
         <seg>By default, all survey objects are selected.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055904Z" creationid="Алексей" creationdate="20171021T055904Z">
-        <seg>По умолчанию выбираются все объекты съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060310Z" creationid="Алексей" creationdate="20171021T055904Z">
+        <seg>По умолчанию выбира\-ются все объекты съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6225,8 +6233,8 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|select &lt;object&gt; [OPTIONS]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060227Z" creationid="Алексей" creationdate="20171021T060227Z">
-        <seg>|select &lt;object&gt; [OPTIONS]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060427Z" creationid="Алексей" creationdate="20171021T060227Z">
+        <seg>|select &lt;объект&gt; [ОПЦИИ]|</seg>
       </tuv>
     </tu>
     <tu>
