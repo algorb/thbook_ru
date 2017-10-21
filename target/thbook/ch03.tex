@@ -151,9 +151,9 @@
 	rotate <число>
 	symbol-set <набор символов>
 	symbol-assign <point/line/area/group/special> <тип символа> <набор символов>
-	symbol-hide <point/line/area/group/special> <symbol-type>
-	symbol-show <point/line/area/group/special> <symbol-type>
-	symbol-colour <point/line/area/group/special> <symbol-type> <colour>
+	symbol-hide <point/line/area/group/special> <тип символа>
+	symbol-show <point/line/area/group/special> <тип символа>
+	symbol-colour <point/line/area/group/special> <тип символа> <colour>
 	min-symbol-scale <scale>
 	fonts-setup <tinysize> <smallsize> <normalsize> <largesize> <hugesize>
 	size <width> <height> <units>
@@ -221,13 +221,13 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 
 Есть два специальных символа: north-arrow (стрелка на север), scale-bar (шкала масштаба). 
 
-* |symbol-hide <point/line/area/group/special> <symbol-type>| = don't display particular symbol or group of symbols. 
+* |symbol-hide <point/line/area/group/special> <тип символа>| = не отображать конкретный символ или группу символов. 
 
-You may use |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| and \NEW{5.4}|group text| in |symbol-hide| and |symbol-show| commands. 
+Вы можете использовать |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| и \NEW{5.4}|group text| в командах |symbol-hide| и |symbol-show|. 
 
-Use |flag:<entrance/continuation/sink/spring/doline/dig>| as a |<symbol-type>| to hide stations with particular flags (e.g. |symbol-hide point flag:entrance|). 
+Используйте |flag:<entrance/continuation/sink/spring/doline/dig>| как |<тип символа>| скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|). 
 
-May be combined with |symbol-show|.(M, A) * |symbol-show <point/line/area/group/special> <symbol-type>| = display particular symbol or group of symbols. May be combined with |symbol-hide|. (M, A). 
+Может комбинироваться с |symbol-show|. (M, A). * |symbol-show <point/line/area/group/special> <тип символа>| = отображать определенный символ или группу символов. Может комбинироваться с |symbol-hide|. (M, A). 
 
 * \NEW{5.3}|symbol-colo[u]r <point/line/area/group/special> <symbol-type> <colour>| = change colour of particular symbol or group of symbols.\[Note: colour change currently applies to pattern fills only if (1) output format is PDF and (2)~\MP\ version is at least 1.000] (M, A) 
 
