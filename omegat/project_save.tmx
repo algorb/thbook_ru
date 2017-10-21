@@ -2685,6 +2685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to type (some small snippets of) code directly in configuration file using the multi-line syntax.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055239Z" creationid="Алексей" creationdate="20171021T055239Z">
+        <seg>Также можно ввести некоторые небольшие фрагменты кода непосредственно в файле конфигурации, используя многострочный синтаксис.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161641Z" creationid="Алексей" creationdate="20170910T134329Z">
@@ -3416,6 +3424,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054350Z" creationid="Алексей" creationdate="20171021T054350Z">
         <seg>Указывает, какой алгоритм преобразования скрапа (морфинг) использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies which source (data) files Therion should read.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055111Z" creationid="Алексей" creationdate="20171021T055111Z">
+        <seg>Указывает, какие файлы съемки (данных) Therion должны читать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Works like |input| command in data files---includes other files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055016Z" creationid="Алексей" creationdate="20171021T055016Z">
+        <seg>Работает как команда |input| в файлах данных -- подключает другие файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XTherion doesn't do any syntax checking; it only writes drawn objects with their attributes to a text file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172255Z" creationid="Алексей" creationdate="20170913T172255Z">
@@ -4687,6 +4711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also specify them using the |-s| command line option (see below).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055201Z" creationid="Алексей" creationdate="20171021T055201Z">
+        <seg>Вы также можете указать их с помощью опции |-s| командной строки (см. ниже).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can specify grades only for position or only for surveys.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044457Z" creationid="Алексей" creationdate="20170920T044244Z">
@@ -4699,6 +4731,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T025107Z" creationid="Алексей" creationdate="20170923T025107Z">
         <seg>Вы можете указать ее через опцию |-scrap|.], |dimensions|&lt;u3&gt;Используя опцию |-value| можно указать размеры хода выше/ниже плоскости нитки хода, используемой при создании 3D-модели.];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify several files here; one per line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055123Z" creationid="Алексей" creationdate="20171021T055123Z">
+        <seg>Здесь вы можете указать несколько файлов; по одной в каждой строке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4899,6 +4939,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054311Z" creationid="Алексей" creationdate="20171021T054311Z">
         <seg>`sketch-warp'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`source'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055020Z" creationid="Алексей" creationdate="20171021T055020Z">
+        <seg>`source'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6123,6 +6171,14 @@ end of file|</seg>
         <seg>|scrap &lt;id&gt; [ОПЦИИ]
 						... команды точек, линий и областей ...
 					endscrap [&lt;id&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|source &lt;file-name&gt;|&lt;u1&gt;&lt;u6&gt; or&lt;u2&gt;&lt;u7&gt; |source|&lt;u3&gt;&lt;u8&gt; {&lt;u10&gt;&lt;u11&gt;&lt;u12&gt; therion commands&lt;u13&gt;}&lt;u4&gt;&lt;u9&gt; |endsource|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055244Z" creationid="Алексей" creationdate="20171021T055244Z">
+        <seg>|source &lt;file-name&gt;|&lt;u1&gt;&lt;u6&gt; or&lt;u2&gt;&lt;u7&gt; |source|&lt;u3&gt;&lt;u8&gt; {&lt;u10&gt;&lt;u11&gt;&lt;u12&gt; therion commands&lt;u13&gt;}&lt;u4&gt;&lt;u9&gt; |endsource|</seg>
       </tuv>
     </tu>
     <tu>
