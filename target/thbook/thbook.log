@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 18:44
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,74 +89,21 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
-(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52]
-Overfull \hbox (32.7214pt too wide) in paragraph at lines 148--149
-\rm ric/imperial> ro-tate <num-ber> symbol-set <symbol-set> symbol-assign <poin
-t/line/area/group/special>|
+(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53]
+Overfull \hbox (63.93132pt too wide) in paragraph at lines 154--155
+[]    \rm symbol-hide <point/line/area/group/special> <symbol-type> symbol-show
+ <point/line/area/group/special>|
 
 \hbox(6.94+2.37999)x452.96786, glue set - 1.0
-.\rm r
-.\rm i
-.\rm c
-.\rm /
-.\rm i
+.\hbox(0.0+0.0)x0.0
+.\glue 3.59999 plus 2.15999 minus 0.86
+.\glue 3.59999 plus 2.15999 minus 0.86
+.\glue 3.59999 plus 2.15999 minus 0.86
+.\glue 3.59999 plus 2.15999 minus 0.86
 .etc.
 
 
-Overfull \hbox (61.95135pt too wide) in paragraph at lines 148--149
-\rm symbol-show <point/line/area/group/special> <symbol-type> symbol-colour <po
-int/line/area/group/special>|
-
-\hbox(6.94+2.37999)x452.96786, glue set - 1.0
-.\rm s
-.\rm y
-.\rm m
-.\rm b
-.\rm o
-.etc.
-
-
-Overfull \hbox (50.7915pt too wide) in paragraph at lines 148--149
-\rm sur-face <top/bottom/off> surface-opacity <value> sketches <on/off> lay-ers
- <on/off> grid <off/top/bottom>|
-
-\hbox(6.94+2.37999)x452.96786, glue set - 1.0
-.\rm s
-.\rm u
-.\rm r
-.\discretionary
-..\rm -
-.\rm f
-.etc.
-
-
-Overfull \hbox (5.42154pt too wide) in paragraph at lines 148--149
-\rm <on/off> leg-end <on/off/all> legend-columns <num-ber> legend-width <n> <un
-its> map-comment|
-
-\hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\rm <
-.\rm o
-.\kern-0.1
-.\rm n
-.\rm /
-.etc.
-
-
-Overfull \hbox (36.1415pt too wide) in paragraph at lines 148--149
-\rm map-image <x> <y> <n/s/e/w/ne/nw/se/sw/center> <file-name> statis-tics <ex-
-plo/topo/carto/copyright|
-
-\hbox(6.94+2.37999)x452.96786, glue set - 1.0
-.\rm m
-.\rm a
-.\rm p
-.\rm -
-.\discretionary
-.etc.
-
-
-Overfull \hbox (16.00151pt too wide) in paragraph at lines 148--149
+Overfull \hbox (16.00151pt too wide) in paragraph at lines 154--155
 \rm lan-guage <xx[_YY]> colour/color <item> <colour> de-bug <on/all/first/secon
 d/scrap-names/station-|
 
@@ -169,8 +116,8 @@ d/scrap-names/station-|
 .\rm g
 .etc.
 
-[53] [54] [55] [56] [57] [MP to PDF] (mp/page.1) [58] [59 <./pic/page.pdf>]
-[60] [61] [62]) (ch04.tex [63]
+[54] [55] [56] [57] [58] [MP to PDF] (mp/page.1) [59 <./pic/page.pdf>] [60]
+[61] [62]) (ch04.tex [63]
 Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
 \rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
 real, ADJ_BEARING|
@@ -380,7 +327,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (88 pages, 754818 bytes).
+Output written on thbook.pdf (88 pages, 754555 bytes).
 PDF statistics:
  547 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
