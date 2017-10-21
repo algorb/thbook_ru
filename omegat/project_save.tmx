@@ -3066,6 +3066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051823Z" creationid="Алексей" creationdate="20171021T051823Z">
+        <seg>Обработка данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Program names are in roman font, data files in italics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185646Z" creationid="Алексей" creationdate="20170909T185646Z">
