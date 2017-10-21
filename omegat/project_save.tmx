@@ -1491,8 +1491,8 @@
       <tuv lang="EN-US">
         <seg>Allows to execute system commands during therion compilation.&lt;u1&gt;E.g. to open or refresh external PDF viewer.] Normally Therion waits until the subprocess is finished.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053114Z" creationid="Алексей" creationdate="20171021T053114Z">
-        <seg>Позволяет выполнять системные команды во время компиляции.&lt;u1&gt;Например, чтобы открыть или обновить внешний просмоторщик PDF.] Обычно Therion ожидает завершения подпроцесса.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053427Z" creationid="Алексей" creationdate="20171021T053114Z">
+        <seg>Позволяет выполнять системные команды во время компиляции&lt;u1&gt;Например, чтобы открыть или обновить внешний просмоторщик PDF.]. Обычно Therion ожидает завершения подпроцесса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,8 +2446,8 @@
       <tuv lang="EN-US">
         <seg>If you want to continue compilation without break, use |&lt;command&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053159Z" creationid="Алексей" creationdate="20171021T053159Z">
-        <seg>Если вы хотите продолжить компиляцию без ожидания, используйте команду |&lt;command&gt;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053344Z" creationid="Алексей" creationdate="20171021T053159Z">
+        <seg>Если вы хотите продолжить ком\-пиляцию без ожидания, используйте команду |&lt;command&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4522,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170252Z" creationid="Алексей" creationdate="20170909T162009Z">
         <seg>Установщик для Windows включает все необходимые пакеты, за ис\-клю\-че\-нием {ghostscript}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works like the |encoding| command in data files---specifies character sets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053755Z" creationid="Алексей" creationdate="20171021T053755Z">
+        <seg>Работает аналогично команде |encoding| в файлах данных -- задает кодировку символов.</seg>
       </tuv>
     </tu>
     <tu>
