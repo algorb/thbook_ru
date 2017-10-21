@@ -2444,6 +2444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to continue compilation without break, use |&lt;command&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053159Z" creationid="Алексей" creationdate="20171021T053159Z">
+        <seg>Если вы хотите продолжить компиляцию без ожидания, используйте команду |&lt;command&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to explicitly set the declination for undated survey data, use `|-|' instead of date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155738Z" creationid="Алексей" creationdate="20170911T155738Z">
@@ -5628,6 +5636,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195228Z" creationid="Алексей" creationdate="20170909T195228Z">
         <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>| syntax on Linux and |start &lt;command&gt;| syntax on Windows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053241Z" creationid="Алексей" creationdate="20171021T053207Z">
+        <seg>| для Linux и |start &lt;command&gt;| для Windows.</seg>
       </tuv>
     </tu>
     <tu>
