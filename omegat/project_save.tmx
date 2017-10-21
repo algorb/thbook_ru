@@ -4582,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When exporting maps in different projections, you need to select them for each projection separately.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060217Z" creationid="Алексей" creationdate="20171021T060217Z">
+        <seg>При экспорте карт в разных проекциях вам нужно выбирать их для каждой проекции отдельно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190214Z" creationid="Алексей" creationdate="20170909T185305Z">
@@ -6211,6 +6219,14 @@ end of file|</seg>
         <seg>|scrap &lt;id&gt; [ОПЦИИ]
 						... команды точек, линий и областей ...
 					endscrap [&lt;id&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|select &lt;object&gt; [OPTIONS]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060227Z" creationid="Алексей" creationdate="20171021T060227Z">
+        <seg>|select &lt;object&gt; [OPTIONS]|</seg>
       </tuv>
     </tu>
     <tu>
