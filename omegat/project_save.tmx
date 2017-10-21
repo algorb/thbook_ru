@@ -2276,8 +2276,8 @@
       <tuv lang="EN-US">
         <seg>Group may be one of the following: all, centerline, sections, &lt;u0&gt;{5.3}water, speleothems, passage-fills, &lt;u1&gt;{5.4}ice, sediments, equipment.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130818Z" creationid="Алексей" creationdate="20171021T130234Z">
-        <seg>Группа (group) может быть одной из следующих: all (все), centerline (нитка хода), sections (сечения), &lt;u0&gt;{5.3}water (вода), speleothems (спелеотемы), passage-fills (рельеф хода), &lt;u1&gt;{5.4} ice (лед), sediments (отложения), equipment (оборудование).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T131037Z" creationid="Алексей" creationdate="20171021T130234Z">
+        <seg>Группа (group) может быть одной из следующих: all (все), centerline (нитка хода), sections (сечения), &lt;u0&gt;{5.3}water (вода), speleothems (спелеотемы), passage-fills (рельеф хода), &lt;u1&gt;{5.4} ice (лед), sediments (отложения), equipment (оборудова\-ние).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4259,8 +4259,8 @@
       <tuv lang="EN-US">
         <seg>There are two special symbols: north-arrow, scale-bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130240Z" creationid="Алексей" creationdate="20171021T130240Z">
-        <seg>Есть два специальных символа: северная стрелка, шкала.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T131010Z" creationid="Алексей" creationdate="20171021T130240Z">
+        <seg>Есть два специальных символа: north-arrow (стрелка на север), scale-bar (шкала масштаба).</seg>
       </tuv>
     </tu>
     <tu>
