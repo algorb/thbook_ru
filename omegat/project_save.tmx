@@ -1489,6 +1489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows to execute system commands during therion compilation.&lt;u1&gt;E.g. to open or refresh external PDF viewer.] Normally Therion waits until the subprocess is finished.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053114Z" creationid="Алексей" creationdate="20171021T053114Z">
+        <seg>Позволяет выполнять системные команды во время компиляции.&lt;u1&gt;Например, чтобы открыть или обновить внешний просмоторщик PDF.] Обычно Therion ожидает завершения подпроцесса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Almost every coordinate system used worldwide has its own EPSG number.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133302Z" creationid="Алексей" creationdate="20170910T132409Z">
@@ -2666,6 +2674,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173551Z" creationid="Алексей" creationdate="20170912T173551Z">
         <seg>Можно написать лучшую, более удобную для пользователя, более WYSIWYG, быструю, более надежную и удобную в использовании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is read like any other therion file (i.e. one command per line; empty lines or lines starting with `|#|' are ignored; lines ended with a backslash continue on the next line.) A list of currently supported commands follow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052417Z" creationid="Алексей" creationdate="20171021T052305Z">
+        <seg>Он обрабатывается как любой другой файл (т.е. одна команда на строку, пустые строки или строки, начинающиеся с `|#|', игнори\-руются; строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке.) Ниже список поддерживаемых в данный момент команд.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,6 +4803,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151114Z" creationid="Алексей" creationdate="20170911T151114Z">
         <seg>`survey'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`system'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052448Z" creationid="Алексей" creationdate="20171021T052448Z">
+        <seg>`system'.</seg>
       </tuv>
     </tu>
     <tu>
