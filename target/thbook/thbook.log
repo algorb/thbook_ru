@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 18:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 OCT 2017 18:48
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -89,35 +89,9 @@ grid-flip (none)/vertical/horizontal|
 .etc.
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48])
-(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53]
-Overfull \hbox (63.93132pt too wide) in paragraph at lines 154--155
-[]    \rm symbol-hide <point/line/area/group/special> <symbol-type> symbol-show
- <point/line/area/group/special>|
-
-\hbox(6.94+2.37999)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\glue 3.59999 plus 2.15999 minus 0.86
-.\glue 3.59999 plus 2.15999 minus 0.86
-.\glue 3.59999 plus 2.15999 minus 0.86
-.\glue 3.59999 plus 2.15999 minus 0.86
-.etc.
-
-
-Overfull \hbox (16.00151pt too wide) in paragraph at lines 154--155
-\rm lan-guage <xx[_YY]> colour/color <item> <colour> de-bug <on/all/first/secon
-d/scrap-names/station-|
-
-\hbox(6.94+2.245)x452.96786, glue set - 1.0
-.\rm l
-.\rm a
-.\rm n
-.\discretionary
-..\rm -
-.\rm g
-.etc.
-
-[54] [55] [56] [57] [58] [MP to PDF] (mp/page.1) [59 <./pic/page.pdf>] [60]
-[61] [62]) (ch04.tex [63]
+(ch03.tex [49] [50 <./pic/herakl.pdf>] [51] [52] [53] [54] [55] [56] [57]
+[58] [MP to PDF] (mp/page.1) [59] [60 <./pic/page.pdf>] [61] [62] [63])
+(ch04.tex [64]
 Overfull \hbox (13.85172pt too wide) in paragraph at lines 23--24
 \rm LINE_ID in-te-ger, LENGTH real, BEAR-ING real, GRA-DI-ENT real, ADJ_LENGTH 
 real, ADJ_BEARING|
@@ -130,7 +104,7 @@ real, ADJ_BEARING|
 .\rm _
 .etc.
 
-[64] [65 <./pic/database.pdf>]
+[65] [66 <./pic/database.pdf>]
 Overfull \hbox (8.61166pt too wide) in paragraph at lines 42--43
 []\rm select TI-TLE from SUR-VEY where ID in (se-lect SUR-VEY_ID from CEN-TRE-L
 INE where TOPO_DATE|
@@ -143,7 +117,7 @@ INE where TOPO_DATE|
 .\rm e
 .etc.
 
-[66]) (ch05.tex [67] [68 <./pic/thom.jpg>] [69]
+[67]) (ch05.tex [68] [69 <./pic/thom.jpg>] [70]
 Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
  []\rm \def\processpointeritem#1[]|[]#2[]|[]#3\endarg{ \hbox{\pdfstartlink attr
  {/Bor-der [0 0 0]} goto name|
@@ -156,7 +130,7 @@ Overfull \hbox (0.51154pt too wide) in paragraph at lines 100--101
 .\kern-0.1
 .etc.
 
-[70]
+[71]
 Overfull \hbox (26.2614pt too wide) in paragraph at lines 150--150
 []\rm \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
@@ -221,7 +195,7 @@ w$} \show-point-erlist\pointerD|
 .\rm p
 .etc.
 
-[71] [72]
+[72] [73]
 Overfull \hbox (1.81157pt too wide) in paragraph at lines 206--207
 []\rm code tex-map \leg-end-width=20cm \leg-end-text-color={\color[0 0 100]} \l
 eg-end-text-size={\size[20]}|
@@ -234,7 +208,7 @@ eg-end-text-size={\size[20]}|
 .\kern-0.1
 .etc.
 
-[73] [74] [75]
+[74] [75] [76]
 Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 []\rm def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; end
 -def; init-sym-bol("l_wall_bedrock_UIS");[] |
@@ -247,7 +221,7 @@ Overfull \hbox (71.49147pt too wide) in paragraph at lines 284--285
 .\rm f
 .etc.
 
-[76]
+[77]
 Overfull \hbox (32.87144pt too wide) in paragraph at lines 308--308
 []\rm beginpattern(pattern_water_UIS); draw origin--10up with-pen pen-square sc
 aled (0.02u); pat-ternxstep(.18u);|
@@ -260,7 +234,7 @@ aled (0.02u); pat-ternxstep(.18u);|
 .\rm i
 .etc.
 
-) (ch06.tex [77] [78] [79] [80]
+) (ch06.tex [78] [79] [80] [81]
 Overfull \hbox (22.41692pt too wide) in paragraph at lines 111--111
  [][]\rm on Win-dows: []\rm .[]\rm , []\rm $THE-RION[]\rm , []\rm $HOME\.therio
 n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
@@ -279,7 +253,7 @@ n[]\rm , []\rm <Therion-installation-directory>[]\rm , []\rm C:\WINDOWS[]\rm ,|
 .\kern-0.12001
 .etc.
 
-[81] [82]
+[82] [83]
 Overfull \hbox (3.39159pt too wide) in paragraph at lines 192--193
  []\rm pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
@@ -292,10 +266,10 @@ tf" \"/usr/share/fonts/Serif-|
 .\rm f
 .etc.
 
-[83] [84] [85] [86] [87]) (ch07.tex
+[84] [85] [86] [87] [88]) (ch07.tex
 \samplepath=\toks26
  Warning: skipping the case studies)
-[88] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
+[89] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
@@ -327,9 +301,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (88 pages, 754555 bytes).
+Output written on thbook.pdf (89 pages, 754940 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
+ 550 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
