@@ -554,8 +554,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;language ID&gt;| = standard ISO language identifier (e.g. |en| or |en_GB|) * |&lt;therion text&gt;| = therion text to translate.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111443Z" creationid="Алексей" creationdate="20171021T111312Z">
-        <seg>* |&lt;language ID&gt;| = стандартный идентификатор языка ISO (например, |en| или |en_GB|) * |&lt;therion текст&gt;| = текст Therion'а для перевода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111709Z" creationid="Алексей" creationdate="20171021T111312Z">
+        <seg>* |&lt;ID языка&gt;| = стандартный идентификатор языка ISO (например, |en| или |en_GB|) * |&lt;therion текст&gt;| = текст Therion'а для перевода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For list of therion texts and available translations, see |thlang/texts.txt| file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111534Z" creationid="Алексей" creationdate="20171021T111534Z">
+        <seg>Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For modifying previously-created commands, there are additional menus---e.g. {&lt;u0&gt; Scrap control} for the |scrap| command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151717Z" creationid="Алексей" creationdate="20170913T150046Z">
@@ -3534,8 +3542,8 @@
       <tuv lang="EN-US">
         <seg>Specifies translation of any default therion text in output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111253Z" creationid="Алексей" creationdate="20171021T111253Z">
-        <seg>Задает перевод текста по умолчанию на выходе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111552Z" creationid="Алексей" creationdate="20171021T111253Z">
+        <seg>Задает перевод текста по умолчанию для вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5047,6 +5055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`layout'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111714Z" creationid="Алексей" creationdate="20171021T111714Z">
+        <seg>`layout'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`line'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064333Z" creationid="Алексей" creationdate="20170924T064333Z">
@@ -6395,8 +6411,8 @@ endsurvey [&lt;id&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>|text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111257Z" creationid="Алексей" creationdate="20171021T111257Z">
-        <seg>|text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111653Z" creationid="Алексей" creationdate="20171021T111257Z">
+        <seg>|text &lt;ID языка&gt; &lt;therion текст&gt; &lt;перевод&gt;|</seg>
       </tuv>
     </tu>
     <tu>
