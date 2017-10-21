@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A) * |title-pages &lt;on/off&gt;| = turn on/off title pages before each atlas chapter (A; default: |off|) * |nav-factor &lt;factor&gt;| = set atlas navigator zoom factor (A; default: |30|) * |nav-size &lt;x-size&gt; &lt;y-size&gt;| = set number of atlas pages in both directions of navigator (A; default: |2 2|) * |transparency &lt;on/off&gt;| = set transparency for the passages (underlying passages are also visible) (M, A; default: |on|) * |opacity &lt;value&gt;| = set opacity value (used if |transparency| is |on|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T193446Z" creationid="Алексей" creationdate="20171021T193446Z">
+        <seg>(A). * |title-pages &lt;on/off&gt;| = включение/выключение титульных страниц перед каждой главой атласа (A; по умолчанию: |off|). * |nav-factor &lt;фактор&gt;| = установить коэффициент масштабирования навигатора атласа (A; по умолчанию: |30|). * |nav-size &lt;x-размер&gt; &lt;y-размер&gt;| = установить количество страниц атласа в обоих направлениях навигатора (A; по умолчанию: |2 2|). * |transparency &lt;on/off&gt;| = установить прозрачность для ходов (отображаются только видимые ходы) (M, A; по умолчанию: |on|). * |opacity &lt;значение&gt; | = установить значение непрозрачности (используется, если |transparent| установлен в |on|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Cf. chapter {&lt;u2&gt; Data format}).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143928Z" creationid="Алексей" creationdate="20170913T143928Z">
@@ -144,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>(Set |own-pages 0| and |title-pages off| to get the correct page numbers to be excluded.) Changes of |own-pages| or |title-pages| options don't affect page excluding.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192432Z" creationid="Алексей" creationdate="20171021T192117Z">
-        <seg>(Установите |own-pages 0| и |title-pages off| чтобы получить корректные номера страниц после исключения.) Изменения опций |own-pages| или |title-pages| не влияют на исключение страниц.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T193022Z" creationid="Алексей" creationdate="20171021T192117Z">
+        <seg>(Установите |own-pages 0| и |title-pages off| чтобы получить корректные номера страниц после исключения). Изменения опций |own-pages| или |title-pages| не влияют на исключение страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,8 +2523,8 @@
       <tuv lang="EN-US">
         <seg>If not specified, it will be computed from |size| and |overlap| (A; default: |21 29.7 20 28.7 0.5 0.5 cm|) * |page-numbers &lt;on/off&gt;| = turn on/off page numbering (A; default: |true|) * |exclude-pages &lt;on/off&gt; &lt;list&gt;| = exclude specified pages from cave atlas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191833Z" creationid="Алексей" creationdate="20171021T191833Z">
-        <seg>Если не указано, то размеры будут вычислены из |size| и |overlap| (A; по умолчанию: |21 29,7 20 28,7 0,5 0,5 см|). * |page-numbers &lt;on/off&gt;| = включить/выключить нумерацию страниц (A; по умолчанию: |on|). * |exclude-pages &lt;on/off&gt; &lt;список&gt;| = исключить указанные страницы из атласа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192838Z" creationid="Алексей" creationdate="20171021T191833Z">
+        <seg>Если не указано, то размеры будут вычислены из |size| и |overlap| (A; по умолчанию: |21 29,7 20 28,7 0,5 0,5 см|). * |page-numbers &lt;on/off&gt;| = включить/выключить нумерацию страниц (A; по умолчанию: |on|). * |exclude-pages &lt;on/off&gt; &lt;список&gt;| = исключить указанные страницы из ат\-ласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,8 +2838,8 @@
       <tuv lang="EN-US">
         <seg>In map mode applies iff |page-grid| is |on| (M, A; default: |18 22.2 cm|) * |overlap &lt;value&gt; &lt;units&gt;| = set overlap size in paper units in the atlas mode or map margin in the map mode (M, A; default: |1 cm|) * |page-setup &lt;dimensions&gt; &lt;units&gt;| = set page dimensions in this order: paper-width, paper-height, page-width, page-height, left-margin and top-margin.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191631Z" creationid="Алексей" creationdate="20171021T191631Z">
-        <seg>В режиме карты применяется, если |page-grid| установлен в |on| (M, A; по умолчанию: |18 22,2 см|). * |overlap &lt;значение&gt; &lt;единицы&gt;| = установить размер перекрытия в единицах в режиме атласа или поля карты в режиме карты (M, A; по умолчанию: |1 см|). * |page-setup &lt;размеры&gt; &lt;единицы&gt;| = установить размеры страницы в таком порядке: ширина бумаги, высота бумаги, ширина страницы, высота страницы, левое поле и верхнее поле.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192745Z" creationid="Алексей" creationdate="20171021T191631Z">
+        <seg>Применяется в режиме карты, если |page-grid| установлен в |on| (M, A; по умолчанию: |18 22,2 см|). * |overlap &lt;значение&gt; &lt;единицы&gt;| = установить размер перекрытия в едини\-цах в режиме атласа или поля карты в режиме карты (M, A; по умолчанию: |1 см|). * |page-setup &lt;размеры&gt; &lt;единицы&gt;| = установить размеры страницы в таком порядке: ширина бумаги, высота бумаги, ширина страницы, высота стра\-ницы, левое поле и верхнее поле.</seg>
       </tuv>
     </tu>
     <tu>
