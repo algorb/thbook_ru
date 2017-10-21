@@ -857,6 +857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |map-level &lt;number&gt;| = valid only when a map is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061022Z" creationid="Алексей" creationdate="20171021T061000Z">
+        <seg>* |map-level &lt;число&gt;| = действует только при выборе карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |name &lt;reference&gt;| = if the point type is station, this option gives the reference to the real survey station.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051333Z" creationid="Алексей" creationdate="20170924T050145Z">
@@ -1706,6 +1714,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default 0 is used; if `basic' is specified, expansion is done up to the basic maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061202Z" creationid="Алексей" creationdate="20171021T061202Z">
+        <seg>По умолчанию используется 0; если указано `basic', расширение выполняется до основных карт (т.е. все).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default Therion searches for file named |thconfig| in the current working directory.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052113Z" creationid="Алексей" creationdate="20171021T052053Z">
@@ -1838,6 +1854,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
         <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determines the level at which map expansion for atlas export is stopped.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061047Z" creationid="Алексей" creationdate="20171021T061047Z">
+        <seg>Определяет уровень, на котором прекращается расширение карты для экспорта в виде атласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5412,6 +5436,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180816Z" creationid="Алексей" creationdate="20170909T180816Z">
         <seg>{&lt;u0&gt; Установка в Windows:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Note:} Map previews are displayed only as specified in maps in the current |map-level|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061245Z" creationid="Алексей" creationdate="20171021T061214Z">
+        <seg>{&lt;u0&gt; Note:} Предварительный просмотр карт отображается только в соответствии с картами в текущем |map-level|.</seg>
       </tuv>
     </tu>
     <tu>
