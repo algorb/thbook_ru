@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Set |own-pages 0| and |title-pages off| to get the correct page numbers to be excluded.) Changes of |own-pages| or |title-pages| options don't affect page excluding.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192117Z" creationid="Алексей" creationdate="20171021T192117Z">
+        <seg>(Установите |own-pages 0| и |title-pages off| чтобы исключить правильные номера страниц.) Изменения | собственных страниц | или | титульные листы | параметры не влияют на страницу исключая.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is usual for cross sections.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010145Z" creationid="Алексей" creationdate="20170912T172537Z">
@@ -3409,6 +3417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only the map pages should be counted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192005Z" creationid="Алексей" creationdate="20171021T192005Z">
+        <seg>Следует учитывать только карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only visible symbols are exported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143602Z" creationid="Алексей" creationdate="20170919T143602Z">
@@ -4039,6 +4055,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164647Z" creationid="Алексей" creationdate="20170913T164647Z">
         <seg>Линия будет завершена после выхода из режима вставки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list may contain page numbers separated by a comma or dash (for intervals) e.g. |2,4-7,9,23| means, that pages 2, 4, 5, 6, 7, 9 and 23 should be omitted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191938Z" creationid="Алексей" creationdate="20171021T191938Z">
+        <seg>Список может содержать номера страниц, разделенные запятой или тире (для интервалов), например, |2,4-7,9,23| означает, что страницы 2, 4, 5, 6, 7, 9 и 23 должны не выводиться.</seg>
       </tuv>
     </tu>
     <tu>
