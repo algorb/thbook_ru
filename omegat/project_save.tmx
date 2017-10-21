@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>(Set |own-pages 0| and |title-pages off| to get the correct page numbers to be excluded.) Changes of |own-pages| or |title-pages| options don't affect page excluding.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192117Z" creationid="Алексей" creationdate="20171021T192117Z">
-        <seg>(Установите |own-pages 0| и |title-pages off| чтобы исключить правильные номера страниц.) Изменения | собственных страниц | или | титульные листы | параметры не влияют на страницу исключая.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192432Z" creationid="Алексей" creationdate="20171021T192117Z">
+        <seg>(Установите |own-pages 0| и |title-pages off| чтобы получить корректные номера страниц после исключения.) Изменения опций |own-pages| или |title-pages| не влияют на исключение страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3419,8 +3419,8 @@
       <tuv lang="EN-US">
         <seg>Only the map pages should be counted.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192005Z" creationid="Алексей" creationdate="20171021T192005Z">
-        <seg>Следует учитывать только карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192145Z" creationid="Алексей" creationdate="20171021T192005Z">
+        <seg>Только страницы карты должны подсчитываться.</seg>
       </tuv>
     </tu>
     <tu>
