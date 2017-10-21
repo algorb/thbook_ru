@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>(M, A) * |rotate &lt;value&gt;| = rotates the map (M, A; default: |0|) * |units &lt;metric/imperial&gt;| = set output units (M, A; default: |metric|) * |symbol-set &lt;symbol-set&gt;| = use |symbol-set| for all map symbols, if available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122440Z" creationid="Алексей" creationdate="20171021T121720Z">
-        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184334Z" creationid="Алексей" creationdate="20171021T121720Z">
+        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по умолча\-нию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -505,8 +505,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = display a particular symbol in the given symbol-set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130040Z" creationid="Алексей" creationdate="20171021T125245Z">
-        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор символа&gt;| = отобра\-жение определенного символа в заданном наборе символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184445Z" creationid="Алексей" creationdate="20171021T125245Z">
+        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор\break символа&gt;| = отобра\-жение определенного символа в заданном наборе символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6483,7 +6483,7 @@ endsurvey|</seg>
       <tuv lang="EN-US">
         <seg>|layout &lt;id&gt; [OPTIONS] copy &lt;source layout id&gt; cs &lt;coordinate system&gt; north &lt;true/grid&gt; scale &lt;picture length&gt; &lt;real length&gt; base-scale &lt;picture length&gt; &lt;real length&gt; units &lt;metric/imperial&gt; rotate &lt;number&gt; symbol-set &lt;symbol-set&gt; symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;u0&gt; &lt;symbol-set&gt; symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-colour &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt; min-symbol-scale &lt;scale&gt; fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt; size &lt;width&gt; &lt;height&gt; &lt;units&gt; overlap &lt;value&gt; &lt;units&gt; page-setup &lt;dimensions&gt; &lt;units&gt; page-numbers &lt;on/off&gt; exclude-pages &lt;on/off&gt; &lt;list&gt; title-pages &lt;on/off&gt; nav-factor &lt;factor&gt; nav-size &lt;x-size&gt; &lt;y-size&gt; transparency &lt;on/off&gt; opacity &lt;value&gt; surface &lt;top/bottom/off&gt; surface-opacity &lt;value&gt; sketches &lt;on/off&gt; layers &lt;on/off&gt; grid &lt;off/top/bottom&gt; grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt; grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; grid-coords &lt;off/border/all&gt; origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; origin-label &lt;x-label&gt; &lt;y-label&gt; own-pages &lt;number&gt; page-grid &lt;on/off&gt; legend &lt;on/off/all&gt; legend-columns &lt;number&gt; legend-width &lt;n&gt; &lt;units&gt; map-comment &lt;string&gt; map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt; map-header-bg &lt;on/off&gt; map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt; statistics &lt;explo/topo/carto/copyright all/off/number&gt; &lt;explo/topo-length on/off&gt; scale-bar &lt;length&gt; &lt;units&gt; survey-level &lt;N/all&gt; language &lt;xx[_YY]&gt; colour/color &lt;item&gt; &lt;colour&gt; debug &lt;on/all/first/second/scrap-names/station-names/off&gt; doc-author &lt;string&gt; doc-keywords &lt;string&gt; doc-subject &lt;string&gt; doc-title &lt;string&gt; code &lt;metapost/tex-map/tex-atlas&gt; endcode endlayout|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182845Z" creationid="Алексей" creationdate="20171021T114109Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184222Z" creationid="Алексей" creationdate="20171021T114109Z">
         <seg>|layout &lt;id&gt; [ОПЦИИ]
 	copy &lt;id исходного макета&gt;
 	cs &lt;coordinate system&gt;
@@ -6493,7 +6493,8 @@ endsurvey|</seg>
 	units &lt;metric/imperial&gt;
 	rotate &lt;число&gt;
 	symbol-set &lt;набор символов&gt;
-	symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор символов&gt;
+	symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt;
+		&lt;набор символов&gt;
 	symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;
 	symbol-show &lt;point/line/area/group/special&gt; &lt;тип символа&gt;
 	symbol-colour &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;цвет&gt;
@@ -6528,7 +6529,8 @@ endsurvey|</seg>
 	map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;
 	map-header-bg &lt;on/off&gt;
 	map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt;
-	statistics &lt;explo/topo/carto/copyright all/off/number&gt; &lt;explo/topo-length on/off&gt;
+	statistics &lt;explo/topo/carto/copyright all/off/number&gt;
+		&lt;explo/topo-length on/off&gt;
 	scale-bar &lt;length&gt; &lt;units&gt;
 	survey-level &lt;N/all&gt;
 	language &lt;xx[_YY]&gt;
