@@ -1626,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides data files, which contain survey data, Therion uses a configuration file, which contains instructions on how the data should be presented.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051917Z" creationid="Алексей" creationdate="20171021T051917Z">
+        <seg>Помимо файлов данных, содержащих данные съемки, Therion использует файл конфигурации, содержащий инструкции о том, как данные должны обрабатываться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse the top menu for a minute to get feeling of XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174130Z" creationid="Алексей" creationdate="20170912T174130Z">
@@ -1646,6 +1654,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193604Z" creationid="Алексей" creationdate="20170909T142950Z">
         <seg>В рождество 1999 года мы уже имели первую версию Therion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default Therion searches for file named |thconfig| in the current working directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052113Z" creationid="Алексей" creationdate="20171021T052053Z">
+        <seg>По умолчанию Therion ищет файл с именем |thconfig| в текущем рабочем каталоге.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1694,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173503Z" creationid="Алексей" creationdate="20170913T165434Z">
         <seg>Нажмите {&lt;u1&gt; Вставить об\-ласть}, а затем щелкните строки окружающие нужную область.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051929Z" creationid="Алексей" creationdate="20171021T051929Z">
+        <seg>Конфигурационный файл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,8 +3092,8 @@
       <tuv lang="EN-US">
         <seg>Processing data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051823Z" creationid="Алексей" creationdate="20171021T051823Z">
-        <seg>Обработка данных</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051828Z" creationid="Алексей" creationdate="20171021T051823Z">
+        <seg>Обработка данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3441,6 +3465,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134534Z" creationid="Алексей" creationdate="20170910T134345Z">
         <seg>Вычисленное склонение указано в файле LOG для ин\-фор\-ма\-ции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The configuration filename can be given as an argument to therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052059Z" creationid="Алексей" creationdate="20171021T052037Z">
+        <seg>Имя конфигурационного файла можно указать в качестве аргумента для Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
