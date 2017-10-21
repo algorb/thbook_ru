@@ -1059,8 +1059,8 @@
       <tuv lang="EN-US">
         <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = don't display particular symbol or group of symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141515Z" creationid="Алексей" creationdate="20171021T141438Z">
-        <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = не отображать конкретный символ или группу символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142122Z" creationid="Алексей" creationdate="20171021T141438Z">
+        <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = не отображать кон\-кретный символ или группу символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,8 +4766,8 @@
       <tuv lang="EN-US">
         <seg>Use |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| as a |&lt;symbol-type&gt;| to hide stations with particular flags (e.g. |symbol-hide point flag:entrance|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141840Z" creationid="Алексей" creationdate="20171021T141702Z">
-        <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;тип символа&gt;| скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142311Z" creationid="Алексей" creationdate="20171021T141702Z">
+        <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;symbol-type&gt;| чтобы скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
       </tuv>
     </tu>
     <tu>
