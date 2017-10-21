@@ -1987,8 +1987,8 @@
       <tuv lang="EN-US">
         <seg>E.g. for |min-symbol-scale M|, no points or lines scaled |S| and |XS| will be shown on the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T183516Z" creationid="Алексей" creationdate="20171021T183142Z">
-        <seg>Например, при опции |min-symbol-scale M|, никакие точечные или линейные символы при масштабе |S|, и |XS| не будут показаны на карте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T183612Z" creationid="Алексей" creationdate="20171021T183142Z">
+        <seg>Например, при опции |min-symbol-scale M| никакие точечные или линейные символы при масштабе |S| и |XS| не будут показаны на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6256,6 +6256,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052354Z" creationid="Алексей" creationdate="20170924T052324Z">
         <seg>|&lt;rm&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;ss&gt;|, |&lt;si&gt;| = переключают шрифты;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;scale&gt;| has the same format, as |scale| option for points and lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T183803Z" creationid="Алексей" creationdate="20171021T183652Z">
+        <seg>|&lt;Масштаб&gt;| имеет тот же формат, что и |масштаб| для точечных и линейных символов.</seg>
       </tuv>
     </tu>
     <tu>
