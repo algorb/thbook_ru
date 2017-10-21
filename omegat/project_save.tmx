@@ -128,16 +128,16 @@
       <tuv lang="EN-US">
         <seg>(M, A)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122005Z" creationid="Алексей" creationdate="20171021T122005Z">
-        <seg>(M, A)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122537Z" creationid="Алексей" creationdate="20171021T122005Z">
+        <seg>(M, A).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(M, A) * |rotate &lt;value&gt;| = rotates the map (M, A; default: |0|) * |units &lt;metric/imperial&gt;| = set output units (M, A; default: |metric|) * |symbol-set &lt;symbol-set&gt;| = use |symbol-set| for all map symbols, if available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121936Z" creationid="Алексей" creationdate="20171021T121720Z">
-        <seg>(M, A) * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|) * |units &lt;metric / imperial&gt;| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122440Z" creationid="Алексей" creationdate="20171021T121720Z">
+        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,8 +963,8 @@
       <tuv lang="EN-US">
         <seg>* |scale &lt;picture length&gt; &lt;real length&gt;| = set scale of output map or map atlas (M, A; default: |1 200|) * |base-scale &lt;picture length&gt; &lt;real length&gt;| = if set, Therion will optically scale the map by a (|scale/base-scale|) factor.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T120647Z" creationid="Алексей" creationdate="20171021T115845Z">
-        <seg>* |scale &lt;длина изображения&gt; &lt;реальная длина&gt;| = устанавливает масштаб выходной карты или атласа (M, A; по умолчанию: |1 200|) * |base-scale &lt;длина изображения&gt; &lt;реальная длина&gt;| = если установлено, Therion будет масштабировать карту с коэффициентом (|scale/base-scale|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122209Z" creationid="Алексей" creationdate="20171021T115845Z">
+        <seg>* |scale &lt;длина изображения&gt; &lt;реальная длина&gt;| = устанавливает масштаб выходной карты или атласа (M, A; по умолчанию: |1 200|). * |base-scale &lt;длина изображения&gt; &lt;реальная длина&gt;| = если установлено, Therion будет масштабировать карту с коэффициентом (|scale/base-scale|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1724,8 +1724,8 @@
       <tuv lang="EN-US">
         <seg>Be aware, that symbol set name is case sensitive.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122001Z" creationid="Алексей" creationdate="20171021T122001Z">
-        <seg>Помните, что имя набора символов чувствительно к регистру.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122516Z" creationid="Алексей" creationdate="20171021T122001Z">
+        <seg>Помните, что имя набора символов чувстви\-тельно к регистру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4349,6 +4349,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123355Z" creationid="Алексей" creationdate="20170910T123355Z">
         <seg>Therion использует следующие типы данных:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion uses following predefined symbol sets:&lt;u0&gt; UIS (International Union of Speleology)&lt;u1&gt; ASF (Australian Speleological Federation)&lt;u2&gt; AUT (Austrian Speleological Association)&lt;u3&gt; CCNP (Carlsbad Caverns National Park)&lt;u6&gt;{5.4}&lt;u4&gt; NZSS (New Zealand Symbol Set)&lt;u7&gt;{5.4}&lt;u5&gt; SKBB (Speleoklub Bansk&lt;u8&gt;a Bystrica)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122848Z" creationid="Алексей" creationdate="20171021T122601Z">
+        <seg>Therion использует следующие предопределенные наборы символов:&lt;u0&gt; UIS (Международный союз спелеологии)&lt;u1&gt; ASF (Австралийская спелеологическая федерация)&lt;u2&gt; AUT (Австрийская спелеологическая ассоциация)&lt;u3&gt; CCNP (Национальный парк Карлсбадских пещер)&lt;u6&gt;{5.4}&lt;u4&gt; NZSS (набор символов Новой Зеландии)&lt;u7&gt;{5.4}&lt;u5&gt; SKBB (спелеоклуб Bansk&lt;u8&gt;a Bystrica).</seg>
       </tuv>
     </tu>
     <tu>
