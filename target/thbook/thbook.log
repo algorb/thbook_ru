@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 02:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 02:24
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -691,7 +691,55 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 .\tt s
 .etc.
 
-[56] [57] [58] [59]
+[56] [57]
+Overfull \hbox (5.6476pt too wide) in paragraph at lines 244--244
+ [][][]\tt overlap <значение> <единицы>[] $\mit .$ \tt установить размер перекр
+ытия в единицах|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt o
+.etc.
+
+
+Overfull \hbox (18.25484pt too wide) in paragraph at lines 244--244
+ \tt порядке: ширина бумаги, высота бумаги, ширина страницы, высота страницы,|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt п
+.\kern-0.12001
+.\tt о
+.\kern-0.168
+.etc.
+
+
+Overfull \hbox (13.50758pt too wide) in paragraph at lines 244--244
+ [][][]\tt exclude-pages <on/off> <список>[] $\mit .$ \tt исключить указанные с
+траницы из атласа.|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt e
+.etc.
+
+[58] [59] [60]
 Overfull \hbox (1.76027pt too wide) in paragraph at lines 264--264
  [][][]\tt code <metapost/tex-map/tex-atlas>[] $\mit .$ \tt Add/redefine T[]X a
 nd \manfnt META\tt -\manfnt POST \tt macros|
@@ -709,7 +757,7 @@ nd \manfnt META\tt -\manfnt POST \tt macros|
 .\tt c
 .etc.
 
-[60] [MP to PDF] (mp/page.1) [61 <./pic/page.pdf>] [62] [63]
+[MP to PDF] (mp/page.1) [61] [62 <./pic/page.pdf>] [63]
 Overfull \hbox (16.17146pt too wide) in paragraph at lines 391--392
 \tt init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings] 
 [--print-xtherion-|
@@ -722,7 +770,7 @@ Overfull \hbox (16.17146pt too wide) in paragraph at lines 391--392
 .\tt t
 .etc.
 
-[64]) (ch04.tex [65]
+[64] [65]) (ch04.tex [66]
 Overfull \hbox (28.81964pt too wide) in paragraph at lines 23--24
 []\tt create ta-ble SUR-VEY (ID in-te-ger, PAR-ENT_ID in-te-ger, NAME var-char(
 ?), FULL_NAME|
@@ -735,7 +783,7 @@ Overfull \hbox (28.81964pt too wide) in paragraph at lines 23--24
 .\tt a
 .etc.
 
-[66] [67 <./pic/database.pdf>]
+[67] [68 <./pic/database.pdf>]
 Overfull \hbox (4.03981pt too wide) in paragraph at lines 46--47
 []\tt select sum(LENGTH) from SHOT, STA-TION S1, STA-TION S2 where (S1.Z+S2.Z)/
 2|
@@ -748,7 +796,7 @@ Overfull \hbox (4.03981pt too wide) in paragraph at lines 46--47
 .\tt e
 .etc.
 
-[68]) (ch05.tex [69] [70 <./pic/thom.jpg>] [71]
+[69]) (ch05.tex [70] [71 <./pic/thom.jpg>] [72]
 Overfull \hbox (2.32358pt too wide) in paragraph at lines 84--85
 []\tt There are also some pre-de-fined macros which help with the pro-cess-ing 
 of []\pointer*[]|
@@ -779,7 +827,7 @@ Overfull \hbox (1.4815pt too wide) in paragraph at lines 90--91
 .\tt \
 .etc.
 
-[72]
+[73]
 Overfull \hbox (122.10754pt too wide) in paragraph at lines 150--150
 []\tt \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
@@ -862,7 +910,7 @@ pat-ing mem-bers (ac-cord-ing to []team[],|
 .\tt \
 .etc.
 
-[73] [74] [75] [76] [77] [78]
+[74] [75] [76] [77] [78] [79]
 Overfull \hbox (5.99564pt too wide) in paragraph at lines 300--300
  \tt avail-able on-line at [][]https://www.tug.org/TUGboat/Articles/tb19-3/tb60
 bolek.pdf[][] |
@@ -875,7 +923,7 @@ bolek.pdf[][] |
 .\tt i
 .etc.
 
-) (ch06.tex [79] [80] [81] [82]
+) (ch06.tex [80] [81] [82] [83]
 Overfull \hbox (1.56056pt too wide) in paragraph at lines 111--111
  [][]\tt on Win-dows: [].[], []$THE-RION[], []$HOME\.therion[], []<Therion-inst
 allation-directory>[],|
@@ -893,7 +941,7 @@ allation-directory>[],|
 .\kern-0.12001
 .etc.
 
-[83] [84]
+[84] [85]
 Overfull \hbox (92.26358pt too wide) in paragraph at lines 192--193
  []\tt pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
@@ -906,10 +954,10 @@ tf" \"/usr/share/fonts/Serif-|
 .\tt f
 .etc.
 
-[85] [86] [87] [88] [89]) (ch07.tex
+[86] [87] [88] [89] [90]) (ch07.tex
 \samplepath=\toks26
  Warning: skipping the case studies)
-[90] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
+[91] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
@@ -942,9 +990,9 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (90 pages, 758726 bytes).
+Output written on thbook.pdf (91 pages, 759758 bytes).
 PDF statistics:
- 558 PDF objects out of 1000 (max. 8388607)
+ 562 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
