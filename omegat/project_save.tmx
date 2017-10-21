@@ -2025,6 +2025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of them may apply to line label according to its |-size| option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190323Z" creationid="Алексей" creationdate="20171021T190323Z">
+        <seg>Каждый из них может применяться к строковому текстовому символу в соответствии с ее опцией |-размер|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each projection is identified by a type and optionally by an index in the form |type[:index]|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174445Z" creationid="Алексей" creationdate="20170922T172958Z">
