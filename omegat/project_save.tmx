@@ -490,8 +490,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = display a particular symbol in the given symbol-set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125906Z" creationid="Алексей" creationdate="20171021T125245Z">
-        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор символоа&gt;| = отображение определенного символа в заданном наборе символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130040Z" creationid="Алексей" creationdate="20171021T125245Z">
+        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор символа&gt;| = отобра\-жение определенного символа в заданном наборе символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2108,8 +2108,8 @@
       <tuv lang="EN-US">
         <seg>Following symbols may not be used with this option: point {&lt;u0&gt; section} (which isn't rendered at all) and all point and line labels ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125633Z" creationid="Алексей" creationdate="20171021T125535Z">
-        <seg>Следующие символы не могут использоваться с этой опцией: point {&lt;u0&gt; section} (который вообще не отображается) и все точечные и линейные надписи ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130140Z" creationid="Алексей" creationdate="20171021T125535Z">
+        <seg>Следующие символы не могут использоваться с этой опцией: точечный {&lt;u0&gt; section} (который вообще не отображается) и все точечные и линейные надписи ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2270,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070835Z" creationid="Алексей" creationdate="20170924T070501Z">
         <seg>Длина и ориентация уклона определяется указанными |l-size| и |orientation| (ориентация) в ближайших точках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group may be one of the following: all, centerline, sections, &lt;u0&gt;{5.3}water, speleothems, passage-fills, &lt;u1&gt;{5.4}ice, sediments, equipment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130818Z" creationid="Алексей" creationdate="20171021T130234Z">
+        <seg>Группа (group) может быть одной из следующих: all (все), centerline (нитка хода), sections (сечения), &lt;u0&gt;{5.3}water (вода), speleothems (спелеотемы), passage-fills (рельеф хода), &lt;u1&gt;{5.4} ice (лед), sediments (отложения), equipment (оборудование).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4245,6 +4253,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005948Z" creationid="Алексей" creationdate="20170919T005948Z">
         <seg>Есть два простых теста, которые определяют правильность скрапа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two special symbols: north-arrow, scale-bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T130240Z" creationid="Алексей" creationdate="20171021T130240Z">
+        <seg>Есть два специальных символа: северная стрелка, шкала.</seg>
       </tuv>
     </tu>
     <tu>
