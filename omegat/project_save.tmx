@@ -1732,8 +1732,8 @@
       <tuv lang="EN-US">
         <seg>By default 0 is used; if `basic' is specified, expansion is done up to the basic maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061202Z" creationid="Алексей" creationdate="20171021T061202Z">
-        <seg>По умолчанию используется 0; если указано `basic', расширение выполняется до основных карт (т.е. все).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061710Z" creationid="Алексей" creationdate="20171021T061202Z">
+        <seg>По умолчанию используется 0; если указано `basic', расширение выполня\-ется до основных карт (т.е. все).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,8 +5482,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Note:} Map previews are displayed only as specified in maps in the current |map-level|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061245Z" creationid="Алексей" creationdate="20171021T061214Z">
-        <seg>{&lt;u0&gt; Note:} Предварительный просмотр карт отображается только в соответствии с картами в текущем |map-level|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061731Z" creationid="Алексей" creationdate="20171021T061214Z">
+        <seg>{&lt;u0&gt; Примечание:} Предварительный просмотр карт отображается только в соответствии с картами в текущем |map-level|.</seg>
       </tuv>
     </tu>
     <tu>
