@@ -683,8 +683,8 @@
       <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053845Z" creationid="Алексей" creationdate="20171021T053845Z">
-        <seg>* |cs &lt;coordinate system&gt;|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054601Z" creationid="Алексей" creationdate="20171021T053845Z">
+        <seg>* |cs &lt;система координат&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,8 +939,8 @@
       <tuv lang="EN-US">
         <seg>* |sketch-warp &lt;algorithm&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054315Z" creationid="Алексей" creationdate="20171021T054315Z">
-        <seg>* |sketch-warp &lt;algorithm&gt;|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054501Z" creationid="Алексей" creationdate="20171021T054315Z">
+        <seg>* |sketch-warp &lt;алгоритм&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,8 +2704,8 @@
       <tuv lang="EN-US">
         <seg>It is not possible to specify more coordinate systems for different outputs (the last occurence of |cs| is used for all output files).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054106Z" creationid="Алексей" creationdate="20171021T054049Z">
-        <seg>Невозможно указать несколько систем координат для разных выходных данных (последнее указание |cs| используется для всех выходных файлов).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054635Z" creationid="Алексей" creationdate="20171021T054049Z">
+        <seg>Невозможно указать несколько систем координат для разных выходных данных (послед\-нее указание |cs| используется для всех выходных файлов).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,6 +3151,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023511Z" creationid="Алексей" creationdate="20170923T023511Z">
         <seg>Точка -- это команда для рисования символа точки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible algorithms are |line|---the default; |plaquette|---invented by Marco Corvi.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054442Z" creationid="Алексей" creationdate="20171021T054400Z">
+        <seg>Возможные алгоритмы: |line| -- по умолчанию; |plaquette| -- разработанный Marco Corvi.</seg>
       </tuv>
     </tu>
     <tu>
