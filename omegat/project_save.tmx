@@ -552,6 +552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;language ID&gt;| = standard ISO language identifier (e.g. |en| or |en_GB|) * |&lt;therion text&gt;| = therion text to translate.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111443Z" creationid="Алексей" creationdate="20171021T111312Z">
+        <seg>* |&lt;language ID&gt;| = стандартный идентификатор языка ISO (например, |en| или |en_GB|) * |&lt;therion текст&gt;| = текст Therion'а для перевода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;object&gt;| = any survey or map, identified by its ID.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060619Z" creationid="Алексей" creationdate="20171021T060432Z">
@@ -3524,6 +3532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies translation of any default therion text in output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111253Z" creationid="Алексей" creationdate="20171021T111253Z">
+        <seg>Задает перевод текста по умолчанию на выходе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifies which scrap warping (morphing) algorithm to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054350Z" creationid="Алексей" creationdate="20171021T054350Z">
@@ -5103,6 +5119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`text'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111126Z" creationid="Алексей" creationdate="20171021T111126Z">
+        <seg>`text'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`unselect'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061555Z" creationid="Алексей" creationdate="20171021T061555Z">
@@ -6365,6 +6389,14 @@ end of file|</seg>
         <seg>|survey &lt;id&gt; [OPTIONS]
 	... другие объекты ...
 endsurvey [&lt;id&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111257Z" creationid="Алексей" creationdate="20171021T111257Z">
+        <seg>|text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
       </tuv>
     </tu>
     <tu>
