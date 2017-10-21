@@ -945,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |scale &lt;picture length&gt; &lt;real length&gt;| = set scale of output map or map atlas (M, A; default: |1 200|) * |base-scale &lt;picture length&gt; &lt;real length&gt;| = if set, Therion will optically scale the map by a (|scale/base-scale|) factor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T120647Z" creationid="Алексей" creationdate="20171021T115845Z">
+        <seg>* |scale &lt;длина изображения&gt; &lt;реальная длина&gt;| = устанавливает масштаб выходной карты или атласа (M, A; по умолчанию: |1 200|) * |base-scale &lt;длина изображения&gt; &lt;реальная длина&gt;| = если установлено, Therion будет масштабировать карту с коэффициентом (|scale/base-scale|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |scale &lt;specification&gt;| = is used to pre-scale (convert coordinates from pixels to meters) the scrap data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175042Z" creationid="Алексей" creationdate="20170922T173742Z">
