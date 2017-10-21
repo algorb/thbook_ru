@@ -2106,6 +2106,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following symbols may not be used with this option: point {&lt;u0&gt; section} (which isn't rendered at all) and all point and line labels ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124826Z" creationid="Алексей" creationdate="20171021T124629Z">
+        <seg>Следующие символы не могут использоваться с этой опцией: point {&lt;u0&gt; section} (который вообще не отображается) и все точечные и линейные надписи ({&lt;u1&gt; label}, {&lt;u2&gt; remark}, {&lt;u3&gt; altitude}, {&lt;u4&gt; height}, {&lt;u5&gt; passage-height}, {&lt;u6&gt; station-name}, {&lt;u7&gt; date}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For better performance on slower computers, it's possible to temporarily unload a currently unused image from memory by unchecking its {&lt;u5&gt; Visibility} check-box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142946Z" creationid="Алексей" creationdate="20170913T140751Z">
@@ -3504,6 +3512,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031933Z" creationid="Алексей" creationdate="20170923T025906Z">
         <seg>Смотрите главу {Как карта собирается в единое целое}.]{&lt;u1&gt;:} |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the chapter {&lt;u8&gt; Changing layout/Customizing text labels} for details how to change labels' appearance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124913Z" creationid="Алексей" creationdate="20171021T124913Z">
+        <seg>Смотрите главу {&lt;u8&gt; Изменение макета/Настройка текстовых меток}, чтобы узнать, как изменить внешний вид надписей.</seg>
       </tuv>
     </tu>
     <tu>
