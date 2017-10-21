@@ -4935,6 +4935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`select'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055703Z" creationid="Алексей" creationdate="20171021T055703Z">
+        <seg>`select'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`sketch-warp'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054311Z" creationid="Алексей" creationdate="20171021T054311Z">
@@ -6177,8 +6185,8 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|source &lt;file-name&gt;|&lt;u1&gt;&lt;u6&gt; or&lt;u2&gt;&lt;u7&gt; |source|&lt;u3&gt;&lt;u8&gt; {&lt;u10&gt;&lt;u11&gt;&lt;u12&gt; therion commands&lt;u13&gt;}&lt;u4&gt;&lt;u9&gt; |endsource|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055244Z" creationid="Алексей" creationdate="20171021T055244Z">
-        <seg>|source &lt;file-name&gt;|&lt;u1&gt;&lt;u6&gt; or&lt;u2&gt;&lt;u7&gt; |source|&lt;u3&gt;&lt;u8&gt; {&lt;u10&gt;&lt;u11&gt;&lt;u12&gt; therion commands&lt;u13&gt;}&lt;u4&gt;&lt;u9&gt; |endsource|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055657Z" creationid="Алексей" creationdate="20171021T055244Z">
+        <seg>|source &lt;имя файла&gt;|&lt;u1&gt;&lt;u6&gt; или&lt;u2&gt;&lt;u7&gt; |source|&lt;u3&gt;&lt;u8&gt; {&lt;u10&gt;&lt;u11&gt;&lt;u12&gt; команды Therion'а&lt;u13&gt;}&lt;u4&gt;&lt;u9&gt; |endsource|</seg>
       </tuv>
     </tu>
     <tu>
