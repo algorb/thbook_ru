@@ -3178,6 +3178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>May be combined with |symbol-show|.(M, A) * |symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = display particular symbol or group of symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141854Z" creationid="Алексей" creationdate="20171021T141854Z">
+        <seg>May be combined with |symbol-show|.(M, A) * |symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = display particular symbol or group of symbols.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Meaning of colors:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
@@ -4748,6 +4756,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| as a |&lt;symbol-type&gt;| to hide stations with particular flags (e.g. |symbol-hide point flag:entrance|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141840Z" creationid="Алексей" creationdate="20171021T141702Z">
+        <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;тип символа&gt;| скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using too large scraps may exhaust &lt;u2&gt;'s memory if passage fills are frequently used and the map editor in XTherion is much less responsive when editing huge scraps.] Each scrap is processed separately by &lt;u3&gt;; scraps which are too large may exceed &lt;u4&gt;'s memory and cause errors.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T005654Z" creationid="Алексей" creationdate="20170921T002352Z">
@@ -5067,6 +5083,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
         <seg>Вы можете создавать эти файлы в любом текстовом редакторе, например  {&lt;u0&gt; ed} или {&lt;u1&gt; vi}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| and &lt;u0&gt;{5.4}|group text| in |symbol-hide| and |symbol-show| commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T141658Z" creationid="Алексей" creationdate="20171021T141556Z">
+        <seg>Вы можете использовать |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| и &lt;u0&gt;{5.4}|group text| в командах |symbol-hide| и |symbol-show|.</seg>
       </tuv>
     </tu>
     <tu>
