@@ -3186,8 +3186,8 @@
       <tuv lang="EN-US">
         <seg>May be combined with |symbol-show|.(M, A) * |symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = display particular symbol or group of symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142033Z" creationid="Алексей" creationdate="20171021T141854Z">
-        <seg>Может комбинироваться с |symbol-show|. (M, A). * |symbol-show &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = отображать определенный символ или группу символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T143126Z" creationid="Алексей" creationdate="20171021T141854Z">
+        <seg>Может комбинироваться с |symbol-show|. (M, A). * |symbol-show &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = отображать определен\-ный символ или группу символов.</seg>
       </tuv>
     </tu>
     <tu>
