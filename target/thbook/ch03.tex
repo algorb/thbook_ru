@@ -207,7 +207,7 @@ endlayout| \endsyntax
 
 {\it Относящиеся к представлениям в виде карт:}\Nobreak 
 
-* |scale <длина изображения> <реальная длина>| = устанавливает масштаб выходной карты или атласа (M, A; по умолчанию: |1 200|). * |base-scale <длина изображения> <реальная длина>| = если установлено, Therion будет масштабировать карту с коэффициентом (|scale/base-scale|). Это имеет такой же эффект, как если бы карта, распечатанная в |base-scale|, была бы масштабирована к |scale|. (M, A). * |rotate <значение>| = вращает карту (M, A; по умолчанию: |0|). * |units <metric/imperial>| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set <набор символов>| = использование |набора символов| для всех символов карты, если они доступны. Помните, что имя набора символов чувстви\-тельно к регистру. (M, A) 
+* |scale <длина изображения> <реальная длина>| = устанавливает масштаб выходной карты или атласа (M, A; по умолчанию: |1 200|). * |base-scale <длина изображения> <реальная длина>| = если установлено, Therion будет масштабировать карту с коэффициентом (|scale/base-scale|). Это имеет такой же эффект, как если бы карта, распечатанная в |base-scale|, была бы масштабирована к |scale|. (M, A). * |rotate <значение>| = вращает карту (M, A; по умолчанию: |0|). * |units <metric/imperial>| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set <набор символов>| = использование |набора символов| для всех символов карты, если они доступны. Помните, что имя набора символов чувстви\-тельно к регистру. (M, A). 
 
 Therion uses following predefined symbol sets:\par UIS (International Union of Speleology)\par ASF (Australian Speleological Federation)\par AUT (Austrian Speleological Association)\par CCNP (Carlsbad Caverns National Park)\NEW{5.4}\par NZSS (New Zealand Symbol Set)\NEW{5.4}\par SKBB (Speleoklub Bansk\'a Bystrica) 
 
@@ -215,7 +215,7 @@ Therion uses following predefined symbol sets:\par UIS (International Union of S
 
 If the symbol has a subtype, |<symbol-type>| argument may have one of the following forms: |type:subtype| or simply |type|, which assigns new symbol set to all subtypes of a given symbol. 
 
-Following symbols may not be used with this option: point {\it section} (which isn't rendered at all) and all point and line labels ({\it label}, {\it remark}, {\it altitude}, {\it height}, {\it passage-height}, {\it station-name}, {\it date}). See the chapter {\it Changing layout/Customizing text labels} for details how to change labels' appearance. (M, A) 
+Following symbols may not be used with this option: point {\it section} (which isn't rendered at all) and all point and line labels ({\it label}, {\it remark}, {\it altitude}, {\it height}, {\it passage-height}, {\it station-name}, {\it date}). See the chapter {\it Changing layout/Customizing text labels} for details how to change labels' appearance. (M, A). 
 
 Group may be one of the following: all, centerline, sections, \NEW{5.3}water, speleothems, passage-fills, \NEW{5.4}ice, sediments, equipment. 
 
@@ -227,7 +227,7 @@ You may use |group cave-centerline|, |group surface-centerline|, |point cave-sta
 
 Use |flag:<entrance/continuation/sink/spring/doline/dig>| as a |<symbol-type>| to hide stations with particular flags (e.g. |symbol-hide point flag:entrance|). 
 
-May be combined with |symbol-show|.(M, A) * |symbol-show <point/line/area/group/special> <symbol-type>| = display particular symbol or group of symbols. May be combined with |symbol-hide|. (M, A) 
+May be combined with |symbol-show|.(M, A) * |symbol-show <point/line/area/group/special> <symbol-type>| = display particular symbol or group of symbols. May be combined with |symbol-hide|. (M, A). 
 
 * \NEW{5.3}|symbol-colo[u]r <point/line/area/group/special> <symbol-type> <colour>| = change colour of particular symbol or group of symbols.\[Note: colour change currently applies to pattern fills only if (1) output format is PDF and (2)~\MP\ version is at least 1.000] (M, A) 
 
