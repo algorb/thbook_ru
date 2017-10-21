@@ -4762,8 +4762,8 @@
       <tuv lang="EN-US">
         <seg>Use |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| as a |&lt;symbol-type&gt;| to hide stations with particular flags (e.g. |symbol-hide point flag:entrance|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142435Z" creationid="Алексей" creationdate="20171021T141702Z">
-        <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;symbol-type&gt;|\endline чтобы скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T143008Z" creationid="Алексей" creationdate="20171021T141702Z">
+        <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;symbol-type&gt;|\break чтобы скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
       </tuv>
     </tu>
     <tu>
