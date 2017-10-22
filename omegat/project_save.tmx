@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A; default: |off|) * |colo[u]r-legend &lt;on/off&gt;| = turn on/off legend of map-fg colours when map-fg is set to altitude, scrap or map (M, A) * |legend-columns &lt;number&gt;| = adjusts the number of legend columns (M, A; default: |2|) * |map-comment &lt;string&gt;| = optional comment displayed at the map header (M) * |statistics &lt;explo/topo/carto/copyright all/off/number&gt;| or * |statistics &lt;explo/topo-length on/hide/off&gt;| = display some basic statistics; if set to off, team members are sorted &lt;u2&gt;{5.4}alphabetically; otherwise according to their contribution to exploration and surveying (M, A; default: |off|) * |scale-bar &lt;length&gt; &lt;units&gt;| = set the length of the scale-bar (M, A) * |language &lt;xx[_YY]&gt;| = set output language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041808Z" creationid="Алексей" creationdate="20171022T041808Z">
+        <seg>(M, A; по умолчанию: |off|). * |colo[u]r-legend &lt;on/off&gt;| = показать/скрыть легенду цветов map-fg, когда map-fg установлен по высоте, скрапу или карте (M, A). * |legend-columns &lt;число&gt;| = указывает количество столбцов легенды (M, A; по умолчанию: |2|). * |map-comment &lt;текст&gt; | = необязательный комментарий, отображаемый в заголовке карты (M). * |statistics &lt;explo/topo/carto/copyright all/off/number&gt;| или * |statistics &lt;explo/topo-length on/hide/off&gt;| = отобразить некоторые основные статистические данные; если установлено значение off, то члены команды сортируются &lt;u2&gt;{5.4} в алфавитном порядке; в противном случае в зависимости от их вклада в работу (M, A; по умолчанию: |off|). * |scale-bar &lt;длина&gt; &lt;единицы&gt; | = установить длину шкалы (M, A). * |language &lt;xx[_YY]&gt;| = установить язык вывода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |layers &lt;on/off&gt;| = enable/disable PDF 1.5 layers (M, A; default: |on|) * |grid &lt;off/bottom/top&gt;| = enable/disable grid (optionally coordinates' values may be also displayed) (M, A; default: |off|) * |cs &lt;coordinate system&gt;| = coordinate system for |origin| and |grid-origin| * |north &lt;true/grid&gt;| = specify default orientation of the map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035348Z" creationid="Алексей" creationdate="20171022T034105Z">
@@ -1012,6 +1020,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
         <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (раз\-ре\-шено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |legend-width &lt;n&gt; &lt;units&gt;| = legend width (M, A; default: |14 cm|) * |legend &lt;on/off/all&gt;| = display list of used map symbols in the map header.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041057Z" creationid="Алексей" creationdate="20171022T041057Z">
+        <seg>* |legend-width &lt;n&gt; &lt;единицы&gt;| = ширина легенды (M, A; по умолчанию: |14 см|). * |legend &lt;on/off/all&gt;| = отобразить список используемых символов карты в заголовке карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2289,6 +2305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For coordinates and alignment details, see |map-header| specification.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041004Z" creationid="Алексей" creationdate="20171022T041004Z">
+        <seg>Для координат и деталей выравнивания смотрите спецификацию на |map-header|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details see chapter {&lt;u1&gt; Data format}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150124Z" creationid="Алексей" creationdate="20170913T150124Z">
@@ -2653,6 +2677,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060920Z" creationid="Алексей" creationdate="20171021T060920Z">
         <seg>По умолчанию установлен в |on|, все подсъемки данной съемки рекурсивно выбираются/не выбираются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If set to |all|, all symbols from the current symbol set are displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041117Z" creationid="Алексей" creationdate="20171022T041117Z">
+        <seg>Если установлено значение |all|, то отображаются все символы из текущего набора символов.</seg>
       </tuv>
     </tu>
     <tu>
