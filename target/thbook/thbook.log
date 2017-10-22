@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 13:12
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -692,74 +692,16 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 .etc.
 
 [56] [57] [58] [59] [60] [MP to PDF] (mp/page.1)
-! Missing number, treated as zero.
-<to be read again> 
-                   Э
-<argument> Э
-             \fi <\versiontonum {5.3}\else \leavevmode \vadjust {\vbox to 0p...
-
-\twotonum #1.#2 ->\numexpr (#1
-                              *1000000+#2*1000)
-l.305 ...а растровых изображений эскиза на картах.
-                                                  
-? 
-! Missing ) inserted for expression.
-<to be read again> 
-                   Э
-<argument> Э
-             \fi <\versiontonum {5.3}\else \leavevmode \vadjust {\vbox to 0p...
-
-\twotonum #1.#2 ->\numexpr (#1
-                              *1000000+#2*1000)
-l.305 ...а растровых изображений эскиза на картах.
-                                                  
-? 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   Э
-<argument> Э
-             \fi <\versiontonum {5.3}\else \leavevmode \vadjust {\vbox to 0p...
-
-\twotonum #1.#2 ->\numexpr (#1
-                              *1000000+#2*1000)
-l.305 ...а растровых изображений эскиза на картах.
-                                                  
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   Э
-<argument> Э
-             \fi <\versiontonum {5.3}\else \leavevmode \vadjust {\vbox to 0p...
-
-\twotonum #1.#2 ->\numexpr (#1
-                              *1000000+#2*1000)
-l.305 ...а растровых изображений эскиза на картах.
-                                                  
-? 
-! You can't use `\numexpr' in horizontal mode.
-\twotonum #1.#2 ->\numexpr 
-                           (#1*1000000+#2*1000)
-\versiontonum ...threetonum #1 \else \twotonum #1 
-                                                  \fi 
-<argument> Э \fi <\versiontonum {5.3}
-                                     \else \leavevmode \vadjust {\vbox to 0p...
-
-\twotonum #1.#2 ->\numexpr (#1
-                              *1000000+#2*1000)
-l.305 ...а растровых изображений эскиза на картах.
-                                                  
-? 
-
-Overfull \hbox (24.12753pt too wide) in paragraph at lines 305--306
-[]\tt Э <(5*1000000+3*1000)тот параметр можно использовать для уменьшения разме
-ра|
+Overfull \hbox (50.6234pt too wide) in paragraph at lines 305--306
+[]\tt Этот параметр можно использовать для уменьшения размера растровых изображ
+ений|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
 .\hbox(0.0+0.0)x0.0
 .\tt Э
-.\glue 4.31999 plus 2.592 minus 1.032
-.\tt <
-.\tt (
+.\tt т
+.\tt о
+.\tt т
 .etc.
 
 [61] [62 <./pic/page.pdf>] [63] [64]
@@ -995,7 +937,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 762300 bytes).
+Output written on thbook.pdf (91 pages, 762290 bytes).
 PDF statistics:
  562 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
