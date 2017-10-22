@@ -711,10 +711,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |-L| = Do not create a log-file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111829Z" creationid="Алексей" creationdate="20171022T111629Z">
+        <seg>* |-L| = не создавайте файл журнала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |-d| = Turn on debugging mode.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111508Z" creationid="Алексей" creationdate="20171022T111456Z">
         <seg>* |-d| = включить режим отладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |-h, --help| = Display short help.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111622Z" creationid="Алексей" creationdate="20171022T111608Z">
+        <seg>* |-h, --help| = показать краткую справку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |-l &lt;log-file&gt;| = Change the name of the log file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111818Z" creationid="Алексей" creationdate="20171022T111720Z">
+        <seg>* |-l &lt;файл журнала&gt;| = Изменить имя файла журнала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3884,6 +3908,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040654Z" creationid="Алексей" creationdate="20170924T040654Z">
         <seg>По умолчанию normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally therion writes all the messages into a therion.log file in the current directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111710Z" creationid="Алексей" creationdate="20171022T111710Z">
+        <seg>Обычно Therion записывает все сообщения в файл therion.log в текущем каталоге.</seg>
       </tuv>
     </tu>
     <tu>
