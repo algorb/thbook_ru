@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 20:32
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -693,16 +693,49 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 
 [56] [57] [58] [59] [60] [MP to PDF] (mp/page.1) [61] [62 <./pic/page.pdf>]
 [63] [64] [65]) (ch04.tex [66]
-Overfull \hbox (4.75859pt too wide) in paragraph at lines 11--12
-\tt ошибок, измеренная вдоль оси координат $\mit x$\tt ; аналогично для $\mit y
-$ \tt и $\mit z$\tt . Процентная|
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \Delta 
+l.11 \Delta
+            Абсолютная ошибка кольца равна $\sqrt{\Delta x^2+\Delta y^2+\Del...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \radical 
+\sqrt ->\radical 
+                 "270370 
+l.11 \Delta Абсолютная ошибка кольца равна $\sqrt
+                                                 {\Delta x^2+\Delta y^2+\Del...
+
+? 
+
+Overfull \hbox (41.57782pt too wide) in paragraph at lines 11--12
+[]$\tt Абсолютнаяошибкакольцаравна$$[]$, где $\mit x$ \tt разность между один
+аковыми|
+
+\hbox(9.82628+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\mathon
+.\tt 
+.\tt А
+.\tt б
+.etc.
+
+
+Overfull \hbox (21.4659pt too wide) in paragraph at lines 11--12
+\tt начальными и конечными точками кольца до распределения ошибок, измеренная|
 
 \hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\tt о
-.\kern-0.12001
-.\tt ш
-.\tt и
-.\tt б
+.\tt н
+.\tt а
+.\kern-0.36
+.\tt ч
+.\tt а
 .etc.
 
 
@@ -950,7 +983,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 765444 bytes).
+Output written on thbook.pdf (91 pages, 765443 bytes).
 PDF statistics:
  562 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
