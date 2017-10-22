@@ -816,6 +816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |attributes &lt;(on)/off&gt;| = set whether to export user defined attributes in continuation list table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074747Z" creationid="Алексей" creationdate="20171022T074711Z">
+        <seg>* |attributes &lt;(on)/off&gt;| = указывает, следует ли экспортировать определенные пользователем атрибуты в таблице списка продолжений (перспектив).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T182158Z" creationid="Алексей" creationdate="20170922T181434Z">
@@ -6494,8 +6502,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; common for lists:}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074216Z" creationid="Алексей" creationdate="20171022T074206Z">
-        <seg>{&lt;u0&gt; общее для списков:}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074624Z" creationid="Алексей" creationdate="20171022T074206Z">
+        <seg>{&lt;u0&gt; общее для list (списков):}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,6 +6512,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071532Z" creationid="Алексей" creationdate="20171022T070650Z">
         <seg>{&lt;u0&gt; общие:}&lt;u1&gt; * |encoding/enc &lt;кодировка&gt;| = установить кодировку вывода. * |output/o &lt;файл&gt;| = установить выходной файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; continuation-list:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074659Z" creationid="Алексей" creationdate="20171022T074632Z">
+        <seg>{&lt;u0&gt; continuation-list (список перспектив):}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6574,16 +6590,16 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; map/atlas:}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072230Z" creationid="Алексей" creationdate="20171022T072218Z">
-        <seg>{&lt;u0&gt; карты/атлас:}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074602Z" creationid="Алексей" creationdate="20171022T072218Z">
+        <seg>{&lt;u0&gt; map/atlas (карты/атлас):}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; model:}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071638Z" creationid="Алексей" creationdate="20171022T071632Z">
-        <seg>{&lt;u0&gt; модель:}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074547Z" creationid="Алексей" creationdate="20171022T071632Z">
+        <seg>{&lt;u0&gt; model (модель):}</seg>
       </tuv>
     </tu>
     <tu>
