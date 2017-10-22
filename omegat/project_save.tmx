@@ -1112,6 +1112,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |layout &lt;id&gt;| = use predefined map or atlas layout.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073919Z" creationid="Алексей" creationdate="20171022T073906Z">
+        <seg>* |layout &lt;id&gt;| = использовать предопределенный макет карты или атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |layout-xxx| = where |xxx| stands for other layout options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074037Z" creationid="Алексей" creationdate="20171022T073929Z">
+        <seg>* |layout-xxx| = где |xxx| означает другие опции макета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |legend-width &lt;n&gt; &lt;units&gt;| = legend width (M, A; default: |14 cm|) * |legend &lt;on/off/all&gt;| = display list of used map symbols in the map header.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041057Z" creationid="Алексей" creationdate="20171022T041057Z">
@@ -2983,6 +2999,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060157Z" creationid="Алексей" creationdate="20171021T060157Z">
         <seg>Если в данных нет скрапов или карт, то на карте будет отображаться нитка хода из всех съемок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no scraps with the specified projection then Therion will display centreline from selected surveys.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073858Z" creationid="Алексей" creationdate="20171022T073858Z">
+        <seg>Если нет скрапов с указанной проекцией, Therion отобразит нитку хода из выбранных съемок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5348,6 +5372,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185551Z" creationid="Алексей" creationdate="20171021T141702Z">
         <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;тип символа&gt;| чтобы скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this you can change some layout properties directly within the export command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074107Z" creationid="Алексей" creationdate="20171022T074107Z">
+        <seg>Используя это, вы можете изменить некоторые свойства макета непосредственно в команде |export|.</seg>
       </tuv>
     </tu>
     <tu>
