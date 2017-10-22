@@ -2265,6 +2265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides the messages from Therion and other programs used, the log file contains information about computed values of magnetic declination and meridian convergence, loop errors and scrap distortions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131553Z" creationid="Алексей" creationdate="20171022T131553Z">
+        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного склонения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse the top menu for a minute to get feeling of XTherion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174130Z" creationid="Алексей" creationdate="20170912T174130Z">
@@ -3548,6 +3556,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131435Z" creationid="Алексей" creationdate="20171022T131435Z">
+        <seg>Информационный файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inside the |layout| specifies coordinate system for subsequent location data (|origin|, |grid-origin|).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054307Z" creationid="Алексей" creationdate="20171021T054307Z">
@@ -3908,6 +3924,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064405Z" creationid="Алексей" creationdate="20170924T064405Z">
         <seg>Line -- это команда для рисования символа линии на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131459Z" creationid="Алексей" creationdate="20171022T131459Z">
+        <seg>Файл журнала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5814,6 +5838,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175249Z" creationid="Алексей" creationdate="20170914T175249Z">
         <seg>Обычно мы используем один |*.th| файл содержащий нитку хода для каждой отдельной съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What we get?.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131424Z" creationid="Алексей" creationdate="20171022T131424Z">
+        <seg>Что мы получаем?.</seg>
       </tuv>
     </tu>
     <tu>
