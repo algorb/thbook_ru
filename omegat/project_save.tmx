@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |colo[u]r-legend &lt;on/off&gt;| = turn on/off legend of map-fg colours when map-fg is set to altitude, scrap or map (M, A) * |legend-columns &lt;number&gt;| = adjusts the number of legend columns (M, A; default: |2|) * |map-comment &lt;string&gt;| = optional comment displayed at the map header (M) * |statistics &lt;explo/topo/carto/copyright all/off/number&gt;| or * |statistics &lt;explo/topo-length on/hide/off&gt;| = display some basic statistics; if set to off, team members are sorted &lt;u2&gt;{5.4}alphabetically; otherwise according to their contribution to exploration and surveying (M, A; default: |off|) * |scale-bar &lt;length&gt; &lt;units&gt;| = set the length of the scale-bar (M, A) * |language &lt;xx[_YY]&gt;| = set output language.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041808Z" creationid="Алексей" creationdate="20171022T041808Z">
-        <seg>(M, A; по умолчанию: |off|). * |colo[u]r-legend &lt;on/off&gt;| = показать/скрыть легенду цветов map-fg, когда map-fg установлен по высоте, скрапу или карте (M, A). * |legend-columns &lt;число&gt;| = указывает количество столбцов легенды (M, A; по умолчанию: |2|). * |map-comment &lt;текст&gt; | = необязательный комментарий, отображаемый в заголовке карты (M). * |statistics &lt;explo/topo/carto/copyright all/off/number&gt;| или * |statistics &lt;explo/topo-length on/hide/off&gt;| = отобразить некоторые основные статистические данные; если установлено значение off, то члены команды сортируются &lt;u2&gt;{5.4} в алфавитном порядке; в противном случае в зависимости от их вклада в работу (M, A; по умолчанию: |off|). * |scale-bar &lt;длина&gt; &lt;единицы&gt; | = установить длину шкалы (M, A). * |language &lt;xx[_YY]&gt;| = установить язык вывода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042507Z" creationid="Алексей" creationdate="20171022T041808Z">
+        <seg>(M, A; по умолчанию: |off|). * |colo[u]r-legend &lt;on/off&gt;| = показать/скрыть легенду цветов |map-fg|, когда |map-fg| установлен по высоте, скрапу или карте (M, A). * |legend-columns &lt;число&gt;| = указывает количество столбцов легенды (M, A; по умолчанию: |2|). * |map-comment &lt;текст&gt; | = необязательный комментарий, отображаемый в заголовке карты (M). * |statistics &lt;explo/topo/carto/copyright all/off/number&gt;| или * |statistics &lt;explo/topo-length on/hide/off&gt;| = отобразить некоторые основные статистические данные; если установлено значение |off|, то члены команды сортируются &lt;u2&gt;{5.4} в алфавитном порядке; в противном случае в зависимости от их вклада в работу (M, A; по умолчанию: |off|). * |scale-bar &lt;длина&gt; &lt;единицы&gt; | = установить длину шкалы (M, A). * |language &lt;xx[_YY]&gt;| = установить язык вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,16 +208,16 @@
       <tuv lang="EN-US">
         <seg>(M; default: off) * |map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt;| = include image specified by |&lt;filename&gt;| into map at location specified by |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040926Z" creationid="Алексей" creationdate="20171022T040926Z">
-        <seg>(M; по умолчанию: off). * |map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;имя файла&gt;| = включить изображение, указанное в |&lt;имя файла&gt;| на карту в месте, указанном |&lt;x&gt; &lt;y&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042151Z" creationid="Алексей" creationdate="20171022T040926Z">
+        <seg>(M; по умолчанию: |off|). * |map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;имя файла&gt;| = вклю\-чить изображение, указанное в |&lt;имя файла&gt;| на карту в месте, указанном |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(M; default: |0 100 nw|) * |map-header-bg &lt;on/off&gt;| = when on, background of map header is filled with background color (e.g. to hide map grid).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040806Z" creationid="Алексей" creationdate="20171022T040806Z">
-        <seg>(M; по умолчанию: |0 100 nw|). * |map-header-bg &lt;on/off&gt;| = когда включено, фон заголовка карты заполняется цветом фона (например, для скрытия сетки).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042111Z" creationid="Алексей" creationdate="20171022T040806Z">
+        <seg>(M; по умолчанию: |0 100 nw|). * |map-header-bg &lt;on/off&gt;| = когда включено, фон заголовка карты заполня\-ется цветом фона (например, для скрытия сетки).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1034,8 @@
       <tuv lang="EN-US">
         <seg>* |map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = print map header at location specified by |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040149Z" creationid="Алексей" creationdate="20171022T040149Z">
-        <seg>|map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = напечатать заголовок карты в месте, указанном координатами |&lt;x&gt; &lt;y&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041917Z" creationid="Алексей" creationdate="20171022T040149Z">
+        <seg>|map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = напечатать заго\-ловок карты в месте, указанном координатами |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,8 +1875,8 @@
       <tuv lang="EN-US">
         <seg>Available languages are listed on the copyright page.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041826Z" creationid="Алексей" creationdate="20171022T041826Z">
-        <seg>Доступные языки перечислены на странице авторских прав.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042543Z" creationid="Алексей" creationdate="20171022T041826Z">
+        <seg>Доступные языки перечис\-лены на странице авторских прав.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3119,8 +3119,8 @@
       <tuv lang="EN-US">
         <seg>It is fully customizable (see the chapter {&lt;u0&gt; Changing layout} for details).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040314Z" creationid="Алексей" creationdate="20171022T040314Z">
-        <seg>Он полностью настраивается (подробнее смотрите главу {&lt;u0&gt;Изменение макета}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042016Z" creationid="Алексей" creationdate="20171022T040314Z">
+        <seg>Он пол\-ностью настраивается (подробнее смотрите главу {&lt;u0&gt;Изменение макета}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3651,8 +3651,8 @@
       <tuv lang="EN-US">
         <seg>Predefined map header contains some basic information about cave: name, scale, north arrow, list of surveyors etc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040247Z" creationid="Алексей" creationdate="20171022T040247Z">
-        <seg>Предопределенный заголовок карты содержит некоторую базовую информацию о пещере: имя, масштаб, направление на север, список съемщиков и т.д.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041945Z" creationid="Алексей" creationdate="20171022T040247Z">
+        <seg>Предопределен\-ный заголовок карты содержит некоторую базовую информацию о пещере: имя, масштаб, направление на север, список съемщиков и т.д.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3821,6 +3821,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124913Z" creationid="Алексей" creationdate="20171021T124913Z">
         <seg>Смотрите главу {&lt;u8&gt; Изменение макета/Настройка текстовых меток}, чтобы узнать, как изменить внешний вид надписей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the {&lt;u1&gt; Appendix} if you want to add or customize translations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042639Z" creationid="Алексей" creationdate="20171022T042626Z">
+        <seg>Смотрите {&lt;u1&gt; Приложение}, если вы хотите добавить или настроить переводы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6803,10 +6811,10 @@ endsurvey|</seg>
       <tuv lang="EN-US">
         <seg>|layout &lt;id&gt; [OPTIONS] copy &lt;source layout id&gt; cs &lt;coordinate system&gt; north &lt;true/grid&gt; scale &lt;picture length&gt; &lt;real length&gt; base-scale &lt;picture length&gt; &lt;real length&gt; units &lt;metric/imperial&gt; rotate &lt;number&gt; symbol-set &lt;symbol-set&gt; symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;u0&gt; &lt;symbol-set&gt; symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-colour &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt; min-symbol-scale &lt;scale&gt; fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt; size &lt;width&gt; &lt;height&gt; &lt;units&gt; overlap &lt;value&gt; &lt;units&gt; page-setup &lt;dimensions&gt; &lt;units&gt; page-numbers &lt;on/off&gt; exclude-pages &lt;on/off&gt; &lt;list&gt; title-pages &lt;on/off&gt; nav-factor &lt;factor&gt; nav-size &lt;x-size&gt; &lt;y-size&gt; transparency &lt;on/off&gt; opacity &lt;value&gt; surface &lt;top/bottom/off&gt; surface-opacity &lt;value&gt; sketches &lt;on/off&gt; layers &lt;on/off&gt; grid &lt;off/top/bottom&gt; grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt; grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; grid-coords &lt;off/border/all&gt; origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; origin-label &lt;x-label&gt; &lt;y-label&gt; own-pages &lt;number&gt; page-grid &lt;on/off&gt; legend &lt;on/off/all&gt; legend-columns &lt;number&gt; legend-width &lt;n&gt; &lt;units&gt; map-comment &lt;string&gt; map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt; map-header-bg &lt;on/off&gt; map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt; statistics &lt;explo/topo/carto/copyright all/off/number&gt; &lt;explo/topo-length on/off&gt; scale-bar &lt;length&gt; &lt;units&gt; survey-level &lt;N/all&gt; language &lt;xx[_YY]&gt; colour/color &lt;item&gt; &lt;colour&gt; debug &lt;on/all/first/second/scrap-names/station-names/off&gt; doc-author &lt;string&gt; doc-keywords &lt;string&gt; doc-subject &lt;string&gt; doc-title &lt;string&gt; code &lt;metapost/tex-map/tex-atlas&gt; endcode endlayout|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184222Z" creationid="Алексей" creationdate="20171021T114109Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T043234Z" creationid="Алексей" creationdate="20171021T114109Z">
         <seg>|layout &lt;id&gt; [ОПЦИИ]
 	copy &lt;id исходного макета&gt;
-	cs &lt;coordinate system&gt;
+	cs &lt;система координат&gt;
 	north &lt;true/grid&gt;
 	scale &lt;длина изображения&gt; &lt;реальная длина&gt;
 	base-scale &lt;длина изображения&gt; &lt;реальная длина&gt;
@@ -6820,46 +6828,46 @@ endsurvey|</seg>
 	symbol-colour &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;цвет&gt;
 	min-symbol-scale &lt;масштаб&gt;
 	fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt;
-	size &lt;width&gt; &lt;height&gt; &lt;units&gt;
-	overlap &lt;value&gt; &lt;units&gt;
-	page-setup &lt;dimensions&gt; &lt;units&gt;
+	size &lt;ширина&gt; &lt;высота&gt; &lt;единицы&gt;
+	overlap &lt;значение&gt; &lt;единицы&gt;
+	page-setup &lt;размеры&gt; &lt;единицы&gt;
 	page-numbers &lt;on/off&gt;
-	exclude-pages &lt;on/off&gt; &lt;list&gt;
+	exclude-pages &lt;on/off&gt; &lt;список&gt;
 	title-pages &lt;on/off&gt;
-	nav-factor &lt;factor&gt;
-	nav-size &lt;x-size&gt; &lt;y-size&gt;
+	nav-factor &lt;фактор&gt;
+	nav-size &lt;x-размер&gt; &lt;y-размер&gt;
 	transparency &lt;on/off&gt;
-	opacity &lt;value&gt;
+	opacity &lt;значение&gt;
 	surface &lt;top/bottom/off&gt;
-	surface-opacity &lt;value&gt;
+	surface-opacity &lt;значение&gt;
 	sketches &lt;on/off&gt;
 	layers &lt;on/off&gt;
 	grid &lt;off/top/bottom&gt;
-	grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt;
-	grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;
+	grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt;
+	grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;
 	grid-coords &lt;off/border/all&gt;
-	origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;
-	origin-label &lt;x-label&gt; &lt;y-label&gt;
-	own-pages &lt;number&gt;
+	origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;
+	origin-label &lt;x-метка&gt; &lt;y-метка&gt;
+	own-pages &lt;число&gt;
 	page-grid &lt;on/off&gt;
 	legend &lt;on/off/all&gt;
-	legend-columns &lt;number&gt;
-	legend-width &lt;n&gt; &lt;units&gt;
-	map-comment &lt;string&gt;
+	legend-columns &lt;число&gt;
+	legend-width &lt;n&gt; &lt;единицы&gt;
+	map-comment &lt;текст&gt;
 	map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;
 	map-header-bg &lt;on/off&gt;
-	map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt;
+	map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;имя файла&gt;
 	statistics &lt;explo/topo/carto/copyright all/off/number&gt;
 		&lt;explo/topo-length on/off&gt;
-	scale-bar &lt;length&gt; &lt;units&gt;
+	scale-bar &lt;длина&gt; &lt;единицы&gt;
 	survey-level &lt;N/all&gt;
 	language &lt;xx[_YY]&gt;
-	colour/color &lt;item&gt; &lt;colour&gt;
+	colour/color &lt;item&gt; &lt;цвет&gt;
 	debug &lt;on/all/first/second/scrap-names/station-names/off&gt;
-	doc-author &lt;string&gt;
-	doc-keywords &lt;string&gt;
-	doc-subject &lt;string&gt;
-	doc-title &lt;string&gt;
+	doc-author &lt;текст&gt;
+	doc-keywords &lt;текст&gt;
+	doc-subject &lt;текст&gt;
+	doc-title &lt;текст&gt;
 	code &lt;metapost/tex-map/tex-atlas&gt;
 	endcode
 endlayout|</seg>
