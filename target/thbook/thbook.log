@@ -698,8 +698,13 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
                 $
 <to be read again> 
                    \delta 
-l.11 \delta
-            јбсолютна€ ошибка кольца равна $\sqrt{\Delta x^2+\Delta y^2+\Del...
+l.11 {\my \delta
+                } јбсолютна€ ошибка кольца равна $\sqrt{\Delta x^2+\Delta y^...
+
+? 
+! Extra }, or forgotten $.
+l.11 {\my \delta}
+                  јбсолютна€ ошибка кольца равна $\sqrt{\Delta x^2+\Delta y^...
 
 ? 
 ! Missing $ inserted.
@@ -709,60 +714,578 @@ l.11 \delta
                    \radical 
 \sqrt ->\radical 
                  "270370 
-l.11 \delta јбсолютна€ ошибка кольца равна $\sqrt
-                                                 {\Delta x^2+\Delta y^2+\Del...
+l.11 ...lta} јбсолютна€ ошибка кольца равна $\sqrt
+                                                  {\Delta x^2+\Delta y^2+\De...
 
 ? 
-
-Overfull \hbox (43.0453pt too wide) in paragraph at lines 11--12
-[]$\mit \tt јбсолютна€ошибкакольцаравна$$[]$, где $\mit x$ \tt разность между
- одинаковыми|
-
-\hbox(9.82628+2.85599)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\mathon
-.\mit 
-.\kern0.45415
-.\tt ј
-.etc.
-
-
-Overfull \hbox (21.4659pt too wide) in paragraph at lines 11--12
-\tt начальными и конечными точками кольца до распределени€ ошибок, измеренна€|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\tt н
-.\tt а
-.\kern-0.36
-.\tt ч
-.\tt а
-.etc.
-
-
-Overfull \hbox (27.10579pt too wide) in paragraph at lines 13--14
-[]\tt »скажение скрапа вычисл€етс€ с использованием меры искажени€, определенно
-й|
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\tt »
-.\tt с
-.\tt к
-.\kern-0.192
-.etc.
-
-
-Overfull \hbox (0.40591pt too wide) in paragraph at lines 13--14
-\tt дл€ всех пар точек (точечные символы, точки и контрольные точки линейных|
-
-\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
-.\tt д
-.\tt л
-.\tt €
-.\glue 4.31999 plus 2.592 minus 1.032
-.\tt в
-.etc.
-
+Missing character: There is no г in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no з in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ж in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no ц in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no з in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no г in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no ѕ in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ц in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no г in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no ц in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no — in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no э in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no ц in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no ж in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no з in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no ж in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no й in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no й in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ћ in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no г in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no э in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ћ in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no ж in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ю in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no з in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ч in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no к in font cmr12!
 
 Overfull \hbox (28.81964pt too wide) in paragraph at lines 23--24
 []\tt create ta-ble SUR-VEY (ID in-te-ger, PAR-ENT_ID in-te-ger, NAME var-char(
@@ -789,38 +1312,7 @@ Overfull \hbox (4.03981pt too wide) in paragraph at lines 46--47
 .\tt e
 .etc.
 
-[69]) (ch05.tex [70] [71 <./pic/thom.jpg>] [72]
-Overfull \hbox (2.32358pt too wide) in paragraph at lines 84--85
-[]\tt There are also some pre-de-fined macros which help with the pro-cess-ing 
-of []\pointer*[]|
-
-\hbox(8.328+2.69398)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\tt T
-.\tt h
-.\tt e
-.\tt r
-.etc.
-
-
-Overfull \hbox (1.4815pt too wide) in paragraph at lines 90--91
- [][][]\tt \showpointerlist[] with one of the []\point-erU[] or []\poin-t-erD[]
- as an ar-gu-ment presents|
-
-\hbox(8.328+2.69398)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\pdfcolorstack 1 push {1 1 0 0 k}
-.\tt \
-.etc.
-
-[73]
+[69]) (ch05.tex [70] [71 <./pic/thom.jpg>] [72] [73]
 Overfull \hbox (122.10754pt too wide) in paragraph at lines 150--150
 []\tt \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
@@ -885,87 +1377,161 @@ Overfull \hbox (59.27557pt too wide) in paragraph at lines 150--150
 .\kern-0.24
 .etc.
 
+[74] [75] [76]
+Overfull \hbox (57.94287pt too wide) in paragraph at lines 202--203
+\my map lay-out def-i-ni-tion: []\tt \def\maplayout{\legendbox{0}{100}{NW}{\the
+\legendcontent}}[]\my ). |
 
-Overfull \hbox (0.63643pt too wide) in paragraph at lines 160--160
- [][][]\tt \exploteam[], []\topoteam[], []\car-toteam[] $\mit .$ \tt par-tic-i-
-pat-ing mem-bers (ac-cord-ing to []team[],|
+\hbox(10.5+3.5)x452.96786, glue set - 1.0
+.\my m
+.\my a
+.\my p
+.\glue 4.5694 plus 2.2847 minus 1.52313
+.\my l
+.etc.
 
-\hbox(8.328+2.69398)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
+Missing character: There is no - in font logo10!
+[77]
+Overfull \hbox (8.9559pt too wide) in paragraph at lines 236--237
+\my user-defined sym-bol types should not in-clude sym-bol set iden-ti-fier, e.
+g. []\tt p_u_bat[]\my . |
+
+\hbox(9.7222+2.7222)x452.96786, glue set - 1.0
+.\my u
+.\my s
+.\my e
+.\my r
+.\my -
+.etc.
+
+[78] [79]
+Overfull \hbox (40.84093pt too wide) in paragraph at lines 300--300
+ \my 283, avail-able on-line at [][]\tt https://www.tug.org/TUGboat/Articles/tb
+19-3/tb60bolek.pdf[][] |
+
+\hbox(9.7222+2.7222)x452.96786, glue set - 1.0
+.\glue(\leftskip) 13.70819
+.\my 2
+.\my 8
+.\my 3
+.\my ,
+.etc.
+
+[80]) (ch06.tex [81] [82] [83] [84]
+Overfull \hbox (8.94228pt too wide) in paragraph at lines 111--111
+ [][]\my on Win-dows: []\tt .[]\my , []\tt $THE-RION[]\my , []\tt $HOME\.therio
+n[]\my , []\tt <Therion-installation-directory>[]\my ,|
+
+\hbox(9.7222+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 13.70819
 .\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+.\hbox(5.33334+0.0)x0.0, glue set - 10.56941fil
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 ..\mathon
 ..\sy 
 ..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\pdfcolorstack 1 push {1 1 0 0 k}
-.\tt \
+..\glue 4.5694 plus 2.2847 minus 1.52313
+.\my o
+.\my n
 .etc.
 
-[74] [75] [76] [77] [78] [79]
-Overfull \hbox (5.99564pt too wide) in paragraph at lines 300--300
- \tt avail-able on-line at [][]https://www.tug.org/TUGboat/Articles/tb19-3/tb60
-bolek.pdf[][] |
-
-\hbox(8.328+2.69398)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\tt a
-.\tt v
-.\tt a
-.\tt i
-.etc.
-
-) (ch06.tex [80] [81] [82] [83]
-Overfull \hbox (1.56056pt too wide) in paragraph at lines 111--111
- [][]\tt on Win-dows: [].[], []$THE-RION[], []$HOME\.therion[], []<Therion-inst
-allation-directory>[],|
-
-\hbox(9.13799+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\tt o
-.\kern-0.12001
-.etc.
-
-[84] [85]
-Overfull \hbox (92.26358pt too wide) in paragraph at lines 192--193
+[85]
+Missing character: There is no — in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no й in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no е in font cmr12!
+ [86]
+Overfull \hbox (93.97177pt too wide) in paragraph at lines 192--193
  []\tt pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.t
 tf" \"/usr/share/fonts/Serif-|
 
 \hbox(8.706+2.412)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
+.\glue(\leftskip) 13.70819
 .\hbox(0.0+0.0)x0.0
 .\tt p
 .\tt d
 .\tt f
 .etc.
 
-[86] [87] [88] [89] [90]) (ch07.tex
+[87]
+Overfull \hbox (12.66827pt too wide) in paragraph at lines 220--221
+ \my con-tains no kern-ing or lig-a-tures, but pdfT[]X doesn't sup-port []\tt \
+pdfin-cludechars[]|
+
+\hbox(9.7222+3.01389)x452.96786, glue set - 1.0
+.\glue(\leftskip) 13.70819
+.\my c
+.\my o
+.\discretionary replacing 2
+..\my n
+..\my -
+.\my n
+.etc.
+
+[88] [89] [90] [91]) (ch07.tex
 \samplepath=\toks26
- Warning: skipping the case studies)
-[91] ){D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-tt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givbc10.pfb><D
-:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+ Warning: skipping the case studies) [92] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 11 ({)
+### bottom level{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givb
+c10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
 
 pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb11.pfb): glyph `cyrbreve' undefined
@@ -976,16 +1542,12 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
 
 pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/pscyr/handb12.pfb): glyph `cyrflex' undefined
-
-
-pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 765815 bytes).
+Output written on thbook.pdf (92 pages, 786303 bytes).
 PDF statistics:
- 562 PDF objects out of 1000 (max. 8388607)
+ 565 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
