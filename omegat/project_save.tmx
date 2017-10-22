@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;{5.3}|filter &lt;(on)/off&gt;| = set whether continuations without comment/text should be filtered out.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074946Z" creationid="Алексей" creationdate="20171022T074754Z">
+        <seg>* &lt;u0&gt;{5.3}|filter &lt;(on)/off&gt;| = указывает, следует ли продолжения (перспективы) без комментариев/текста фильтровать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt;| = change colour of particular symbol or group of symbols.&lt;u1&gt;Note: colour change currently applies to pattern fills only if (1) output format is PDF and (2) &lt;u2&gt;&lt;u3&gt;version is at least 1.000] (M, A)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182641Z" creationid="Алексей" creationdate="20171021T182053Z">
@@ -1156,6 +1164,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041057Z" creationid="Алексей" creationdate="20171022T041057Z">
         <seg>* |legend-width &lt;n&gt; &lt;единицы&gt;| = ширина легенды (M, A; по умолчанию: |14 см|). * |legend &lt;on/off/all&gt;| = отобразить список используемых символов карты в заголовке карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |location &lt;on/(off)&gt;| = set whether to export coordinates of cave entrances in the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075027Z" creationid="Алексей" creationdate="20171022T075027Z">
+        <seg>* |location &lt;on/(off)&gt;| = set whether to export coordinates of cave entrances in the table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6496,6 +6512,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T114754Z" creationid="Алексей" creationdate="20170924T113257Z">
         <seg>{&lt;u0&gt; border (граница):} |visible| (видимая) (по умолчанию), |invisible| (неотображае\-мая), |temporary| (временная), |presumed| (предполагаемая);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; cave-list:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075000Z" creationid="Алексей" creationdate="20171022T074950Z">
+        <seg>{&lt;u0&gt; cave-list (список пещер):}</seg>
       </tuv>
     </tu>
     <tu>
