@@ -842,8 +842,8 @@
       <tuv lang="EN-US">
         <seg>* |code &lt;metapost/tex-map/tex-atlas&gt;| = Add/redefine &lt;u0&gt;&lt;u1&gt;and &lt;u5&gt;&lt;u2&gt;macros here.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055244Z" creationid="Алексей" creationdate="20171022T055132Z">
-        <seg>* |code &lt;metapost/tex-map/tex-atlas&gt;| = Добавить/переопределить макросы  &lt;u0&gt;&lt;u1&gt;и &lt;u5&gt;&lt;u2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055621Z" creationid="Алексей" creationdate="20171022T055132Z">
+        <seg>* |code &lt;metapost/tex-map/tex-atlas&gt;| = Добавить/переопределить макросы\break &lt;u0&gt;&lt;u1&gt;и &lt;u5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -916,6 +916,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054654Z" creationid="Алексей" creationdate="20171022T054654Z">
         <seg>* |doc-author &lt;текст&gt;| = установить автора документа (M, A). * |doc-keywords &lt;текст&gt;| = установить ключевые слова документа (M, A). * |doc-subject &lt;текст&gt;| = задать тему документа (M, A). * |doc-title &lt;текст&gt; | = установить название документа (M, A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |endcode| = should end the TeX&lt;u3&gt;and &lt;u6&gt;&lt;u4&gt;sections &lt;u9&gt;endcomopt</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060011Z" creationid="Алексей" creationdate="20171022T055428Z">
+        <seg>* |endcode| = должен заканчивать разделы TeX&lt;u3&gt;и &lt;u6&gt;.&lt;u9&gt;endcomopt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1172,6 +1180,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170742Z" creationid="Алексей" creationdate="20170912T170635Z">
         <seg>* |sd &lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;| = задает стандартное отклонение для данных измерений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |setup3d &lt;value&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055508Z" creationid="Алексей" creationdate="20171022T055501Z">
+        <seg>* |setup3d &lt;значение&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4944,8 +4960,8 @@
       <tuv lang="EN-US">
         <seg>This allows user to configure various things (like user defined symbols, map and atlas layout at one place &lt;u7&gt;&amp;c.) See the chapter {&lt;u8&gt;it Changing layout} for details.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055416Z" creationid="Алексей" creationdate="20171022T055416Z">
-        <seg>Это позволяет пользователю настраивать различные элементы (например, пользовательские символы, макет карты и атласа в одном месте &lt;u7&gt;&amp;c.) Для подробностей смотрите главу {&lt;u8&gt;it Изменение макета}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055832Z" creationid="Алексей" creationdate="20171022T055416Z">
+        <seg>Это позволяет пользователю настраивать различные элементы (например, пользовательские символы, макет карты и атласа в одном месте и т.д.). Для подробностей смотрите главу {&lt;u8&gt;it Изменение макета}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,6 +5715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`setup3d'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055457Z" creationid="Алексей" creationdate="20171022T055457Z">
+        <seg>`setup3d'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`sketch-warp'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054311Z" creationid="Алексей" creationdate="20171021T054311Z">
@@ -5866,6 +5890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>to 482bp{&lt;u1&gt;{&lt;u2&gt; to 400bp{ &lt;u3&gt;{&lt;u4&gt;{page.pdf}} &lt;u5&gt;{page.1} &lt;u6&gt;}}&lt;u7&gt; }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055452Z" creationid="Алексей" creationdate="20171022T055452Z">
+        <seg>to 482bp{&lt;u1&gt;{&lt;u2&gt; to 400bp{ &lt;u3&gt;{&lt;u4&gt;{page.pdf}} &lt;u5&gt;{page.1} &lt;u6&gt;}}&lt;u7&gt; }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where {&lt;u0&gt; arg1 ... argN} are obligatory arguments, and pairs {&lt;u1&gt; -option value} are options, which you may freely omit.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114807Z" creationid="Алексей" creationdate="20170909T204602Z">
@@ -5959,6 +5991,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053837Z" creationid="Алексей" creationdate="20171021T053822Z">
         <seg>{5.3}Устанавливает язык вывода для переводимых текстов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B&lt;u1&gt;ezier curves.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060325Z" creationid="Алексей" creationdate="20171022T060306Z">
+        <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B{\my &lt;u1&gt;e}zier curves.</seg>
       </tuv>
     </tu>
     <tu>
