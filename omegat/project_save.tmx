@@ -1873,6 +1873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available languages are listed on the copyright page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041826Z" creationid="Алексей" creationdate="20171022T041826Z">
+        <seg>Доступные языки перечислены на странице авторских прав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204141Z" creationid="Алексей" creationdate="20170909T204141Z">
