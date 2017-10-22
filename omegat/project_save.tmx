@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |0 0|) * |own-pages &lt;number&gt;| = set number of own pages added before the first page of automatically generated pages in atlas mode (currently required for correct page numbering) (A; default: |0|) * |page-grid &lt;on/off&gt;| = show pages key plan (M; default: |off|)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035044Z" creationid="Алексей" creationdate="20171022T035044Z">
-        <seg>(M, A; по умолчанию: |0 0|). * |own-pages &lt;число&gt; | = установить количество собственных страниц, добавленных до первой страницы автоматически созданных страниц в режиме атласа (в настоящее время требуется для правильной нумерации страниц) (A; по умолчанию: |0|). * |page-grid &lt;on/off&gt; | = show pages key plan (M; default: |off|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035921Z" creationid="Алексей" creationdate="20171022T035044Z">
+        <seg>(M, A; по умолчанию: |0 0|). * |own-pages &lt;число&gt; | = установить количество собственных страниц, добав\-ленных до первой страницы автоматически созданных страниц в режиме атласа (в настоящее время требуется для правильной нумерации страниц) (A; по умолчанию: |0|). * |page-grid &lt;on/off&gt; | = show pages key plan (M; по умолчанию: |off|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,24 +168,24 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |70|) * |surface-opacity &lt;value&gt;| = set the surface bitmap opacity (used if |transparency| is |on|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033544Z" creationid="Алексей" creationdate="20171022T033544Z">
-        <seg>(M, A; по умолчанию: |70|). * |surface-opacity &lt;значение&gt;| = установить прозрачность растровой поверхности (используется, если |transparent| установлен в |on|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035132Z" creationid="Алексей" creationdate="20171022T033544Z">
+        <seg>(M, A; по умолчанию: |70|). * |surface-opacity &lt;значение&gt;| = установить прозрачность растровой поверх\-ности (используется, если |transparent| установлен в |on|).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |layers &lt;on/off&gt;| = enable/disable PDF 1.5 layers (M, A; default: |on|) * |grid &lt;off/bottom/top&gt;| = enable/disable grid (optionally coordinates' values may be also displayed) (M, A; default: |off|) * |cs &lt;coordinate system&gt;| = coordinate system for |origin| and |grid-origin| * |north &lt;true/grid&gt;| = specify default orientation of the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034259Z" creationid="Алексей" creationdate="20171022T034105Z">
-        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по умолчанию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут также отображаться значения координат) (M, A; по умолчанию: |off|). * |cs &lt;система координат&gt;| = система координат для |origin| и |grid-origin|. * |north &lt;true/grid&gt;| = указать ориентацию карты по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035348Z" creationid="Алексей" creationdate="20171022T034105Z">
+        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по умолча\-нию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут\break также отображаться значения координат) (M, A; по умолчанию: |off|). * |cs &lt;система координат&gt;| = система координат для |origin| и |grid-origin|. * |north &lt;true/grid&gt;| = указать ориентацию карты по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;| = set origin of atlas pages (M, A) * |origin-label &lt;x-label&gt; &lt;y-label&gt;| = set label for atlas page which has the lower left corner at the given origin coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034831Z" creationid="Алексей" creationdate="20171022T034831Z">
-        <seg>(M, A; по умолчанию: |off|). * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = установить начало страниц атласа (M, A). * |origin-label &lt;x-метка&gt; &lt;y-метка&gt;| = установить метку для страницы атласа, которая имеет нижний левый угол в заданных координатах начала координат.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035809Z" creationid="Алексей" creationdate="20171022T034831Z">
+        <seg>(M, A; по умолчанию: |off|). * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = установить начало страниц атласа (M, A). * |origin-label &lt;x-метка&gt; &lt;y-метка&gt;| = set label for atlas page which has the lower left corner at the given origin coordinates.</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,8 +954,8 @@
       <tuv lang="EN-US">
         <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt;| = set coordinates of grid origin (M, A) * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;| = set grid size in real units (M, A; default is equal to scalebar size) * |grid-coords &lt;off/border/all&gt;| = specify where to label grid with coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034555Z" creationid="Алексей" creationdate="20171022T034555Z">
-        <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt; | = заданные координаты начала сетки (M, A). * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = задать размер сетки в реальных единицах (M, A, по умолчанию равен размеру шкалы). * |grid-coords &lt;off/border/all&gt;| = указать, где маркировать сетку координатами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035618Z" creationid="Алексей" creationdate="20171022T034555Z">
+        <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt; | = заданные координаты начала сетки (M, A). * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = задать размер сетки в реальных едини\-цах (M, A, по умолчанию равен размеру шкалы). * |grid-coords &lt;off/border/all&gt;| = указать, где маркировать сетку координа\-тами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -996,6 +996,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
         <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (раз\-ре\-шено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = print map header at location specified by |&lt;x&gt; &lt;y&gt;|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040149Z" creationid="Алексей" creationdate="20171022T040149Z">
+        <seg>|map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = напечатать заголовок карты в месте, указанном координатами |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1931,8 +1939,8 @@
       <tuv lang="EN-US">
         <seg>By default, true (astronomical) north is used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034311Z" creationid="Алексей" creationdate="20171022T034311Z">
-        <seg>По умолчанию используется истинный (астрономический) север.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035428Z" creationid="Алексей" creationdate="20171022T034311Z">
+        <seg>По умолча\-нию используется истинный (астрономический) север.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3565,6 +3573,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184827Z" creationid="Алексей" creationdate="20170909T181749Z">
         <seg>Предустановленные буквы с акцентом включены для словацкого и чешского языков.], стандартные &lt;u1&gt;&lt;u2&gt;и &lt;u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Predefined map header contains some basic information about cave: name, scale, north arrow, list of surveyors etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040247Z" creationid="Алексей" creationdate="20171022T040247Z">
+        <seg>Предопределенный заголовок карты содержит некоторую базовую информацию о пещере: имя, масштаб, направление на север, список съемщиков и т.д.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6016,6 +6032,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110434Z" creationid="Алексей" creationdate="20170924T110407Z">
         <seg>{&lt;u0&gt; текстовые метки:} |label| (текстовая метка);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; map legend related:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040025Z" creationid="Алексей" creationdate="20171022T040006Z">
+        <seg>{&lt;u0&gt; Относящиеся к легенде карты:}</seg>
       </tuv>
     </tu>
     <tu>
