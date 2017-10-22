@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; export type}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080134Z" creationid="Алексей" creationdate="20171022T080119Z">
+        <seg>#&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; тип экспорта}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$^{</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T064205Z" creationid="Алексей" creationdate="20170910T064205Z">
@@ -280,8 +288,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = exports raw list of caves when set |off|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075121Z" creationid="Алексей" creationdate="20171022T075100Z">
-        <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = экспортирует необработанный список пещер при установке |off|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080038Z" creationid="Алексей" creationdate="20171022T075100Z">
+        <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = экспортирует необработанный список пещер при уста\-новке |off|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,16 +1066,16 @@
       <tuv lang="EN-US">
         <seg>* |format/fmt &lt;format&gt;| = currently |sql| and |csv| * |encoding/enc &lt;encoding&gt;| = set output encoding</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075322Z" creationid="Алексей" creationdate="20171022T075322Z">
-        <seg>* |format/fmt &lt;format&gt;| = currently |sql| and |csv| * |encoding/enc &lt;encoding&gt;| = set output encoding</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075435Z" creationid="Алексей" creationdate="20171022T075322Z">
+        <seg>* |format/fmt &lt;формат&gt;| = в настоящее время поддерживаются форматы |sql| и |csv|. * |encoding/enc &lt;кодировка&gt;| = установить кодировку вывода.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |format/fmt &lt;format&gt;| = set continuation output format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074329Z" creationid="Алексей" creationdate="20171022T074241Z">
-        <seg>* |format/fmt &lt;формат&gt;| = установить формат списка возможных продолжений (перспектив).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075702Z" creationid="Алексей" creationdate="20171022T074241Z">
+        <seg>* |format/fmt &lt;формат&gt;| = установить формат списка возможных продолже\-ний (перспектив).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,8 +1194,8 @@
       <tuv lang="EN-US">
         <seg>* |location &lt;on/(off)&gt;| = set whether to export coordinates of cave entrances in the table.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075052Z" creationid="Алексей" creationdate="20171022T075027Z">
-        <seg>* |location &lt;on/(off)&gt;| = указать, следует ли экспортировать координаты входов пещеры в таблицу.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075938Z" creationid="Алексей" creationdate="20171022T075027Z">
+        <seg>* |location &lt;on/(off)&gt;| = указать, следует ли экспортировать координаты вхо\-дов пещеры в таблицу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,8 +1258,8 @@
       <tuv lang="EN-US">
         <seg>* |projection &lt;id&gt;| = unique identifier that specifies the map projection type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073648Z" creationid="Алексей" creationdate="20171022T073636Z">
-        <seg>* |projection &lt;id&gt;| = уникальный идентификатор, который задает тип проекции карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075552Z" creationid="Алексей" creationdate="20171022T073636Z">
+        <seg>* |projection &lt;id&gt;| = уникальный идентификатор, который задает тип проек\-ции карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,6 +1592,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114055Z" creationid="Алексей" creationdate="20170910T065118Z">
         <seg>10000 &lt;u1&gt;10000 &lt;u2&gt;=159.2mm &lt;u3&gt;=239.2mm &lt;u4&gt;=210mm &lt;u5&gt;=297mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1em&lt;u2&gt;{&lt;u3&gt;&lt;u4&gt;-1em&lt;u5&gt;{#</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080115Z" creationid="Алексей" creationdate="20171022T080115Z">
+        <seg>1em&lt;u2&gt;{&lt;u3&gt;&lt;u4&gt;-1em&lt;u5&gt;{#</seg>
       </tuv>
     </tu>
     <tu>
@@ -2267,8 +2283,8 @@
       <tuv lang="EN-US">
         <seg>Currently the following output formats are supported: |html| (default), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;For cave-list and continuation-list.] and |dbf|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074452Z" creationid="Алексей" creationdate="20171022T074452Z">
-        <seg>В настоящее время поддерживаются следующие форматы вывода: |html| (по умолчанию), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;Для списка пещер и списка продолжений (перспектив).] и |dbf|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075801Z" creationid="Алексей" creationdate="20171022T074452Z">
+        <seg>В настоящее время поддерживаются следующие фор\-маты вывода: |html| (по умолчанию), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;Для списка пещер и списка продолжений (перспектив).] и |dbf|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2873,6 +2889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no name is specified |thconfig| in the current directory is used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T081357Z" creationid="Алексей" creationdate="20171022T081147Z">
+        <seg>Если имя не указано, то ищется файл |thconfig| в текущем каталоге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no stations are specified, |&lt;spec&gt;| is valid for following shots specified.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071044Z" creationid="Алексей" creationdate="20170920T071044Z">
@@ -3111,6 +3135,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045904Z" creationid="Алексей" creationdate="20170920T045904Z">
         <seg>Если список станций отсутствует, все последующие станции будут отмечены соответствующим типом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no |thconfig| file (e.g. current directory is not a data directory), Therion exits with an error message.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T081446Z" creationid="Алексей" creationdate="20171022T081224Z">
+        <seg>Если не существует файла |thconfig| (например, текущий каталог не является каталогом данных), тогда Therion выдаст сообщение об ошибке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,6 +3904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, after mastering data and configuration files, we're ready to run Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080654Z" creationid="Алексей" creationdate="20171022T080525Z">
+        <seg>Теперь, после освоения данных и файлов конфигурации, мы готовы запус\-тить Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Objects (like survey stations or scraps; see below) which belong to a subsurvey of the current survey are referenced as</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153903Z" creationid="Алексей" creationdate="20170911T153903Z">
@@ -4045,6 +4085,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180837Z" creationid="Алексей" creationdate="20170909T180837Z">
         <seg>Запустите программу установки и следуйте инструкциям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080426Z" creationid="Алексей" creationdate="20171022T080359Z">
+        <seg>Запуск Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4567,6 +4615,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151643Z" creationid="Алексей" creationdate="20170913T145927Z">
         <seg>Полное содержимое любой команды отображается в меню {&lt;u0&gt; Просмотр коман\-ды}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The full syntax is</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080611Z" creationid="Алексей" creationdate="20171022T080601Z">
+        <seg>Полный синтаксис</seg>
       </tuv>
     </tu>
     <tu>
@@ -5473,6 +5529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually this is done from the command line in the data directory by typing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080543Z" creationid="Алексей" creationdate="20171022T080543Z">
+        <seg>Обычно это делается из командной строки в каталоге данных путем ввода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Value range is 0--100.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033421Z" creationid="Алексей" creationdate="20171022T033421Z">
@@ -6106,6 +6170,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>html, txt, kml, dbf&lt;u0&gt;}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080352Z" creationid="Алексей" creationdate="20171022T080352Z">
+        <seg>html, txt, kml, dbf&lt;u0&gt;}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in the preview window above the {&lt;u0&gt; Insert scrap} button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145518Z" creationid="Алексей" creationdate="20170913T145518Z">
@@ -6122,6 +6194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>loch, dxf, esri, compass, survex, vrml, 3dmf, kml&lt;u0&gt; map</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080305Z" creationid="Алексей" creationdate="20171022T080252Z">
+        <seg>loch, dxf, esri, compass, survex, vrml, 3dmf, kml&lt;u0&gt; map (карта)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none, survey</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154527Z" creationid="Алексей" creationdate="20170911T154527Z">
@@ -6130,10 +6210,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080621Z" creationid="Алексей" creationdate="20171022T080621Z">
+        <seg>или</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or, if there are more nesting levels</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153941Z" creationid="Алексей" creationdate="20170911T153941Z">
         <seg>или, если есть больше уровней вложения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pdf, svg, xhtml, dxf, esri, survex, xvi, kml, &lt;u0&gt;{5.3}bbox&lt;u1&gt; atlas</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080324Z" creationid="Алексей" creationdate="20171022T080319Z">
+        <seg>pdf, svg, xhtml, dxf, esri, survex, xvi, kml, &lt;u0&gt;{5.3}bbox&lt;u1&gt; atlas (атлас)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pdf&lt;u0&gt; database</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080339Z" creationid="Алексей" creationdate="20171022T080328Z">
+        <seg>pdf&lt;u0&gt; database (база данных)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6158,6 +6262,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T162411Z" creationid="Алексей" creationdate="20170910T162411Z">
         <seg>устанавливает кодировку входного файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sql, &lt;u0&gt;{5.4}csv&lt;u1&gt; lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080349Z" creationid="Алексей" creationdate="20171022T080342Z">
+        <seg>sql, &lt;u0&gt;{5.4}csv&lt;u1&gt; lists (списки)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6404,6 +6516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; File formats summary:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075520Z" creationid="Алексей" creationdate="20171022T075445Z">
+        <seg>{&lt;u0&gt; Форматы файлов:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Inserting area}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025544Z" creationid="Алексей" creationdate="20170920T025534Z">
@@ -6528,6 +6648,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064103Z" creationid="Алексей" creationdate="20170924T063346Z">
         <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой раз\-ницу высот по сравнению с ближайшей станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; available formats}&lt;u1&gt;&lt;u2&gt;{&lt;u3&gt;&lt;u5&gt;&lt;u4&gt;} model</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080248Z" creationid="Алексей" creationdate="20171022T080149Z">
+        <seg>{&lt;u0&gt; поддерживаемые форматы}&lt;u1&gt;&lt;u2&gt;{&lt;u3&gt;&lt;u5&gt;&lt;u4&gt;} model (модель)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7032,6 +7160,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052137Z" creationid="Алексей" creationdate="20170924T052108Z">
         <seg>|&lt;center&gt;|/|&lt;centre&gt;|, |&lt;left&gt;|, |&lt;right&gt;| = выравнивание строк для многострочных меток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;cfg-file&gt;| Therion takes only one optional argument: the name of a configuration file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T081315Z" creationid="Алексей" creationdate="20171022T080857Z">
+        <seg>|&lt;конфигурационный файл&gt;| = Therion принимает только один необязатель\-ный аргумент: имя конфигурационного файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7587,6 +7723,30 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111653Z" creationid="Алексей" creationdate="20171021T111257Z">
         <seg>|text &lt;ID языка&gt; &lt;therion текст&gt; &lt;перевод&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment] [--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings] [--print-xtherion-src]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080625Z" creationid="Алексей" creationdate="20171022T080625Z">
+        <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment] [--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings] [--print-xtherion-src]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|therion [-q] [-L] [-l &lt;log-file&gt;] [-s &lt;source-file&gt;] [-p &lt;search-path&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;cfg-file&gt;]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080832Z" creationid="Алексей" creationdate="20171022T080615Z">
+        <seg>|therion [-q] [-L] [-l &lt;log-file&gt;] [-s &lt;source-file&gt;] [-p &lt;search-path&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;конфигурационный файл&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|therion|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080546Z" creationid="Алексей" creationdate="20171022T080546Z">
+        <seg>|therion|</seg>
       </tuv>
     </tu>
     <tu>
