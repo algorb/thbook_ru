@@ -713,8 +713,32 @@
       <tuv lang="EN-US">
         <seg>* |--print-encodings| = Print a list of all supported input encodings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112149Z" creationid="Алексей" creationdate="20171022T112116Z">
-        <seg>* |--print-encodings| = распечатывает список всех поддерживаемых входных кодировок.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112405Z" creationid="Алексей" creationdate="20171022T112116Z">
+        <seg>* |--print-encodings| = выводит список всех поддерживаемых входных кодировок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |--print-environment| = Print environment settings for therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112446Z" creationid="Алексей" creationdate="20171022T112325Z">
+        <seg>* |--print-environment| = выводит настройки среды для Therion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |--print-init-file| = Print a default initialization file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112419Z" creationid="Алексей" creationdate="20171022T112230Z">
+        <seg>* |--print-init-file| = выводит файл инициализации по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |--print-tex-encodings| = Print a list of all supported encodings for PDF output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112411Z" creationid="Алексей" creationdate="20171022T112158Z">
+        <seg>* |--print-tex-encodings| = выводит список всех поддерживаемых кодировок для вывода в PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2733,6 +2757,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151717Z" creationid="Алексей" creationdate="20170913T150046Z">
         <seg>Для изменения ранее созданных команд есть дополнительные меню -- напри\-мер {&lt;u0&gt; Скрап} для команды |scrap|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more details see the {&lt;u0&gt; Initialization} section in the {&lt;u1&gt; Appendix}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112318Z" creationid="Алексей" creationdate="20171022T112318Z">
+        <seg>Более подробную информацию смотрите в разделе {&lt;u0&gt; Инициализация} в {&lt;u1&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
