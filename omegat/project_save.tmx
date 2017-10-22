@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>(M, A) * |colo[u]r &lt;item&gt; &lt;colour&gt;| = customize colour for special map items (map-fg, map-bg, preview-above, preview-below, label).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054848Z" creationid="Алексей" creationdate="20171022T053502Z">
-        <seg>(M, A). * |colo[u]r &lt;item&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (|map-fg|, |map-bg|, |preview-above|, |preview-below|, label).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054929Z" creationid="Алексей" creationdate="20171022T053502Z">
+        <seg>(M, A). * |colo[u]r &lt;item&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (|map-fg|, |map-bg|, |preview-above|, |preview-below|, |label|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -836,6 +836,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043930Z" creationid="Алексей" creationdate="20170924T043830Z">
         <seg>* |clip &lt;on/off&gt;| = указывает, подрезать ли символ границей скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |code &lt;metapost/tex-map/tex-atlas&gt;| = Add/redefine &lt;u0&gt;&lt;u1&gt;and &lt;u5&gt;&lt;u2&gt;macros here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055244Z" creationid="Алексей" creationdate="20171022T055132Z">
+        <seg>* |code &lt;metapost/tex-map/tex-atlas&gt;| = Добавить/переопределить макросы  &lt;u0&gt;&lt;u1&gt;и &lt;u5&gt;&lt;u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2507,8 +2515,8 @@
       <tuv lang="EN-US">
         <seg>For |map-bg|, you can use |transparent| to omit page background completely.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053729Z" creationid="Алексей" creationdate="20171022T053729Z">
-        <seg>Для |map-bg| вы можете использовать |transparent| чтобы полностью исключить фон страницы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054904Z" creationid="Алексей" creationdate="20171022T053729Z">
+        <seg>Для |map-bg| вы можете использовать |transparent| чтобы полностью исклю\-чить фон страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3915,8 +3923,8 @@
       <tuv lang="EN-US">
         <seg>See the description of |scrap| command for details.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054056Z" creationid="Алексей" creationdate="20171022T054043Z">
-        <seg>Смотрите описание |scrap| для подробностей.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055020Z" creationid="Алексей" creationdate="20171022T054043Z">
+        <seg>Смотрите описание |scrap| для подробнос\-тей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,6 +4938,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172441Z" creationid="Алексей" creationdate="20170910T172105Z">
         <seg>Это позволяет использовать сим\-волы не ASCII во входных файлах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows user to configure various things (like user defined symbols, map and atlas layout at one place &lt;u7&gt;&amp;c.) See the chapter {&lt;u8&gt;it Changing layout} for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055416Z" creationid="Алексей" creationdate="20171022T055416Z">
+        <seg>Это позволяет пользователю настраивать различные элементы (например, пользовательские символы, макет карты и атласа в одном месте &lt;u7&gt;&amp;c.) Для подробностей смотрите главу {&lt;u8&gt;it Изменение макета}.</seg>
       </tuv>
     </tu>
     <tu>
