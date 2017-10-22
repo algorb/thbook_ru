@@ -396,7 +396,7 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 
 \options
 
-* |-d| = Turn on debugging mode. The current implementation creates a temporary directory named |thTMPDIR| (in your system temporary directory) and does not delete any temporary files. 
+* |-d| = включить режим отладки. Текущая реализация создает временный каталог с именем |thTMPDIR| (в вашем временном системном каталоге) и не удаляет временные файлы. 
 
 %* |-g| =
 %  Using this option you can generate a new configuration file.
@@ -406,41 +406,41 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 %  |<cfg-file>| if specified, or |thconfig| in the current directory if not. 
 %  If the file already exists, it will be overwritten.
 %        
-* |-h, --help| = Display short help. 
+* |-h, --help| = показать краткую справку. 
 
 %* |-i| =
 %        Ignore comments when writing |-g| or |-u| configuration file.
 %
-* |-L| = Do not create a log-file. Normally therion writes all the messages into a therion.log file in the current directory. 
+* |-L| = не создавайте файл журнала. Обычно Therion записывает все сообщения в файл therion.log в текущем каталоге. 
 
-* |-l <log-file>| = Change the name of the log file. 
+* |-l <файл журнала>| = изменить имя файла журнала. 
 
-* |-p <search-path>| = This option is used to set the search path (or list of colon-separated paths) which therion uses to find its source files (if it doesn't find them in the working directory). 
+* |-p <путь поиска>| = эта опция используется для установки пути поиска (или списка путей разделенных двоеточиями), который использует Therion для поиска его исходных файлов (если он не находит их в рабочем каталоге). 
 
-* |-q| = Run therion in quiet mode. It will print only warning and error messages to STDERR. 
+* |-q| = запустить Therion в тихом режиме. Он будет печатать только предупреждения и сообщения об ошибках в STDERR. 
 
-* |--print-encodings| = Print a list of all supported input encodings. 
+* |--print-encodings| = выводит список всех поддерживаемых входных кодировок. 
 
-* |--print-tex-encodings| = Print a list of all supported encodings for PDF output. 
+* |--print-tex-encodings| = выводит список всех поддерживаемых кодировок для вывода в PDF. 
 
-* |--print-init-file| = Print a default initialization file. For more details see the {\it Initialization} section in the {\it Appendix}. 
+* |--print-init-file| = выводит файл инициализации по умолчанию. Более подробную информацию смотрите в разделе {\it Инициализация} в {\it Приложении}. 
 
-* |--print-environment| = Print environment settings for therion. 
+* |--print-environment| = выводит настройки среды для Therion'а. 
 
-* |--print-symbols| = Print a list of all therion supported map symbols in |symbols.xhtml| file. 
+* |--print-symbols| = выводит список всех символов карты, поддерживаемых Therion'ом в файл |symbols.xhtml|. 
 
-* |-s <source-file>| = Set the name of the source file. 
+* |-s <исходный файл>| = установить имя исходного файла. 
 
 %* |-u| =
 %        Upgrade the configuration file.
 %
-* |--use-extern-libs| = Don't copy \TeX\ and \MP\ macros to working directory. \TeX\ and \MP\  should search for them on their own. Use with caution. 
+* |--use-extern-libs| = не копирует макросы \TeX\ и \MP\ в рабочий каталог. \TeX\ и \MP\  должны искать их самостоятельно. Используйте с осторожностью. 
 
-* |-v, --version| = Display version information. 
+* |-v, --version| = отображать информацию о версии. 
 
-* |-x| = Generate file `.xtherion.dat' with additional information for XTherion. \endoptions
+* |-x| = создает файл `.xtherion.dat' с дополнительной информацией о XTherion'е. \endoptions
 
-\subsubchapter XTherion---compiler. 
+\subsubchapter XTherion -- компилятор. 
 
 XTherion makes it easier to run Therion especially on systems without a command line prompt. Compiler window is the default window of XTherion. To run Therion it's enough to open a configuration file and press `F9' or `Compile' button. 
 
