@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = exports raw list of caves when set |off|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075121Z" creationid="Алексей" creationdate="20171022T075100Z">
+        <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = экспортирует необработанный список пещер при установке |off|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.3}|symbol-colo[u]r &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt;| = change colour of particular symbol or group of symbols.&lt;u1&gt;Note: colour change currently applies to pattern fills only if (1) output format is PDF and (2) &lt;u2&gt;&lt;u3&gt;version is at least 1.000] (M, A)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T182641Z" creationid="Алексей" creationdate="20171021T182053Z">
@@ -1048,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |format/fmt &lt;format&gt;| = currently |sql| and |csv| * |encoding/enc &lt;encoding&gt;| = set output encoding</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075322Z" creationid="Алексей" creationdate="20171022T075322Z">
+        <seg>* |format/fmt &lt;format&gt;| = currently |sql| and |csv| * |encoding/enc &lt;encoding&gt;| = set output encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |format/fmt &lt;format&gt;| = set continuation output format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074329Z" creationid="Алексей" creationdate="20171022T074241Z">
@@ -1170,8 +1186,8 @@
       <tuv lang="EN-US">
         <seg>* |location &lt;on/(off)&gt;| = set whether to export coordinates of cave entrances in the table.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075027Z" creationid="Алексей" creationdate="20171022T075027Z">
-        <seg>* |location &lt;on/(off)&gt;| = set whether to export coordinates of cave entrances in the table.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075052Z" creationid="Алексей" creationdate="20171022T075027Z">
+        <seg>* |location &lt;on/(off)&gt;| = указать, следует ли экспортировать координаты входов пещеры в таблицу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3929,6 +3945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise survey structure with aggregated ststistics is also displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075252Z" creationid="Алексей" creationdate="20171022T075252Z">
+        <seg>Иначе отображается структура съемки со статистикой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
@@ -6552,6 +6576,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054713Z" creationid="Алексей" creationdate="20171022T054707Z">
         <seg>{&lt;u0&gt; Настройка:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; database:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075311Z" creationid="Алексей" creationdate="20171022T075302Z">
+        <seg>{&lt;u0&gt; database (база данных):}</seg>
       </tuv>
     </tu>
     <tu>
