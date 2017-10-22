@@ -3664,6 +3664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple files are written to a directory with the specified filename.], |kml| (Google Earth), |xvi|&lt;u2&gt;Xtherion vector image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072942Z" creationid="Алексей" creationdate="20171022T072821Z">
+        <seg>Несколько файлов записываются в каталог с указанным именем файла.], |kml| (Google Earth), |xvi|&lt;u2&gt;Векторное изображение Xtherion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>N.B.: The declination is positive when the magnetic north is east of true north.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161204Z" creationid="Алексей" creationdate="20170911T155831Z">
@@ -3925,6 +3933,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071911Z" creationid="Алексей" creationdate="20170920T071307Z">
         <seg>Для сохранения типизации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale (100 DPI image resolution is assumed) and grid-size from layout are used in export.] and &lt;u4&gt;{5.3}|bbox|&lt;u3&gt;Text file containing geographic coordinates of lower-left and upper-right corners of the map area.] for map; |pdf| for atlas are supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073309Z" creationid="Алексей" creationdate="20171022T073309Z">
+        <seg>|Scale| (принято разрешение изображения в 100 DPI) и |grid-size| макета используются в экспорте.] и &lt;u4&gt;{5.3}|bbox|&lt;u3&gt;Текстовый файл, содержащий географические координаты нижних и верхних правых углов области карты.] для карты; |pdf| для атласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5551,6 +5567,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172717Z" creationid="Алексей" creationdate="20170912T172717Z">
         <seg>XTherion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XVI images may be used in xtherion to draw in-scale maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073004Z" creationid="Алексей" creationdate="20171022T073004Z">
+        <seg>Изображения XVI могут использоваться для рисования карт в масштабе.</seg>
       </tuv>
     </tu>
     <tu>
