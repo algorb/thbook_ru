@@ -6316,6 +6316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; common:}&lt;u1&gt; * |encoding/enc &lt;encoding&gt;| = set output encoding * |output/o &lt;file&gt;| = set output file name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071532Z" creationid="Алексей" creationdate="20171022T070650Z">
+        <seg>{&lt;u0&gt; общие:}&lt;u1&gt; * |encoding/enc &lt;кодировка&gt;| = установить кодировку вывода. * |output/o &lt;файл&gt;| = установить выходной файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; customization:}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054713Z" creationid="Алексей" creationdate="20171022T054707Z">
