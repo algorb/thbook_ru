@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |-d| = Turn on debugging mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111508Z" creationid="Алексей" creationdate="20171022T111456Z">
+        <seg>* |-d| = включить режим отладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;encoding-name&gt;| = to see a list of all the supported encoding names, run Therion with |--print-encodings| option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172451Z" creationid="Алексей" creationdate="20170910T172204Z">
@@ -4519,6 +4527,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031519Z" creationid="Алексей" creationdate="20170923T024857Z">
         <seg>Поперечное сечение должно быть в отдель\-ном скрапе с проекцией `none'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current implementation creates a temporary directory named |thTMPDIR| (in your system temporary directory) and does not delete any temporary files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111556Z" creationid="Алексей" creationdate="20171022T111556Z">
+        <seg>Текущая реализация создает временный каталог с именем |thTMPDIR| (в вашем временном системном каталоге) и не удаляет временные файлы.</seg>
       </tuv>
     </tu>
     <tu>
