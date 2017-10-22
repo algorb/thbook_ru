@@ -340,15 +340,15 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 
 \options
 
-{\it common:}\Nobreak * |encoding/enc <encoding>| = set output encoding * |output/o <file>| = set output file name. If no file name is given the prefix ``|cave.|'' is used with an extension corresponding to output format. 
+{\it общие:}\Nobreak * |encoding/enc <кодировка>| = установить кодировку вывода. * |output/o <файл>| = установить выходной файл. Если имя файла не задано, префикс ``|cave.|'' используется с расширением, соответствующим выходному формату. 
 
-If the output filename is given and no output format is specified, the format is determined from the filename extension. 
+Если задано имя выходного файла и не указан выходной формат, формат определяется из расширения имени файла. 
 
-{\it model:}\Nobreak 
+{\it модель:}\Nobreak 
 
-* |format/fmt <format>| = set model output format. Currently the following output formats are supported: |loch| (native format; default), |compass| (plt file), |survex| (3d file), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| and |kml| (Google Earth). * |enable <walls/[cave/surface-]centerline/splay-shots/surface/all>| and * |disable <walls/[cave/surface-]centerline/splay-shots/surface/all>| = \hfil\break selects which features to export, if the format supports it. Surface is currently exported in |therion| format only. * |wall-source <maps/centerline/all>| = set source data for passage wall modeling. 
+* |format/fmt <формат>| = установить формат вывода модели. В настоящее время поддерживаются следующие форматы вывода: |loch| (собственный формат, по умолчанию), |compass| (plt файл), |survex| (3d файл), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| и |kml| (Google Earth). * |enable <walls/[cave/surface-]centerline/splay-shots/surface/all>| и * |disable <walls/[cave/surface-]centerline/splay-shots/surface/all>| = \hfil\break выбирает, какие функции экспортировать, если формат поддерживает его. Поверхность в настоящее время экспортируется только в формате |therion|. * |wall-source <maps/centerline/all>| = установить исходные данные для моделирования стен хода. 
 
-{\it map/atlas:}\Nobreak 
+{\it карты/атлас:}\Nobreak 
 
 * |format/fmt <format>| = set map format. Currently |pdf|, |svg|, |xhtml|\[SVG embedded in XHTML file which contains also legend], |survex|, |dxf|, |esri|\[ESRI shapefiles. Multiple files are written to a directory with the specified filename.], |kml| (Google Earth), |xvi|\[Xtherion vector image. XVI images may be used in xtherion to draw in-scale maps. Scale (100\,DPI image resolution is assumed) and grid-size from layout are used in export.] and \NEW{5.3}|bbox|\[Text file containing geographic coordinates of lower-left and upper-right corners of the map area.] for map; |pdf| for atlas are supported. * |projection <id>| = unique identifier that specifies the map projection type. (See the |scrap| command for details.) 
 
