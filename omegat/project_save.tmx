@@ -3889,6 +3889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the description of |scrap| command for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054056Z" creationid="Алексей" creationdate="20171022T054043Z">
+        <seg>Смотрите описание |scrap| для подробностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the {&lt;u1&gt; Appendix} if you want to add or customize translations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042639Z" creationid="Алексей" creationdate="20171022T042626Z">
@@ -4383,6 +4391,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
         <seg>Показ подменю сбоку может быть настроен пользователем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The points with distance changed most during transformation are displayed orange.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054208Z" creationid="Алексей" creationdate="20171022T054208Z">
+        <seg>Точечные символы, расположение которых больше всего изменились во время преобразования, отображаются оранжевым цветом.</seg>
       </tuv>
     </tu>
     <tu>
