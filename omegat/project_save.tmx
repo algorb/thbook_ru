@@ -944,6 +944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |encoding/enc &lt;encoding&gt;| = set output encoding</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074156Z" creationid="Алексей" creationdate="20171022T074144Z">
+        <seg>* |encoding/enc &lt;кодировка&gt;| = установить кодировку вывода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |endcode| = should end the TeX&lt;u3&gt;and &lt;u6&gt;&lt;u4&gt;sections &lt;u9&gt;endcomopt</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060011Z" creationid="Алексей" creationdate="20171022T055428Z">
@@ -1020,6 +1028,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
         <seg>* |flags &lt;флаги замеров&gt;| = установить флаги для следующих замеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |format/fmt &lt;format&gt;| = set continuation output format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074329Z" creationid="Алексей" creationdate="20171022T074241Z">
+        <seg>* |format/fmt &lt;формат&gt;| = установить формат списка возможных продолжений (перспектив).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2205,6 +2221,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172914Z" creationid="Алексей" creationdate="20170912T172914Z">
         <seg>В настоящее время он работает в трех основных режимах: текстовый редактор, редактор карт и компилятор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently the following output formats are supported: |html| (default), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;For cave-list and continuation-list.] and |dbf|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074452Z" creationid="Алексей" creationdate="20171022T074452Z">
+        <seg>В настоящее время поддерживаются следующие форматы вывода: |html| (по умолчанию), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;Для списка пещер и списка продолжений (перспектив).] и |dbf|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6468,6 +6492,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; common for lists:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074216Z" creationid="Алексей" creationdate="20171022T074206Z">
+        <seg>{&lt;u0&gt; общее для списков:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; common:}&lt;u1&gt; * |encoding/enc &lt;encoding&gt;| = set output encoding * |output/o &lt;file&gt;| = set output file name.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071532Z" creationid="Алексей" creationdate="20171022T070650Z">
@@ -7153,8 +7185,8 @@ endcommand|</seg>
       <tuv lang="EN-US">
         <seg>|continuation-list| = list of possible continuations</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060910Z" creationid="Алексей" creationdate="20171022T060847Z">
-        <seg>|continuation-list| = список возможных продолжений;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074339Z" creationid="Алексей" creationdate="20171022T060847Z">
+        <seg>|continuation-list| = список возможных продолжений (перспектив);</seg>
       </tuv>
     </tu>
     <tu>
