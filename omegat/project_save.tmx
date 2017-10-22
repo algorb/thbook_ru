@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;type&gt;| = The following export types are supported:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060635Z" creationid="Алексей" creationdate="20171022T060612Z">
+        <seg>* |&lt;тип&gt;| = поддерживаются следующие типы экспорта:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;type&gt;| determines the type of an object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023708Z" creationid="Алексей" creationdate="20170923T023701Z">
@@ -968,6 +976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |export &lt;type&gt; [OPTIONS]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060610Z" creationid="Алексей" creationdate="20171022T060557Z">
+        <seg>* |export &lt;тип&gt; [ОПЦИИ]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]]| = control how the centerline is extended.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064652Z" creationid="Алексей" creationdate="20170920T064652Z">
@@ -1204,6 +1220,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180935Z" creationid="Алексей" creationdate="20170922T180809Z">
         <seg>* |sketch &lt;имя файла&gt; &lt;x&gt; &lt;y&gt;| = определение растрового рисунка в качестве эскиза/подложки (координаты нижнего левого угла).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |sketch-colors &lt;number-of-colors&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060506Z" creationid="Алексей" creationdate="20171022T060506Z">
+        <seg>* |sketch-colors &lt;number-of-colors&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2293,6 +2317,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053755Z" creationid="Алексей" creationdate="20170920T052831Z">
         <seg>Исследовательские длины являются частью статистики съем\-ки/пещеры, отображаемой отдельно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exports selected surveys or maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060551Z" creationid="Алексей" creationdate="20171022T060551Z">
+        <seg>Экспортирует выбранные съемки или карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5651,6 +5683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`export'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060520Z" creationid="Алексей" creationdate="20171022T060520Z">
+        <seg>`export'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`input'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172322Z" creationid="Алексей" creationdate="20170910T172322Z">
@@ -5719,6 +5759,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055457Z" creationid="Алексей" creationdate="20171022T055457Z">
         <seg>`setup3d'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`sketch-colors'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060421Z" creationid="Алексей" creationdate="20171022T060421Z">
+        <seg>`sketch-colors'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5997,8 +6045,8 @@
       <tuv lang="EN-US">
         <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B&lt;u1&gt;ezier curves.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060325Z" creationid="Алексей" creationdate="20171022T060306Z">
-        <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B{\my &lt;u1&gt;e}zier curves.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060405Z" creationid="Алексей" creationdate="20171022T060306Z">
+        <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B{\my\'e}zier curves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6024,6 +6072,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052618Z" creationid="Алексей" creationdate="20170924T052515Z">
         <seg>{5.3}|&lt;lang:XX&gt;| = создает многоязычную текстовую метку (подробнее смотрите описание типа |string|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.4} This option can be used to reduce size of sketch bitmap images in maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060504Z" creationid="Алексей" creationdate="20171022T060504Z">
+        <seg>Этот параметр можно использовать для уменьшения размера растровых изображений эскиза на картах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7085,6 +7141,22 @@ endline|</seg>
 	smooth off
 	1205.5 788.0 1195.5 832.5 1173.5 879.0
 endline|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|map| = one page 2D map</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060714Z" creationid="Алексей" creationdate="20171022T060703Z">
+        <seg>|map| = одностраничная 2D-карта;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|model| = 3D model of the cave</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060655Z" creationid="Алексей" creationdate="20171022T060644Z">
+        <seg>|model| = 3D-модель пещеры;</seg>
       </tuv>
     </tu>
     <tu>
