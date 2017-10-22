@@ -332,7 +332,7 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 
 |survey-list| = сводная таблица съемок; 
 
-|continuation-list| = список возможных продолжений; 
+|continuation-list| = список возможных продолжений (перспектив); 
 
 |database| = база данных SQL с ниткой хода. \endarguments
 
@@ -344,35 +344,35 @@ Therion использует следующие предопределенные наборы символов:\par UIS (Междунар
 
 Если задано имя выходного файла и не указан выходной формат, формат определяется из расширения имени файла. 
 
-{\it модель:}\Nobreak 
+{\it model (модель):}\Nobreak 
 
 * |format/fmt <формат>| = установить формат вывода модели. В настоящее время поддерживаются следующие форматы вывода: |loch| (собственный формат, по умолчанию), |compass| (plt файл), |survex| (3d файл), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| и |kml| (Google Earth). * |enable <walls/[cave/surface-]centerline/splay-shots/surface/all>| и * |disable <walls/[cave/surface-]centerline/splay-shots/surface/all>| = выбирает, какие функции экспортировать, если формат поддерживает его. Поверх\-ность в настоящее время экспортируется только в формате |therion|. * |wall-source <maps/centerline/all>| = установить исходные данные для моде\-лирования стен хода. 
 
-{\it карты/атлас:}\Nobreak 
+{\it map/atlas (карты/атлас):}\Nobreak 
 
-* |format/fmt <формат>| = установить формат карты. В данный момент под\-держиваются форматы |pdf|, |svg|, |xhtml|\[SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|\[ESRI shapefiles. Несколько файлов записываются в каталог с указанным именем файла.], |kml| (Google Earth), |xvi|\[Векторное изображение Xtherion'а. Изображения XVI могут использоваться для рисова\-ния карт в масштабе. |Scale| (принято разрешение изображения в 100 DPI) и |grid-size| макета используются в экспорте.] и \NEW{5.3}|bbox|\[Текстовый файл, содержащий географические координаты нижних и верхних правых углов области карты.] для карты; |pdf| для атласа. * |projection <id>| = unique identifier that specifies the map projection type. (See the |scrap| command for details.) 
+* |format/fmt <формат>| = установить формат карты. В данный момент под\-держиваются форматы |pdf|, |svg|, |xhtml|\[SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|\[ESRI shapefiles. Несколько файлов записываются в каталог с указанным именем файла.], |kml| (Google Earth), |xvi|\[Векторное изображение Xtherion'а. Изображения XVI могут использоваться для рисова\-ния карт в масштабе. |Scale| (принято разрешение изображения в 100 DPI) и |grid-size| макета используются в экспорте.] и \NEW{5.3}|bbox|\[Текстовый файл, содержащий географические координаты нижних и верхних правых углов области карты.] для карты; |pdf| для атласа. * |projection <id>| = уникальный идентификатор, который задает тип проекции карты. (Для деталей смотрите команду |scrap|). 
 
-If there is no map defined, all scraps in the given projection are exported. 
+Если карта не определена, экспортируются все скрапы в данной проекции. 
 
-If there are no scraps with the specified projection then Therion will display centreline from selected surveys. * |layout <id>| = use predefined map or atlas layout. * |layout-xxx| = where |xxx| stands for other layout options. Using this you can change some layout properties directly within the export command. * |encoding/enc <encoding>| = set output encoding 
+Если нет скрапов с указанной проекцией, Therion отобразит нитку хода из выбранных съемок. * |layout <id>| = использовать предопределенный макет карты или атласа. * |layout-xxx| = где |xxx| означает другие опции макета. Используя это, вы можете изменить некоторые свойства макета непосредственно в команде |export|. * |encoding/enc <кодировка>| = установить кодировку вывода. 
 
-{\it common for lists:}\Nobreak 
+{\it общее для list (списков):}\Nobreak 
 
-* |format/fmt <format>| = set continuation output format. Currently the following output formats are supported: |html| (default), |txt|, \NEW{5.4}|kml|\[For cave-list and continuation-list.] and |dbf|. 
+* |format/fmt <формат>| = установить формат списка возможных продолжений (перспектив). В настоящее время поддерживаются следующие форматы вывода: |html| (по умолчанию), |txt|, \NEW{5.4}|kml|\[Для списка пещер и списка продолжений (перспектив).] и |dbf|. 
 
-{\it continuation-list:}\Nobreak 
+{\it continuation-list (список перспектив):}\Nobreak 
 
-* |attributes <(on)/off>| = set whether to export user defined attributes in continuation list table. * \NEW{5.3}|filter <(on)/off>| = set whether continuations without comment/text should be filtered out. 
+* |attributes <(on)/off>| = указывает, следует ли экспортировать определенные пользователем атрибуты в таблице списка продолжений (перспектив). * \NEW{5.3}|filter <(on)/off>| = указывает, следует ли продолжения (перспективы) без комментариев/текста фильтровать. 
 
-{\it cave-list:}\Nobreak 
+{\it cave-list (список пещер):}\Nobreak 
 
-* |location <on/(off)>| = set whether to export coordinates of cave entrances in the table. * \NEW{5.3}|surveys (on)/off| = exports raw list of caves when set |off|. Otherwise survey structure with aggregated ststistics is also displayed. 
+* |location <on/(off)>| = указать, следует ли экспортировать координаты входов пещеры в таблицу. * \NEW{5.3}|surveys (on)/off| = экспортирует необработанный список пещер при установке |off|. Иначе отображается структура съемки со статистикой. 
 
-{\it database:}\Nobreak 
+{\it database (база данных):}\Nobreak 
 
-* |format/fmt <format>| = currently |sql| and |csv| * |encoding/enc <encoding>| = set output encoding \endoptions
+* |format/fmt <формат>| = в настоящее время поддерживаются форматы |sql| и |csv|. * |encoding/enc <кодировка>| = установить кодировку вывода. \endoptions
 
-{\it File formats summary:} \nobreak\medskip \bgroup
+{\it Форматы файлов:} \nobreak\medskip \bgroup
 
 \leavevmode\kern1em\vbox{\advance\hsize-1em\halign{#\hfil\quad&#\hfil\cr {\it export type}&{\it available formats}\cr\noalign{\smallskip\hrule\smallskip} model &loch, dxf, esri, compass, survex, vrml, 3dmf, kml\cr map &pdf, svg, xhtml, dxf, esri, survex, xvi, kml, \NEW{5.3}bbox\cr atlas &pdf\cr database &sql, \NEW{5.4}csv\cr lists &html, txt, kml, dbf\cr}}\egroup 
 
