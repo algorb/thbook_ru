@@ -904,6 +904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |doc-author &lt;string&gt;| = set document author (M, A) * |doc-keywords &lt;string&gt;| = set document keywords (M, A) * |doc-subject &lt;string&gt;| = set document subject (M, A) * |doc-title &lt;string&gt;| = set document title (M, A)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054654Z" creationid="Алексей" creationdate="20171022T054654Z">
+        <seg>* |doc-author &lt;текст&gt;| = установить автора документа (M, A). * |doc-keywords &lt;текст&gt;| = установить ключевые слова документа (M, A). * |doc-subject &lt;текст&gt;| = задать тему документа (M, A). * |doc-title &lt;текст&gt; | = установить название документа (M, A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160051Z" creationid="Алексей" creationdate="20170911T155944Z">
@@ -1212,6 +1220,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090125Z" creationid="Алексей" creationdate="20170923T090049Z">
         <seg>* |subtype &lt;подтип&gt;| = определяет подтип объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |survey-level &lt;N/all&gt;| = |N| is the number of survey levels displayed next to the station name (M, A; default: |0|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054342Z" creationid="Алексей" creationdate="20171022T054342Z">
+        <seg>* |survey-level &lt;N/all&gt;| = |N| -- количество уровней съемки, отображаемых рядом с именем станции (M, A; по умолчанию: |0|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2968,6 +2984,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053850Z" creationid="Алексей" creationdate="20171022T053850Z">
         <seg>Если |on|, то подписи окрашиваются с использованием цвета связанного скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If |scrap-names| is specified, scrap names are shown for each scrap, |station-names| displays name of each survey station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054301Z" creationid="Алексей" creationdate="20171022T054301Z">
+        <seg>Если |scrap-names| указано, имена скрапов отображаются для каждого скрапа, |station-names| отображает имя каждой станции съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6112,6 +6136,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172548Z" creationid="Алексей" creationdate="20170913T172418Z">
         <seg>Поле {&lt;u0&gt; Опции} сохраняет старое значение, и достаточно изменить всего несколько символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; PDF related:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054409Z" creationid="Алексей" creationdate="20171022T054359Z">
+        <seg>{&lt;u0&gt; Относящиеся к PDF:}</seg>
       </tuv>
     </tu>
     <tu>
