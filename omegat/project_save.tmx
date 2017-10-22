@@ -1946,8 +1946,8 @@
       <tuv lang="EN-US">
         <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T133208Z" creationid="Алексей" creationdate="20171022T131610Z">
-        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, где $&lt;u4&gt; x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T134037Z" creationid="Алексей" creationdate="20171022T131610Z">
+        <seg>{\delt $\Delta $} Абсолютная ошибка кольца равна $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, где $&lt;u4&gt; x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
       </tuv>
     </tu>
     <tu>
