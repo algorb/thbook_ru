@@ -735,10 +735,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |--print-symbols| = Print a list of all therion supported map symbols in |symbols.xhtml| file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112603Z" creationid="Алексей" creationdate="20171022T112455Z">
+        <seg>* |--print-symbols| = выводит список всех символов карты, поддерживаемых Therion'ом в файл |symbols.xhtml|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |--print-tex-encodings| = Print a list of all supported encodings for PDF output.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112411Z" creationid="Алексей" creationdate="20171022T112158Z">
         <seg>* |--print-tex-encodings| = выводит список всех поддерживаемых кодировок для вывода в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |--use-extern-libs| = Don't copy &lt;u0&gt;&lt;u2&gt;and &lt;u6&gt;&lt;u3&gt;macros to working directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112728Z" creationid="Алексей" creationdate="20171022T112651Z">
+        <seg>* |--use-extern-libs| = не копирует макросы &lt;u0&gt;&lt;u2&gt;и &lt;u6&gt;&lt;u3&gt;в рабочий каталог.</seg>
       </tuv>
     </tu>
     <tu>
@@ -787,6 +803,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112048Z" creationid="Алексей" creationdate="20171022T112021Z">
         <seg>* |-q| = запустить Therion в тихом режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |-s &lt;source-file&gt;| = Set the name of the source file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112642Z" creationid="Алексей" creationdate="20171022T112615Z">
+        <seg>* |-s &lt;исходный файл&gt;| = установить имя исходного файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1772,6 +1796,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
         <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным сим\-во\-лам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;u1&gt;&lt;u4&gt;and &lt;u7&gt;&lt;u5&gt; should search for them on their own.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112746Z" creationid="Алексей" creationdate="20171022T112738Z">
+        <seg>&lt;u1&gt;&lt;u4&gt;и &lt;u7&gt;&lt;u5&gt; должны искать их самостоятельно.</seg>
       </tuv>
     </tu>
     <tu>
