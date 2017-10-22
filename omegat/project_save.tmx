@@ -930,8 +930,8 @@
       <tuv lang="EN-US">
         <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| and * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = &lt;u0&gt;&lt;u1&gt; selects which features to export, if the format supports it.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072056Z" creationid="Алексей" creationdate="20171022T072056Z">
-        <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| и * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = &lt;u0&gt;&lt;u1&gt; выбирает, какие функции экспортировать, если формат поддерживает его.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072407Z" creationid="Алексей" creationdate="20171022T072056Z">
+        <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| и * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = выбирает, какие функции экспортировать, если формат поддерживает его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,6 +1012,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
         <seg>* |flags &lt;флаги замеров&gt;| = установить флаги для следующих замеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |format/fmt &lt;format&gt;| = set map format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072555Z" creationid="Алексей" creationdate="20171022T072542Z">
+        <seg>* |format/fmt &lt;формат&gt;| = установить формат карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1356,6 +1364,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065548Z" creationid="Алексей" creationdate="20170920T064054Z">
         <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации пока\-заний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |wall-source &lt;maps/centerline/all&gt;| = set source data for passage wall modeling.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072510Z" creationid="Алексей" creationdate="20171022T072148Z">
+        <seg>* |wall-source &lt;maps/centerline/all&gt;| = установить исходные данные для моде\-лирования стен хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2169,6 +2185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG embedded in XHTML file which contains also legend], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072817Z" creationid="Алексей" creationdate="20171022T072603Z">
+        <seg>В данный момент поддерживаются форматы |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DON'T PANIC!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185019Z" creationid="Алексей" creationdate="20170909T185019Z">
@@ -2739,8 +2763,8 @@
       <tuv lang="EN-US">
         <seg>If no file name is given the prefix ``|cave.|'' is used with an extension corresponding to output format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071612Z" creationid="Алексей" creationdate="20171022T071612Z">
-        <seg>Если имя файла не задано, префикс ``|cave.|'' используется с расширением, соответствующим выходному формату.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072309Z" creationid="Алексей" creationdate="20171022T071612Z">
+        <seg>Если имя файла не задано, префикс ``|cave.|'' используется с расширением, соответствующим выход\-ному формату.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,6 +4190,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053523Z" creationid="Алексей" creationdate="20170920T051457Z">
         <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught
 [:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surface is currently exported in |therion| format only.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072435Z" creationid="Алексей" creationdate="20171022T072142Z">
+        <seg>Поверх\-ность в настоящее время экспортируется только в формате |therion|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6424,6 +6456,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T115821Z" creationid="Алексей" creationdate="20171021T115749Z">
         <seg>{&lt;u0&gt; Относящиеся к представлениям в виде карт:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; map/atlas:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072230Z" creationid="Алексей" creationdate="20171022T072218Z">
+        <seg>{&lt;u0&gt; карты/атлас:}</seg>
       </tuv>
     </tu>
     <tu>
