@@ -888,6 +888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |debug &lt;on/all/first/second/scrap-names/station-names/off&gt;| = draw scrap in different stages of transformation in different colours to see how Therion distorts map data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054018Z" creationid="Алексей" creationdate="20171022T054018Z">
+        <seg>* |debug &lt;on/all/first/second/scrap-names/station-names/off&gt;| = рисовать скрап на разных этапах преобразования в разных цветах, чтобы увидеть, как Therion искажает данные карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045804Z" creationid="Алексей" creationdate="20170924T044017Z">
@@ -2409,6 +2417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For labels, you can switch colour |on/off|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053819Z" creationid="Алексей" creationdate="20171022T053738Z">
+        <seg>Для подписей вы можете включать/выключать цвет |on/off|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For line symbols, there are two control menus: {&lt;u0&gt; Line control} and {&lt;u1&gt; Line point control}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164851Z" creationid="Алексей" creationdate="20170913T164851Z">
@@ -2469,6 +2485,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192133Z" creationid="Алексей" creationdate="20170909T185502Z">
         <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соот\-вет\-ствую\-щей про\-грам\-ме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For |map-bg|, you can use |transparent| to omit page background completely.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053729Z" creationid="Алексей" creationdate="20171022T053729Z">
+        <seg>Для |map-bg| вы можете использовать |transparent| чтобы полностью исключить фон страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2940,6 +2964,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If |on|, labels are coloured using the colour of associated scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053850Z" creationid="Алексей" creationdate="20171022T053850Z">
+        <seg>Если |on|, то подписи окрашиваются с использованием цвета связанного скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If |title-pages| option in |layout| is on, each chapter starts with a title page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061551Z" creationid="Алексей" creationdate="20171021T061551Z">
@@ -3048,6 +3080,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144246Z" creationid="Алексей" creationdate="20170913T144246Z">
         <seg>В меню {&lt;u1&gt; Команды в файле} выберите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить скрап}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case the map is coloured according to altitude, scraps or maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053707Z" creationid="Алексей" creationdate="20171022T053707Z">
+        <seg>В этом случае карта окрашена в соответствии с высотой, скрапом или картой.</seg>
       </tuv>
     </tu>
     <tu>
