@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A) * |colo[u]r &lt;item&gt; &lt;colour&gt;| = customize colour for special map items (map-fg, map-bg, preview-above, preview-below, label).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053502Z" creationid="Алексей" creationdate="20171022T053502Z">
+        <seg>(M, A). * |colo[u]r &lt;item&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (map-fg, map-bg, preview-above, preview-below, label).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(M, A) * |rotate &lt;value&gt;| = rotates the map (M, A; default: |0|) * |units &lt;metric/imperial&gt;| = set output units (M, A; default: |metric|) * |symbol-set &lt;symbol-set&gt;| = use |symbol-set| for all map symbols, if available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184334Z" creationid="Алексей" creationdate="20171021T121720Z">
@@ -2009,6 +2017,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colour range is 0--100 for grayscale, [0--100 0--100 0--100] triplet for RGB colours.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053543Z" creationid="Алексей" creationdate="20171022T053543Z">
+        <seg>Цветовой диапазон 0-100 для оттенков серого, [0-100 0-100 0-100] для цветов в пространстве RGB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051929Z" creationid="Алексей" creationdate="20171021T051929Z">
@@ -2453,6 +2469,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192133Z" creationid="Алексей" creationdate="20170909T185502Z">
         <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соот\-вет\-ствую\-щей про\-грам\-ме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For |map-fg|, you can use |altitude|, |scrap| or |map| as colours.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053624Z" creationid="Алексей" creationdate="20171022T053624Z">
+        <seg>Для |map-fg| вы можете использовать |altitude|, |scrap| или |map| как цвета.</seg>
       </tuv>
     </tu>
     <tu>
