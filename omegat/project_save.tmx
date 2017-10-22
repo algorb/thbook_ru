@@ -168,16 +168,16 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |layers &lt;on/off&gt;| = enable/disable PDF 1.5 layers (M, A; default: |on|) * |grid &lt;off/bottom/top&gt;| = enable/disable grid (optionally coordinates' values may be also displayed) (M, A; default: |off|) * |cs &lt;coordinate system&gt;| = coordinate system for |origin| and |grid-origin| * |north &lt;true/grid&gt;| = specify default orientation of the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034105Z" creationid="Алексей" creationdate="20171022T034105Z">
-        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по умолчанию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут также отображаться значения координат) (M, A; по умолчанию: |off|) * | cs &lt;система координат&gt; | = система координат для | origin | и | сетка-начало | * | север &lt;true / grid&gt; | = указать ориентацию карты по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034259Z" creationid="Алексей" creationdate="20171022T034105Z">
+        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по умолчанию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут также отображаться значения координат) (M, A; по умолчанию: |off|). * |cs &lt;система координат&gt;| = система координат для |origin| и |grid-origin|. * |north &lt;true/grid&gt;| = указать ориентацию карты по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |sketches &lt;on/off&gt;| = turn on/off displaying of morphed sketch bitmaps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033803Z" creationid="Алексей" creationdate="20171022T033803Z">
-        <seg>(M, A; по умолчанию: |off|). * |sketches &lt;on/off&gt;| = включение/выключение отображения растровых изображений с эскизом подвергшимся морфингу.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034135Z" creationid="Алексей" creationdate="20171022T033803Z">
+        <seg>(M, A; по умолчанию: |off|). * |sketches &lt;on/off&gt;| = отображать/скрыть растровые изображения с эскизом подвергшимся морфингу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -932,6 +932,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
         <seg>* |grid-angle &lt;значение&gt; &lt;единицы&gt;| = задает угол магнитной сетки (склонение от направления на север).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt;| = set coordinates of grid origin (M, A) * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;| = set grid size in real units (M, A; default is equal to scalebar size) * |grid-coords &lt;off/border/all&gt;| = specify where to label grid with coordinates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034555Z" creationid="Алексей" creationdate="20171022T034555Z">
+        <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt; | = заданные координаты начала сетки (M, A). * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = задать размер сетки в реальных единицах (M, A, по умолчанию равен размеру шкалы). * |grid-coords &lt;off/border/all&gt;| = указать, где маркировать сетку координатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1901,6 +1909,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132336Z" creationid="Алексей" creationdate="20170910T132336Z">
         <seg>По умолчанию не поддерживается на выходе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, true (astronomical) north is used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034311Z" creationid="Алексей" creationdate="20171022T034311Z">
+        <seg>По умолчанию используется истинный (астрономический) север.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3017,6 +3033,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161641Z" creationid="Алексей" creationdate="20170910T134329Z">
         <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из под\-дер\-жи\-вае\-мых геодезических систем координат, и никакое склонение не опре\-де\-ля\-ется пользователем.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is ignored when used with local coordinate system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034325Z" creationid="Алексей" creationdate="20171022T034325Z">
+        <seg>Он игнорируется при использовании с локальной системой координат.</seg>
       </tuv>
     </tu>
     <tu>
