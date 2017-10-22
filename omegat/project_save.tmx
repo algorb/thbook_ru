@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A; default: |off|) * |layers &lt;on/off&gt;| = enable/disable PDF 1.5 layers (M, A; default: |on|) * |grid &lt;off/bottom/top&gt;| = enable/disable grid (optionally coordinates' values may be also displayed) (M, A; default: |off|) * |cs &lt;coordinate system&gt;| = coordinate system for |origin| and |grid-origin| * |north &lt;true/grid&gt;| = specify default orientation of the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034105Z" creationid="Алексей" creationdate="20171022T034105Z">
+        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по умолчанию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут также отображаться значения координат) (M, A; по умолчанию: |off|) * | cs &lt;система координат&gt; | = система координат для | origin | и | сетка-начало | * | север &lt;true / grid&gt; | = указать ориентацию карты по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |sketches &lt;on/off&gt;| = turn on/off displaying of morphed sketch bitmaps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033803Z" creationid="Алексей" creationdate="20171022T033803Z">
