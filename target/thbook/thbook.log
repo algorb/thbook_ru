@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  22 OCT 2017 20:33
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -697,8 +697,8 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 <inserted text> 
                 $
 <to be read again> 
-                   \Delta 
-l.11 \Delta
+                   \delta 
+l.11 \delta
             јбсолютна€ ошибка кольца равна $\sqrt{\Delta x^2+\Delta y^2+\Del...
 
 ? 
@@ -709,21 +709,21 @@ l.11 \Delta
                    \radical 
 \sqrt ->\radical 
                  "270370 
-l.11 \Delta јбсолютна€ ошибка кольца равна $\sqrt
+l.11 \delta јбсолютна€ ошибка кольца равна $\sqrt
                                                  {\Delta x^2+\Delta y^2+\Del...
 
 ? 
 
-Overfull \hbox (41.57782pt too wide) in paragraph at lines 11--12
-[]$\tt јбсолютна€ошибкакольцаравна$$[]$, где $\mit x$ \tt разность между один
-аковыми|
+Overfull \hbox (43.0453pt too wide) in paragraph at lines 11--12
+[]$\mit \tt јбсолютна€ошибкакольцаравна$$[]$, где $\mit x$ \tt разность между
+ одинаковыми|
 
 \hbox(9.82628+2.85599)x452.96786, glue set - 1.0
 .\hbox(0.0+0.0)x0.0
 .\mathon
-.\tt 
+.\mit 
+.\kern0.45415
 .\tt ј
-.\tt б
 .etc.
 
 
@@ -983,7 +983,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 765443 bytes).
+Output written on thbook.pdf (91 pages, 765815 bytes).
 PDF statistics:
  562 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
