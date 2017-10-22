@@ -711,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |--print-encodings| = Print a list of all supported input encodings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112149Z" creationid="Алексей" creationdate="20171022T112116Z">
+        <seg>* |--print-encodings| = распечатывает список всех поддерживаемых входных кодировок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |-L| = Do not create a log-file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111829Z" creationid="Алексей" creationdate="20171022T111629Z">
@@ -737,8 +745,24 @@
       <tuv lang="EN-US">
         <seg>* |-l &lt;log-file&gt;| = Change the name of the log file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111818Z" creationid="Алексей" creationdate="20171022T111720Z">
-        <seg>* |-l &lt;файл журнала&gt;| = Изменить имя файла журнала.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111858Z" creationid="Алексей" creationdate="20171022T111720Z">
+        <seg>* |-l &lt;файл журнала&gt;| = изменить имя файла журнала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |-p &lt;search-path&gt;| = This option is used to set the search path (or list of colon-separated paths) which therion uses to find its source files (if it doesn't find them in the working directory).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112013Z" creationid="Алексей" creationdate="20171022T111844Z">
+        <seg>* |-p &lt;путь поиска&gt;| = эта опция используется для установки пути поиска (или списка путей разделенных двоеточиями), который использует Therion для поиска его исходных файлов (если он не находит их в рабочем каталоге).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |-q| = Run therion in quiet mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112048Z" creationid="Алексей" creationdate="20171022T112021Z">
+        <seg>* |-q| = запустить Therion в тихом режиме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3684,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144326Z" creationid="Алексей" creationdate="20170909T144326Z">
         <seg>Всегда было трудно добавить новые исследования без адаптации старых к новым рассчитанным позициям станций во всей пещере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will print only warning and error messages to STDERR.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112106Z" creationid="Алексей" creationdate="20171022T112106Z">
+        <seg>Он будет печатать только предупреждения и сообщения об ошибках в STDERR.</seg>
       </tuv>
     </tu>
     <tu>
