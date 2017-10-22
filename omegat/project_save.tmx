@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>(M, A) * |colo[u]r &lt;item&gt; &lt;colour&gt;| = customize colour for special map items (map-fg, map-bg, preview-above, preview-below, label).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053502Z" creationid="Алексей" creationdate="20171022T053502Z">
-        <seg>(M, A). * |colo[u]r &lt;item&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (map-fg, map-bg, preview-above, preview-below, label).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054848Z" creationid="Алексей" creationdate="20171022T053502Z">
+        <seg>(M, A). * |colo[u]r &lt;item&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (|map-fg|, |map-bg|, |preview-above|, |preview-below|, label).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6200,6 +6200,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T114754Z" creationid="Алексей" creationdate="20170924T113257Z">
         <seg>{&lt;u0&gt; border (граница):} |visible| (видимая) (по умолчанию), |invisible| (неотображае\-мая), |temporary| (временная), |presumed| (предполагаемая);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; customization:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054713Z" creationid="Алексей" creationdate="20171022T054707Z">
+        <seg>{&lt;u0&gt; Настройка:}</seg>
       </tuv>
     </tu>
     <tu>
