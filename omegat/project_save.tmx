@@ -1008,6 +1008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |format/fmt &lt;format&gt;| = set model output format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071712Z" creationid="Алексей" creationdate="20171022T071653Z">
+        <seg>* |format/fmt &lt;формат&gt;| = установить формат вывода модели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |from &lt;station&gt;| = valid for extra points, specifies reference station.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045844Z" creationid="Алексей" creationdate="20170924T044320Z">
@@ -2145,6 +2153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently the following output formats are supported: |loch| (native format; default), |compass| (plt file), |survex| (3d file), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| and |kml| (Google Earth).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071731Z" creationid="Алексей" creationdate="20171022T071731Z">
+        <seg>Currently the following output formats are supported: |loch| (native format; default), |compass| (plt file), |survex| (3d file), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| and |kml| (Google Earth).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DON'T PANIC!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185019Z" creationid="Алексей" creationdate="20170909T185019Z">
@@ -2713,6 +2729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no file name is given the prefix ``|cave.|'' is used with an extension corresponding to output format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071612Z" creationid="Алексей" creationdate="20171022T071612Z">
+        <seg>Если имя файла не задано, префикс ``|cave.|'' используется с расширением, соответствующим выходному формату.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no match is found, everything before any occurence of |&lt;lang:ZZ&gt;| tag is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124526Z" creationid="Алексей" creationdate="20170910T124526Z">
@@ -2871,6 +2895,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020328Z" creationid="Алексей" creationdate="20170914T014943Z">
         <seg>Если карта в формате PDF была преобразована в растровое изо\-бра\-же\-ние с использованием внешней программы, конвертер использует растровое изо\-бра\-же\-ние {&lt;u0&gt; и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the output filename is given and no output format is specified, the format is determined from the filename extension.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071627Z" creationid="Алексей" creationdate="20171022T071627Z">
+        <seg>Если задано имя выходного файла и не указан выходной формат, формат определяется из расширения имени файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6384,6 +6416,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T115821Z" creationid="Алексей" creationdate="20171021T115749Z">
         <seg>{&lt;u0&gt; Относящиеся к представлениям в виде карт:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; model:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071638Z" creationid="Алексей" creationdate="20171022T071632Z">
+        <seg>{&lt;u0&gt; модель:}</seg>
       </tuv>
     </tu>
     <tu>
