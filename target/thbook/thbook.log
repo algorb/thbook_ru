@@ -693,16 +693,28 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 
 [56] [57] [58] [59] [60] [MP to PDF] (mp/page.1) [61] [62 <./pic/page.pdf>]
 [63] [64] [65]) (ch04.tex [66]
-Overfull \hbox (4.75859pt too wide) in paragraph at lines 11--12
-\tt ошибок, измеренная вдоль оси координат $\mit x$\tt ; аналогично для $\mit y
-$ \tt и $\mit z$\tt . Процентная|
+Overfull \hbox (46.16992pt too wide) in paragraph at lines 11--12
+[]\tt Абсолютная ошибка кольца равна $[]$, где $\mit x$ \tt разность между оди
+наковыми|
+
+\hbox(12.5334+5.86674)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt А
+.\tt б
+.\tt с
+.\tt о
+.etc.
+
+
+Overfull \hbox (21.4659pt too wide) in paragraph at lines 11--12
+\tt начальными и конечными точками кольца до распределения ошибок, измеренная|
 
 \hbox(8.04599+2.412)x452.96786, glue set - 1.0
-.\tt о
-.\kern-0.12001
-.\tt ш
-.\tt и
-.\tt б
+.\tt н
+.\tt а
+.\kern-0.36
+.\tt ч
+.\tt а
 .etc.
 
 
@@ -950,7 +962,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 765656 bytes).
+Output written on thbook.pdf (91 pages, 766411 bytes).
 PDF statistics:
  562 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
