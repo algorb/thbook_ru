@@ -3061,6 +3061,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is fully customizable (see the chapter {&lt;u0&gt; Changing layout} for details).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040314Z" creationid="Алексей" creationdate="20171022T040314Z">
+        <seg>Он полностью настраивается (подробнее смотрите главу {&lt;u0&gt;Изменение макета}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is ignored when used with local coordinate system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034325Z" creationid="Алексей" creationdate="20171022T034325Z">
@@ -3324,6 +3332,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064405Z" creationid="Алексей" creationdate="20170924T064405Z">
         <seg>Line -- это команда для рисования символа линии на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower-left corner of the map is |0 0|, upper-right corner is |100 100|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040553Z" creationid="Алексей" creationdate="20171022T040553Z">
+        <seg>Нижний левый угол карты равен |0 0|, верхний правый угол |100 100|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,6 +3621,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211507Z" creationid="Алексей" creationdate="20170909T210630Z">
         <seg>Кавычки ис\-поль\-зу\-ются для строк; скобки для числовых значений и ключевых слов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ranges for |&lt;x&gt;| and |&lt;y&gt;| are -100--200.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040522Z" creationid="Алексей" creationdate="20171022T040522Z">
+        <seg>Диапазоны для |&lt;x&gt;| и |&lt;y&gt;| -- 100-200.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,6 +6528,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050131Z" creationid="Алексей" creationdate="20170920T045637Z">
         <seg>|&lt;тип&gt;| может принимать одно из значений: fixed (фиксированным), painted (нари\-сованный) и temporary (временным) (по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;x&gt;| is easting (left-right on page).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040435Z" creationid="Алексей" creationdate="20171022T040355Z">
+        <seg>|&lt;x&gt;| -- на восток (слева направо на странице).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;y&gt;| is northing (up/down page).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040505Z" creationid="Алексей" creationdate="20171022T040429Z">
+        <seg>|&lt;y&gt;| -- на север (вверх/вниз страницы).</seg>
       </tuv>
     </tu>
     <tu>
