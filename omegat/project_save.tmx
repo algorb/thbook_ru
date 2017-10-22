@@ -1978,8 +1978,8 @@
       <tuv lang="EN-US">
         <seg>After a first run there are activated additional menus {&lt;u0&gt; Survey structure} and {&lt;u1&gt; Map structure}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114241Z" creationid="Алексей" creationdate="20171022T114146Z">
-        <seg>После первого запуска активируются дополнительные меню {&lt;u0&gt; Структура съемки} и {&lt;u1&gt; Структура карты}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114524Z" creationid="Алексей" creationdate="20171022T114146Z">
+        <seg>После первого запуска активируются дополнительные меню {&lt;u0&gt; Структура\break съемки} и {&lt;u1&gt; Структура карты}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4443,8 +4443,8 @@
       <tuv lang="EN-US">
         <seg>Simple click in the {&lt;u2&gt; Survey structure} tree displays some basic information about the survey in the {&lt;u3&gt; Survey info} menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114352Z" creationid="Алексей" creationdate="20171022T114352Z">
-        <seg>Простой щелчок в дереве {&lt;u2&gt; Структура съемки} отображает основную информацию о съемки в меню {&lt;u3&gt; Информация}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114556Z" creationid="Алексей" creationdate="20171022T114352Z">
+        <seg>Простой щелчок в дереве {&lt;u2&gt; Структура съемки} отображает основную информацию о съемке в меню {&lt;u3&gt; Информация}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5949,8 +5949,8 @@
       <tuv lang="EN-US">
         <seg>XTherion makes it easier to run Therion especially on systems without a command line prompt.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113854Z" creationid="Алексей" creationdate="20171022T113854Z">
-        <seg>XTherion упрощает запуск Therion'а, особенно в системах без вывода командной строки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114444Z" creationid="Алексей" creationdate="20171022T113854Z">
+        <seg>XTherion упрощает запуск Therion'а, особенно в системах без вывода команд\-ной строки.</seg>
       </tuv>
     </tu>
     <tu>
