@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See the |scrap| command for details.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073741Z" creationid="Алексей" creationdate="20171022T073725Z">
+        <seg>(Для деталей смотрите команду |scrap|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Set |own-pages 0| and |title-pages off| to get the correct page numbers to be excluded.) Changes of |own-pages| or |title-pages| options don't affect page excluding.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T193022Z" creationid="Алексей" creationdate="20171021T192117Z">
@@ -1164,6 +1172,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043413Z" creationid="Алексей" creationdate="20170924T043243Z">
         <seg>* |place &lt;bottom/default/top&gt;| = порядок отображения изменений на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |projection &lt;id&gt;| = unique identifier that specifies the map projection type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073648Z" creationid="Алексей" creationdate="20171022T073636Z">
+        <seg>* |projection &lt;id&gt;| = уникальный идентификатор, который задает тип проекции карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2187,8 +2203,8 @@
       <tuv lang="EN-US">
         <seg>Currently |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG embedded in XHTML file which contains also legend], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072817Z" creationid="Алексей" creationdate="20171022T072603Z">
-        <seg>В данный момент поддерживаются форматы |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073343Z" creationid="Алексей" creationdate="20171022T072603Z">
+        <seg>В данный момент под\-держиваются форматы |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2975,6 +2991,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052649Z" creationid="Алексей" creationdate="20170920T052557Z">
         <seg>Если есть ход, который был исследован, но еще не снят, то предполагаемая исследуемая длина этого хода может быть учтена добавлением к станции флага |continuation|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no map defined, all scraps in the given projection are exported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073817Z" creationid="Алексей" creationdate="20171022T073817Z">
+        <seg>Если карта не определена, экспортируются все скрапы в данной проекции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5573,8 +5597,8 @@
       <tuv lang="EN-US">
         <seg>XVI images may be used in xtherion to draw in-scale maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073004Z" creationid="Алексей" creationdate="20171022T073004Z">
-        <seg>Изображения XVI могут использоваться для рисования карт в масштабе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073504Z" creationid="Алексей" creationdate="20171022T073004Z">
+        <seg>Изображения XVI могут использоваться для рисова\-ния карт в масштабе.</seg>
       </tuv>
     </tu>
     <tu>
