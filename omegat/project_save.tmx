@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A; default: |70|) * |surface-opacity &lt;value&gt;| = set the surface bitmap opacity (used if |transparency| is |on|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033544Z" creationid="Алексей" creationdate="20171022T033544Z">
+        <seg>(M, A; по умолчанию: |70|). * |surface-opacity &lt;значение&gt;| = установить прозрачность растровой поверхности (используется, если |transparent| установлен в |on|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Set |own-pages 0| and |title-pages off| to get the correct page numbers to be excluded.) Changes of |own-pages| or |title-pages| options don't affect page excluding.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T193022Z" creationid="Алексей" creationdate="20171021T192117Z">
@@ -4893,6 +4901,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154246Z" creationid="Алексей" creationdate="20170911T153551Z">
         <seg>Обычный уровень иерархической структуры survey представлен пещерами, более высокие уровни карстовыми областями, а более низкие уровни, например, ходами пещеры.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value range is 0--100.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033421Z" creationid="Алексей" creationdate="20171022T033421Z">
+        <seg>Диапазон значений 0-100.</seg>
       </tuv>
     </tu>
     <tu>
