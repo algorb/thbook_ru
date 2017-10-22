@@ -815,6 +815,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |-v, --version| = Display version information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112934Z" creationid="Алексей" creationdate="20171022T112814Z">
+        <seg>* |-v, --version| = отображать информацию о версии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |-x| = Generate file `.xtherion.dat' with additional information for XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113019Z" creationid="Алексей" creationdate="20171022T112903Z">
+        <seg>* |-x| = создает файл `.xtherion.dat' с дополнительной информацией о XTherion'е.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;encoding-name&gt;| = to see a list of all the supported encoding names, run Therion with |--print-encodings| option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172451Z" creationid="Алексей" creationdate="20170910T172204Z">
@@ -5640,6 +5656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use with caution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112753Z" creationid="Алексей" creationdate="20171022T112753Z">
+        <seg>Используйте с осторожностью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| as a |&lt;symbol-type&gt;| to hide stations with particular flags (e.g. |symbol-hide point flag:entrance|).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185551Z" creationid="Алексей" creationdate="20171021T141702Z">
@@ -5879,6 +5903,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175115Z" creationid="Алексей" creationdate="20170912T175115Z">
         <seg>Текстовый редактор XTherion предлагает некоторые интересные функции, которые могут помочь в создании текстовых входных файлов: поддержка кодировки Unicode и возможность открытия нескольких файлов. &lt;u0&gt;Кодировка файла указана в первой строке файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion---compiler.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113046Z" creationid="Алексей" creationdate="20171022T113032Z">
+        <seg>XTherion -- компилятор.</seg>
       </tuv>
     </tu>
     <tu>
