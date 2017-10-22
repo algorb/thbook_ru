@@ -713,8 +713,8 @@
       <tuv lang="EN-US">
         <seg>* |--print-encodings| = Print a list of all supported input encodings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112405Z" creationid="Алексей" creationdate="20171022T112116Z">
-        <seg>* |--print-encodings| = выводит список всех поддерживаемых входных кодировок.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113629Z" creationid="Алексей" creationdate="20171022T112116Z">
+        <seg>* |--print-encodings| = выводит список всех поддерживаемых входных кодиро\-вок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,6 +2361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compiler window is the default window of XTherion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113918Z" creationid="Алексей" creationdate="20171022T113918Z">
+        <seg>Окно компилятора -- это окно по умолчанию в XTherion'е.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051929Z" creationid="Алексей" creationdate="20171021T051929Z">
@@ -2509,6 +2517,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185700Z" creationid="Алексей" creationdate="20171021T183142Z">
         <seg>Напри\-мер, при опции |min-symbol-scale M| никакие точечные или линейные сим\-волы при масштабе |S| и |XS| не будут показаны на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each error message is highlighted and is hyperlinked to the source file where the error occurred.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114104Z" creationid="Алексей" creationdate="20171022T114104Z">
+        <seg>Каждое сообщение об ошибке подсвечивается и является гиперссылкой на исходный файл, где произошла ошибка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,8 +2827,8 @@
       <tuv lang="EN-US">
         <seg>For more details see the {&lt;u0&gt; Initialization} section in the {&lt;u1&gt; Appendix}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112318Z" creationid="Алексей" creationdate="20171022T112318Z">
-        <seg>Более подробную информацию смотрите в разделе {&lt;u0&gt; Инициализация} в {&lt;u1&gt; Приложении}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113652Z" creationid="Алексей" creationdate="20171022T112318Z">
+        <seg>Более под\-робную информацию смотрите в разделе {&lt;u0&gt; Инициализация} в {&lt;u1&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,8 +3786,8 @@
       <tuv lang="EN-US">
         <seg>It will print only warning and error messages to STDERR.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112106Z" creationid="Алексей" creationdate="20171022T112106Z">
-        <seg>Он будет печатать только предупреждения и сообщения об ошибках в STDERR.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113600Z" creationid="Алексей" creationdate="20171022T112106Z">
+        <seg>Он будет печатать только предуп\-реждения и сообщения об ошибках в STDERR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,8 +4042,8 @@
       <tuv lang="EN-US">
         <seg>Normally therion writes all the messages into a therion.log file in the current directory.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T111710Z" creationid="Алексей" creationdate="20171022T111710Z">
-        <seg>Обычно Therion записывает все сообщения в файл therion.log в текущем каталоге.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113513Z" creationid="Алексей" creationdate="20171022T111710Z">
+        <seg>Обычно Therion записывает все сообще\-ния в файл therion.log в текущем каталоге.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5632,6 +5648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To run Therion it's enough to open a configuration file and press `F9' or `Compile' button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114014Z" creationid="Алексей" creationdate="20171022T114014Z">
+        <seg>Для запуска Therion'а достаточно открыть конфигурационный файл и нажать кнопку `F9' или `Компилировать'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, as a limitation of Tcl/Tk language, only GIF, PNM and PPM (plus PNG and JPEG if you installed tkImg extension) images are supported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142559Z" creationid="Алексей" creationdate="20170913T140239Z">
@@ -5658,8 +5682,8 @@
       <tuv lang="EN-US">
         <seg>Use with caution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T112753Z" creationid="Алексей" creationdate="20171022T112753Z">
-        <seg>Используйте с осторожностью.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113746Z" creationid="Алексей" creationdate="20171022T112753Z">
+        <seg>Используйте с осто\-рожностью.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5858,6 +5882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XTherion displays messages from Therion in the lower part of the screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114034Z" creationid="Алексей" creationdate="20171022T114034Z">
+        <seg>XTherion отображает сообщения Therion'а в нижней части экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XTherion doesn't do any syntax checking; it only writes drawn objects with their attributes to a text file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172255Z" creationid="Алексей" creationdate="20170913T172255Z">
@@ -5887,6 +5919,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175802Z" creationid="Алексей" creationdate="20170912T175802Z">
         <seg>XTherion не является редактором WYSIWYG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XTherion makes it easier to run Therion especially on systems without a command line prompt.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113854Z" creationid="Алексей" creationdate="20171022T113854Z">
+        <seg>XTherion упрощает запуск Therion'а, особенно в системах без вывода командной строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7905,16 +7945,16 @@ endsurvey [&lt;id&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment] [--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings] [--print-xtherion-src]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080625Z" creationid="Алексей" creationdate="20171022T080625Z">
-        <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment] [--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings] [--print-xtherion-src]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113426Z" creationid="Алексей" creationdate="20171022T080625Z">
+        <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment]|\break |[--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings]|\break |[--print-xtherion-src]|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|therion [-q] [-L] [-l &lt;log-file&gt;] [-s &lt;source-file&gt;] [-p &lt;search-path&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;cfg-file&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080832Z" creationid="Алексей" creationdate="20171022T080615Z">
-        <seg>|therion [-q] [-L] [-l &lt;log-file&gt;] [-s &lt;source-file&gt;] [-p &lt;search-path&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;конфигурационный файл&gt;]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113319Z" creationid="Алексей" creationdate="20171022T080615Z">
+        <seg>|therion [-q] [-L] [-l &lt;файл журнала&gt;] [-s &lt;исходный файл&gt;] [-p &lt;путь|\break |поиска&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;конфигурационный файл&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
