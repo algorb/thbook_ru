@@ -928,6 +928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| and * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = &lt;u0&gt;&lt;u1&gt; selects which features to export, if the format supports it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072056Z" creationid="Алексей" creationdate="20171022T072056Z">
+        <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| и * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = &lt;u0&gt;&lt;u1&gt; выбирает, какие функции экспортировать, если формат поддерживает его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |endcode| = should end the TeX&lt;u3&gt;and &lt;u6&gt;&lt;u4&gt;sections &lt;u9&gt;endcomopt</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060011Z" creationid="Алексей" creationdate="20171022T055428Z">
@@ -2155,8 +2163,8 @@
       <tuv lang="EN-US">
         <seg>Currently the following output formats are supported: |loch| (native format; default), |compass| (plt file), |survex| (3d file), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| and |kml| (Google Earth).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071731Z" creationid="Алексей" creationdate="20171022T071731Z">
-        <seg>Currently the following output formats are supported: |loch| (native format; default), |compass| (plt file), |survex| (3d file), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| and |kml| (Google Earth).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T071927Z" creationid="Алексей" creationdate="20171022T071731Z">
+        <seg>В настоящее время поддерживаются следующие форматы вывода: |loch| (собственный формат, по умолчанию), |compass| (plt файл), |survex| (3d файл), |dxf|, |esri| (3d shapefiles), |vrml|, |3dmf| и |kml| (Google Earth).</seg>
       </tuv>
     </tu>
     <tu>
