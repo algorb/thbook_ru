@@ -1946,7 +1946,7 @@
       <tuv lang="EN-US">
         <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131749Z" creationid="Алексей" creationdate="20171022T131610Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T133208Z" creationid="Алексей" creationdate="20171022T131610Z">
         <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, где $&lt;u4&gt; x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
       </tuv>
     </tu>
@@ -2283,8 +2283,8 @@
       <tuv lang="EN-US">
         <seg>Besides the messages from Therion and other programs used, the log file contains information about computed values of magnetic declination and meridian convergence, loop errors and scrap distortions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131553Z" creationid="Алексей" creationdate="20171022T131553Z">
-        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного склонения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132232Z" creationid="Алексей" creationdate="20171022T131553Z">
+        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного скло\-нения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4927,6 +4927,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191938Z" creationid="Алексей" creationdate="20171021T191938Z">
         <seg>Список может содержать номера страниц, разделенные запятой или тире (для интервалов), например, |2,4-7,9,23| означает, что страницы 2, 4, 5, 6, 7, 9 и 23 должны не выводиться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximal and average scrap distortions are calculated as a maximum or average of such measures applied to all pairs of points.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132150Z" creationid="Алексей" creationdate="20171022T132150Z">
+        <seg>Максимальные и средние искажения скрапа вычисляются как максимальные или средние значения таких мер, применяемых ко всем парам точек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8041,16 +8049,32 @@ endsurvey [&lt;id&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment] [--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings] [--print-xtherion-src]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113426Z" creationid="Алексей" creationdate="20171022T080625Z">
-        <seg>|therion [-h/--help] [-v/--version] [--print-encodings] [--print-environment]|\break |[--print-init-file] [--print-library-src] [--print-symbols] [--print-tex-encodings]|\break |[--print-xtherion-src]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132904Z" creationid="Алексей" creationdate="20171022T080625Z">
+        <seg>|therion [-h/--help]
+		  [-v/--version]
+		  [--print-encodings]
+		  [--print-environment]
+		  [--print-init-file]
+		  [--print-library-src]
+		  [--print-symbols]
+		  [--print-tex-encodings]
+		  [--print-xtherion-src]|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|therion [-q] [-L] [-l &lt;log-file&gt;] [-s &lt;source-file&gt;] [-p &lt;search-path&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;cfg-file&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113319Z" creationid="Алексей" creationdate="20171022T080615Z">
-        <seg>|therion [-q] [-L] [-l &lt;файл журнала&gt;] [-s &lt;исходный файл&gt;] [-p &lt;путь|\break |поиска&gt;] [-b/--bezier] [-d] [-x] [--use-extern-libs] [&lt;конфигурационный файл&gt;]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132958Z" creationid="Алексей" creationdate="20171022T080615Z">
+        <seg>|therion [-q]
+		  [-L]
+		  [-l &lt;файл журнала&gt;]
+		  [-s &lt;исходный файл&gt;] [-p &lt;путь поиска&gt;]
+		  [-b/--bezier]
+		  [-d]
+		  [-x]
+		  [--use-extern-libs]
+		  [&lt;конфигурационный файл&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
