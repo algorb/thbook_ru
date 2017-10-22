@@ -2241,6 +2241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average error is simple arithmetic average of all loop errors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131848Z" creationid="Алексей" creationdate="20171022T131848Z">
+        <seg>Средняя ошибка -- это простое арифметическое среднее всех ошибок кольца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204141Z" creationid="Алексей" creationdate="20170909T204141Z">
@@ -4345,6 +4353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrap distortion is calculated using the distortion measure defined for all pairs of points (point symbols, points and control points of line symbols) in the scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131952Z" creationid="Алексей" creationdate="20171022T131952Z">
+        <seg>Искажение скрапа вычисляется с использованием меры искажения, определенной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scrap is a piece of 2D map, which doesn't contain overlapping passages (i.e. all the passages may be drawn on the paper without overlapping).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073115Z" creationid="Алексей" creationdate="20170920T073115Z">
@@ -4911,6 +4927,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191938Z" creationid="Алексей" creationdate="20171021T191938Z">
         <seg>Список может содержать номера страниц, разделенные запятой или тире (для интервалов), например, |2,4-7,9,23| означает, что страницы 2, 4, 5, 6, 7, 9 и 23 должны не выводиться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measure is calculated as $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, where $d_b$ is the distance of points before warping and $d_a$ is the distance of points after warping.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132119Z" creationid="Алексей" creationdate="20171022T132000Z">
+        <seg>Мера рассчитывается как $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, где $d_b$ -- это расстояние до деформирования, а $d_a$ -- расстояние до точек после деформирования.</seg>
       </tuv>
     </tu>
     <tu>
