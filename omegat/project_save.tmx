@@ -1944,6 +1944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131749Z" creationid="Алексей" creationdate="20171022T131610Z">
+        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, где $&lt;u4&gt; x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actually, only a subset of the Therion commands are used in the Map editor: multi-line |scrap ... endscrap| commands which may contain |point|, |line| and |area| commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145256Z" creationid="Алексей" creationdate="20170913T145208Z">
@@ -4197,6 +4205,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt; собирает все фрагменты и создает PDF-файл карты пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Percentual loop error is calculated as {&lt;u5&gt; absolute error / loop length}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131815Z" creationid="Алексей" creationdate="20171022T131815Z">
+        <seg>Процентная погрешность кольца вычисляется как {&lt;u5&gt; абсолютная ошибка / длина кольца}.</seg>
       </tuv>
     </tu>
     <tu>
