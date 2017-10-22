@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A; default: |off|) * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;| = set origin of atlas pages (M, A) * |origin-label &lt;x-label&gt; &lt;y-label&gt;| = set label for atlas page which has the lower left corner at the given origin coordinates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034831Z" creationid="Алексей" creationdate="20171022T034831Z">
+        <seg>(M, A; по умолчанию: |off|). * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = установить начало страниц атласа (M, A). * |origin-label &lt;x-метка&gt; &lt;y-метка&gt;| = установить метку для страницы атласа, которая имеет нижний левый угол в заданных координатах начала координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |sketches &lt;on/off&gt;| = turn on/off displaying of morphed sketch bitmaps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034135Z" creationid="Алексей" creationdate="20171022T033803Z">
