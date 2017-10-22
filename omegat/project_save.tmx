@@ -150,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(M, A; default: |70|) * |surface &lt;top/bottom/off&gt;| = set the position of the surface bitmap above/below the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033636Z" creationid="Алексей" creationdate="20171022T033636Z">
+        <seg>(M, A; по умолчанию: |70|). * |surface &lt;top/bottom/off&gt;| = установить положение растрового изображения выше/ниже карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(M, A; default: |70|) * |surface-opacity &lt;value&gt;| = set the surface bitmap opacity (used if |transparency| is |on|).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033544Z" creationid="Алексей" creationdate="20171022T033544Z">
         <seg>(M, A; по умолчанию: |70|). * |surface-opacity &lt;значение&gt;| = установить прозрачность растровой поверхности (используется, если |transparent| установлен в |on|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(M, A; default: |off|) * |sketches &lt;on/off&gt;| = turn on/off displaying of morphed sketch bitmaps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033803Z" creationid="Алексей" creationdate="20171022T033803Z">
+        <seg>(M, A; по умолчанию: |off|). * |sketches &lt;on/off&gt;| = включение/выключение отображения растровых изображений с эскизом подвергшимся морфингу.</seg>
       </tuv>
     </tu>
     <tu>
