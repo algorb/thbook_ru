@@ -4321,6 +4321,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SQL export makes it easy to get very detailed and subtle information about centreline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T165843Z" creationid="Алексей" creationdate="20171023T165843Z">
+        <seg>Экспорт SQL позволяет легко получить очень подробную информацию о нитке хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SQL export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T145541Z" creationid="Алексей" creationdate="20171023T145541Z">
+        <seg>Экспорт SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saves some typing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071911Z" creationid="Алексей" creationdate="20170920T071307Z">
