@@ -5390,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion provides some basic facts about each survey (length, vertical range, N--S range, E--W range, number of shots and stations) if |-x| option is given.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T145301Z" creationid="Алексей" creationdate="20171023T145301Z">
+        <seg>Если опция |-x| включена, то Therion выводит некоторые основные данные о каждой съемки (длина, амплитуда, длина с севера на юг, длина с запада на восток, количество замеров и станций).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion reads settings from the initialization file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181032Z" creationid="Алексей" creationdate="20170909T181032Z">
