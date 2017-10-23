@@ -5599,6 +5599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This information is displayed in XTherion, {&lt;u0&gt; Compiler} window, {&lt;u1&gt; Survey info} menu, when some survey from the {&lt;u2&gt; Survey structure} menu is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T145525Z" creationid="Алексей" creationdate="20171023T145525Z">
+        <seg>Эта информация отображается в окне XTherion'а {&lt;u0&gt; Компилятор}, в меню {&lt;u1&gt; Информация}, когда выбрана какая-либо съемка в меню {&lt;u2&gt; Структура съемки}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This information is used for |cave-list| export.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160341Z" creationid="Алексей" creationdate="20170911T160328Z">
