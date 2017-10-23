@@ -1946,8 +1946,8 @@
       <tuv lang="EN-US">
         <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T134037Z" creationid="Алексей" creationdate="20171022T131610Z">
-        <seg>{\delt $\Delta $} Абсолютная ошибка кольца равна $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, где $&lt;u4&gt; x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135443Z" creationid="Алексей" creationdate="20171022T131610Z">
+        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{d_x^2+d_y^2+d_z^2}$, где $d_x$ разность между одина\-ковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4219,8 +4219,8 @@
       <tuv lang="EN-US">
         <seg>Percentual loop error is calculated as {&lt;u5&gt; absolute error / loop length}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131815Z" creationid="Алексей" creationdate="20171022T131815Z">
-        <seg>Процентная погрешность кольца вычисляется как {&lt;u5&gt; абсолютная ошибка / длина кольца}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135530Z" creationid="Алексей" creationdate="20171022T131815Z">
+        <seg>Процентная погрешность кольца вычисляется как {&lt;u5&gt; абсолютная ошибка / длину кольца}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4355,8 +4355,8 @@
       <tuv lang="EN-US">
         <seg>Scrap distortion is calculated using the distortion measure defined for all pairs of points (point symbols, points and control points of line symbols) in the scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131952Z" creationid="Алексей" creationdate="20171022T131952Z">
-        <seg>Искажение скрапа вычисляется с использованием меры искажения, определенной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135556Z" creationid="Алексей" creationdate="20171022T131952Z">
+        <seg>Искажение скрапа вычисляется с использованием меры искажения, опреде\-ленной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4933,16 +4933,16 @@
       <tuv lang="EN-US">
         <seg>The maximal and average scrap distortions are calculated as a maximum or average of such measures applied to all pairs of points.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132150Z" creationid="Алексей" creationdate="20171022T132150Z">
-        <seg>Максимальные и средние искажения скрапа вычисляются как максимальные или средние значения таких мер, применяемых ко всем парам точек.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135706Z" creationid="Алексей" creationdate="20171022T132150Z">
+        <seg>Максимальные и средние искажения скрапа вычисляются как макси\-мальные или средние значения таких мер, применяемых ко всем парам точек.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The measure is calculated as $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, where $d_b$ is the distance of points before warping and $d_a$ is the distance of points after warping.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132119Z" creationid="Алексей" creationdate="20171022T132000Z">
-        <seg>Мера рассчитывается как $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, где $d_b$ -- это расстояние до деформирования, а $d_a$ -- расстояние до точек после деформирования.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135648Z" creationid="Алексей" creationdate="20171022T132000Z">
+        <seg>Мера рассчитывается как $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, где $d_b$ -- это расстояние до деформирования, а $d_a$ -- расстояние до точек после деформиро\-вания.</seg>
       </tuv>
     </tu>
     <tu>
