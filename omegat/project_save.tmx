@@ -7670,8 +7670,8 @@
       <tuv lang="EN-US">
         <seg>|FLAG| in |SHOT_FLAG| table is |dpl| or |srf| for duplicated or surface shots; in |STATION_FLAG| table |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| for stations with entrance, continuation, fixed, spring, sink, doline, dig, air-draught, overhang or arch attributes, respectively.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T170243Z" creationid="Алексей" creationdate="20171024T170243Z">
-        <seg>|FLAG| in |SHOT_FLAG| table is |dpl| or |srf| for duplicated or surface shots; in |STATION_FLAG| table |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| for stations with entrance, continuation, fixed, spring, sink, doline, dig, air-draught, overhang or arch attributes, respectively.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T170851Z" creationid="Алексей" creationdate="20171024T170243Z">
+        <seg>|FLAG| в таблице |SHOT_FLAG| принимает значения |dpl| или |srf| для дублированных или поверхностных замеров; в таблице |STATION_FLAG| -- |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| для станций с атрибутами entrance (вход), continuation (продолжение), fixed (фиксированный), spring (???), sink (???), doline (???), dig (раскоп), air-draught (ток воздуха), overhang (???) или arch (арка), соответственно.</seg>
       </tuv>
     </tu>
     <tu>
