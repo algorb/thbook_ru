@@ -52,7 +52,8 @@ Table and column names are self-explaining; for undefined or non-existing values
 
 |select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME
 	from CENTRELINE, TOPO, PERSON
-	where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID
+	where CENTRELINE.ID = TOPO.CENTRELINE_ID
+		and PERSON.ID = PERSON_ID
 	group by NAME, SURNAME order by 1 desc, 4 asc;| 
 
 {\it  акие части пещеры были отсн€ты в 1998 году?} 
