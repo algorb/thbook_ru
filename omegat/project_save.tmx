@@ -1644,6 +1644,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-100{&lt;u1&gt; List of survey team members with an information how much has each of them surveyed:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171056Z" creationid="Алексей" creationdate="20171024T170955Z">
+        <seg>-100{&lt;u1&gt; Список членов исследовательской группы с информацией о вкладе каждого из них в процесс съемки:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-200</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184950Z" creationid="Алексей" creationdate="20170909T184950Z">
@@ -2653,6 +2661,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052937Z" creationid="Алексей" creationdate="20170920T052937Z">
         <seg>Пример:&lt;u0&gt;&lt;u1&gt; |station 40 "ужасная прогулка" continuation explored 100m|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of simple queries follow:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T170931Z" creationid="Алексей" creationdate="20171024T170931Z">
+        <seg>Примеры простых запросов:</seg>
       </tuv>
     </tu>
     <tu>
