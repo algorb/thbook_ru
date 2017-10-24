@@ -44,23 +44,30 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|
 \centerline{\pic{database.pdf}} \endinsert
 
 %
-Table and column names are self-explaining; for undefined or non-existing values |NULL| is used. |FLAG| in |SHOT_FLAG| table is |dpl| or |srf| for duplicated or surface shots; in |STATION_FLAG| table |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| for stations with entrance, continuation, fixed, spring, sink, doline, dig, air-draught, overhang or arch attributes, respectively. 
+Table and column names are self-explaining; for undefined or non-existing values |NULL| is used. |FLAG| в таблице |SHOT_FLAG| принимает значения |dpl| или |srf| для дублированных или поверхностных замеров; в таблице |STATION_FLAG| -- |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| для станций с атрибутами entrance (вход), continuation (продолжение), fixed (фиксированный), spring (???), sink (???), doline (???), dig (раскоп), air-draught (ток воздуха), overhang (???) или arch (арка), соответственно. 
 
-Examples of simple queries follow: 
+Примеры простых запросов: 
 
-\penalty-100{\it List of survey team members with an information how much has each of them surveyed:} 
+\penalty-100{\it Список членов исследовательской группы с информацией о вкладе каждого из них в процесс съемки:} 
 
-|select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME from CENTRELINE, TOPO, PERSON where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID group by NAME, SURNAME order by 1 desc, 4 asc;| 
+|select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME
+	from CENTRELINE, TOPO, PERSON
+	where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID
+	group by NAME, SURNAME order by 1 desc, 4 asc;| 
 
-{\it Which parts of the cave were surveyed in the year 1998?} 
+{\it Какие части пещеры были отсняты в 1998 году?} 
 
-|select TITLE from SURVEY where ID in (select SURVEY_ID from CENTRELINE where TOPO_DATE between '1998-01-01' and '1998-12-31');| 
+|select TITLE from SURVEY where ID in
+	(select SURVEY_ID from CENTRELINE
+	where TOPO_DATE between '1998-01-01' and '1998-12-31');| 
 
-{\it How long are passages lying between 1500 and 1550 m a.s.l.?} 
+{\it Какова длина ходов промежутка между 1500 и 1550 м глубины?} 
 
-|select sum(LENGTH) from SHOT, STATION S1, STATION S2 where (S1.Z+S2.Z)/2 between 1500 and 1550 and SHOT.FROM_ID = S1.ID and SHOT.TO_ID = S2.ID;| 
+|select sum(LENGTH) from SHOT, STATION S1, STATION S2
+	where (S1.Z+S2.Z)/2 between 1500 and 1550 and
+	SHOT.FROM_ID = S1.ID and SHOT.TO_ID = S2.ID;| 
 
-\subsubchapter Lists---caves, surveys, continuations. 
+\subsubchapter Списки -- пещеры, съемки, продолжения (перспективы). 
 
 Using |export continuation-list| you get an overview of all points in the centreline and scraps marked \[using |station| attribute for centreline point and |point continuation| in scraps] as a possible continuation. 
 
