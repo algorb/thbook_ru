@@ -18,7 +18,7 @@
 
 \subsubchapter Ёкспорт SQL. 
 
-Ёкспорт SQL позвол€ет легко получить очень подробную информацию о нитке хода. Ёто текстовый файл, начинающийс€ с объ€влени€ таблиц (where `?' stands in the following listing for a maximal value required by the column data): 
+Ёкспорт SQL позвол€ет легко получить очень подробную информацию о нитке хода. Ёто текстовый файл, начинающийс€ с объ€влени€ таблиц (where `?' stands in the following listing for a maximal value required by the column data) 
 
 |create table SURVEY (ID integer, PARENT_ID integer,
 	NAME varchar(?), FULL_NAME varchar(?), TITLE varchar(?));
@@ -37,7 +37,7 @@ create table SHOT (ID integer, FROM_ID integer, TO_ID integer,
 	ERR_LENGTH real, ERR_BEARING real, ERR_GRADIENT real);
 create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));| 
 
-which is followed by a mass of SQL insert commands. This file may be loaded into any SQL database (after some database-dependent initialization, which may include running a SQL server and connecting to it, creating a database and connecting to it. A good idea is to start a transaction before loading this file, if database doesn't start a transaction automatically.) It's important to set-up database encoding to match the one specified in Therion |export database| command. 
+за которым следуют команды SQL `insert'. Ётот файл может быть загружен в любую базу данных SQL (после некоторой инициализации, завис€щей от базы данных, котора€ может включать запуск SQL-сервера и подключение к нему, создание базы данных и подключение к ней. ’ороша€ иде€ -- начать транзакцию перед загрузкой этого файла, если база данных не запускает транзакцию автоматически.) ¬ажно настроить кодировку базы данных так, чтобы она соответствовала той, котора€ указана в команде экспорта базы данных Therion'а -- |export database|. 
 
 \midinsert
 

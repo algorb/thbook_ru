@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  23 OCT 2017 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  24 OCT 2017 00:04
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -692,21 +692,8 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 .etc.
 
 [56] [57] [58] [59] [60] [MP to PDF] (mp/page.1) [61] [62 <./pic/page.pdf>]
-[63] [64] [65]) (ch04.tex [66]
-Overfull \hbox (28.81964pt too wide) in paragraph at lines 23--24
-[]\tt create ta-ble SUR-VEY (ID in-te-ger, PAR-ENT_ID in-te-ger, NAME var-char(
-?), FULL_NAME|
-
-\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\tt c
-.\tt r
-.\tt e
-.\tt a
-.etc.
-
-[67] [68 <./pic/database.pdf>]
-Overfull \hbox (4.03981pt too wide) in paragraph at lines 46--47
+[63] [64] [65]) (ch04.tex [66] [67] [68 <./pic/database.pdf>]
+Overfull \hbox (4.03981pt too wide) in paragraph at lines 61--62
 []\tt select sum(LENGTH) from SHOT, STA-TION S1, STA-TION S2 where (S1.Z+S2.Z)/
 2|
 
@@ -912,7 +899,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (91 pages, 766946 bytes).
+Output written on thbook.pdf (91 pages, 766735 bytes).
 PDF statistics:
  562 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
