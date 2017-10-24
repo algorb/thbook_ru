@@ -6659,6 +6659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>which is followed by a mass of SQL insert commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163213Z" creationid="Алексей" creationdate="20171024T163213Z">
+        <seg>за которым следует масса команд вставки SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>with three obligatory arguments and one optional option/value pair.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211138Z" creationid="Алексей" creationdate="20170909T205258Z">
