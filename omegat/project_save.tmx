@@ -2657,6 +2657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Especially useful are the numbers of neighbouring pages in N, S, E and W directions, as well as in upper and lower levels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172845Z" creationid="Алексей" creationdate="20171024T172845Z">
+        <seg>Особенно полезны номера соседних страниц в направлениях N, S, E и W, а также в верхнем и нижнем уровнях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exactly the same as in the outline in the {&lt;u0&gt; File commands} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151120Z" creationid="Алексей" creationdate="20170913T151102Z">
@@ -3532,6 +3540,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In atlas mode some additional information is put on each page: page number, map name, and page label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172825Z" creationid="Алексей" creationdate="20171024T172825Z">
+        <seg>В режиме атласа на каждую страницу помещается дополнительная информация: номер страницы, название карты и метка страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In complicated systems, a scrap is usually one chamber or one passage.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073246Z" creationid="Алексей" creationdate="20170920T073246Z">
@@ -4285,6 +4301,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075252Z" creationid="Алексей" creationdate="20171022T075252Z">
         <seg>Иначе отображается структура съемки со статистикой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF files are highly optimized---scraps are stored in XObject forms only once in the document and than referenced on appropriate pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173047Z" creationid="Алексей" creationdate="20171024T173047Z">
+        <seg>Файлы PDF высоко оптимизированы -- скрапы хранятся в формах XObject только один раз в документе и отображаются на соответствующих страницах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,6 +5394,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205031Z" creationid="Алексей" creationdate="20170909T204302Z">
         <seg>Существует нес\-колько правил о том, как должен выглядеть такой файл:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are also hyperlinks at the border of the map if the cave continues on the next page and on the appropriate cells of the Navigator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172941Z" creationid="Алексей" creationdate="20171024T172941Z">
+        <seg>Отображаются также гиперссылки на границе карты, если пещера продолжается на следующей странице и в соответствующих ячейках навигатора.</seg>
       </tuv>
     </tu>
     <tu>
