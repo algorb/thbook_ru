@@ -1772,6 +1772,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3D models.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173720Z" creationid="Алексей" creationdate="20171024T173720Z">
+        <seg>3D-модели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174101Z" creationid="Алексей" creationdate="20170922T174101Z">
@@ -3282,6 +3290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the format doesn't support arbitrary passage shape definition, only the centreline is included.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173913Z" creationid="Алексей" creationdate="20171024T173913Z">
+        <seg>Если формат не поддерживает отображение формы хода, то отображается только нитка хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the line is closed, it is filled with the background colour.], |rock-edge|&lt;u2&gt;Inner edges of large boulders.], |water-flow|;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110252Z" creationid="Алексей" creationdate="20170924T110057Z">
@@ -4032,6 +4048,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loch is a 3D model viewer included in the Therion distribution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173955Z" creationid="Алексей" creationdate="20171024T173955Z">
+        <seg>Loch -- просмотрщик 3D-моделей, включенный в дистрибутив Therion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loch.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173917Z" creationid="Алексей" creationdate="20171024T173917Z">
+        <seg>Loch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131459Z" creationid="Алексей" creationdate="20171022T131459Z">
@@ -4060,6 +4092,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175742Z" creationid="Алексей" creationdate="20170912T175742Z">
         <seg>Редактор карт позволяет вам рисовать и редактировать карту полностью в интерактивном режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map in Survex format is intended for a quick preview in Aven.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173711Z" creationid="Алексей" creationdate="20171024T173711Z">
+        <seg>Карта в формате Survex предназначена для быстрого просмотра в Aven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5566,6 +5606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion may export 3D model in various formats besides its native format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173734Z" creationid="Алексей" creationdate="20171024T173734Z">
+        <seg>Therion может экспортировать 3D-модель в различные форматы, помимо собственного формата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion needs:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T171145Z" creationid="Алексей" creationdate="20170909T161113Z">
@@ -5666,6 +5714,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173536Z" creationid="Алексей" creationdate="20171024T173536Z">
         <seg>Эти карты не содержат визуализированных символов карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These may be loaded in appropriate viewing, editing or raytracing programs to be printed or further processed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173802Z" creationid="Алексей" creationdate="20171024T173802Z">
+        <seg>Они могут быть загружены в соответствующие программы просмотра, редактирования или трассировки для печати или дальнейшей обработки.</seg>
       </tuv>
     </tu>
     <tu>
