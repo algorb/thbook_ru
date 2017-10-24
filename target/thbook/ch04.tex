@@ -70,45 +70,45 @@ Table and column names are self-explaining; for undefined or non-existing values
 
 \subsubchapter Списки -- пещеры, съемки, продолжения (перспективы). 
 
-Using |export continuation-list| you get an overview of all points in the centreline and scraps marked \[using |station| attribute for centreline point and |point continuation| in scraps] as a possible continuation. 
+Использование |export continuation-list| вы получите список всех точек в нитке хода и скрапах, отмеченных \[Используя атрибут |station| для точки нитки хода и |point continuation| в скрапах.] как возможное продолжение. 
 
-|export cave-list| gives you a tabular information about surveyed caves (you need to specify |entrance| flags in your data) including length, depth and entrance(s) location. 
+|Export cave-list| дает вам информацию в виде таблицы об обследованных пещерах (вам нужно указать флаги |entrance| в ваши данных), включая длину, глубину и местоположение входа. 
 
-Detailed information about each sub-survey gives |export survey-list| command. The length includes shots with |approximate| flags, but not |explored|, |duplicate| or |surface|. 
+Подробная информация о каждой съемке дает команда |export survey-list|. Длина включает замеры с флагами |approximate|, но не с флагами |explored|, |duplicate| или |surface|. 
 
-\subchapter 2D maps. 
+\subchapter 2D-карты. 
 
-\subsubchapter Maps for printing. 
+\subsubchapter Карты для печати. 
 
-Maps are produced in PDF and SVG formats, which may be viewed or printed in a wide variety of viewers. Be sure to uncheck {\it Fit page to paper} or similar option if you want to print in the exact scale. 
+Карты создаются в форматах PDF и SVG, которые могут быть просмотрены или распечатаны в большом количестве программ. Обязательно снимите флаг {\it Fit page to paper (подогнать под размер страницы)} или аналогичный вариант, если вы хотите напечатать в реальном масштабе. 
 
-In atlas mode some additional information is put on each page: page number, map name, and page label. 
+В режиме атласа на каждую страницу помещается дополнительная информация: номер страницы, название карты и метка страницы. 
 
-Especially useful are the numbers of neighbouring pages in N, S, E and W directions, as well as in upper and lower levels. There are also hyperlinks at the border of the map if the cave continues on the next page and on the appropriate cells of the Navigator. 
+Особенно полезны номера соседних страниц в направлениях N, S, E и W, а также в верхнем и нижнем уровнях. Отображаются также гиперссылки на границе карты, если пещера продолжается на следующей странице и в соответствующих ячейках навигатора. 
 
-PDF files are highly optimized---scraps are stored in XObject forms only once in the document and than referenced on appropriate pages. Therion uses most advanced PDF features like transparency and layers. 
+Файлы PDF высоко оптимизированы -- скрапы хранятся в формах XObject только один раз в документе и отображаются на соответствующих страницах. Therion использует самые продвинутые функции PDF, такие как прозрачность и слои. 
 
-Created PDF files may be optionally post-processed in applications like pdf\TeX\ or Adobe Acrobat---it's possible to extract or change some pages, add comments or encryption, etc. 
+Созданные PDF-файлы могут быть необязательно пост-обработаны в таких приложениях, как pdf\TeX\ или Adobe Acrobat -- можно извлечь или изменить некоторые страницы, добавить комментарии или шифрование и т.д. 
 
-\NEW{5.3}If the map was produced using georeferenced data then it also contains georeferencing information. This can be extracted by XTherion to produce georeferenced raster images (see {\it XTherion/Additional tools} for details). 
+\NEW{5.3}Если карта была создана с использованием данных с привязкой, то она также содержит информацию о геопривязке. Эти данные можно получить с помощью XTherion'а для создания растровых изображений с привязками (подробнее смотрите {\it XTherion/Дополнительные инструменты}). 
 
-\subsubchapter Maps for GIS. 
+\subsubchapter Карты для GIS 
 
-Maps produced in DXF, ESRI or KML formats may be further processed in appropriate software. These maps do not contain visualized map symbols 
+Карты, созданные в форматах DXF, ESRI или KML, могут быть дополнительно обработаны в соответствующем программном обеспечении. Эти карты не содержат визуализированных символов карты. 
 
-\subsubchapter Special-purpose maps. 
+\subsubchapter Специальные карты. 
 
-Map in XVI format contains centreline with LRUD (and optionally morphed sketches) and can be imported in XTherion to serve as a background for digitization. 
+Карта в формате XVI содержит нитку хода с LRUD (и, возможно, эскизом подвергнувшимся морфингу) и может быть импортирована в XTherion, чтобы служить фоном для оцифровки. 
 
-Map in Survex format is intended for a quick preview in Aven. 
+Карта в формате Survex предназначена для быстрого просмотра в Aven. 
 
-\subchapter 3D models. 
+\subchapter 3D-модели. 
 
-Therion may export 3D model in various formats besides its native format. These may be loaded in appropriate viewing, editing or raytracing programs to be printed or further processed. If the format doesn't support arbitrary passage shape definition, only the centreline is included. 
+Therion может экспортировать 3D-модель в различные форматы, помимо собственного формата. Они могут быть загружены в соответствующие программы просмотра, редактирования или трассировки для печати или дальнейшей обработки. Если формат не поддерживает отображение формы хода, то отображается только нитка хода. 
 
 \subsubchapter Loch. 
 
-Loch is a 3D model viewer included in the Therion distribution. It supports e.g.~high-resolution rendering to file and stereo view using 3D-glasses. 
+Loch -- просмотрщик 3D-моделей, включенный в дистрибутив Therion'а. Он поддерживает, например, рендеринг с высоким разрешением для просмотра файлов и стерео просмотр с помощью 3D-очков. 
 
 \endinput
 
