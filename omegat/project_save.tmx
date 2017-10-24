@@ -2457,6 +2457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Created PDF files may be optionally post-processed in applications like pdf&lt;u0&gt;&lt;u1&gt;or Adobe Acrobat---it's possible to extract or change some pages, add comments or encryption, etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173224Z" creationid="Алексей" creationdate="20171024T173109Z">
+        <seg>Созданные PDF-файлы могут быть необязательно пост-обработаны в таких приложениях, как pdf&lt;u0&gt;&lt;u1&gt;или Adobe Acrobat -- можно извлечь или изменить некоторые страницы, добавить комментарии или шифрование и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating data files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204129Z" creationid="Алексей" creationdate="20170909T204129Z">
@@ -5574,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion uses most advanced PDF features like transparency and layers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173100Z" creationid="Алексей" creationdate="20171024T173100Z">
+        <seg>Therion использует самые продвинутые функции PDF, такие как прозрачность и слои.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These are by default all the following:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143841Z" creationid="Алексей" creationdate="20170919T143841Z">
@@ -5674,6 +5690,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055832Z" creationid="Алексей" creationdate="20171022T055416Z">
         <seg>Это позволяет пользователю настраивать различные элементы (например, пользовательские символы, макет карты и атласа в одном месте и т.д.). Для подробностей смотрите главу {&lt;u8&gt;it Изменение макета}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be extracted by XTherion to produce georeferenced raster images (see {&lt;u1&gt; XTherion/Additional tools} for details).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173433Z" creationid="Алексей" creationdate="20171024T173433Z">
+        <seg>Эти данные можно получить с помощью XTherion'а для создания растровых изображений с привязками (подробнее смотрите {&lt;u1&gt; XTherion/Дополнительные инструменты}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6863,6 +6887,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052508Z" creationid="Алексей" creationdate="20170924T052405Z">
         <seg>{5.3} |&lt;rtl&gt;| и |&lt;/rtl&gt;| = отмечает начало и конец вывода текста справа налево;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{5.3}If the map was produced using georeferenced data then it also contains georeferencing information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173250Z" creationid="Алексей" creationdate="20171024T173233Z">
+        <seg>{5.3}Если карта была создана с использованием данных с привязкой, то она также содержит информацию о геопривязке.</seg>
       </tuv>
     </tu>
     <tu>
