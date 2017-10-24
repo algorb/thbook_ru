@@ -2529,6 +2529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detailed information about each sub-survey gives |export survey-list| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172411Z" creationid="Алексей" creationdate="20171024T172335Z">
+        <seg>Подробная информация о каждой съемке дает команда |export survey-list|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determines the level at which chapter expansion for atlas export is stopped.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061353Z" creationid="Алексей" creationdate="20171021T061353Z">
@@ -4975,6 +4983,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204249Z" creationid="Алексей" creationdate="20170909T204249Z">
         <seg>Входные файлы для Therion'а имеют текстовый формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The length includes shots with |approximate| flags, but not |explored|, |duplicate| or |surface|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172517Z" creationid="Алексей" creationdate="20171024T172517Z">
+        <seg>Длина включает замеры с флагами |approximate|, но не с флагами |explored|, |duplicate| или |surface|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7932,6 +7948,14 @@ endsurvey|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172645Z" creationid="Алексей" creationdate="20170912T172634Z">
         <seg>|equate &lt;список станций&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|export cave-list| gives you a tabular information about surveyed caves (you need to specify |entrance| flags in your data) including length, depth and entrance(s) location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172325Z" creationid="Алексей" creationdate="20171024T172202Z">
+        <seg>|Export cave-list| дает вам информацию в виде таблицы об обследованных пещерах (вам нужно указать флаги |entrance| в ваши данных), включая длину, глубину и местоположение входа.</seg>
       </tuv>
     </tu>
     <tu>
