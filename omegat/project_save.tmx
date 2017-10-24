@@ -1756,6 +1756,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2D maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172528Z" creationid="Алексей" creationdate="20171024T172528Z">
+        <seg>2D-карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155450Z" creationid="Алексей" creationdate="20170911T155450Z">
@@ -2277,6 +2285,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122516Z" creationid="Алексей" creationdate="20171021T122001Z">
         <seg>Помните, что имя набора символов чувстви\-тельно к регистру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be sure to uncheck {&lt;u0&gt; Fit page to paper} or similar option if you want to print in the exact scale.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172750Z" creationid="Алексей" creationdate="20171024T172750Z">
+        <seg>Обязательно снимите флаг {&lt;u0&gt; Fit page to paper (подогнать под размер страницы)} или аналогичный вариант, если вы хотите напечатать в реальном масштабе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4020,6 +4036,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175742Z" creationid="Алексей" creationdate="20170912T175742Z">
         <seg>Редактор карт позволяет вам рисовать и редактировать карту полностью в интерактивном режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maps are produced in PDF and SVG formats, which may be viewed or printed in a wide variety of viewers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172612Z" creationid="Алексей" creationdate="20171024T172612Z">
+        <seg>Карты создаются в форматах PDF и SVG, которые могут быть просмотрены или распечатаны в большом количестве программ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maps for printing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172535Z" creationid="Алексей" creationdate="20171024T172535Z">
+        <seg>Карты для печати.</seg>
       </tuv>
     </tu>
     <tu>
