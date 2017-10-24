@@ -1930,8 +1930,8 @@
       <tuv lang="EN-US">
         <seg>A good idea is to start a transaction before loading this file, if database doesn't start a transaction automatically.) It's important to set-up database encoding to match the one specified in Therion |export database| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163631Z" creationid="Алексей" creationdate="20171024T163631Z">
-        <seg>Хорошая идея -- начать транзакцию перед загрузкой этого файла, если база данных не запускает транзакцию автоматически.) Важно настроить кодировку базы данных так, чтобы она соответствовала той, которая указана в команде экспорта базы данных Therion'а -- |export database|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163756Z" creationid="Алексей" creationdate="20171024T163631Z">
+        <seg>Хорошая идея -- начать транзакцию перед загрузкой этого файла, если база данных не запускает транзакцию автоматически). Важно настроить кодировку базы данных так, чтобы она соответствовала той, которая указана в команде экспорта базы данных Therion'а -- |export database|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4698,6 +4698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table and column names are self-explaining; for undefined or non-existing values |NULL| is used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163939Z" creationid="Алексей" creationdate="20171024T163939Z">
+        <seg>Table and column names are self-explaining; for undefined or non-existing values |NULL| is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table of Contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195002Z" creationid="Алексей" creationdate="20170909T195002Z">
@@ -7340,6 +7348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u1&gt;{database.pdf}}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163637Z" creationid="Алексей" creationdate="20171024T163637Z">
+        <seg>{&lt;u1&gt;{database.pdf}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u1&gt;{schema.1}}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184957Z" creationid="Алексей" creationdate="20170909T184957Z">
@@ -7648,6 +7664,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040505Z" creationid="Алексей" creationdate="20171022T040429Z">
         <seg>|&lt;y&gt;| -- на север (вверх/вниз страницы).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|FLAG| in |SHOT_FLAG| table is |dpl| or |srf| for duplicated or surface shots; in |STATION_FLAG| table |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| for stations with entrance, continuation, fixed, spring, sink, doline, dig, air-draught, overhang or arch attributes, respectively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T170243Z" creationid="Алексей" creationdate="20171024T170243Z">
+        <seg>|FLAG| in |SHOT_FLAG| table is |dpl| or |srf| for duplicated or surface shots; in |STATION_FLAG| table |ent|, |con|, |fix|, |spr|, |sin|, |dol|, |dig|, |air|, |ove|, |arc| for stations with entrance, continuation, fixed, spring, sink, doline, dig, air-draught, overhang or arch attributes, respectively.</seg>
       </tuv>
     </tu>
     <tu>
