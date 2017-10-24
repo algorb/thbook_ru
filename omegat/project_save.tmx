@@ -4064,6 +4064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map in XVI format contains centreline with LRUD (and optionally morphed sketches) and can be imported in XTherion to serve as a background for digitization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173657Z" creationid="Алексей" creationdate="20171024T173657Z">
+        <seg>Карта в формате XVI содержит нитку хода с LRUD (и, возможно, эскизом подвергнувшимся морфингу) и может быть импортирована в XTherion, чтобы служить фоном для оцифровки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maps are produced in PDF and SVG formats, which may be viewed or printed in a wide variety of viewers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172612Z" creationid="Алексей" creationdate="20171024T172612Z">
@@ -4072,10 +4080,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maps for GIS.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173459Z" creationid="Алексей" creationdate="20171024T173459Z">
+        <seg>Карты для GIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maps for printing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172535Z" creationid="Алексей" creationdate="20171024T172535Z">
         <seg>Карты для печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maps produced in DXF, ESRI or KML formats may be further processed in appropriate software.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173513Z" creationid="Алексей" creationdate="20171024T173513Z">
+        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть дополнительно обработаны в соответствующем программном обеспечении.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4693,6 +4717,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130914Z" creationid="Алексей" creationdate="20170909T100729Z">
         <seg>Исходный код и установщик для Windows доступны на веб-странице\break(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special-purpose maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173543Z" creationid="Алексей" creationdate="20171024T173543Z">
+        <seg>Специальные карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,6 +5658,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003025Z" creationid="Алексей" creationdate="20170921T003025Z">
         <seg>Эти линии не должны пересекаться, иначе, Therion (&lt;u0&gt;) не может определить внутреннюю часть скрапа и &lt;u1&gt;&lt;u2&gt;выдает предупреждение ''|scrap outline intersects itself|''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These maps do not contain visualized map symbols</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173536Z" creationid="Алексей" creationdate="20171024T173536Z">
+        <seg>Эти карты не содержат визуализированных символов карты.</seg>
       </tuv>
     </tu>
     <tu>
