@@ -6932,6 +6932,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; How long are passages lying between 1500 and 1550 m a.s.l.?}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171308Z" creationid="Алексей" creationdate="20171024T171308Z">
+        <seg>{&lt;u0&gt; How long are passages lying between 1500 and 1550 m a.s.l.?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Inserting area}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025544Z" creationid="Алексей" creationdate="20170920T025534Z">
@@ -7040,6 +7048,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050124Z" creationid="Алексей" creationdate="20170924T050115Z">
         <seg>{&lt;u0&gt; Специальные параметры:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Which parts of the cave were surveyed in the year 1998?}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171211Z" creationid="Алексей" creationdate="20171024T171155Z">
+        <seg>{&lt;u0&gt; Какие части пещеры были отсняты в 1998 году?}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8128,6 +8144,27 @@ end of file|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060427Z" creationid="Алексей" creationdate="20171021T060227Z">
         <seg>|select &lt;объект&gt; [ОПЦИИ]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|select TITLE from SURVEY where ID in (select SURVEY_ID from CENTRELINE where TOPO_DATE between '1998-01-01' and '1998-12-31');|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171240Z" creationid="Алексей" creationdate="20171024T171221Z">
+        <seg>|select TITLE from SURVEY where ID in
+	(select SURVEY_ID from CENTRELINE
+	where TOPO_DATE between '1998-01-01' and '1998-12-31');|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME from CENTRELINE, TOPO, PERSON where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID group by NAME, SURNAME order by 1 desc, 4 asc;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171152Z" creationid="Алексей" creationdate="20171024T171059Z">
+        <seg>|select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME
+	from CENTRELINE, TOPO, PERSON
+	where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID
+	group by NAME, SURNAME order by 1 desc, 4 asc;|</seg>
       </tuv>
     </tu>
     <tu>
