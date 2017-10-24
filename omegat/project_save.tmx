@@ -1928,6 +1928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A good idea is to start a transaction before loading this file, if database doesn't start a transaction automatically.) It's important to set-up database encoding to match the one specified in Therion |export database| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163631Z" creationid="Алексей" creationdate="20171024T163631Z">
+        <seg>Хорошая идея -- начать транзакцию перед загрузкой этого файла, если база данных не запускает транзакцию автоматически.) Важно настроить кодировку базы данных так, чтобы она соответствовала той, которая указана в команде экспорта базы данных Therion'а -- |export database|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A shortcut for all this is Ctrl-p.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150522Z" creationid="Алексей" creationdate="20170913T150522Z">
@@ -3646,8 +3654,8 @@
       <tuv lang="EN-US">
         <seg>It is a text file starting with tables declaration (where `?' stands in the following listing for a maximal value required by the column data)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T170109Z" creationid="Алексей" creationdate="20171023T170109Z">
-        <seg>Это текстовый файл, начинающийся с объявления таблиц (where `?' stands in the following listing for a maximal value required by the column data):</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163229Z" creationid="Алексей" creationdate="20171023T170109Z">
+        <seg>Это текстовый файл, начинающийся с объявления таблиц (where `?' stands in the following listing for a maximal value required by the column data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5599,6 +5607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This file may be loaded into any SQL database (after some database-dependent initialization, which may include running a SQL server and connecting to it, creating a database and connecting to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163341Z" creationid="Алексей" creationdate="20171024T163341Z">
+        <seg>Этот файл может быть загружен в любую базу данных SQL (после некоторой инициализации, зависящей от базы данных, которая может включать запуск SQL-сервера и подключение к нему, создание базы данных и подключение к ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This form allows you to apply both scaling and rotation to the scrap.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174322Z" creationid="Алексей" creationdate="20170922T174322Z">
@@ -6661,8 +6677,8 @@
       <tuv lang="EN-US">
         <seg>which is followed by a mass of SQL insert commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163213Z" creationid="Алексей" creationdate="20171024T163213Z">
-        <seg>за которым следует масса команд вставки SQL.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163315Z" creationid="Алексей" creationdate="20171024T163213Z">
+        <seg>за которым следуют команды SQL `insert'.</seg>
       </tuv>
     </tu>
     <tu>
