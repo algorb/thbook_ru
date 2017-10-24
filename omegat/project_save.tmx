@@ -5896,6 +5896,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using |export continuation-list| you get an overview of all points in the centreline and scraps marked &lt;u0&gt;using |station| attribute for centreline point and |point continuation| in scraps] as a possible continuation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172152Z" creationid="Алексей" creationdate="20171024T172152Z">
+        <seg>Использование |export continuation-list| вы получите список всех точек в нитке хода и скрапах, отмеченных &lt;u0&gt;Используя атрибут |station| для точки нитки хода и |point continuation| в скрапах.] как возможное продолжение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usually some level of this hierarchical structure survey represents caves, higher levels karst areas and lower levels e.g. passages.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154246Z" creationid="Алексей" creationdate="20170911T153551Z">
@@ -8168,20 +8176,21 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|select sum(LENGTH) from SHOT, STATION S1, STATION S2 where (S1.Z+S2.Z)/2 between 1500 and 1550 and SHOT.FROM_ID = S1.ID and SHOT.TO_ID = S2.ID;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171519Z" creationid="Алексей" creationdate="20171024T171511Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171828Z" creationid="Алексей" creationdate="20171024T171511Z">
         <seg>|select sum(LENGTH) from SHOT, STATION S1, STATION S2
 	where (S1.Z+S2.Z)/2 between 1500 and 1550 and
-	SHOT.FROM_ID = S1.ID and SHOT.TO_ID = S2.ID;|</seg>
+	SHOT.FROM_ID = S1.ID and SHOT.TO_ID = S2.ID.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME from CENTRELINE, TOPO, PERSON where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID group by NAME, SURNAME order by 1 desc, 4 asc;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171152Z" creationid="Алексей" creationdate="20171024T171059Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171740Z" creationid="Алексей" creationdate="20171024T171059Z">
         <seg>|select sum(LENGTH), sum(SURFACE_LENGTH), NAME, SURNAME
 	from CENTRELINE, TOPO, PERSON
-	where CENTRELINE.ID = TOPO.CENTRELINE_ID and PERSON.ID = PERSON_ID
+	where CENTRELINE.ID = TOPO.CENTRELINE_ID
+		and PERSON.ID = PERSON_ID
 	group by NAME, SURNAME order by 1 desc, 4 asc;|</seg>
       </tuv>
     </tu>
