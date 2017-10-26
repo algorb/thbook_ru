@@ -5019,6 +5019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic one predefined by Therion is the</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175159Z" creationid="Алексей" creationdate="20171026T175121Z">
+        <seg>Основным определением Therion'а является макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The check-box {&lt;u2&gt; reverse} is important: Therion requires oriented curves and it is not unusual that you begin to draw from the wrong end.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173316Z" creationid="Алексей" creationdate="20170913T165011Z">
@@ -5191,6 +5199,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011442Z" creationid="Алексей" creationdate="20170919T011355Z">
         <seg>Высота и глубина хода вычис\-ля\-ются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The idea is simple: for each page Therion defines &lt;u0&gt;&lt;u1&gt;variables (count, token, and box registers) which contain the page elements (map, navigator, page name etc.).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175322Z" creationid="Алексей" creationdate="20171026T175322Z">
+        <seg>Идея проста: для каждой страницы Therion определяет переменные &lt;u0&gt;&lt;u1&gt; (count, token и box registers), которые содержат элементы страницы (карта, навигатор, название страницы и т.д.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,6 +7002,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175215Z" creationid="Алексей" creationdate="20171026T175215Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none, survey</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154527Z" creationid="Алексей" creationdate="20170911T154527Z">
@@ -8072,6 +8096,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050131Z" creationid="Алексей" creationdate="20170920T045637Z">
         <seg>|&lt;тип&gt;| может принимать одно из значений: fixed (фиксированным), painted (нари\-сованный) и temporary (временным) (по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;u0&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175129Z" creationid="Алексей" creationdate="20171026T175129Z">
+        <seg>|&lt;u0&gt;|</seg>
       </tuv>
     </tu>
     <tu>
