@@ -3566,8 +3566,8 @@
       <tuv lang="EN-US">
         <seg>In atlas mode some additional information is put on each page: page number, map name, and page label.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172825Z" creationid="Алексей" creationdate="20171024T172825Z">
-        <seg>В режиме атласа на каждую страницу помещается дополнительная информация: номер страницы, название карты и метка страницы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174358Z" creationid="Алексей" creationdate="20171024T172825Z">
+        <seg>В режиме атласа на каждую страницу помещается дополнительная информа\-ция: номер страницы, название карты и метка страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,6 +3912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It supports e.g. high-resolution rendering to file and stereo view using 3D-glasses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T175128Z" creationid="Алексей" creationdate="20171024T174035Z">
+        <seg>Он поддерживает, например, рендеринг с высоким разрешением и стерео-прос\-мотр с помощью 3D-очков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was always hard to add new surveys without adapting the old ones to the newly calculated positions of survey stations in the whole cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144326Z" creationid="Алексей" creationdate="20170909T144326Z">
@@ -4106,8 +4114,8 @@
       <tuv lang="EN-US">
         <seg>Map in XVI format contains centreline with LRUD (and optionally morphed sketches) and can be imported in XTherion to serve as a background for digitization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173657Z" creationid="Алексей" creationdate="20171024T173657Z">
-        <seg>Карта в формате XVI содержит нитку хода с LRUD (и, возможно, эскизом подвергнувшимся морфингу) и может быть импортирована в XTherion, чтобы служить фоном для оцифровки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174924Z" creationid="Алексей" creationdate="20171024T173657Z">
+        <seg>Карта в формате XVI содержит нитку хода с LRUD (и, возможно, эскизом подвергнувшимся морфингу) и может быть импортирована в XTherion,\break чтобы служить фоном для оцифровки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,8 +4130,8 @@
       <tuv lang="EN-US">
         <seg>Maps for GIS.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173459Z" creationid="Алексей" creationdate="20171024T173459Z">
-        <seg>Карты для GIS</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174153Z" creationid="Алексей" creationdate="20171024T173459Z">
+        <seg>Карты для GIS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,8 +4146,8 @@
       <tuv lang="EN-US">
         <seg>Maps produced in DXF, ESRI or KML formats may be further processed in appropriate software.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173513Z" creationid="Алексей" creationdate="20171024T173513Z">
-        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть дополнительно обработаны в соответствующем программном обеспечении.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174753Z" creationid="Алексей" creationdate="20171024T173513Z">
+        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть дополни\-тельно обработаны в соответствующем программном обеспечении.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4379,8 +4387,8 @@
       <tuv lang="EN-US">
         <seg>PDF files are highly optimized---scraps are stored in XObject forms only once in the document and than referenced on appropriate pages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173047Z" creationid="Алексей" creationdate="20171024T173047Z">
-        <seg>Файлы PDF высоко оптимизированы -- скрапы хранятся в формах XObject только один раз в документе и отображаются на соответствующих страницах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174524Z" creationid="Алексей" creationdate="20171024T173047Z">
+        <seg>Файлы PDF высоко оптимизированы -- скрапы сохраняются только один раз в документе в формах XObject и отображаются на соответствующих страницах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,16 +5720,16 @@
       <tuv lang="EN-US">
         <seg>These maps do not contain visualized map symbols</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173536Z" creationid="Алексей" creationdate="20171024T173536Z">
-        <seg>Эти карты не содержат визуализированных символов карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174836Z" creationid="Алексей" creationdate="20171024T173536Z">
+        <seg>Эти\break карты не содержат визуализированных символов карты.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These may be loaded in appropriate viewing, editing or raytracing programs to be printed or further processed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173802Z" creationid="Алексей" creationdate="20171024T173802Z">
-        <seg>Они могут быть загружены в соответствующие программы просмотра, редактирования или трассировки для печати или дальнейшей обработки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T175030Z" creationid="Алексей" creationdate="20171024T173802Z">
+        <seg>Они могут быть загружены в соответствующие про\-граммы просмотра, редактирования или трассировки для печати или даль\-нейшей обработки.</seg>
       </tuv>
     </tu>
     <tu>
