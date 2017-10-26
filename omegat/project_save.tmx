@@ -4505,6 +4505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than offer even more options for the |layout| command, Therion uses the &lt;u0&gt;&lt;u1&gt;language to describe other page layouts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174032Z" creationid="Алексей" creationdate="20171026T174032Z">
+        <seg>Вместо того, чтобы использовать еще больше опций для команды |layout|, Therion использует язык &lt;u0&gt;&lt;u1&gt; для описания других макетов страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142611Z" creationid="Алексей" creationdate="20170909T162101Z">
@@ -5530,6 +5538,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172941Z" creationid="Алексей" creationdate="20171024T172941Z">
         <seg>Отображаются также гиперссылки на границе карты, если пещера продолжается на следующей странице и в соответствующих ячейках навигатора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are many possible arrangements for a page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173913Z" creationid="Алексей" creationdate="20171026T173913Z">
+        <seg>Существует много возможных вариантов для страницы.</seg>
       </tuv>
     </tu>
     <tu>
