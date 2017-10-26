@@ -2409,6 +2409,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing layout of PDF maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173254Z" creationid="Алексей" creationdate="20171026T173254Z">
+        <seg>Изменение макета PDF-карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the {&lt;u3&gt; Insert} button in {&lt;u4&gt; Background images} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140053Z" creationid="Алексей" creationdate="20170913T140053Z">
@@ -3061,6 +3069,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180438Z" creationid="Алексей" creationdate="20170914T174851Z">
         <seg>Как ввести нитку хода?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you need to know how to write plain &lt;u0&gt;&lt;u1&gt;and &lt;u3&gt;&lt;u2&gt;macros to do this.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173457Z" creationid="Алексей" creationdate="20171026T173457Z">
+        <seg>Тем не менее, вам нужно знать, как писать простые макросы &lt;u0&gt;&lt;u1&gt;и &lt;u3&gt;&lt;u2&gt;, чтобы сделать этого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,6 +5838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter is extremely useful if you're not satisfied with the predefined layout of map symbols and maps provided, and want to adapt them to your needs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173413Z" creationid="Алексей" creationdate="20171026T173413Z">
+        <seg>Эта глава чрезвычайно полезна, если вас не устраивает предопределенный макет символов карты и ее предоставление, и вы хотите адаптировать их к вашим желаниям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220455Z" creationid="Алексей" creationdate="20170909T210129Z">
@@ -6226,6 +6250,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When he becomes troubled, he will be astonished, and he will rule over the all.' &lt;u7&gt;&lt;u8&gt; ---Gospel according to Thomas, {&lt;u9&gt; 2}nd century&lt;u10&gt; }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173240Z" creationid="Алексей" creationdate="20171026T173240Z">
+        <seg>When he becomes troubled, he will be astonished, and he will rule over the all.' &lt;u7&gt;&lt;u8&gt; ---Gospel according to Thomas, {&lt;u9&gt; 2}nd century&lt;u10&gt; }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When he finds, he will become troubled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173232Z" creationid="Алексей" creationdate="20171026T173232Z">
+        <seg>When he finds, he will become troubled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190214Z" creationid="Алексей" creationdate="20170909T185305Z">
@@ -6509,8 +6549,8 @@
       <tuv lang="EN-US">
         <seg>[93.2mm]{thom.jpg&lt;/i0&gt;} &lt;u1&gt;-3cm {&lt;u2&gt;&lt;u3&gt;15pt&lt;u4&gt;2mm&lt;u5&gt;6.8cm&lt;u6&gt;4.6cm Jesus said, `Let him who seeks continue seeking until he finds.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173059Z" creationid="Алексей" creationdate="20171026T171943Z">
-        <seg>[93.2mm]{thom.jpg&lt;/i0&gt;} &lt;u1&gt;-3cm {&lt;u2&gt;&lt;u3&gt;15pt&lt;u4&gt;2mm&lt;u5&gt;6.8cm&lt;u6&gt;4.6cm {\my Иисус сказал, `Пусть тот, кто ищет, продолжает искать, пока не найдет.}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173121Z" creationid="Алексей" creationdate="20171026T171943Z">
+        <seg>[93.2mm]{thom.jpg&lt;/i0&gt;} &lt;u1&gt;-3cm {&lt;u2&gt;&lt;u3&gt;15pt&lt;u4&gt;2mm&lt;u5&gt;6.8cm&lt;u6&gt;4.6cm Jesus said, `Let him who seeks continue seeking until he finds.</seg>
       </tuv>
     </tu>
     <tu>
