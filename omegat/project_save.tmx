@@ -2963,8 +2963,8 @@
       <tuv lang="EN-US">
         <seg>For pdf&lt;u0&gt;'s extensions there is a short manual</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174822Z" creationid="Алексей" creationdate="20171026T174822Z">
-        <seg>Для освоения Pdf&lt;u0&gt; имеется краткое руководство</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175843Z" creationid="Алексей" creationdate="20171026T174822Z">
+        <seg>Для освоения Pdf&lt;u0&gt;\ имеется краткое руководство</seg>
       </tuv>
     </tu>
     <tu>
@@ -3091,8 +3091,8 @@
       <tuv lang="EN-US">
         <seg>However, you need to know how to write plain &lt;u0&gt;&lt;u1&gt;and &lt;u3&gt;&lt;u2&gt;macros to do this.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173457Z" creationid="Алексей" creationdate="20171026T173457Z">
-        <seg>Тем не менее, вам нужно знать, как писать простые макросы &lt;u0&gt;&lt;u1&gt;и &lt;u3&gt;&lt;u2&gt;, чтобы сделать этого.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175449Z" creationid="Алексей" creationdate="20171026T173457Z">
+        <seg>Тем не менее, вам нужно знать, как писать простые макросы &lt;u0&gt;&lt;u1&gt;и &lt;u3&gt;, чтобы добиться этого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,8 +4771,8 @@
       <tuv lang="EN-US">
         <seg>So you should be familiar with the plain &lt;u1&gt;&lt;u3&gt;if you wish to define new layouts.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174328Z" creationid="Алексей" creationdate="20171026T174328Z">
-        <seg>Поэтому вы должны быть знакомы с plain &lt;u1&gt;&lt;u3&gt;, если хотите определить новые макеты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175738Z" creationid="Алексей" creationdate="20171026T174328Z">
+        <seg>Поэтому вы должны быть знакомы с plain &lt;u1&gt;, если хотите определить новые макеты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4973,8 +4973,8 @@
       <tuv lang="EN-US">
         <seg>Th&lt;u0&gt;anh, H. T.---Rahtz, S.---Hagen, H.: {&lt;u1&gt; The pdf&lt;u2&gt;&lt;u3&gt;user manual}, available at &lt;u4&gt;&lt;u5&gt; &lt;u6&gt;{http://www.pdftex.org}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174831Z" creationid="Алексей" creationdate="20171026T174831Z">
-        <seg>Th&lt;u0&gt;anh, H. T.---Rahtz, S.---Hagen, H.: {&lt;u1&gt; The pdf&lt;u2&gt;&lt;u3&gt;user manual}, available at &lt;u4&gt;&lt;u5&gt; &lt;u6&gt;{http://www.pdftex.org}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175934Z" creationid="Алексей" creationdate="20171026T174831Z">
+        <seg>Th&lt;u0&gt;anh, H. T.---Rahtz, S.---Hagen, H.: {&lt;u1&gt; The pdf&lt;u2&gt;&lt;u3&gt;user manual}, доступное на &lt;u4&gt;&lt;u5&gt; &lt;u6&gt;{http://www.pdftex.org}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5021,8 +5021,8 @@
       <tuv lang="EN-US">
         <seg>The basic one predefined by Therion is the</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175159Z" creationid="Алексей" creationdate="20171026T175121Z">
-        <seg>Основным определением Therion'а является макрос</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T180010Z" creationid="Алексей" creationdate="20171026T175121Z">
+        <seg>Основным определением Therion'а явля\-ется макрос</seg>
       </tuv>
     </tu>
     <tu>
@@ -5800,8 +5800,8 @@
       <tuv lang="EN-US">
         <seg>Therion uses pdf&lt;u0&gt;&lt;u2&gt;with the {&lt;u4&gt; plain} format for typesetting.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174240Z" creationid="Алексей" creationdate="20171026T174240Z">
-        <seg>Therion использует pdf &lt;u0&gt;&lt;u2&gt; с форматом {&lt;u4&gt; plain} для типографского набора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175706Z" creationid="Алексей" creationdate="20171026T174240Z">
+        <seg>Therion использует pdf&lt;u0&gt;&lt;u2&gt; с форматом {&lt;u4&gt; plain} для типографского набора.\break </seg>
       </tuv>
     </tu>
     <tu>
