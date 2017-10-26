@@ -4753,6 +4753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So you should be familiar with the plain &lt;u1&gt;&lt;u3&gt;if you wish to define new layouts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174328Z" creationid="Алексей" creationdate="20171026T174328Z">
+        <seg>Поэтому вы должны быть знакомы с plain &lt;u1&gt;&lt;u3&gt;, если хотите определить новые макеты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, now it's clear what Therion needs, let's have a look at the way it interacts with all these programs:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185104Z" creationid="Алексей" creationdate="20170909T184941Z">
@@ -5444,6 +5452,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ultimate reference for plain &lt;u0&gt;&lt;u1&gt;is</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174643Z" creationid="Алексей" creationdate="20171026T174643Z">
+        <seg>Подробнее о plain &lt;u0&gt;&lt;u1&gt; смотрите в</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value can optionally be followed by length units.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063629Z" creationid="Алексей" creationdate="20170924T063629Z">
@@ -5734,6 +5750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion uses pdf&lt;u0&gt;&lt;u2&gt;with the {&lt;u4&gt; plain} format for typesetting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174240Z" creationid="Алексей" creationdate="20171026T174240Z">
+        <seg>Therion использует pdf &lt;u0&gt;&lt;u2&gt; с форматом {&lt;u4&gt; plain} для типографского набора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These are by default all the following:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143841Z" creationid="Алексей" creationdate="20170919T143841Z">
@@ -5850,6 +5874,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055832Z" creationid="Алексей" creationdate="20171022T055416Z">
         <seg>Это позволяет пользователю настраивать различные элементы (например, пользовательские символы, макет карты и атласа в одном месте и т.д.). Для подробностей смотрите главу {&lt;u8&gt;it Изменение макета}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This approach has the advantage that the user has direct access to the advanced typesetting engine without making the language of Therion overcomplex.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174122Z" creationid="Алексей" creationdate="20171026T174122Z">
+        <seg>Преимущество такого подхода состоит в том, что пользователь имеет прямой доступ к расширенному механизму набора текста, не делая язык Therion сверхсложным.</seg>
       </tuv>
     </tu>
     <tu>
