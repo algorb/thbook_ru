@@ -3,35 +3,35 @@
 \vbox{\pic[93.2mm]{thom.jpg}} \vskip-3cm {\tenitbx\baselineskip15pt\leftskip2mm\rightskip6.8cm\parindent4.6cm Jesus said, `Let him who seeks continue seeking until he finds. When he finds, he will become troubled. When he becomes troubled, he will be astonished, and he will rule over the all.' \hfill\eightrm ---Gospel according to Thomas, {\eightmit 2}nd century\par } 
 
 %-2.35cm
-\chapter Changing layout of PDF maps. 
+\chapter »зменение макета PDF-карт. 
 
-This chapter is extremely useful if you're not satisfied with the predefined layout of map symbols and maps provided, and want to adapt them to your needs. However, you need to know how to write plain \TeX\ and \MP\ macros to do this. 
+Ёта глава чрезвычайно полезна, если вас не устраивает предопределенный макет символов карты и ее предоставление, и вы хотите адаптировать их к вашим желани€м. “ем не менее, вам нужно знать, как писать простые макросы \TeX\ и \MP\ , чтобы сделать этого. 
 
-\subchapter Page layout in the atlas mode. 
+\subchapter ћакет страницы в режиме атласа. 
 
-The |layout| command allows basic page setup in the atlas mode. This is done through its options such as |page-setup| or |overlap|. But there are no options which would specify the position of map, navigator and other elements inside the area defined by |page-width| and |page-height| dimensions; e.g., why is the navigator below the map and not on its right or left side? 
+ оманда |layout| позвол€ет произвести базовую настройку страницы в режиме атласа. Ёто делаетс€ с помощью таких опций, как |page-setup| или |overlap|. Ќо нет никаких опций, которые указывали бы положение карты, навигатора и других элементов внутри области, определ€емой |page-width| и |page-height|; например, почему навигатор находитс€ ниже карты, а не справа или слева? 
 
-There are many possible arrangements for a page. Rather than offer even more options for the |layout| command, Therion uses the \TeX\ language to describe other page layouts. 
+—уществует много возможных вариантов дл€ страницы. ¬место того, чтобы использовать еще больше опций дл€ команды |layout|, Therion использует €зык \TeX\  дл€ описани€ других макетов страниц. 
 
 %(See the section `layout' where to put \TeX\ commands.) 
-This approach has the advantage that the user has direct access to the advanced typesetting engine without making the language of Therion overcomplex. 
+ѕреимущество такого подхода состоит в том, что пользователь имеет пр€мой доступ к расширенному механизму набора текста, не дела€ €зык Therion сверхсложным. 
 
-Therion uses pdf\TeX\ with the {\it plain} format for typesetting. So you should be familiar with the plain \TeX\ if you wish to define new layouts. 
+Therion использует pdf \TeX\  с форматом {\it plain} дл€ типографского набора. ѕоэтому вы должны быть знакомы с plain \TeX\ , если хотите определить новые макеты. 
 
-The ultimate reference for plain \TeX\ is \list
+ѕодробнее о plain \TeX\  смотрите в \list
 
 Knuth, D. E.: {\it The \TeX book}, Reading, Massachusetts, Addison-Wesley $^1$1984 \endlist
 
 %[...]
-For pdf\TeX's extensions there is a short manual \list
+ƒл€ освоени€ Pdf\TeX имеетс€ краткое руководство \list
 
 Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, available at \hfil\break \www{http://www.pdftex.org} \endlist
 
-The \TeX\ macros are used inside of |code tex-atlas| part of the |layout| command (see the chapter {\it Processing data} for details). The basic one predefined by Therion is the 
+\TeX\  макросы используютс€ внутри |code tex-atlas| команды |layout| (подробнее смотрите главу {\it ќбработка данных}). ќсновным определением Therion'а €вл€етс€ макрос 
 
 |\dopage| 
 
-macro. The idea is simple: for each page Therion defines \TeX\ variables (count, token, and box registers) which contain the page elements (map, navigator, page name etc.). At the end of each page macro |\dopage| is invoked. This defines the position of each element on the page. By redefining this macro you'll get desired page layout. Without this redefinition you'll get the standard layout. 
+ »де€ проста: дл€ каждой страницы Therion определ€ет переменные \TeX\  (count, token и box registers), которые содержат элементы страницы (карта, навигатор, название страницы и т.д.). At the end of each page macro |\dopage| is invoked. This defines the position of each element on the page. By redefining this macro you'll get desired page layout. Without this redefinition you'll get the standard layout. 
 
 Here is the list of variables defined for each page: 
 
