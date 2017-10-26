@@ -2345,6 +2345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But there are no options which would specify the position of map, navigator and other elements inside the area defined by |page-width| and |page-height| dimensions; e.g., why is the navigator below the map and not on its right or left side?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173851Z" creationid="Алексей" creationdate="20171026T173851Z">
+        <seg>Но нет никаких опций, которые указывали бы положение карты, навигатора и других элементов внутри области, определяемой |page-width| и |page-height|; например, почему навигатор находится ниже карты, а не справа или слева?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By Xmas 1999 we had a minimalistic version of Therion working for the first time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193604Z" creationid="Алексей" creationdate="20170909T142950Z">
@@ -4409,6 +4417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page layout in the atlas mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173510Z" creationid="Алексей" creationdate="20171026T173510Z">
+        <seg>Макет страницы в режиме атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
@@ -5477,6 +5493,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The |layout| command allows basic page setup in the atlas mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173616Z" creationid="Алексей" creationdate="20171026T173616Z">
+        <seg>Команда |layout| позволяет произвести базовую настройку страницы в режиме атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then the declination of each shot will be set according to the date specification of the data object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155718Z" creationid="Алексей" creationdate="20170911T155718Z">
@@ -5915,6 +5939,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160341Z" creationid="Алексей" creationdate="20170911T160328Z">
         <seg>Эта информация используется для |cave-list| экспорта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is done through its options such as |page-setup| or |overlap|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173647Z" creationid="Алексей" creationdate="20171026T173647Z">
+        <seg>Это делается с помощью таких опций, как |page-setup| или |overlap|.</seg>
       </tuv>
     </tu>
     <tu>
