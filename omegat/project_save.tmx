@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| = name of the current map according to options of the |map| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170133Z" creationid="Алексей" creationdate="20171027T170107Z">
+        <seg>* |&lt;u0&gt;| = имя текущей карты в соответствии с опциями команды |map|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| current page number</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165001Z" creationid="Алексей" creationdate="20171027T164527Z">
@@ -2737,6 +2745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each record has a special format</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165635Z" creationid="Алексей" creationdate="20171027T165635Z">
+        <seg>Каждая запись имеет специальный формат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each scrap has its own local cartesian coordinate system, which usually corresponds with the millimeter paper (if you measure the coordinates of map symbols by hand) or pixels of the scanned image (if you use XTherion).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010010Z" creationid="Алексей" creationdate="20170921T003206Z">
@@ -3467,6 +3483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no such pages, the value is set to |notdef|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165938Z" creationid="Алексей" creationdate="20171027T165938Z">
+        <seg>Если таких страниц нет, то значение устанавливается в |notdef|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a passage, that was explored, but not surveyed yet, estimated explored length of this passage can be added to the station with |continuation| flag.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052649Z" creationid="Алексей" creationdate="20170920T052557Z">
@@ -3814,8 +3838,8 @@
       <tuv lang="EN-US">
         <seg>It consists of one or more concatenated records.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165626Z" creationid="Алексей" creationdate="20171027T165626Z">
-        <seg>Они состоят из одной или нескольких конкатенированных записей.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165807Z" creationid="Алексей" creationdate="20171027T165626Z">
+        <seg>Они состоят из одной или нескольких конкатенирован\-ных записей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4797,6 +4821,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T124913Z" creationid="Алексей" creationdate="20171021T124913Z">
         <seg>Смотрите главу {&lt;u8&gt; Изменение макета/Настройка текстовых меток}, чтобы узнать, как изменить внешний вид надписей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the description of the |&lt;u0&gt;| macro below for how to extract and use this information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170057Z" creationid="Алексей" creationdate="20171027T170057Z">
+        <seg>Смотрите описание макроса |&lt;u0&gt;| ниже, что бы знать, как извлечь и использовать эту информацию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7880,6 +7912,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;|page-name|&lt;u1&gt;124|page-number|&lt;u2&gt;124|destination|&lt;u3&gt;124&lt;u4&gt;124}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165638Z" creationid="Алексей" creationdate="20171027T165638Z">
+        <seg>{&lt;u0&gt;|page-name|&lt;u1&gt;124|page-number|&lt;u2&gt;124|destination|&lt;u3&gt;124&lt;u4&gt;124}</seg>
       </tuv>
     </tu>
     <tu>
