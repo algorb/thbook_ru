@@ -911,10 +911,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| = the page label as specified by |origin| and |origin-label| options of the |layout| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170226Z" creationid="Алексей" creationdate="20171027T170140Z">
+        <seg>* |&lt;u0&gt;| = метка страницы, указанная опциями |origin| и |origin-label| в команде |layout|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| current page number</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165001Z" creationid="Алексей" creationdate="20171027T164527Z">
         <seg>* |&lt;u0&gt;| содержит номер текущей страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| = &lt;u2&gt;&lt;u3&gt;page dimensions, set according to |page-width| and |page-height| parameters of the |page-setup| option of the |layout| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170401Z" creationid="Алексей" creationdate="20171027T170244Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| = &lt;u2&gt;&lt;u3&gt;размеры страницы, заданные в соответствии с параметрами |page-width| и |page-height| опции |page-setup| команды |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5291,6 +5307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following variables are set at the beginning of the document:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170237Z" creationid="Алексей" creationdate="20171027T170237Z">
+        <seg>Следующие переменные задаются в начале документа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The full contents of any command is displayed in the {&lt;u0&gt; Command preview} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151643Z" creationid="Алексей" creationdate="20170913T145927Z">
@@ -6018,6 +6042,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152538Z" creationid="Алексей" creationdate="20170909T151312Z">
         <seg>Файлы содержат инструкции для Therion, такие как:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They determine our playground when defining page layout using the |&lt;u4&gt;| macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170504Z" creationid="Алексей" creationdate="20171027T170504Z">
+        <seg>Они определяют нашу площадку при определении макета страницы используя макрос |&lt;u4&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
