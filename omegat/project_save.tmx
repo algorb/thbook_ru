@@ -887,6 +887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| = The box containing the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164041Z" creationid="Алексей" creationdate="20171027T164018Z">
+        <seg>* |&lt;u0&gt;| = бокс содержащий карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;x&gt;| and |&lt;y&gt;| are the drawing coordinates of an object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023651Z" creationid="Алексей" creationdate="20170923T023629Z">
@@ -2257,6 +2265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of each page macro |&lt;u2&gt;| is invoked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163850Z" creationid="Алексей" creationdate="20171027T163850Z">
+        <seg>В конце каждой страницы вызывается макрос |&lt;u2&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authors' laziness is not the correct answer.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135423Z" creationid="Алексей" creationdate="20170913T135423Z">
@@ -2405,6 +2421,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035428Z" creationid="Алексей" creationdate="20171022T034311Z">
         <seg>По умолча\-нию используется истинный (астрономический) север.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By redefining this macro you'll get desired page layout.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163920Z" creationid="Алексей" creationdate="20171027T163920Z">
+        <seg>Переопределив этот макрос, вы получите желаемый макет страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3037,6 +3061,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
         <seg>Ручное редактирование таких файлов непросто, особенно когда вы рисуете карты и вам нужно думать о пространственных (декартовых координатах).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here is the list of variables defined for each page:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163944Z" creationid="Алексей" creationdate="20171027T163944Z">
+        <seg>Ниже приведен список переменных, определенных для каждой страницы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +4068,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T095711Z" creationid="Алексей" creationdate="20170909T094720Z">
         <seg>Ее цель состоит в том, чтобы помочь:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its width (height) is set according to the |size| and |overlap| options of the |layout| command to</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164131Z" creationid="Алексей" creationdate="20171027T164131Z">
+        <seg>Его ширина (высота) устанавливается в соответствии с опциями |size| и |overlap| команды |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5991,6 +6031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This defines the position of each element on the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163904Z" creationid="Алексей" creationdate="20171027T163904Z">
+        <seg>Это определяет положение каждого элемента на странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This file may be loaded into any SQL database (after some database-dependent initialization, which may include running a SQL server and connecting to it, creating a database and connecting to it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163341Z" creationid="Алексей" creationdate="20171024T163341Z">
@@ -6438,6 +6486,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170252Z" creationid="Алексей" creationdate="20170909T162009Z">
         <seg>Установщик для Windows включает все необходимые пакеты, за ис\-клю\-че\-нием {ghostscript}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without this redefinition you'll get the standard layout.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163929Z" creationid="Алексей" creationdate="20171027T163929Z">
+        <seg>Без этого переопределения вы получите стандартный макет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,6 +7320,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150230Z" creationid="Алексей" creationdate="20170910T150230Z">
         <seg>{&lt;u0&gt; Аргументы:} список обязательных аргументов с пояснениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Boxes:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163959Z" creationid="Алексей" creationdate="20171027T163952Z">
+        <seg>{&lt;u0&gt; Боксы:}</seg>
       </tuv>
     </tu>
     <tu>
