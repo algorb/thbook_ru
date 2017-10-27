@@ -903,6 +903,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| current page number</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165001Z" creationid="Алексей" creationdate="20171027T164527Z">
+        <seg>* |&lt;u0&gt;| содержит номер текущей страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| contain the page number of the neighbouring pages in the E, W, N and S directions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164810Z" creationid="Алексей" creationdate="20171027T164435Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| содержат номер страницы сосед\-них страниц в направлениях E, W, N и S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;x&gt;| and |&lt;y&gt;| are the drawing coordinates of an object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023651Z" creationid="Алексей" creationdate="20170923T023629Z">
@@ -3479,6 +3495,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045904Z" creationid="Алексей" creationdate="20170920T045904Z">
         <seg>Если список станций отсутствует, все последующие станции будут отмечены соответствующим типом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no such a page its page number is set to 0.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164511Z" creationid="Алексей" creationdate="20171027T164511Z">
+        <seg>Если такой страницы нет, номер ее страницы равен 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7366,8 +7390,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Count registers:}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164415Z" creationid="Алексей" creationdate="20171027T164415Z">
-        <seg>{&lt;u0&gt; Count registers:}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164428Z" creationid="Алексей" creationdate="20171027T164415Z">
+        <seg>{&lt;u0&gt; Регистровые счетчики:}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,6 +7568,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T145946Z" creationid="Алексей" creationdate="20170910T145936Z">
         <seg>{&lt;u0&gt; Синтаксис:} описание синтаксиса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Token registers:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165014Z" creationid="Алексей" creationdate="20171027T165003Z">
+        <seg>{&lt;u0&gt; Регистры токенов:}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8702,16 +8734,16 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|size_height * (2*nav_size_y+1) / nav_factor|, respectively</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164253Z" creationid="Алексей" creationdate="20171027T164244Z">
-        <seg>|size_height * (2*nav_size_y+1) / nav_factor|, соответственно</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164713Z" creationid="Алексей" creationdate="20171027T164244Z">
+        <seg>|size_height * (2*nav_size_y+1) / nav_factor|, соответственно.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|size_height + 2*overlap|, respectively</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164158Z" creationid="Алексей" creationdate="20171027T164147Z">
-        <seg>|size_height + 2*overlap|, соответственно</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164702Z" creationid="Алексей" creationdate="20171027T164147Z">
+        <seg>|size_height + 2*overlap|, соответственно.</seg>
       </tuv>
     </tu>
     <tu>
