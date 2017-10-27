@@ -65,27 +65,27 @@ Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, доступно
 
 {\tt|page-name|\char124|page-number|\char124|destination|\char124\char124} 
 
-If there are no such pages, the value is set to |notdef|. 
+Если таких страниц нет, то значение устанавливается в |notdef|. 
 
-See the description of the |\processpointeritem| macro below for how to extract and use this information. 
+Смотрите описание макроса |\processpointeritem| ниже, что бы знать, как извлечь и использовать эту информацию. 
 
-* |\pagename| = name of the current map according to options of the |map| command. 
+* |\pagename| = имя текущей карты в соответствии с опциями команды |map|. 
 
-* |\pagelabel| = the page label as specified by |origin| and |origin-label| options of the |layout| command. \endlist
+* |\pagelabel| = метка страницы, указанная опциями |origin| и |origin-label| в команде |layout|. \endlist
 
-The following variables are set at the beginning of the document: 
-
-\list
-
-* |\hsize|, |\vsize| = \TeX\ page dimensions, set according to |page-width| and |page-height| parameters of the |page-setup| option of the |layout| command. They determine our playground when defining page layout using the |\dopage| macro. 
-
-* |\ifpagenumbering| = This conditional is set true or false according to the |page-numbers| option of the |layout| command. \endlist
-
-There are also some predefined macros which help with the processing of |\pointer*| variables: 
+Следующие переменные задаются в начале документа: 
 
 \list
 
-* |\showpointer| with one of the |\pointerE|, |\pointerW|, |\pointerN| or |\pointerS| as an argument displays the value of the argument. If the value is 0 it doesn't display anything. This is useful because the zero value (no neighbouring page) shouldn't be displayed. 
+* |\hsize|, |\vsize| = \TeX\ размеры страницы, заданные в соответствии с параметрами |page-width| и |page-height| опции |page-setup| команды |layout|. Они определяют нашу площадку при определении макета страницы используя макрос |\dopage|. 
+
+* |\ifpagenumbering| = Это значение установлено в true или false в соответствии с опцией |page-numbers| команды |layout|. \endlist
+
+Существуют также некоторые предопределенные макросы, которые помогают с обработкой |\pointer*| переменных: 
+
+\list
+
+* |\showpointer| с одним из |\pointerE|, |\pointerW|, |\pointerN| или |\pointerS| в качестве аргумента отображается значение аргумента. Если значение равно 0, тогда ничего не отображается. Это полезно, потому что нулевое значение (нет соседней страницы) не должно отображаться. 
 
 * |\showpointerlist| with one of the |\pointerU| or |\pointerD| as an argument presents the content of this argument. (Which contains |\pointerU| or |\pointerD|, see above.) For each record it calls the macro |\processpointeritem|, which is responsible for data formatting. 
 
