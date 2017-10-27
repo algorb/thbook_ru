@@ -911,6 +911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| contain information about pages above and below the current page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165601Z" creationid="Алексей" creationdate="20171027T165548Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| содержат информацию о страницах выше и ниже текущей страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| contain the page number of the neighbouring pages in the E, W, N and S directions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164810Z" creationid="Алексей" creationdate="20171027T164435Z">
@@ -3800,6 +3808,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170908T205206Z" creationid="Алексей" creationdate="20170908T205206Z">
         <seg>Введение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It consists of one or more concatenated records.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165626Z" creationid="Алексей" creationdate="20171027T165626Z">
+        <seg>Они состоят из одной или нескольких конкатенированных записей.</seg>
       </tuv>
     </tu>
     <tu>
