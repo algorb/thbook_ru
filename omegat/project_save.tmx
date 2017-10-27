@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| = This conditional is set true or false according to the |page-numbers| option of the |layout| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170617Z" creationid="Алексей" creationdate="20171027T170511Z">
+        <seg>* |&lt;u0&gt;| = Это значение установлено в true или false в соответствии с опцией |page-numbers| команды |layout|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| = name of the current map according to options of the |map| command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170133Z" creationid="Алексей" creationdate="20171027T170107Z">
@@ -5754,6 +5762,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172941Z" creationid="Алексей" creationdate="20171024T172941Z">
         <seg>Отображаются также гиперссылки на границе карты, если пещера продолжается на следующей странице и в соответствующих ячейках навигатора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are also some predefined macros which help with the processing of |&lt;u0&gt;*| variables:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170736Z" creationid="Алексей" creationdate="20171027T170736Z">
+        <seg>Существуют также некоторые предопределенные макросы, которые помогают с обработкой |&lt;u0&gt;*| переменных:</seg>
       </tuv>
     </tu>
     <tu>
