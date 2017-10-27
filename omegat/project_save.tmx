@@ -905,8 +905,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| = This conditional is set true or false according to the |page-numbers| option of the |layout| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170617Z" creationid="Алексей" creationdate="20171027T170511Z">
-        <seg>* |&lt;u0&gt;| = Это значение установлено в true или false в соответствии с опцией |page-numbers| команды |layout|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171404Z" creationid="Алексей" creationdate="20171027T170511Z">
+        <seg>* |&lt;u0&gt;| = это значение установлено в true или false в соответ\-ствии с опцией |page-numbers| команды |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -935,10 +935,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| with one of the |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| or |&lt;u4&gt;| as an argument displays the value of the argument.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171524Z" creationid="Алексей" creationdate="20171027T170755Z">
+        <seg>* |&lt;u0&gt;| с одним из |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| или |&lt;u4&gt;| в качестве аргумента отображает значение аргумента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| = &lt;u2&gt;&lt;u3&gt;page dimensions, set according to |page-width| and |page-height| parameters of the |page-setup| option of the |layout| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170401Z" creationid="Алексей" creationdate="20171027T170244Z">
-        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| = &lt;u2&gt;&lt;u3&gt;размеры страницы, заданные в соответствии с параметрами |page-width| и |page-height| опции |page-setup| команды |layout|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171058Z" creationid="Алексей" creationdate="20171027T170244Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;| = &lt;u2&gt;&lt;u3&gt;размеры страницы, заданные в соответствии с парамет\-рами |page-width| и |page-height| опции |page-setup| команды |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3483,6 +3491,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value is 0 it doesn't display anything.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170844Z" creationid="Алексей" creationdate="20171027T170844Z">
+        <seg>Если значение равно 0, тогда ничего не отображается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the |main_map| is located in the |main| survey, scrap |s1| may cover part of the centreline from survey |a|, complete survey |b| and part of |c|; |s2| will cover part of the |a| and |c| surveys and a complete |d| survey.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182910Z" creationid="Алексей" creationdate="20170914T182910Z">
@@ -4851,8 +4867,8 @@
       <tuv lang="EN-US">
         <seg>See the description of the |&lt;u0&gt;| macro below for how to extract and use this information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170057Z" creationid="Алексей" creationdate="20171027T170057Z">
-        <seg>Смотрите описание макроса |&lt;u0&gt;| ниже, что бы знать, как извлечь и использовать эту информацию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170956Z" creationid="Алексей" creationdate="20171027T170057Z">
+        <seg>Смотрите описание макроса |&lt;u0&gt;| ниже, чтобы знать, как извлечь и использовать эту информацию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5768,8 +5784,8 @@
       <tuv lang="EN-US">
         <seg>There are also some predefined macros which help with the processing of |&lt;u0&gt;*| variables:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170736Z" creationid="Алексей" creationdate="20171027T170736Z">
-        <seg>Существуют также некоторые предопределенные макросы, которые помогают с обработкой |&lt;u0&gt;*| переменных:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171431Z" creationid="Алексей" creationdate="20171027T170736Z">
+        <seg>Существуют также некоторые предопределенные макросы, которые помо\-гают с обработкой |&lt;u0&gt;*| переменных:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,8 +6080,8 @@
       <tuv lang="EN-US">
         <seg>They determine our playground when defining page layout using the |&lt;u4&gt;| macro.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170504Z" creationid="Алексей" creationdate="20171027T170504Z">
-        <seg>Они определяют нашу площадку при определении макета страницы используя макрос |&lt;u4&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171307Z" creationid="Алексей" creationdate="20171027T170504Z">
+        <seg>Они устанавливают нашу площадку при определении макета страницы исполь\-зуя макрос |&lt;u4&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6227,6 +6243,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173647Z" creationid="Алексей" creationdate="20171026T173647Z">
         <seg>Это делается с помощью таких опций, как |page-setup| или |overlap|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful because the zero value (no neighbouring page) shouldn't be displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171551Z" creationid="Алексей" creationdate="20171027T170909Z">
+        <seg>Это полезно, потому что нулевое значе\-ние (нет соседней страницы) не должно отображаться.</seg>
       </tuv>
     </tu>
     <tu>
