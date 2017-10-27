@@ -895,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| = The box containing the navigator, with dimensions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164230Z" creationid="Алексей" creationdate="20171027T164207Z">
+        <seg>* |&lt;u0&gt;| = бокс содержащий навигатор, с размерами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;x&gt;| and |&lt;y&gt;| are the drawing coordinates of an object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023651Z" creationid="Алексей" creationdate="20170923T023629Z">
@@ -2341,6 +2349,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132232Z" creationid="Алексей" creationdate="20171022T131553Z">
         <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного скло\-нения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both |&lt;u0&gt;| and |&lt;u1&gt;| also contain hyperlinks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164359Z" creationid="Алексей" creationdate="20171027T164359Z">
+        <seg>Оба бокса, |&lt;u0&gt;| и |&lt;u1&gt;|, также содержат гиперссылки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7348,6 +7364,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Count registers:}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164415Z" creationid="Алексей" creationdate="20171027T164415Z">
+        <seg>{&lt;u0&gt; Count registers:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Deleting line point}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024625Z" creationid="Алексей" creationdate="20170920T024613Z">
@@ -8672,6 +8696,38 @@ end of file|</seg>
 	where CENTRELINE.ID = TOPO.CENTRELINE_ID
 		and PERSON.ID = PERSON_ID
 	group by NAME, SURNAME order by 1 desc, 4 asc;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|size_height * (2*nav_size_y+1) / nav_factor|, respectively</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164253Z" creationid="Алексей" creationdate="20171027T164244Z">
+        <seg>|size_height * (2*nav_size_y+1) / nav_factor|, соответственно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|size_height + 2*overlap|, respectively</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164158Z" creationid="Алексей" creationdate="20171027T164147Z">
+        <seg>|size_height + 2*overlap|, соответственно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|size_width * (2*nav_size_x+1) / nav_factor| or</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164240Z" creationid="Алексей" creationdate="20171027T164235Z">
+        <seg>|size_width * (2*nav_size_x+1) / nav_factor| или</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|size_width + 2*overlap| or</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164144Z" creationid="Алексей" creationdate="20171027T164136Z">
+        <seg>|size_width + 2*overlap| или</seg>
       </tuv>
     </tu>
     <tu>
