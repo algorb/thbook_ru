@@ -31,33 +31,33 @@ Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, доступно
 
 |\dopage| 
 
- Идея проста: для каждой страницы Therion определяет переменные \TeX\  (count, token и box registers), которые содержат элементы страницы (карта, навигатор, название страницы и т.д.). At the end of each page macro |\dopage| is invoked. This defines the position of each element on the page. By redefining this macro you'll get desired page layout. Without this redefinition you'll get the standard layout. 
+ Идея проста: для каждой страницы Therion определяет переменные \TeX\  (count, token и box registers), которые содержат элементы страницы (карта, навигатор, название страницы и т.д.). В конце каждой страницы вызывается макрос |\dopage|. Это определяет положение каждого элемента на странице. Переопределив этот макрос, вы получите желаемый макет страницы. Без этого переопределения вы получите стандартный макет. 
 
-Here is the list of variables defined for each page: 
+Ниже приведен список переменных, определенных для каждой страницы: 
 
 \list
 
-{\it Boxes:} 
+{\it Боксы:} 
 
-* |\mapbox| = The box containing the map. Its width (height) is set according to the |size| and |overlap| options of the |layout| command to 
+* |\mapbox| = бокс содержащий карту. Его ширина (высота) устанавливается в соответствии с опциями |size| и |overlap| команды |layout|. 
 
-|size_width + 2*overlap| or 
+|size_width + 2*overlap| или 
 
-|size_height + 2*overlap|, respectively 
+|size_height + 2*overlap|, соответственно 
 
-* |\navbox| = The box containing the navigator, with dimensions 
+* |\navbox| = бокс содержащий навигатор, с размерами 
 
-|size_width * (2*nav_size_x+1) / nav_factor| or 
+|size_width * (2*nav_size_x+1) / nav_factor| или 
 
-|size_height * (2*nav_size_y+1) / nav_factor|, respectively 
+|size_height * (2*nav_size_y+1) / nav_factor|, соответственно 
 
-Both |\mapbox| and |\navbox| also contain hyperlinks. 
+Оба бокса, |\mapbox| и |\navbox|, также содержат гиперссылки. 
 
-{\it Count registers:} 
+{\it Регистровые счетчики:} 
 
-* |\pointerE|, |\pointerW|, |\pointerN|, |\pointerS| contain the page number of the neighbouring pages in the E, W, N and S directions. If there is no such a page its page number is set to 0. 
+* |\pointerE|, |\pointerW|, |\pointerN|, |\pointerS| содержат номер страницы соседних страниц в направлениях E, W, N и S. Если такой страницы нет, номер ее страницы равен 0. 
 
-* |\pagenum| current page number 
+* |\pagenum| номер текущей страницы 
 
 {\it Token registers:} 
 
