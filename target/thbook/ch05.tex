@@ -129,7 +129,14 @@ Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, доступно
 
 “еперь мы готовы определить макрос |\dopage|. ¬ы можете выбрать, какой из предопределенных элементов использовать. ќчень простой пример: 
 
-|layout my_layout scale 1 200 page-setup 29.7 21 27.7 19 1 1 cm size 26.7 18 cm overlap 0.5 cm code tex-atlas \def\dopage{\box\mapbox} \insertmaps endlayout| 
+|layout my_layout
+	scale 1 200
+	page-setup 29.7 21 27.7 19 1 1 cm
+	size 26.7 18 cm
+	overlap 0.5 cm
+	code tex-atlas \def\dopage{\box\mapbox}
+	\insertmaps
+endlayout| 
 
 который определ€ет размер формата A4 без навигатора и любых текстов. Ќа странице есть только карта. 
 
