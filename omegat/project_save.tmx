@@ -1240,6 +1240,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |config-linux|, |config-macosx|, |config-win32| = configure Therion for a specific platform.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122600Z" creationid="Алексей" creationdate="20171028T122552Z">
+        <seg>* |config-linux|, |config-macosx|, |config-win32| = настроить Therion для конкретной платформы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |config-release|, |config-oxygen|, |config-ozone| = set optimization level for C++ compiler (none, |-O2| and |-O3|) * |config-debug| = useful before debugging the program * |install| = install Therion * |clean| = delete all temporary files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122750Z" creationid="Алексей" creationdate="20171028T122625Z">
+        <seg>* |config-release|, |config-oxygen|, |config-ozone| = установить уровень оптимизации для компилятора C++ (none, |-O2| или |-O3|). * |config-debug| = полезно перед отладкой программы. * |install| = установить Therion. * |clean| = удалить все временные файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.&lt;u7&gt;Example: if you specify |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050018Z" creationid="Алексей" creationdate="20170924T044440Z">
@@ -3425,6 +3441,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hacker's guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122417Z" creationid="Алексей" creationdate="20171028T122417Z">
+        <seg>Руководство для хакеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hand-editing of such files is not easy---especially when you draw maps, you need to think in spatial (Cartesian coordinate) terms.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
@@ -4556,6 +4580,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064405Z" creationid="Алексей" creationdate="20170924T064405Z">
         <seg>Line -- это команда для рисования символа линии на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux is a default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122614Z" creationid="Алексей" creationdate="20171028T122614Z">
+        <seg>Linux по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6430,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion's {&lt;u0&gt; makefile} may take some optional parameters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122543Z" creationid="Алексей" creationdate="20171028T122543Z">
+        <seg>Файл Therion'а {&lt;u0&gt; makefile} может принимать некоторые необязательные опции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These are by default all the following:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143841Z" creationid="Алексей" creationdate="20170919T143841Z">
@@ -8152,6 +8192,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180816Z" creationid="Алексей" creationdate="20170909T180816Z">
         <seg>{&lt;u0&gt; Установка в Windows:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Make parameters}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122440Z" creationid="Алексей" creationdate="20171028T122432Z">
+        <seg>{&lt;u0&gt; Make параметры}</seg>
       </tuv>
     </tu>
     <tu>
