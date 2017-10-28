@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| = conditional; true if map projection is plan and symbol north-arrow is not hidden in |layout| * |&lt;u1&gt;| = conditional; true if scalebar is not hidden * |&lt;u2&gt;| = PDF form with the north arrow * |&lt;u3&gt;| = PDF form with the scale bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085259Z" creationid="Алексей" creationdate="20171028T085114Z">
+        <seg>* |&lt;u0&gt;| =  условный; true, если проекция карты -- это план, а символ стрелки на север не скрыт в |layout|; * |&lt;u1&gt;| = условный; true, если шкала масштаба не скрыта; * |&lt;u2&gt;| = PDF-форма со стрелкой на север; * |&lt;u3&gt;| = PDF-форма со шкалой масштаба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| = conditional; true iff |legend| option of the |layout| command was set to |on| or |all| values * |&lt;u1&gt;| = token register containing translated legend title * |&lt;u2&gt;| = macro for inserting legend symbols pictures with translated descriptions in the specified number of columns (according to |legend-columns| layout option) * |&lt;u3&gt;| = combines all three above commands to get preformatted legend with header and symbols typeset in two&lt;u4&gt;Default; adjust the |legend-columns| layout option to get them more or less] columns if |legend| option is set |on|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085027Z" creationid="Алексей" creationdate="20171028T084418Z">
@@ -4612,6 +4620,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113513Z" creationid="Алексей" creationdate="20171022T111710Z">
         <seg>Обычно Therion записывает все сообще\-ния в файл therion.log в текущем каталоге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>North arrow and scale bar may be displayed using</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085108Z" creationid="Алексей" creationdate="20171028T085108Z">
+        <seg>Стрелка направления на север и шкала масштаба могут отображаться с использованием:</seg>
       </tuv>
     </tu>
     <tu>
