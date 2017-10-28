@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 OCT 2017 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 OCT 2017 19:55
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -803,7 +803,95 @@ anfnt POST
 .\kern -2.00043
 .etc.
 
-[83] [84] [85]
+[83] [84]
+Overfull \hbox (49.26186pt too wide) in paragraph at lines 74--74
+ [][]\tt отредактируйте файл []texts_xx.txt[]. Добавьте свои переводы в строки,
+ начинающиеся|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt о
+.\tt т
+.etc.
+
+
+Overfull \hbox (1.7019pt too wide) in paragraph at lines 78--79
+[]\tt Хотя кодировка Uni-code UTF-8 содержит все символы, которые The-rion може
+т|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt Х
+.\tt о
+.\tt т
+.\tt я
+.etc.
+
+
+Overfull \hbox (1.44188pt too wide) in paragraph at lines 80--81
+\tt 8-разрядной кодировке, второй в Uni-code) в каждой строке. Можно добавлять|
+
+
+\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
+.\tt 8
+.\tt -
+.\discretionary
+.\tt р
+.\tt а
+.etc.
+
+
+Overfull \hbox (60.09569pt too wide) in paragraph at lines 84--85
+[]\tt Легко добавить новые кодировки для вывода 2D-карты.$[]$ Скопируйте соотве
+тствующий|
+
+\hbox(8.86581+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt Л
+.\tt е
+.\tt г
+.\tt к
+.etc.
+
+
+Overfull \hbox (68.68336pt too wide) in paragraph at lines 84--85
+\tt запустить скрипт Perl []mk-tex-enc.pl[] расположенный в каталоге []tex-enc[
+] и перекомпилируйте|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\tt з
+.\tt а
+.\tt п
+.\tt у
+.\kern-0.384
+.etc.
+
+[85]
+Overfull \hbox (2.14601pt too wide) in paragraph at lines 101--101
+ [][][]\tt TEMP[], []TMP[] $\mit .$ \tt системный временный каталог, где The-ri
+on хранит временные|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt T
+.etc.
+
+
 Overfull \hbox (1.56056pt too wide) in paragraph at lines 111--111
  [][]\tt on Win-dows: [].[], []$THE-RION[], []$HOME\.therion[], []<Therion-inst
 allation-directory>[],|
@@ -870,7 +958,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (93 pages, 772768 bytes).
+Output written on thbook.pdf (93 pages, 773575 bytes).
 PDF statistics:
  568 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
