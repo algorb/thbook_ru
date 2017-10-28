@@ -903,6 +903,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;[#1 #2 #3]| for colour changes (RGB values in the range 0--100), and</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044014Z" creationid="Алексей" creationdate="20171028T043957Z">
+        <seg>* |&lt;u0&gt;[#1 #2 #3]| для изменения цвета (значения RGB в диапазоне 0-100) и</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;[#1]| for size changes,</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043947Z" creationid="Алексей" creationdate="20171028T043942Z">
+        <seg>* |&lt;u0&gt;[#1]| для изменения размера,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| = The box containing the map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164041Z" creationid="Алексей" creationdate="20171027T164018Z">
@@ -995,6 +1011,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164810Z" creationid="Алексей" creationdate="20171027T164435Z">
         <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| содержат номер страницы сосед\-них страниц в направлениях E, W, N и S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |ß|, |&lt;u3&gt;| for type face switching.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044052Z" creationid="Алексей" creationdate="20171028T044022Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |ß|, |&lt;u3&gt;| для изменения типа отображения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4889,6 +4913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See below for a list of predefined texts which may be used in the atlas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044129Z" creationid="Алексей" creationdate="20171028T044129Z">
+        <seg>Ниже приведен список предопределенных настроек текстов, которые могут быть использованы в атласе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See chapter {&lt;u0&gt; How the map is put together} for explanation how and in which order are they displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T005755Z" creationid="Алексей" creationdate="20170921T002642Z">
@@ -5898,6 +5930,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174828Z" creationid="Алексей" creationdate="20170913T172103Z">
         <seg>Существует меню {&lt;u0&gt; Поиск и выделение}, которое позволяет легко переклю\-чаться между объектами и показывать элементы, которые вы не видите при взгляде на изображение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is also a |&lt;u0&gt;| macro which takes a box as an argument and displays the box framed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044250Z" creationid="Алексей" creationdate="20171028T044250Z">
+        <seg>Также есть макрос |&lt;u0&gt;|, который принимает бокс в качестве аргумента и отображает бокс в рамке.</seg>
       </tuv>
     </tu>
     <tu>
