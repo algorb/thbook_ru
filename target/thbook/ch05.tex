@@ -95,7 +95,7 @@ Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, доступно
 
 {\tt|\def\processpointeritem#1|\char124|#2|\char124|#3\endarg{...}|} 
 
-Пример может быть следующим 
+Пример может быть следующим: 
 
 {\tt|\def\processpointeritem#1|\char124|#2|\char124}|#3\endarg{ \hbox{\pdfstartlink attr {/Border [0 0 0]} goto name {#3} #2 (#1)\pdfendlink} }| 
 
@@ -267,7 +267,7 @@ This is usually done in two steps (assume that four arguments are {\it P}, {\it 
 
 For drawing and filling use |thdraw| and |thfill| commands instead of \MP's |draw| and |fill|. These take automatically care of {\it T} transformation. 
 
-Пример может быть следующим 
+Пример может быть следующим: 
 
 |def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");| 
 
