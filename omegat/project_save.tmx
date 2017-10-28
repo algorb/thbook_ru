@@ -3001,6 +3001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following token registers may be used (according to user's requirements before or after the |&lt;u0&gt;| macro):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T073754Z" creationid="Алексей" creationdate="20171028T073754Z">
+        <seg>Следующие регистровые токены могут использоваться (в соответствии с необходимостью до или после макроса |&lt;u0&gt;|):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For better performance on slower computers, it's possible to temporarily unload a currently unused image from memory by unchecking its {&lt;u5&gt; Visibility} check-box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142946Z" creationid="Алексей" creationdate="20170913T140751Z">
@@ -3816,6 +3824,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193518Z" creationid="Алексей" creationdate="20170909T143608Z">
         <seg>В 2002 году мы представили первую версию Therion'а, которая отвечала нашим требованиям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to map pages contains atlas additional items: title page, basic facts about the cave, legend with used map symbols etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T073609Z" creationid="Алексей" creationdate="20171028T073609Z">
+        <seg>В дополнение к страницам карты атлас содержит дополнительные области: титульная страница, основные факты о пещере, легенда с использованием символов карты и т.д.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6010,6 +6026,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191957Z" creationid="Алексей" creationdate="20170909T191957Z">
         <seg>Therion также экспортирует трехмерную модель (полную или нитку хода) в различных форматах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion automatically generates list of used map symbols and lists of persons who have discovered, surveyed and drawn selected part of the cave.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T073640Z" creationid="Алексей" creationdate="20171028T073640Z">
+        <seg>Therion автоматически генерирует список используемых символов карты и списки лиц, которые обнаружили, исследовали и нарисовали выбранную часть пещеры.</seg>
       </tuv>
     </tu>
     <tu>
