@@ -935,6 +935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt;| with one of the |&lt;u1&gt;| or |&lt;u3&gt;| as an argument presents the content of this argument.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043357Z" creationid="Алексей" creationdate="20171028T043319Z">
+        <seg>* |&lt;u0&gt;| с одним из аргументов |&lt;u1&gt;| или |&lt;u3&gt;| представляет содержание этого аргумента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| with one of the |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| or |&lt;u4&gt;| as an argument displays the value of the argument.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171524Z" creationid="Алексей" creationdate="20171027T170755Z">
