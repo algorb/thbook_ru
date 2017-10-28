@@ -2112,6 +2112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u0&gt;&lt;u1&gt;{5.3}This section applies to old-style font selection using |tex-fonts| command in the initialization file and is obsolete when using |pdf-fonts| command.] Copy an appropriate encoding mapping file with an |*.enc| extension to the |texenc/encodings|, run the Perl script |mktexenc.pl| located in the |texenc| directory and compile Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124605Z" creationid="Алексей" creationdate="20171028T124605Z">
+        <seg>&lt;u0&gt;&lt;u1&gt;{5.3}Этот раздел относится к выбору шрифтов старого стиля с использованием команды |tex-fonts| в файле инициализации и устарела при использовании команды |pdf-fonts|.] Скопируйте соответствующий файл сопоставления кодировки с |*.enc| расширение для в |texenc/encodings|, запустить скрипт Perl |mktexenc.pl| расположенный в каталоге |texenc| и перекомпилируйте Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u0&gt;E.g. |survey entrance| in the file |entrance.th|.] The points will than be referenced using |@| character---see the |survey| command description.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181322Z" creationid="Алексей" creationdate="20170914T181322Z">
@@ -4536,6 +4544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's easy to add new encodings for 2D map output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124403Z" creationid="Алексей" creationdate="20171028T124403Z">
+        <seg>Легко добавить новые кодировки для вывода 2D-карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's handy to start with an empty template file as shown below, where dots will be replaced with appropriate texts.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175320Z" creationid="Алексей" creationdate="20170914T175320Z">
@@ -5101,6 +5117,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054442Z" creationid="Алексей" creationdate="20171021T054400Z">
         <seg>Возможные алгоритмы: |line| -- по умолчанию; |plaquette| -- разработанный Marco Corvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible comments follow the `|#|' character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124325Z" creationid="Алексей" creationdate="20171028T124325Z">
+        <seg>Можно добавлять комментарии за символом `|#|'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6176,6 +6200,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010252Z" creationid="Алексей" creationdate="20170921T003830Z">
         <seg>Трансформация состоит из следующих шагов: &lt;u0&gt; * линейное преобразование (смещение, масштабирование и вращение), кото\-рые 'лучше всего' соответствуют станциям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The translation file should contain two hexadecimal values of a character (first one in the 8-bit encoding, second one in Unicode) in each line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124246Z" creationid="Алексей" creationdate="20171028T124246Z">
+        <seg>Файл перевода должен содержать два шестнадцатеричных символа (первый в 8-разрядной кодировке, второй в Unicode) в каждой строке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,6 +8168,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024518Z" creationid="Алексей" creationdate="20170920T024506Z">
         <seg>{&lt;u0&gt; Добавление точки линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Adding new &lt;u1&gt;&lt;u2&gt;encodings}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124355Z" creationid="Алексей" creationdate="20171028T124336Z">
+        <seg>{&lt;u0&gt; Добавление новых &lt;u1&gt;&lt;u2&gt;кодировок}</seg>
       </tuv>
     </tu>
     <tu>
