@@ -1017,8 +1017,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |ß|, |&lt;u3&gt;| for type face switching.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044052Z" creationid="Алексей" creationdate="20171028T044022Z">
-        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |ß|, |&lt;u3&gt;| для изменения типа отображения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T052502Z" creationid="Алексей" creationdate="20171028T044022Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;|, |\ss|, |&lt;u3&gt;| для изменения типа отображения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6616,6 +6616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using other plain &lt;u0&gt;&lt;u2&gt;macros or &lt;u1&gt;&lt;u3&gt;primitives it's possible to add other features, e.g. a different layout for odd and even pages; headers and footers; or adding a logo to each page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T054220Z" creationid="Алексей" creationdate="20171028T053931Z">
+        <seg>Используя другие plain макросы &lt;u0&gt;&lt;u2&gt;или примитивы &lt;u1&gt;, можно добавить другие функции, например другой макет для нечетных и четных страниц, заголовки и колонтитулы или добавить логотип на каждую страницу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using this you can change some layout properties directly within the export command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074107Z" creationid="Алексей" creationdate="20171022T074107Z">
@@ -8182,21 +8190,20 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;#2 (#1)&lt;/i0&gt; }|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043913Z" creationid="Алексей" creationdate="20171028T043913Z">
-        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;#2 (#1)&lt;/i0&gt; }|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T052356Z" creationid="Алексей" creationdate="20171028T043913Z">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{|%|
+	&lt;i0&gt;#2 (#1)&lt;/i0&gt;|%|
+}|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; goto name {#3} #2 (#1)&lt;u7&gt;} }|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T051810Z" creationid="Алексей" creationdate="20171028T043812Z">
-        <seg>
-|{\my \%}|
-
-{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{|%| 
-	&lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; %
-		goto name {#3} #2 (#1)&lt;u7&gt;}%
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T052246Z" creationid="Алексей" creationdate="20171028T043812Z">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{|%|
+	&lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt;|%|
+		goto name {#3} #2 (#1)&lt;u7&gt;}|%|
 }|</seg>
       </tuv>
     </tu>
@@ -8914,8 +8921,16 @@ endlayout|</seg>
       <tuv lang="EN-US">
         <seg>|layout my_layout scale 1 200 page-setup 29.7 21 27.7 19 1 1 cm size 26.7 18 cm overlap 0.5 cm code tex-atlas &lt;u0&gt;&lt;u1&gt;{&lt;u2&gt;&lt;u3&gt;} &lt;u4&gt; endlayout|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044419Z" creationid="Алексей" creationdate="20171028T044419Z">
-        <seg>|layout my_layout scale 1 200 page-setup 29.7 21 27.7 19 1 1 cm size 26.7 18 cm overlap 0.5 cm code tex-atlas &lt;u0&gt;&lt;u1&gt;{&lt;u2&gt;&lt;u3&gt;} &lt;u4&gt; endlayout|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T052826Z" creationid="Алексей" creationdate="20171028T044419Z">
+        <seg>|layout my_layout
+	scale 1 200
+	page-setup 29.7 21 27.7 19 1 1 cm
+	size 26.7 18 cm
+	overlap 0.5 cm
+	code tex-atlas
+		&lt;u0&gt;&lt;u1&gt;{&lt;u2&gt;&lt;u3&gt;}
+		&lt;u4&gt;
+endlayout|</seg>
       </tuv>
     </tu>
     <tu>
