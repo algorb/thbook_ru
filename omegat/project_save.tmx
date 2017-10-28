@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* freetype 2 and newer; freetype-config must work * wxWidgets 2.6 and newer; wx-config must work * VTK 5.0 and newer * libjpeg, libpng, zlib</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092611Z" creationid="Алексей" creationdate="20171028T092611Z">
+        <seg>* freetype 2 или новее с поддержкой freetype-config; * wxWidgets 2.6 или новее с поддержкой wx-config; * VTK 5.0 или новее; * libjpeg, libpng, zlib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* if the value of an option or argument contains spaces, you should enclose this value in &lt;i0&gt;|" "|&lt;/i0&gt; or &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220752Z" creationid="Алексей" creationdate="20170909T210448Z">
@@ -699,6 +707,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T145255Z" creationid="Алексей" creationdate="20170919T143849Z">
         <seg>* {&lt;u0&gt; точечные символы:} символы наполнения ходов (почва&lt;u3&gt; гуано); * {&lt;u1&gt; линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (|выносная линия сечения|), |arrow| (|стрелка|), |label| (|текстовая метка|), |gradient| (|уклон хода|) и |water-flow| (|водоток|); * {&lt;u2&gt; символы области:} все.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* {&lt;u11&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092323Z" creationid="Алексей" creationdate="20171028T092240Z">
+        <seg>* {&lt;u11&gt; ghostscript} если вы хотите создать откалиброванные изображения карт с привязкой к географическим картам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6732,6 +6748,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142544Z" creationid="Алексей" creationdate="20170909T151755Z">
         <seg>Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To compile Loch, you need</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092408Z" creationid="Алексей" creationdate="20171028T092408Z">
+        <seg>Для компиляции Loch вам необходимы:</seg>
       </tuv>
     </tu>
     <tu>
