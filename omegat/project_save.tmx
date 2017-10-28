@@ -3562,6 +3562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each new symbol has to be registered by a macro call</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190708Z" creationid="Алексей" creationdate="20171028T190708Z">
+        <seg>Каждый новый символ должен быть зарегистрирован вызовом макроса:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of the following sections describes one Therion command using the following structure:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161239Z" creationid="Алексей" creationdate="20170910T145836Z">
@@ -3878,6 +3886,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
         <seg>Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For drawing and filling use |thdraw| and |thfill| commands instead of &lt;u4&gt;'s |draw| and |fill|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190914Z" creationid="Алексей" creationdate="20171028T190914Z">
+        <seg>Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо &lt;u4&gt;'s |draw| и |fill|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6586,6 +6602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standard name for user-defined symbol types should not include symbol set identifier, e.g. |p_u_bat|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190649Z" creationid="Алексей" creationdate="20171028T190649Z">
+        <seg>Стандартное имя для пользовательских типов символов не должно включать идентификатор набора символов, например. |p_u_bat|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting with the release 5.4.1 you can use |fonts-setup| layout option instead of the &lt;u0&gt;&lt;u1&gt;macro |fonts_setup()|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185814Z" creationid="Алексей" creationdate="20171028T185814Z">
@@ -7459,6 +7483,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171431Z" creationid="Алексей" creationdate="20171027T170736Z">
         <seg>Существуют также некоторые предопределенные макросы, которые помо\-гают с обработкой |&lt;u0&gt;*| переменных:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are four predefined pens {&lt;u0&gt; PenA} (thickest) &lt;u2&gt;&lt;u3&gt;{&lt;u1&gt; PenD} (thinnest), which should be used for all drawings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190823Z" creationid="Алексей" creationdate="20171028T190823Z">
+        <seg>Существует четыре предопределенных ручки {&lt;u0&gt; PenA} (самый толстый) &lt;u2&gt;&lt;u3&gt;{&lt;u1&gt; PenD} (самый тонкий), который должен использоваться для всех чертежей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9463,6 +9495,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unless it's compiled into Therion executable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190743Z" creationid="Алексей" creationdate="20171028T190743Z">
+        <seg>если он не скомпилирован в исполняемый файл Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where {&lt;u0&gt; arg1 ... argN} are obligatory arguments, and pairs {&lt;u1&gt; -option value} are options, which you may freely omit.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114807Z" creationid="Алексей" creationdate="20170909T204602Z">
@@ -10959,6 +10999,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071659Z" creationid="Алексей" creationdate="20170920T070602Z">
         <seg>|ignore| = игнорирует указанную станцию (замер), продолжает развертку как у другой станции (замера), если возможно;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|initsymbol("&lt;standard-name&gt;");|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190712Z" creationid="Алексей" creationdate="20171028T190712Z">
+        <seg>|initsymbol("&lt;standard-name&gt;");|</seg>
       </tuv>
     </tu>
     <tu>
