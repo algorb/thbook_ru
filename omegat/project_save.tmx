@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>(Empty lines or lines starting with `|#|' are ignored; lines ending with a backslash continue on next line.) Currently supported initialization commands follow.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133225Z" creationid="Алексей" creationdate="20171028T133225Z">
-        <seg>(Пустые строки или строки, начинающиеся с `|#|', игнорируются, строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке). В настоящее время поддерживаются команды инициализации:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133856Z" creationid="Алексей" creationdate="20171028T133225Z">
+        <seg>(Пустые строки или строки, начинаю\-щиеся с `|#|', игнорируются, строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке). В настоящее время поддержива\-ются команды инициализации:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |convert-path &lt;file-path&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134800Z" creationid="Алексей" creationdate="20171028T134751Z">
+        <seg>* |convert-path &lt;путь файла&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |copy &lt;source layout id&gt;| = set properties here that are not modified based on the given source layout.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121027Z" creationid="Алексей" creationdate="20171021T115208Z">
@@ -1396,6 +1404,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072407Z" creationid="Алексей" creationdate="20171022T072056Z">
         <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| и * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = выбирает, какие функции экспортировать, если формат поддерживает его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |encoding-default &lt;encoding-name&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133555Z" creationid="Алексей" creationdate="20171028T133516Z">
+        <seg>* |encoding-default &lt;имя кодировки&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |encoding-sql &lt;encoding-name&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133627Z" creationid="Алексей" creationdate="20171028T133617Z">
+        <seg>* |encoding-sql &lt;имя кодировки&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,10 +1592,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |identify-path &lt;file-path&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134701Z" creationid="Алексей" creationdate="20171028T134654Z">
+        <seg>* |identify-path &lt;путь файла&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = description of the instrument that was used to survey the given quantities (same keywords as team person's role) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T035946Z" creationid="Алексей" creationdate="20170912T165244Z">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который исполь\-зо\-вался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |language &lt;xx[_YY]&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133711Z" creationid="Алексей" creationdate="20171028T133711Z">
+        <seg>* |language &lt;xx[_YY]&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,6 +1688,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |mpost-options &lt;string&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134438Z" creationid="Алексей" creationdate="20171028T134421Z">
+        <seg>* |mpost-options &lt;текст&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |mpost-path &lt;file-path&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134217Z" creationid="Алексей" creationdate="20171028T134141Z">
+        <seg>* |mpost-path &lt;путь файла&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |name &lt;reference&gt;| = if the point type is station, this option gives the reference to the real survey station.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051333Z" creationid="Алексей" creationdate="20170924T050145Z">
@@ -1668,6 +1724,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040310Z" creationid="Алексей" creationdate="20170924T040242Z">
         <seg>* |orientation/orient &lt;число&gt;| = определяет ориентацию символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |pdftex-path &lt;file-path&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134558Z" creationid="Алексей" creationdate="20171028T134545Z">
+        <seg>* |pdftex-path &lt;путь файла&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,6 +1924,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161345Z" creationid="Алексей" creationdate="20170911T155932Z">
         <seg>* |title &lt;строка&gt;| = описание объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |units &lt;metric/imperial&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134104Z" creationid="Алексей" creationdate="20171028T134104Z">
+        <seg>* |units &lt;metric/imperial&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2843,8 +2915,8 @@
       <tuv lang="EN-US">
         <seg>By default, survex is used if present, otherwise therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133455Z" creationid="Алексей" creationdate="20171028T133455Z">
-        <seg>По умолчанию используется |survex|, если он установлен, иначе используется |therion|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133923Z" creationid="Алексей" creationdate="20171028T133455Z">
+        <seg>По умолчанию используется |survex|, если он установлен, иначе использу\-ется |therion|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3125,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T152922Z" creationid="Алексей" creationdate="20170911T150620Z">
         <seg>Расширение по умолчанию `.th' и его можно не указывать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default output language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133738Z" creationid="Алексей" creationdate="20171028T133738Z">
+        <seg>Язык вывода по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5489,6 +5569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the copyright page for the list of available languages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134312Z" creationid="Алексей" creationdate="20171028T134101Z">
+        <seg>Список доступных языков смотрите на стра\-нице авторских прав;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the description of the |&lt;u0&gt;| macro below for how to extract and use this information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T170956Z" creationid="Алексей" creationdate="20171027T170057Z">
@@ -5509,6 +5597,70 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042639Z" creationid="Алексей" creationdate="20171022T042626Z">
         <seg>Смотрите {&lt;u1&gt; Приложение}, если вы хотите добавить или настроить переводы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set &lt;u0&gt;&lt;u1&gt;options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134541Z" creationid="Алексей" creationdate="20171028T134457Z">
+        <seg>Устанавливает опции &lt;u0&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set default units.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134136Z" creationid="Алексей" creationdate="20171028T134136Z">
+        <seg>Устанавливает единицы по умолчанию;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the default output encoding (currently unused).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133954Z" creationid="Алексей" creationdate="20171028T133611Z">
+        <seg>Устанавливает стандартную выходную кодировку (в настоящее время не используется);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the default output encoding for SQL export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133718Z" creationid="Алексей" creationdate="20171028T133641Z">
+        <seg>Устанавливает стандартную выходную кодировку для экспорта SQL;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the full path to ImageMagick's convert executable if Therion can't find it (``|convert|'' is the default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134828Z" creationid="Алексей" creationdate="20171028T134828Z">
+        <seg>Устанавливает полный путь к исполняемому файлу ImageMagick, если Therion не может его найти (`` | convert | '' является значением по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the full path to ImageMagick's identify executable if Therion can't find it (``|identify|'' is the default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134747Z" creationid="Алексей" creationdate="20171028T134705Z">
+        <seg>Устанавливает полный путь к ImageMagick, если Therion не может его найти (``|ident|'' является значением по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the full path to a &lt;u0&gt;&lt;u1&gt;executable if Therion can't find it (``|mpost|'' is the default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134419Z" creationid="Алексей" creationdate="20171028T134212Z">
+        <seg>Устанавливает полный путь к исполняемому файлу &lt;u0&gt;, если\break Therion не сможет его найти (``|mpost|'' является значением по умолчанию);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the full path to a pdf&lt;u0&gt;&lt;u1&gt;executable if Therion can't find it (``|pdfetex|'' is the default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134651Z" creationid="Алексей" creationdate="20171028T134651Z">
+        <seg>Устанавливает полный путь к исполняемому файлу pdf&lt;u0&gt;, если Therion не сможет его найти (``|pdfetex|'' является значением по умолчанию).</seg>
       </tuv>
     </tu>
     <tu>
