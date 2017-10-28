@@ -307,21 +307,26 @@ survey main -title "Тестовая пещера"
 
 endsurvey| 
 
-Corresponding configuration file could be: 
+Соответствующий конфигурационный файл может быть: 
 
-|encoding utf-8 source test 
+|encoding utf-8
+source test 
 
-layout l1 scale 1 100 layers off endlayout 
+layout l1
+	scale 1 100
+	layers off
+endlayout 
 
 select m1@main 
 
-export model -fmt survex export map -layout l1| 
+export model -fmt survex
+export map -layout l1| 
 
-If you save data file as `test.th' and configuration file as `thconfig' you may process them with Therion. 
+Если вы сохраните файл данных как `test.th' и конфигурационный файл как`thconfig', вы можете обработать их с помощью Therion'а. 
 
 %\subchapter Map symbols library.
 %\input sym/symlib
-\subchapter History. 
+\subchapter История изменений. 
 
 \list
 
