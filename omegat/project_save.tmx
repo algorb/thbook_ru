@@ -681,16 +681,16 @@
       <tuv lang="EN-US">
         <seg>* run `|perl process.pl export xx|' in the `thlang' Therion source subdirectory.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123702Z" creationid="Алексей" creationdate="20171028T123702Z">
-        <seg>* run `|perl process.pl export xx|' в подкаталоге Therion'а `thlang'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130059Z" creationid="Алексей" creationdate="20171028T123702Z">
+        <seg>* запустите `|perl process.pl export xx|' в подкаталоге Therion'а `thlang';</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* run |make update| * compile Therion</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123853Z" creationid="Алексей" creationdate="20171028T123818Z">
-        <seg>* запустите |make update|. * скомпилируйте Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130148Z" creationid="Алексей" creationdate="20171028T123818Z">
+        <seg>* запустите |make update|; * скомпилируйте Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,8 +2122,8 @@
       <tuv lang="EN-US">
         <seg>&lt;u0&gt;&lt;u1&gt;{5.3}This section applies to old-style font selection using |tex-fonts| command in the initialization file and is obsolete when using |pdf-fonts| command.] Copy an appropriate encoding mapping file with an |*.enc| extension to the |texenc/encodings|, run the Perl script |mktexenc.pl| located in the |texenc| directory and compile Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124605Z" creationid="Алексей" creationdate="20171028T124605Z">
-        <seg>&lt;u0&gt;&lt;u1&gt;{5.3}Этот раздел относится к выбору шрифтов старого стиля с использованием команды |tex-fonts| в файле инициализации и устарела при использовании команды |pdf-fonts|.] Скопируйте соответствующий файл сопоставления кодировки с |*.enc| расширение для в |texenc/encodings|, запустить скрипт Perl |mktexenc.pl| расположенный в каталоге |texenc| и перекомпилируйте Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T131515Z" creationid="Алексей" creationdate="20171028T124605Z">
+        <seg>&lt;u0&gt;&lt;u1&gt;{5.3}Этот раздел относится к выбору шрифтов старого стиля с использованием команды |tex-fonts| в файле инициализации и устарела при использовании команды |pdf-fonts|.]. Скопируйте соот\-ветствующий файл сопоставления кодировки с расширением |*.enc| в\break |texenc/encodings|, запустите скрипт Perl |mktexenc.pl| расположенный в ката\-логе |texenc| и перекомпилируйте Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,8 +2346,8 @@
       <tuv lang="EN-US">
         <seg>Add your translations at lines beginning with `|xx:|'.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123813Z" creationid="Алексей" creationdate="20171028T123813Z">
-        <seg>Добавьте свои переводы в строки, начинающиеся с `|xx:|'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130123Z" creationid="Алексей" creationdate="20171028T123813Z">
+        <seg>Добавьте свои переводы в строки, начи\-нающиеся с `|xx:|';</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,8 +2554,8 @@
       <tuv lang="EN-US">
         <seg>Although UTF-8 Unicode encoding covers all characters which Therion is able to process, it may be inconvenient to use it.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124002Z" creationid="Алексей" creationdate="20171028T124002Z">
-        <seg>Хотя кодировка Unicode UTF-8 содержит все символы, которые Therion может использовать, может быть неудобно использовать ее.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130456Z" creationid="Алексей" creationdate="20171028T124002Z">
+        <seg>Хотя кодировка Unicode UTF-8 содержит все символы, которые Therion\break может использовать, возможно вам будет неудобно использовать ее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2931,8 +2931,8 @@
       <tuv lang="EN-US">
         <seg>Copy a translation file to the |thchencdata| directory; add its name to `ifiles' hash in the beginning of the Perl script |generate.pl|; run it and recompile Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124154Z" creationid="Алексей" creationdate="20171028T124154Z">
-        <seg>Скопируйте файл перевода в |thchencdata| каталог; добавьте его имя в хэш-код `ifiles' в начале скрипта Perl |generate.pl|; запустить его и перекомпилируйте Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130813Z" creationid="Алексей" creationdate="20171028T124154Z">
+        <seg>Скопируйте файл перевода в |thchencdata| каталог; добавьте его имя в хэш-код `ifiles' в начале скрипта Perl |generate.pl|; запустите его и перекомпилируйте Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,8 +4214,8 @@
       <tuv lang="EN-US">
         <seg>In that case it's possible to add support for any 8-bit encoding for text input files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124024Z" creationid="Алексей" creationdate="20171028T124024Z">
-        <seg>В этом случае можно добавить поддержку любого 8-битной кодировки для текстовых входных файлов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130536Z" creationid="Алексей" creationdate="20171028T124024Z">
+        <seg>В этом случае можно добавить поддержку любой 8-битной кодировки для текстовых входных файлов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,8 +4594,8 @@
       <tuv lang="EN-US">
         <seg>It's easy to add new encodings for 2D map output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124403Z" creationid="Алексей" creationdate="20171028T124403Z">
-        <seg>Легко добавить новые кодировки для вывода 2D-карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T131100Z" creationid="Алексей" creationdate="20171028T124403Z">
+        <seg>Легко добавить новые кодировки для вывода 2D-карты</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,8 +5179,8 @@
       <tuv lang="EN-US">
         <seg>Possible comments follow the `|#|' character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124325Z" creationid="Алексей" creationdate="20171028T124325Z">
-        <seg>Можно добавлять комментарии за символом `|#|'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130852Z" creationid="Алексей" creationdate="20171028T124325Z">
+        <seg>Можно добав\-лять комментарии за символом `|#|'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5636,8 +5636,8 @@
       <tuv lang="EN-US">
         <seg>Suppose you want to add a new language |xx|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123613Z" creationid="Алексей" creationdate="20171028T123613Z">
-        <seg>Предположим, вы хотите добавить новый язык |xx|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130056Z" creationid="Алексей" creationdate="20171028T123613Z">
+        <seg>Предположим, вы хотите добавить новый язык |xx|:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6672,8 +6672,8 @@
       <tuv lang="EN-US">
         <seg>Therion uses the same encoding files as |afm2tfm| program from the &lt;u0&gt;&lt;u1&gt; distribution, which has the same format as an encoding vector in a PostScript font.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124707Z" creationid="Алексей" creationdate="20171028T124707Z">
-        <seg>Therion использует те же файлы кодировки, что и программа |afm2tfm| из дистрибутива &lt;u0&gt;&lt;u1&gt;, который имеет тот же формат, что и векторная кодировка в шрифте PostScript.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T131550Z" creationid="Алексей" creationdate="20171028T124707Z">
+        <seg>Therion использует те же файлы кодировки, что и программа |afm2tfm| из дистрибутива &lt;u0&gt;, который имеет тот же формат, что и векторная кодировка в шрифте PostScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6889,7 +6889,7 @@
       <tuv lang="EN-US">
         <seg>This creates a file |texts_xx.txt|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123714Z" creationid="Алексей" creationdate="20171028T123714Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130111Z" creationid="Алексей" creationdate="20171028T123714Z">
         <seg>Это создаст файл |texts_xx.txt|.</seg>
       </tuv>
     </tu>
@@ -6905,8 +6905,8 @@
       <tuv lang="EN-US">
         <seg>This file is UTF-8 encoded.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123734Z" creationid="Алексей" creationdate="20171028T123734Z">
-        <seg>Этот файл имеет кодировку UTF-8.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130113Z" creationid="Алексей" creationdate="20171028T123734Z">
+        <seg>Этот файл имеет кодировку UTF-8;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8414,8 +8414,8 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Generating new &lt;u1&gt;&lt;u2&gt;and &lt;u4&gt;&lt;u3&gt;headers}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124809Z" creationid="Алексей" creationdate="20171028T124749Z">
-        <seg>{&lt;u0&gt; Генерация новых &lt;u1&gt;&lt;u2&gt;и &lt;u4&gt;&lt;u3&gt;заголовков}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T131912Z" creationid="Алексей" creationdate="20171028T124749Z">
+        <seg>{&lt;u0&gt; Генерация новых header-файлов &lt;u1&gt;&lt;u2&gt;и &lt;u4&gt;&lt;u3&gt;}</seg>
       </tuv>
     </tu>
     <tu>
