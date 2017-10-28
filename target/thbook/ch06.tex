@@ -272,7 +272,13 @@ survey main -title "Тестовая пещера"
 		endcentreline
 	endsurvey 
 
-survey second -declination [3 deg] centreline calibrate length 0 0.96 data normal from to compass length clino 1 2 0 10 +10 endcentreline endsurvey 
+	survey second -declination [3 deg]
+		centreline
+			calibrate length 0 0.96
+			data normal from to compass length clino
+							1	2 0 10 +10
+		endcentreline
+	endsurvey 
 
 centreline equate 2@first 1@second endcentreline 
 
