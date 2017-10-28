@@ -2905,6 +2905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consult the documentation of your OS how to set them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125502Z" creationid="Алексей" creationdate="20171028T125502Z">
+        <seg>Проконсультируйтесь с документацией вашей ОС о том, как их установить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Context {&lt;u3&gt; all} means that the command may be used anywhere.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161344Z" creationid="Алексей" creationdate="20170910T150212Z">
@@ -4280,6 +4288,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T131435Z" creationid="Алексей" creationdate="20171022T131435Z">
         <seg>Информационный файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initialization files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125508Z" creationid="Алексей" creationdate="20171028T125508Z">
+        <seg>Файлы инициализации.</seg>
       </tuv>
     </tu>
     <tu>
