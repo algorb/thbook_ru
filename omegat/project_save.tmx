@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* LCDF Typetools package (&lt;u8&gt;{https://www.lcdf.org/type/}) * ImageMagick distribution with {&lt;u9&gt; convert} and {&lt;u10&gt; identify} utilities, if you want to use warping of survey sketches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092225Z" creationid="Алексей" creationdate="20171028T092014Z">
+        <seg>* LCDF Typetools пакет (&lt;u8&gt;{https://www.lcdf.org/type/}). * ImageMagick дистрибутив с утилитами {&lt;u9&gt; convert} и {&lt;u10&gt; identify}, если вы хотите использовать деформирование эскизы съемок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* LeftClick + drag = move line point * Ctrl+LeftClick + drag = move line point close to the existing point (normally it is moved right above closest existing point) * LeftClick on control point + drag = move control point</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T032813Z" creationid="Алексей" creationdate="20170920T024454Z">
