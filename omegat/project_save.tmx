@@ -687,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* run |make update| * compile Therion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123853Z" creationid="Алексей" creationdate="20171028T123818Z">
+        <seg>* запустите |make update|. * скомпилируйте Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* select area you want to edit * pres `Insert' in the {&lt;u0&gt; Area control} to insert other border lines at current cursor position * pres `Insert ID' to insert border with given ID at current cursor position * pres `Delete' to remove selected area border line</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T033203Z" creationid="Алексей" creationdate="20170920T030148Z">
@@ -2520,6 +2528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although UTF-8 Unicode encoding covers all characters which Therion is able to process, it may be inconvenient to use it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124002Z" creationid="Алексей" creationdate="20171028T124002Z">
+        <seg>Хотя кодировка Unicode UTF-8 содержит все символы, которые Therion может использовать, может быть неудобно использовать ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although everything (well, almost everything) about Therion input files has been explained, this chapter offers some additional tips and hints.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180326Z" creationid="Алексей" creationdate="20170914T174830Z">
@@ -2877,6 +2893,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T125131Z" creationid="Алексей" creationdate="20170910T125131Z">
         <seg>Системы координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy a translation file to the |thchencdata| directory; add its name to `ifiles' hash in the beginning of the Perl script |generate.pl|; run it and recompile Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124154Z" creationid="Алексей" creationdate="20171028T124154Z">
+        <seg>Скопируйте файл перевода в |thchencdata| каталог; добавьте его имя в хэш-код `ifiles' в начале скрипта Perl |generate.pl|; запустить его и перекомпилируйте Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4136,6 +4160,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183514Z" creationid="Алексей" creationdate="20170914T181431Z">
         <seg>В этом случае мы создаем один специальный файл с именем |INDEX.th| который включает все остальные |*.th| файлы из данного каталога и содержит команды |equate| для определения связей между съемками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that case it's possible to add support for any 8-bit encoding for text input files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124024Z" creationid="Алексей" creationdate="20171028T124024Z">
+        <seg>В этом случае можно добавить поддержку любого 8-битной кодировки для текстовых входных файлов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,6 +8136,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024518Z" creationid="Алексей" creationdate="20170920T024506Z">
         <seg>{&lt;u0&gt; Добавление точки линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Adding new encodings}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123911Z" creationid="Алексей" creationdate="20171028T123906Z">
+        <seg>{&lt;u0&gt; Добавление новых кодировок}</seg>
       </tuv>
     </tu>
     <tu>
