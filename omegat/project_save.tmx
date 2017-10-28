@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>(BTW, why not to use precompiled Windows version?)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092806Z" creationid="Алексей" creationdate="20171028T092806Z">
-        <seg>(Кстати, почему бы не использовать предварительно скомпилированную версию для Windows?).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093317Z" creationid="Алексей" creationdate="20171028T092806Z">
+        <seg>(Кстати, почему бы не использовать предварительно скомпили\-рованную версию для Windows?).</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;&lt;u3&gt;distribution with at least &lt;u1&gt;&lt;u4&gt;with Plain format, recent pdf&lt;u2&gt;, and &lt;u6&gt;&lt;u5&gt;(&lt;u7&gt;{https://www.tug.org}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092004Z" creationid="Алексей" creationdate="20171028T091834Z">
-        <seg>* &lt;u0&gt;&lt;u3&gt;дистрибутив с plain форматом &lt;u1&gt;, pdf&lt;u2&gt;, и &lt;u6&gt;&lt;u5&gt;(&lt;u7&gt;{https://www.tug.org}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093119Z" creationid="Алексей" creationdate="20171028T091834Z">
+        <seg>* &lt;u0&gt;&lt;u3&gt;дистрибутив с plain форматом &lt;u1&gt;, pdf&lt;u2&gt;, и &lt;u6&gt;\break (&lt;u7&gt;{https://www.tug.org}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN-US">
         <seg>* GNU C/C++ compiler * GNU make * Perl * Python 2.7 or 3 * Tcl/Tk 8.4.3 and newer (&lt;u0&gt;{https://www.tcl.tk}) with {&lt;u3&gt; BWidget} widget set &lt;u5&gt;&lt;u7&gt; (&lt;u1&gt;{https://sourceforge.net/projects/tcllib/}) and optionally {&lt;u4&gt; tkImg} extension &lt;u6&gt;&lt;u8&gt; (&lt;u2&gt;{https://sourceforge.net/projects/tkimg/}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091806Z" creationid="Алексей" creationdate="20171028T091513Z">
-        <seg>* GNU C/C++ compiler. * GNU make. * Perl. * Python 2.7 или 3. * Tcl/Tk 8.4.3 или новее (&lt;u0&gt;{https://www.tcl.tk}) с набором виджетов {&lt;u3&gt; BWidget} &lt;u5&gt;&lt;u7&gt; (&lt;u1&gt;{https://sourceforge.net/projects/tcllib/}) и необязательным расширением {&lt;u4&gt; tkImg} &lt;u6&gt;&lt;u8&gt; (&lt;u2&gt;{https://sourceforge.net/projects/tkimg/}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093016Z" creationid="Алексей" creationdate="20171028T091513Z">
+        <seg>* GNU C/C++ компилятор. * GNU make. * Perl. * Python 2.7 или 3. * Tcl/Tk 8.4.3 или новее (&lt;u0&gt;{https://www.tcl.tk}) с набором виджетов {&lt;u3&gt; BWidget} (&lt;u1&gt;{https://sourceforge.net/projects/tcllib/}) и необязательным расширением\break {&lt;u4&gt; tkImg} (&lt;u2&gt;{https://sourceforge.net/projects/tkimg/}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,8 +721,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u11&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092323Z" creationid="Алексей" creationdate="20171028T092240Z">
-        <seg>* {&lt;u11&gt; ghostscript} если вы хотите создать откалиброванные изображения карт с привязкой к географическим картам.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093156Z" creationid="Алексей" creationdate="20171028T092240Z">
+        <seg>* {&lt;u11&gt; ghostscript}, если вы хотите создать откалиброванные изображения карт с привязкой к географическим картам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2402,8 +2402,8 @@
       <tuv lang="EN-US">
         <seg>All programs (with the exception of BWidget and tkImg package) are usually included in Linux, Unix or MacOS X distributions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092626Z" creationid="Алексей" creationdate="20171028T092626Z">
-        <seg>Все программы (за исключением пакетов BWidget и tkImg) обычно включаются в дистрибутивы Linux, Unix или MacOS X.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093246Z" creationid="Алексей" creationdate="20171028T092626Z">
+        <seg>Все программы (за исключением пакетов BWidget и tkImg) обычно включа\-ются в дистрибутивы Linux, Unix или MacOS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5021,6 +5021,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185646Z" creationid="Алексей" creationdate="20170909T185646Z">
         <seg>Названия программ отображены прямым шрифтом, а файлы данных выделены курсивом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick start.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092813Z" creationid="Алексей" creationdate="20171028T092813Z">
+        <seg>Быстрый старт.</seg>
       </tuv>
     </tu>
     <tu>
