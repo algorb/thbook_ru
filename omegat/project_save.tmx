@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* edit the |texts_xx.txt| file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123757Z" creationid="Алексей" creationdate="20171028T123741Z">
+        <seg>* отредактируйте файл |texts_xx.txt|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* everything that follows |#|, until the end of line---even inside a command---is considered to be a comment, and is ignored.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220805Z" creationid="Алексей" creationdate="20170909T210818Z">
@@ -632,8 +640,8 @@
       <tuv lang="EN-US">
         <seg>* install the following static/win32 packages (i686-w64-mingw32.static-&lt;u0&gt;42) to the directory |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122934Z" creationid="Алексей" creationdate="20171028T122842Z">
-        <seg>* установите следующие static/win32-пакеты (i686-w64-mingw32.static-&lt;u0&gt;42) в директорию |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123430Z" creationid="Алексей" creationdate="20171028T122842Z">
+        <seg>* установите следующие static/win32-пакеты (i686-w64-mingw32.static-&lt;u0&gt;42) в ди\-ректорию |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc,\break gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib;</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>* modify PATH: {&lt;u1&gt;`&lt;u2&gt;12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123001Z" creationid="Алексей" creationdate="20171028T122941Z">
-        <seg>* измените PATH: {&lt;u1&gt;`&lt;u2&gt;12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123455Z" creationid="Алексей" creationdate="20171028T122941Z">
+        <seg>* измените PATH: {&lt;u1&gt;`&lt;u2&gt;12|export PATH=/usr/lib/mxe/usr/bin:$PATH|}; * |cd therion|; * |make config-win32cross|; * |make|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -667,6 +675,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174613Z" creationid="Алексей" creationdate="20170913T171459Z">
         <seg>* нажать кнопку {&lt;u0&gt; Масштаб} в меню {&lt;u1&gt; Скрап} и щелкнуть два разных места на изображении, где должны быть конечные точки калибровочной стрелки, или * переместить указатель мыши в нужную позицию, прочитать координаты указателя и ввести эти координаты в {&lt;u2&gt; масштабирующие точки для кар\-тинки} в меню {&lt;u3&gt; Скрап}.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* run `|perl process.pl export xx|' in the `thlang' Therion source subdirectory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123702Z" creationid="Алексей" creationdate="20171028T123702Z">
+        <seg>* run `|perl process.pl export xx|' в подкаталоге Therion'а `thlang'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,16 +1274,16 @@
       <tuv lang="EN-US">
         <seg>* |config-linux|, |config-macosx|, |config-win32| = configure Therion for a specific platform.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122600Z" creationid="Алексей" creationdate="20171028T122552Z">
-        <seg>* |config-linux|, |config-macosx|, |config-win32| = настроить Therion для конкретной платформы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123126Z" creationid="Алексей" creationdate="20171028T122552Z">
+        <seg>* |config-linux|, |config-macosx|, |config-win32| = настроить Therion для конкрет\-ной платформы.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |config-release|, |config-oxygen|, |config-ozone| = set optimization level for C++ compiler (none, |-O2| and |-O3|) * |config-debug| = useful before debugging the program * |install| = install Therion * |clean| = delete all temporary files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122750Z" creationid="Алексей" creationdate="20171028T122625Z">
-        <seg>* |config-release|, |config-oxygen|, |config-ozone| = установить уровень оптимизации для компилятора C++ (none, |-O2| или |-O3|). * |config-debug| = полезно перед отладкой программы. * |install| = установить Therion. * |clean| = удалить все временные файлы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123230Z" creationid="Алексей" creationdate="20171028T122625Z">
+        <seg>* |config-release|, |config-oxygen|, |config-ozone| = установить уровень оптимиза\-ции для компилятора C++ (none, |-O2| или |-O3|); * |config-debug| = полезно перед отладкой программы; * |install| = установить Therion; * |clean| = удалить все временные файлы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,6 +2316,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145256Z" creationid="Алексей" creationdate="20170913T145208Z">
         <seg>На самом деле в редакторе карт исполь\-зу\-ются только несколько команд Therion'а: многострочная команда |scrap ... endscrap| может содержать команды |point|, |line| и |area|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add your translations at lines beginning with `|xx:|'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123813Z" creationid="Алексей" creationdate="20171028T123813Z">
+        <seg>Добавьте свои переводы в строки, начинающиеся с `|xx:|'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,8 +4626,8 @@
       <tuv lang="EN-US">
         <seg>Linux is a default.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122614Z" creationid="Алексей" creationdate="20171028T122614Z">
-        <seg>Linux по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123216Z" creationid="Алексей" creationdate="20171028T122614Z">
+        <seg>Linux по умолчанию;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5486,6 +5510,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053523Z" creationid="Алексей" creationdate="20170920T051457Z">
         <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught
 [:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppose you want to add a new language |xx|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123613Z" creationid="Алексей" creationdate="20171028T123613Z">
+        <seg>Предположим, вы хотите добавить новый язык |xx|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion supports translation of map labels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123602Z" creationid="Алексей" creationdate="20171028T123602Z">
+        <seg>Therion поддерживает перевод текстовых меток на картах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion uses following data types:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123355Z" creationid="Алексей" creationdate="20170910T123355Z">
@@ -6488,8 +6528,8 @@
       <tuv lang="EN-US">
         <seg>Therion's {&lt;u0&gt; makefile} may take some optional parameters.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122543Z" creationid="Алексей" creationdate="20171028T122543Z">
-        <seg>Файл Therion'а {&lt;u0&gt; makefile} может принимать некоторые необязательные опции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123108Z" creationid="Алексей" creationdate="20171028T122543Z">
+        <seg>Файл Therion'а {&lt;u0&gt; makefile} может принимать некоторые необязательные опции:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6695,10 +6735,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This creates a file |texts_xx.txt|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123714Z" creationid="Алексей" creationdate="20171028T123714Z">
+        <seg>Это создаст файл |texts_xx.txt|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This defines the position of each element on the page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163904Z" creationid="Алексей" creationdate="20171027T163904Z">
         <seg>Это определяет положение каждого элемента на странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file is UTF-8 encoded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123734Z" creationid="Алексей" creationdate="20171028T123734Z">
+        <seg>Этот файл имеет кодировку UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8048,6 +8104,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024518Z" creationid="Алексей" creationdate="20170920T024506Z">
         <seg>{&lt;u0&gt; Добавление точки линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Adding new translations}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123015Z" creationid="Алексей" creationdate="20171028T123009Z">
+        <seg>{&lt;u0&gt; Добавление новых переводов}</seg>
       </tuv>
     </tu>
     <tu>
