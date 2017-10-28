@@ -174,23 +174,23 @@ Therion автоматически генерирует список используемых символов карты и списки лиц
 
 Макрос |\atlastitlepages| объединяет большинство перечисленных токенов, чтобы получить простой, предварительно отформатированный вывод страницы в виде атласа. 
 
-For legend displaying there are 
+Для отображения легенды есть макросы: 
 
 \list
 
-* |\iflegend| = conditional; true iff |legend| option of the |layout| command was set to |on| or |all| values * |\legendtitle| = token register containing translated legend title * |\insertlegend| = macro for inserting legend symbols pictures with translated descriptions in the specified number of columns (according to |legend-columns| layout option) * |\formattedlegend| = combines all three above commands to get preformatted legend with header and symbols typeset in two\[Default; adjust the |legend-columns| layout option to get them more or less] columns if |legend| option is set |on| \endlist
+* |\iflegend| = условный; true если опция |legend| команды |layout| была установлена ??в |on| или |all|; * |\legendtitle| = регистровый токен, содержащий переведенное название легенды; * |\insertlegend| = макрос для вставки изображений символов легенды с переведенными описаниями в указанное количество столбцов (в соответствии с опцией |legend-columns| макета); * |\formattedlegend| = объединяет все три приведенные выше команды, чтобы получить предварительно отформатированную легенду с заголовком и символами в двух\[Значение по умолчанию; устанавливайте опцию |legend-columns| макета, чтобы указать количество столбцов.] столбцах, если опция |legend| установлена ?в ?|on|. \endlist
 
-North arrow and scale bar may be displayed using 
+Стрелка направления на север и шкала масштаба могут отображаться с использованием: 
 
 \list
 
-* |\ifnortharrow| = conditional; true if map projection is plan and symbol north-arrow is not hidden in |layout| * |\ifscalebar| = conditional; true if scalebar is not hidden * |\northarrow| = PDF form with the north arrow * |\scalebar| = PDF form with the scale bar \endlist
+* |\ifnortharrow| =  условный; true, если проекция карты -- это план, а символ стрелки на север не скрыт в |layout|; * |\ifscalebar| = условный; true, если шкала масштаба не скрыта; * |\northarrow| = PDF-форма со стрелкой на север; * |\scalebar| = PDF-форма со шкалой масштаба. \endlist
 
-There is a general-purpose macro for typesetting in multiple columns\[Not to be used with map legend, where multiple columns are to be adjusted by |legend-columns| layout option]: \list
+Есть макрос общего назначения для набора текста в нескольких столбцах\[Не используйте с легендой карты оформленной в несколько столбцов с помощью опции |legend-columns| макета.]: \list
 
-* |\begmulti <i>|, |\endmulti| = text between these macros is typeset in |<i>| columns \endlist
+* |\begmulti <i>|, |\endmulti| = текст между этими макросами набирается в столбцы |<i>|. \endlist
 
-Example how to create atlas with lists of surveyors etc.\ followed by map pages and with legend at the end: 
+Пример создания атласа со списками съемщиков и т.д.\ за которыми следуют карты и с легендой в конце: 
 
 |code tex-atlas \atlastitlepages
 
@@ -198,9 +198,9 @@ Example how to create atlas with lists of surveyors etc.\ followed by map pages 
 
 \formattedlegend| 
 
-\subchapter Page layout in the map mode. 
+\subchapter Макет страницы в режиме карты. 
 
-In the map mode it's possible to use a lot of predefined variables which are described in the previous chapter: 
+В режиме карты можно использовать множество предопределенных переменных, которые описаны в предыдущей главе: 
 
 {\rightskip0cm plus 5cm |\cavename|, |\comment|, |\copyrights|, |\explotitle|, |\topotitle|, |\cartotitle|, |\exploteam|, |\topoteam|, |\cartoteam|, |\explodate|, |\topodate|, |\cartodate|, |\cavelength|, |\cavedepth|, |\cavelengthtitle|, |\cavedepthtitle|, |\cavemaxz|, |\caveminz|, |\thversion|, |\currentdate|, |\outcscode|, |\outcsname|, |\northdir|, |\magdecl|, |\gridconv|, |\ifnortharrow|, |\ifscalebar|, |\northarrow|, |\scalebar|, |\iflegend|, |\legendtitle|, |\insertlegend|, |\begmulti <i>|, |\endmulti|, |\formattedlegend|, |\legendcolumns|. \par} 
 
