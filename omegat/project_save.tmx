@@ -719,6 +719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* scrap size = $&lt;u0&gt; 2.8 &lt;u1&gt; 2.8$ m in the output scale (&lt;u2&gt;&lt;u3&gt;limit) * page size =</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144538Z" creationid="Алексей" creationdate="20171028T144313Z">
+        <seg>* размер скрапа = $&lt;u0&gt; 2.8 &lt;u1&gt; 2.8$ м в выходном масштабе (ограничение\break&lt;u2&gt;); * размер страницы =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* select area you want to edit * pres `Insert' in the {&lt;u0&gt; Area control} to insert other border lines at current cursor position * pres `Insert ID' to insert border with given ID at current cursor position * pres `Delete' to remove selected area border line</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T033203Z" creationid="Алексей" creationdate="20170920T030148Z">
@@ -1968,6 +1976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |tex-fonts-optional &lt;encoding&gt; &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143406Z" creationid="Алексей" creationdate="20171028T143350Z">
+        <seg>* |tex-fonts-optional &lt;кодировка&gt; &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140202Z" creationid="Алексей" creationdate="20171028T140112Z">
@@ -2829,6 +2845,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185703Z" creationid="Алексей" creationdate="20170909T185703Z">
         <seg>Стрелки показывают поток данных между программами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the test takes some time (pdfTeX instance is run), you might disable the default behaviour completely by setting |tex-fonts| in the INI file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144055Z" creationid="Алексей" creationdate="20171028T143922Z">
+        <seg>Поскольку тест занимает некоторое время (экземпляр pdfTeX запущен), вы можете полностью отключить поведение по умолчанию, установив\break |tex-fonts| в файле INI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4293,8 +4317,8 @@
       <tuv lang="EN-US">
         <seg>If you want to add some unsupported encodings, read the chapter {&lt;u0&gt; Compilation / Hacker's guide}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143344Z" creationid="Алексей" creationdate="20171028T143344Z">
-        <seg>Если вы хотите добавить некоторые неподдерживаемые кодировки, прочитайте главу {&lt;u0&gt; Компиляция / Руководство хакера}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143637Z" creationid="Алексей" creationdate="20171028T143344Z">
+        <seg>Если вы хотите добавить некоторые неподдерживаемые кодировки, прочи\-тайте главу {&lt;u0&gt; Компиляция / Руководство хакера};</seg>
       </tuv>
     </tu>
     <tu>
@@ -4564,6 +4588,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initialization file for XTherion is actually a Tcl script evaluated when XTherion starts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144204Z" creationid="Алексей" creationdate="20171028T144204Z">
+        <seg>Файл инициализации для XTherion на самом деле является сценарием Tcl, обрабатываемыми при запуске XTherion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initialization files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125508Z" creationid="Алексей" creationdate="20171028T125508Z">
@@ -4616,6 +4648,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175849Z" creationid="Алексей" creationdate="20170912T175849Z">
         <seg>Он отображает только позицию, а не фактическую форму, нарисованных точек или линий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does nothing if any of the specified fonts is not present.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143803Z" creationid="Алексей" creationdate="20171028T143803Z">
+        <seg>Ничего не происходит, если какой-либо из указанных шрифтов отсутствует.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4988,6 +5028,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135438Z" creationid="Алексей" creationdate="20170913T135438Z">
         <seg>Начнем с описания типичного использования редактора карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limitations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144236Z" creationid="Алексей" creationdate="20171028T144236Z">
+        <seg>Ограничения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5409,6 +5457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF map or atlas: $&lt;u0&gt; 5 &lt;u1&gt; 5$ m (pdf&lt;u2&gt;&lt;u3&gt;limit)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144612Z" creationid="Алексей" creationdate="20171028T144544Z">
+        <seg>PDF-карта или атлас: $&lt;u0&gt; 5 &lt;u1&gt; 5$ м (ограничение pdf&lt;u2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page layout in the atlas mode.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173510Z" creationid="Алексей" creationdate="20171026T173510Z">
@@ -5605,6 +5661,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T145541Z" creationid="Алексей" creationdate="20171023T145541Z">
         <seg>Экспорт SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SVG map: unlimited * scraps count = approx. 500--6000, depending on frequency of cross-sections</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144804Z" creationid="Алексей" creationdate="20171028T144634Z">
+        <seg>SVG-карта: без ограничений; * количество скрапов = примерно. 500--6000, в зависимости от частоты поперечных сечений</seg>
       </tuv>
     </tu>
     <tu>
@@ -5885,6 +5949,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T005542Z" creationid="Алексей" creationdate="20170919T005542Z">
         <seg>Можно создавать один файл |INDEX.th2| на каталог, который подключает все |*.th2| файлы, описывает maps и объединения скрапов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similar to |tex-fonts|, but tests if the &lt;u0&gt;&lt;u1&gt;fonts are installed in the system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143951Z" creationid="Алексей" creationdate="20171028T143515Z">
+        <seg>Подобно смотрите в |tex-fonts|, но дополнительно проверяется, установлены ли в системе шрифты &lt;u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6283,6 +6355,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file is commented; see the comments for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144229Z" creationid="Алексей" creationdate="20171028T144229Z">
+        <seg>Файл комментирован; смотрите комментарии для подробностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first argument is his/her name, the others describe the roles of the person in the team (optional---currently not used).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164640Z" creationid="Алексей" creationdate="20170912T164640Z">
@@ -6597,8 +6677,8 @@
       <tuv lang="EN-US">
         <seg>The same should be done for the italic and bold faces and corresponding sans-serif and sans-serif-oblique fonts.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143037Z" creationid="Алексей" creationdate="20171028T143037Z">
-        <seg>То же самое должно быть сделано для курсивых и полужирных шрифтов и соответствующих шрифтов без засечек и наклонных без засечек.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143600Z" creationid="Алексей" creationdate="20171028T143037Z">
+        <seg>То же самое должно быть сделано для курсивых и полужирных шрифтов и соответствующих шрифтов без засечек и наклон\-ных без засечек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7516,6 +7596,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T125328Z" creationid="Алексей" creationdate="20171021T125328Z">
         <seg>Этот опция переопределяет опцию |symbol-set|.&lt;u1&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This setting is used by default for Czech/Slovak and cyrillic fonts to avoid &lt;u0&gt;&lt;u1&gt;errors on systems without these fonts present.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144018Z" creationid="Алексей" creationdate="20171028T143842Z">
+        <seg>Этот параметр используется по умолчанию для чешских/словацких и\break кириллических шрифтов, чтобы избежать ошибок &lt;u0&gt;&lt;u1&gt;для систем без этих шрифтов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8494,6 +8582,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114101Z" creationid="Алексей" creationdate="20170910T065206Z">
         <seg>ch00 &lt;u1&gt; ch01 &lt;u2&gt; ch02 &lt;u3&gt; ch03 &lt;u4&gt; ch04 &lt;u5&gt; ch05 &lt;u6&gt; ch06 &lt;u7&gt; ch07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current &lt;u0&gt;&lt;u1&gt;limit: $4 (scraps + sections) &lt; 4096$ (may be arbitrarily increased)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144930Z" creationid="Алексей" creationdate="20171028T144830Z">
+        <seg>текущий предел &lt;u0&gt;: $4 (скрапы + сечения) &lt; 4096$ (может быть произвольно увеличено)</seg>
       </tuv>
     </tu>
     <tu>
