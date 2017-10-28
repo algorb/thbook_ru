@@ -8190,8 +8190,14 @@
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; goto name {#3} #2 (#1)&lt;u7&gt;} }|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043812Z" creationid="Алексей" creationdate="20171028T043812Z">
-        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; goto name {#3} #2 (#1)&lt;u7&gt;} }|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T051255Z" creationid="Алексей" creationdate="20171028T043812Z">
+        <seg>
+|\Del %|
+
+{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{|%| 
+	&lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; %
+		goto name {#3} #2 (#1)&lt;u7&gt;}%
+}|</seg>
       </tuv>
     </tu>
     <tu>
