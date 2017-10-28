@@ -1368,6 +1368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |cs-def &lt;id&gt; &lt;proj4def&gt;|&lt;u0&gt;{5.4}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140248Z" creationid="Алексей" creationdate="20171028T140248Z">
+        <seg>* |cs-def &lt;id&gt; &lt;proj4def&gt;|&lt;u0&gt;{5.4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |date &lt;date&gt;| = survey date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164008Z" creationid="Алексей" creationdate="20170912T163954Z">
@@ -1728,6 +1736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |pdf-fonts &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|&lt;u0&gt;{5.3}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140330Z" creationid="Алексей" creationdate="20171028T140330Z">
+        <seg>* |pdf-fonts &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|&lt;u0&gt;{5.3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |pdftex-path &lt;file-path&gt;|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134558Z" creationid="Алексей" creationdate="20171028T134545Z">
@@ -1920,6 +1936,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |tex-env &lt;on/off&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135458Z" creationid="Алексей" creationdate="20171028T135458Z">
+        <seg>* |tex-env &lt;on/off&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140202Z" creationid="Алексей" creationdate="20171028T140112Z">
+        <seg>* |text &lt;ID языка&gt; &lt;текст Therion'а&gt; &lt;свой текст&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |text| = text of the label, remark or continuation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053723Z" creationid="Алексей" creationdate="20170924T051753Z">
@@ -1932,6 +1964,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161345Z" creationid="Алексей" creationdate="20170911T155932Z">
         <seg>* |title &lt;строка&gt;| = описание объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |tmp-path &lt;directory&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135343Z" creationid="Алексей" creationdate="20171028T135335Z">
+        <seg>* |tmp-path &lt;каталог&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |tmp-remove &lt;OS command&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135440Z" creationid="Алексей" creationdate="20171028T135428Z">
+        <seg>* |tmp-remove &lt;команда ОС&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3149,6 +3197,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
         <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define a new coordinate system |&lt;id&gt;| using Proj4 syntax.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140328Z" creationid="Алексей" creationdate="20171028T140328Z">
+        <seg>Определяет новую систему координат |&lt;id&gt;| используя синтаксис Proj4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5289,6 +5345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Path where temporary directory should be created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135426Z" creationid="Алексей" creationdate="20171028T135416Z">
+        <seg>Путь, где должен быть создан временный каталог;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
@@ -5681,6 +5745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to |on| if you use other &lt;u0&gt;&lt;u1&gt;distribution for maps processing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140027Z" creationid="Алексей" creationdate="20171028T140027Z">
+        <seg>Установите в |on|, если вы используете другой дистрибутив &lt;u0&gt;&lt;u1&gt;для обработки карт;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sets the survey stations equivalence.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172626Z" creationid="Алексей" creationdate="20170912T172626Z">
@@ -5894,6 +5966,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182450Z" creationid="Алексей" creationdate="20170914T182450Z">
         <seg>Surveys |a| -- |d| содержат данные нитки хода от четырех съемок, и каждый из них находится в отдельном файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System command to delete files from the temporary directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135504Z" creationid="Алексей" creationdate="20171028T135449Z">
+        <seg>Системная команда для удаления файлов из временного каталога;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7432,6 +7512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Useful if there is other &lt;u1&gt; distribution installed on your system which had set-up any environment variables, which could confuse &lt;u2&gt;&lt;u3&gt;and &lt;u5&gt;&lt;u4&gt;programs supplied in Therion for Windows distribution.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135915Z" creationid="Алексей" creationdate="20171028T135915Z">
+        <seg>Полезно, если в вашей системе установлен другой дистрибутив &lt;u1&gt;, который настроил переменные среды, которые могут запутать программы &lt;u2&gt;&lt;u3&gt;и &lt;u5&gt;, поставляемые с дистрибутивом Therion для Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User may comfortably select a survey or map for export by double clicking on some of the items in the tree.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114228Z" creationid="Алексей" creationdate="20171022T114228Z">
@@ -7444,6 +7532,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T054220Z" creationid="Алексей" creationdate="20171028T053931Z">
         <seg>Используя другие plain макросы &lt;u0&gt;&lt;u2&gt;или примитивы &lt;u1&gt;, можно добавить другие функции, например другой макет для нечетных и четных страниц, заголовки и колонтитулы или добавить логотип на каждую страницу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this option you can change any default therion text translation in output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140234Z" creationid="Алексей" creationdate="20171028T140109Z">
+        <seg>С помощью этой опции вы можете изменить любой текст перевода по умолчанию на выходе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,6 +8015,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173121Z" creationid="Алексей" creationdate="20171026T171943Z">
         <seg>[93.2mm]{thom.jpg&lt;/i0&gt;} &lt;u1&gt;-3cm {&lt;u2&gt;&lt;u3&gt;15pt&lt;u4&gt;2mm&lt;u5&gt;6.8cm&lt;u6&gt;4.6cm Jesus said, `Let him who seeks continue seeking until he finds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Works on Windows only.] When set to |off| (default), Therion temporarily clears all environment variables related to &lt;u0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135745Z" creationid="Алексей" creationdate="20171028T135543Z">
+        <seg>Работает только в Windows. Когда установлено значение |off| (по умол\-чанию), Therion временно очищает все переменные среды, связанные с &lt;u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
