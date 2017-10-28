@@ -33,7 +33,7 @@
 
 \list
 
-* unpack the source distribution |therion-5.*.tar.gz| * |cd therion| * |make config-macosx| or |make config-win32|, if you use MacOS~X or Windows, respectively * |make| * |sudo make install| \endlist
+* распаковать исходники дистрибутива |therion-5.*.tar.gz|; * |cd therion|; * |make config-macosx| или |make config-win32|, если вы используете MacOS X или Windows, соответственно; * |make|; * |sudo make install|. \endlist
 
 %Installing Tom:
 %
@@ -47,25 +47,25 @@
 %  to the |lib| subdirectory of your 
 %  Tcl/Tk distribution.
 %\endlist
-\subsubchapter Hacker's guide. 
+\subsubchapter Руководство для хакеров. 
 
-{\it Make parameters} 
+{\it Make параметры} 
 
-Therion's {\it makefile} may take some optional parameters. 
-
-\list
-
-* |config-linux|, |config-macosx|, |config-win32| = configure Therion for a specific platform. Linux is a default. * |config-release|, |config-oxygen|, |config-ozone| = set optimization level for C++ compiler (none, |-O2| and |-O3|) * |config-debug| = useful before debugging the program * |install| = install Therion * |clean| = delete all temporary files \endlist
-
-{\it Cross-compilation for Windows}\NEW{5.4} 
-
-Therion supports compilation of Win32 executables in Linux using MXE cross compiler (\www{http://mxe.cc}). 
+Файл Therion'а {\it makefile} может принимать некоторые необязательные опции. 
 
 \list
 
-* install the following static/win32 packages (i686-w64-mingw32.static-\char42) to the directory |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib. * modify PATH: {\catcode`\=12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make| \endlist
+* |config-linux|, |config-macosx|, |config-win32| = настроить Therion для конкретной платформы. Linux по умолчанию. * |config-release|, |config-oxygen|, |config-ozone| = установить уровень оптимизации для компилятора C++ (none, |-O2| или |-O3|). * |config-debug| = полезно перед отладкой программы. * |install| = установить Therion. * |clean| = удалить все временные файлы. \endlist
 
-{\it Adding new translations} 
+{\it Кросс-компиляция для Windows}\NEW{5.4} 
+
+Therion поддерживает компиляцию исполняемых файлов Win32 в Linux с использованием кросс-компилятора MXE (\www{http://mxe.cc}). 
+
+\list
+
+* установите следующие static/win32-пакеты (i686-w64-mingw32.static-\char42) в директорию |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib. * измените PATH: {\catcode`\=12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make| \endlist
+
+{\it Добавление новых переводов} 
 
 Therion supports translation of map labels. Suppose you want to add a new language |xx|. 
 
