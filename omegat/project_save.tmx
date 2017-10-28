@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Empty lines or lines starting with `|#|' are ignored; lines ending with a backslash continue on next line.) Currently supported initialization commands follow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133225Z" creationid="Алексей" creationdate="20171028T133225Z">
+        <seg>(Пустые строки или строки, начинающиеся с `|#|', игнорируются, строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке). В настоящее время поддерживаются команды инициализации:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Guess how to enter the line insertion mode, other than using the shortcut Ctrl-l.) Click where the first point should be, then drag the mouse with pressed left button and release it where the first control point should be.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173103Z" creationid="Алексей" creationdate="20170913T164459Z">
@@ -664,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>* on UNIX: |.|, |$THERION|, |$HOME/.therion|, |/etc|, |/usr/etc|, |/usr/local/etc| * on Windows: |.|, |$THERION|, |$HOME&lt;u0&gt;therion|, |&lt;Therion-installation-directory&gt;|, |C:&lt;u1&gt;INDOWS|, |C:&lt;u2&gt;INNT|, |C:&lt;u3&gt;rogram Files&lt;u4&gt;herion| &lt;u5&gt;ndlist</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132738Z" creationid="Алексей" creationdate="20171028T132709Z">
-        <seg>* в UNIX: |.|, |$THERION|, |$HOME/.therion|, |/etc|, |/usr/etc|, |/usr/local/etc|; * в Windows: |.|, |$THERION|, |$HOME&lt;u0&gt;therion|, |&lt;Therion-installation-directory&gt;|, |C:&lt;u1&gt;INDOWS|, |C:&lt;u2&gt;INNT|, |C:&lt;u3&gt;rogram Files&lt;u4&gt;herion| &lt;u5&gt;ndlist</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133015Z" creationid="Алексей" creationdate="20171028T132709Z">
+        <seg>* в UNIX: |.|, |$THERION|, |$HOME/.therion|, |/etc|, |/usr/etc|, |/usr/local/etc|; * в Windows: |.|, |$THERION|, |$HOME&lt;u0&gt;therion|, |&lt;директория установки|\break |Therion'а&gt;|, |C:&lt;u1&gt;INDOWS|, |C:&lt;u2&gt;INNT|, |C:&lt;u3&gt;rogram Files&lt;u4&gt;herion| &lt;u5&gt;ndlist</seg>
       </tuv>
     </tu>
     <tu>
@@ -1612,6 +1620,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075938Z" creationid="Алексей" creationdate="20171022T075027Z">
         <seg>* |location &lt;on/(off)&gt;| = указать, следует ли экспортировать координаты вхо\-дов пещеры в таблицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |loop-closure &lt;therion/survex&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133242Z" creationid="Алексей" creationdate="20171028T133229Z">
+        <seg>* |loop-closure &lt;therion/survex&gt;|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2825,6 +2841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, survex is used if present, otherwise therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133455Z" creationid="Алексей" creationdate="20171028T133455Z">
+        <seg>По умолчанию используется |survex|, если он установлен, иначе используется |therion|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, true (astronomical) north is used.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035428Z" creationid="Алексей" creationdate="20171022T034311Z">
@@ -3705,6 +3729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no file is found Therion uses its default settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133109Z" creationid="Алексей" creationdate="20171028T133109Z">
+        <seg>Если файл не найден, Therion использует настройки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no file name is given the prefix ``|cave.|'' is used with an extension corresponding to output format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072309Z" creationid="Алексей" creationdate="20171022T071612Z">
@@ -4088,6 +4120,14 @@
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155738Z" creationid="Алексей" creationdate="20170911T155738Z">
         <seg>Если вы хотите явно указать склонение для данных без даты, используйте `|-|' вместо даты.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to list them, use |--print-init-file| option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133136Z" creationid="Алексей" creationdate="20171028T133136Z">
+        <seg>Если вы хотите их вывести, используйте опцию |--print-init-file|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6003,6 +6043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The initialization file is read like any other therion file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133146Z" creationid="Алексей" creationdate="20171028T133146Z">
+        <seg>Файл инициализации читается как любой другой файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The input files for Therion are in text format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204249Z" creationid="Алексей" creationdate="20170909T204249Z">
@@ -6688,8 +6736,8 @@
       <tuv lang="EN-US">
         <seg>Therion's and XTherion's system dependent settings are specified in the file therion.ini or xtherion.ini, respectively.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132620Z" creationid="Алексей" creationdate="20171028T132620Z">
-        <seg>Системно-зависимые параметры Therion и XTherion указаны в файле therion.ini или xtherion.ini, соответственно.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132829Z" creationid="Алексей" creationdate="20171028T132620Z">
+        <seg>Системно-зависимые параметры Therion'а и XTherion'а указаны в файле\break therion.ini или xtherion.ini, соответственно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6698,6 +6746,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123108Z" creationid="Алексей" creationdate="20171028T122543Z">
         <seg>Файл Therion'а {&lt;u0&gt; makefile} может принимать некоторые необязательные опции:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133042Z" creationid="Алексей" creationdate="20171028T133042Z">
+        <seg>Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,8 +6840,8 @@
       <tuv lang="EN-US">
         <seg>They are searched for in the following directories:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132645Z" creationid="Алексей" creationdate="20171028T132645Z">
-        <seg>Они ищутся в следующих каталогах:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132846Z" creationid="Алексей" creationdate="20171028T132645Z">
+        <seg>Они ищутся в следующих ката\-логах:</seg>
       </tuv>
     </tu>
     <tu>
