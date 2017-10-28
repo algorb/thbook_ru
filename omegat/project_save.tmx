@@ -1009,8 +1009,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;| = translated titles * |&lt;u3&gt;|, |&lt;u4&gt;|, |&lt;u5&gt;| = participating members (according to |team|, |explo-team| options for |centreline| and |author| option of scraps) * |&lt;u6&gt;|, |&lt;u7&gt;|, |&lt;u8&gt;| = corresponding dates * |&lt;u9&gt;| = is set according to |map-comment| option of the |layout| command * |&lt;u10&gt;| = is set according to copyright options for surveys and other objects * |&lt;u11&gt;| = name of the exported map; set according to |-title| option of exported map * |&lt;u12&gt;|, |&lt;u14&gt;| = approximate length and depth of displayed map * |&lt;u13&gt;title|, |&lt;u15&gt;title| = translated labels * &lt;u16&gt;{5.4}|&lt;u23&gt;|, |&lt;u24&gt;| = altitude max/min value * &lt;u17&gt;{5.4}|&lt;u25&gt;| = current therion version * &lt;u18&gt;{5.4}|&lt;u26&gt;| = current date * &lt;u19&gt;{5.4}|&lt;u27&gt;|, |&lt;u28&gt;| = output coordinat system code and name * &lt;u20&gt;{5.4}|&lt;u29&gt;| = `true' or `grid' * &lt;u21&gt;{5.4}|&lt;u30&gt;| = magnetic declination in degrees * &lt;u22&gt;{5.4}|&lt;u31&gt;| = grid meridian convergence in degrees</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T074707Z" creationid="Алексей" creationdate="20171028T073757Z">
-        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;| = перевод названий. * |&lt;u3&gt;|, |&lt;u4&gt;|, |&lt;u5&gt;| = участники (в соответствии с опциями |team|, |explo-team| команды |centreline| и опции |author| для скрапов). * |&lt;u6&gt;|, |&lt;u7&gt;|, |&lt;u8&gt;| = соответствующие даты. * |&lt;u9&gt;| = задано в соответствии с опцией |map-comment| команды |layout|. * |&lt;u10&gt;| = устанавливается в соответствии с вариантами авторского права для съемок и других объектов. * |&lt;u11&gt;| = имя экспортируемой карты, устанавливается в соответствии с опцией |-title| экспортируемой карты. * |&lt;u12&gt;|, |&lt;u14&gt;| = приблизительная длина и глубина отображаемой карты. * |&lt;u13&gt;title|, |&lt;u15&gt;title| = переведенные метки. * &lt;u16&gt;{5.4}|&lt;u23&gt;|, |&lt;u24&gt;| = значение высоты max/min. * &lt;u17&gt;{5.4}|&lt;u25&gt;| = текущая версия Therion'а. * &lt;u18&gt;{5.4}|&lt;u26&gt;| = текущая дата. * &lt;u19&gt;{5.4}|&lt;u27&gt;|, |&lt;u28&gt;| = вывести код и наименование координатной системы. * &lt;u20&gt;{5.4}|&lt;u29&gt;| = `true' или `grid'. * &lt;u21&gt;{5.4}|&lt;u30&gt;| = магнитное склонение в градусах. * &lt;u22&gt;{5.4}|&lt;u31&gt;| = конвергенция сетки меридиана в градусах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T075221Z" creationid="Алексей" creationdate="20171028T073757Z">
+        <seg>* |&lt;u0&gt;|, |&lt;u1&gt;|, |&lt;u2&gt;| = перевод названий; * |&lt;u3&gt;|, |&lt;u4&gt;|, |&lt;u5&gt;| = участники (в соответствии с опциями |team|, |explo-team| команды |centreline| и опции |author| для скрапов); * |&lt;u6&gt;|, |&lt;u7&gt;|, |&lt;u8&gt;| = соответствующие даты; * |&lt;u9&gt;| = задано в соответствии с опцией |map-comment| команды |layout|; * |&lt;u10&gt;| = устанавливается в соответствии с вариантами авторского права для съемок и других объектов; * |&lt;u11&gt;| = имя экспортируемой карты, устанавливается в соответствии с опцией |-title| экспортируемой карты; * |&lt;u12&gt;|, |&lt;u14&gt;| = приблизительная длина и глубина отображаемой карты; * |&lt;u13&gt;title|, |&lt;u15&gt;title| = переведенные метки; * &lt;u16&gt;{5.4}|&lt;u23&gt;|, |&lt;u24&gt;| = значение высоты max/min; * &lt;u17&gt;{5.4}|&lt;u25&gt;| = текущая версия Therion'а; * &lt;u18&gt;{5.4}|&lt;u26&gt;| = текущая дата; * &lt;u19&gt;{5.4}|&lt;u27&gt;|, |&lt;u28&gt;| = вывести код и наименование системы координат; * &lt;u20&gt;{5.4}|&lt;u29&gt;| = `true' или `grid'; * &lt;u21&gt;{5.4}|&lt;u30&gt;| = магнитное склонение в градусах; * &lt;u22&gt;{5.4}|&lt;u31&gt;| = конвергенция сетки меридиана в градусах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,6 +5978,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T131010Z" creationid="Алексей" creationdate="20171021T130240Z">
         <seg>Есть два специальных символа: north-arrow (стрелка на север), scale-bar (шкала масштаба).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a macro |&lt;u0&gt;| which combines most of the token registers mentioned above to get simple preformatted atlas introductory pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T074827Z" creationid="Алексей" creationdate="20171028T074827Z">
+        <seg>Макрос |&lt;u0&gt;| объединяет большинство перечисленных токенов, чтобы получить простой, предварительно отформатированный вывод страницы в виде атласа.</seg>
       </tuv>
     </tu>
     <tu>
