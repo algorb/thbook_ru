@@ -623,6 +623,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* colour schemes * survey tree for selecting sub-surveys to display * spatial filtering (e.g. clipping by planes) * support for multiple surfaces</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153930Z" creationid="Алексей" creationdate="20171028T153930Z">
+        <seg>* цветовые схемы; * дерево съемок для выбора подсекций для отображения; * пространственная фильтрация (например, отсечение плоскостями); * поддержка нескольких поверхностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* complete the predefined symbol sets * generate registers for atlas * use MPlib instead of</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153801Z" creationid="Алексей" creationdate="20171028T153801Z">
+        <seg>* завершить предопределенные наборы символов; * генерировать регистры для атласа; * использовать MPlib вместо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* completely new GUI in the far future (see &lt;u0&gt;{https://labyrinth.speleo.sk})</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T154024Z" creationid="Алексей" creationdate="20171028T153953Z">
+        <seg>* полностью новый графический интерфейс в далеком будущем (смотрите &lt;u0&gt;{https://labyrinth.speleo.sk})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220757Z" creationid="Алексей" creationdate="20170909T210736Z">
@@ -659,6 +683,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220752Z" creationid="Алексей" creationdate="20170909T210448Z">
         <seg>* Если значение параметра или аргумента содержит пробелы, вы должны заключить это значение в &lt;i0&gt;|" "|&lt;/i0&gt; или &lt;i1&gt;|[ ]|&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* improve 2D editing capabilities</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153827Z" creationid="Алексей" creationdate="20171028T153827Z">
+        <seg>* улучшить возможности 2D-редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* improve passage walls modeling</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153815Z" creationid="Алексей" creationdate="20171028T153815Z">
+        <seg>* улучшить моделирование ходов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,6 +5277,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174646Z" creationid="Алексей" creationdate="20171026T174646Z">
         <seg>Knuth, D. E.: {&lt;u0&gt; The &lt;u1&gt; book}, Reading, Massachusetts, Addison-Wesley $^1$1984</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Labyrinth.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153941Z" creationid="Алексей" creationdate="20171028T153941Z">
+        <seg>Лабиринт.</seg>
       </tuv>
     </tu>
     <tu>
