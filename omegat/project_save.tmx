@@ -6,6 +6,15 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg># scraps are usually in separate *.th2 files scrap s1 -author 2004 "Therion team"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150423Z" creationid="Алексей" creationdate="20171028T150219Z">
+        <seg>	# скрапы обычно находятся в отдельных *.th2 файлах
+	scrap s1 -author 2004 "Команда Therion'а"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#1.#2 {&lt;u5&gt;(#1*1000000+#2*1000)} &lt;u1&gt;&lt;u7&gt;#1.#2.#3 {&lt;u6&gt;(#1*1000000+#2*1000+#3)} &lt;u2&gt;&lt;u9&gt;#1{&lt;u10&gt;&lt;u11&gt;{[0-9]+[.][0-9]+[.][0-9]+}{#1}=1 &lt;u8&gt;#1 &lt;u12&gt; &lt;u4&gt;#1 &lt;u13&gt;}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114008Z" creationid="Алексей" creationdate="20170910T063904Z">
@@ -3433,6 +3442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145316Z" creationid="Алексей" creationdate="20171028T145316Z">
+        <seg>Примеры данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example how to create atlas with lists of surveyors etc.&lt;u0&gt;followed by map pages and with legend at the end:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085802Z" creationid="Алексей" creationdate="20171028T085802Z">
@@ -3549,6 +3566,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131646Z" creationid="Алексей" creationdate="20170910T131646Z">
         <seg>Поддерживаются следующие системы координат:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following simple example illustrates basic usage of Therion commands:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145536Z" creationid="Алексей" creationdate="20171028T145326Z">
+        <seg>Следующий простой пример иллюстрирует базовое использование команд Therion'а:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5667,8 +5692,8 @@
       <tuv lang="EN-US">
         <seg>SVG map: unlimited * scraps count = approx. 500--6000, depending on frequency of cross-sections</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144804Z" creationid="Алексей" creationdate="20171028T144634Z">
-        <seg>SVG-карта: без ограничений; * количество скрапов = примерно. 500--6000, в зависимости от частоты поперечных сечений</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145144Z" creationid="Алексей" creationdate="20171028T144634Z">
+        <seg>SVG-карта: без ограничений; * количество скрапов = примерно 500--6000, в зависимости от частоты попе\-речных сечений</seg>
       </tuv>
     </tu>
     <tu>
@@ -8578,6 +8603,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>centreline equate 2@first 1@second endcentreline</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150215Z" creationid="Алексей" creationdate="20171028T150150Z">
+        <seg>	centreline
+		equate 2@first 1@second
+	endcentreline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ch00 &lt;u1&gt; ch01 &lt;u2&gt; ch02 &lt;u3&gt; ch03 &lt;u4&gt; ch04 &lt;u5&gt; ch05 &lt;u6&gt; ch06 &lt;u7&gt; ch07</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114101Z" creationid="Алексей" creationdate="20170910T065206Z">
@@ -8588,8 +8623,8 @@
       <tuv lang="EN-US">
         <seg>current &lt;u0&gt;&lt;u1&gt;limit: $4 (scraps + sections) &lt; 4096$ (may be arbitrarily increased)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T144930Z" creationid="Алексей" creationdate="20171028T144830Z">
-        <seg>текущий предел &lt;u0&gt;: $4 (скрапы + сечения) &lt; 4096$ (может быть произвольно увеличено)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145207Z" creationid="Алексей" creationdate="20171028T144830Z">
+        <seg>текущий предел &lt;u0&gt;: $4 (скрапы + сечения) &lt; 4096$ (может быть про\-извольно увеличено)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8698,6 +8733,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pdf&lt;u0&gt;&lt;u1&gt;limit: $2&lt;u2&gt; pages + images + patterns + 6 (scraps + sections) &lt; 32500$</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145237Z" creationid="Алексей" creationdate="20171028T144934Z">
+        <seg>предел pdf&lt;u0&gt;: $2&lt;u2&gt; страницы + изображения + шаблоны + 6 (скрапы + сечения)\break &lt; 32500$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>point 763 746 station -name 2@second point 702 430 station -name 2@first point 352 469 station -name 1@first point 675 585 air-draught -orientation 240 -scale large</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150457Z" creationid="Алексей" creationdate="20171028T150426Z">
+        <seg>		point 763 746 station -name 2@second
+		point 702 430 station -name 2@first
+		point 352 469 station -name 1@first
+		point 675 585 air-draught -orientation 240 -scale large</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>scrap</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031412Z" creationid="Алексей" creationdate="20170923T023547Z">
@@ -8726,6 +8780,42 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080349Z" creationid="Алексей" creationdate="20171022T080342Z">
         <seg>sql, &lt;u0&gt;{5.4}csv&lt;u1&gt; lists (списки)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>survey first centreline units compass grad data normal from to compass clino length 1 2 100 -5 10 endcentreline endsurvey</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145851Z" creationid="Алексей" creationdate="20171028T145410Z">
+        <seg>	survey first
+		centreline
+			units compass grad
+			data normal from to compass clino length
+							1	  2  100	   -5	 10
+		endcentreline
+	endsurvey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>survey main -title "Test cave"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145404Z" creationid="Алексей" creationdate="20171028T145342Z">
+        <seg>survey main -title "Тестовая пещера"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>survey second -declination [3 deg] centreline calibrate length 0 0.96 data normal from to compass length clino 1 2 0 10 +10 endcentreline endsurvey</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150128Z" creationid="Алексей" creationdate="20171028T145923Z">
+        <seg>	survey second -declination [3 deg]
+		centreline
+			calibrate length 0 0.96
+			data normal from to compass length clino
+							1	  2  0		  10	  +10
+		endcentreline
+	endsurvey</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,6 +10243,14 @@ survey ... -title "..."
 			... ... ... ... ...
 	endcentreline
 endsurvey|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|encoding utf-8</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145331Z" creationid="Алексей" creationdate="20171028T145331Z">
+        <seg>|encoding utf-8</seg>
       </tuv>
     </tu>
     <tu>
