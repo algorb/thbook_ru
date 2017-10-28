@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 OCT 2017 12:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 OCT 2017 12:30
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -694,7 +694,7 @@ Underfull \hbox (badness 3547) in paragraph at lines 216--216
 [56] [57] [58] [59] [60] [MP to PDF] (mp/page.1) [61] [62 <./pic/page.pdf>]
 [63] [64] [65]) (ch04.tex [66] [67] [68 <./pic/database.pdf>] [69] [70])
 (ch05.tex [71] [72 <./pic/thom.jpg>] [73] [74]
-Overfull \hbox (122.10754pt too wide) in paragraph at lines 163--163
+Overfull \hbox (122.10754pt too wide) in paragraph at lines 164--164
 []\tt \line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \if-pa-genum-be
 r-ing\space(\the\pagenum)\fi|
 
@@ -707,7 +707,7 @@ r-ing\space(\the\pagenum)\fi|
 .etc.
 
 
-Overfull \hbox (5.94765pt too wide) in paragraph at lines 163--163
+Overfull \hbox (5.94765pt too wide) in paragraph at lines 164--164
 []\tt \hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \hb
 ox|
 
@@ -720,7 +720,7 @@ ox|
 .etc.
 
 
-Overfull \hbox (101.69553pt too wide) in paragraph at lines 163--163
+Overfull \hbox (101.69553pt too wide) in paragraph at lines 164--164
 \tt to 0pt{\llap{\showpointer\pointerW\hskip0.7em} \raise1pt\hbox to 0pt{\hss$\
 updownarrow$\hss}|
 
@@ -733,7 +733,7 @@ updownarrow$\hss}|
 .etc.
 
 
-Overfull \hbox (65.47955pt too wide) in paragraph at lines 163--163
+Overfull \hbox (65.47955pt too wide) in paragraph at lines 164--164
 \tt \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss} \rlap{\hskip0.7em\showpoin
 ter\pointerE}}|
 
@@ -746,7 +746,7 @@ ter\pointerE}}|
 .etc.
 
 
-Overfull \hbox (59.27557pt too wide) in paragraph at lines 163--163
+Overfull \hbox (59.27557pt too wide) in paragraph at lines 164--164
 \tt \hbox to 0pt{\hss\showpointer\pointerS\hss} }\qquad\qquad \vtop{ \def\arr{$
 \uparrow$}|
 
@@ -759,7 +759,7 @@ Overfull \hbox (59.27557pt too wide) in paragraph at lines 163--163
 .etc.
 
 [75]
-Overfull \hbox (0.63643pt too wide) in paragraph at lines 173--173
+Overfull \hbox (0.63643pt too wide) in paragraph at lines 174--174
  [][][]\tt \exploteam[], []\topoteam[], []\car-toteam[] $\mit .$ \tt par-tic-i-
 pat-ing mem-bers (ac-cord-ing to []team[],|
 
@@ -777,7 +777,7 @@ pat-ing mem-bers (ac-cord-ing to []team[],|
 .etc.
 
 [76] [77] [78] [79] [80]
-Overfull \hbox (5.99564pt too wide) in paragraph at lines 313--313
+Overfull \hbox (5.99564pt too wide) in paragraph at lines 314--314
  \tt avail-able on-line at [][]https://www.tug.org/TUGboat/Articles/tb19-3/tb60
 bolek.pdf[][] |
 
@@ -856,7 +856,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (93 pages, 770851 bytes).
+Output written on thbook.pdf (93 pages, 770896 bytes).
 PDF statistics:
  568 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
