@@ -4749,6 +4749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to place them somewhere on the map page, you have to define |&lt;u0&gt;| macro in the |code tex-map| section of the |layout| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184608Z" creationid="Алексей" creationdate="20171028T184608Z">
+        <seg>Чтобы разместить их где-нибудь на странице карты, вам нужно определить макрос |&lt;u0&gt;| в разделе |code tex-map| команды |layout|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In such a case we create one special file called |INDEX.th| which includes all other |*.th| files from given directory and contains |equate| commands to define connections between surveys.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183514Z" creationid="Алексей" creationdate="20170914T181431Z">
@@ -5109,6 +5117,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051128Z" creationid="Алексей" creationdate="20170920T051128Z">
         <seg>Он должен использоваться для замеров, которые не были сняты должным образом и нуждаются в пересъемке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should contain one or more |&lt;u1&gt;| invocations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184630Z" creationid="Алексей" creationdate="20171028T184630Z">
+        <seg>Он должен содержать один или несколько |&lt;u1&gt;| вызовов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7234,6 +7250,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155200Z" creationid="Алексей" creationdate="20170911T155155Z">
         <seg>The |&lt;specification&gt;| имеет три формы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The |&lt;u2&gt;| macro has four parameters: coordinates ranging 0--100, alignment specification (N, E, S, W, NE, SE, SW, NW or C) and the content to be displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184722Z" creationid="Алексей" creationdate="20171028T184722Z">
+        <seg>Макрос |&lt;u2&gt;| имеет четыре параметра: координаты в диапазоне 0--100, спецификация выравнивания (N, E, S, W, NE, SE, SW, NW или C) и отображаемый контент.</seg>
       </tuv>
     </tu>
     <tu>
