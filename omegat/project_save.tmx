@@ -3162,6 +3162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corresponding configuration file could be:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150726Z" creationid="Алексей" creationdate="20171028T150726Z">
+        <seg>Соответствующий конфигурационный файл может быть:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Created PDF files may be optionally post-processed in applications like pdf&lt;u0&gt;&lt;u1&gt;or Adobe Acrobat---it's possible to extract or change some pages, add comments or encryption, etc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173224Z" creationid="Алексей" creationdate="20171024T173109Z">
@@ -3238,6 +3246,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210947Z" creationid="Алексей" creationdate="20170909T210947Z">
         <seg>Типы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dec 27: Therion compiles simple map in PostScript format for the first time (32 kB of Perl and 7 kB of &lt;u0&gt;&lt;u1&gt;and &lt;u3&gt;&lt;u2&gt;source code).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151225Z" creationid="Алексей" creationdate="20171028T151225Z">
+        <seg>27 декабря: Therion впервые компилирует простую карту в формате PostScript (32 Кбайт Perl и 7 Кбайт &lt;u0&gt;&lt;u1&gt;и &lt;u3&gt;&lt;u2&gt;исходного кода).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>History.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150915Z" creationid="Алексей" creationdate="20171028T150915Z">
+        <seg>История изменений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How does it work?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181938Z" creationid="Алексей" creationdate="20170909T181938Z">
@@ -4328,6 +4352,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174216Z" creationid="Алексей" creationdate="20170913T170926Z">
         <seg>Если вы нарисуете несколько скрапов с |none| проекцией, необходимо {&lt;u0&gt; отка\-либ\-ро\-вать} область рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you save data file as `test.th' and configuration file as `thconfig' you may process them with Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150948Z" creationid="Алексей" creationdate="20171028T150907Z">
+        <seg>Если вы сохраните файл данных как `test.th' и конфигурационный файл как `thconfig', вы можете обработать их с помощью Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5353,6 +5385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nov: start of programming (Perl scripts and &lt;u0&gt;&lt;u1&gt;macros)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151130Z" creationid="Алексей" creationdate="20171028T151107Z">
+        <seg>Ноябрь: начало программирования (скрипты Perl и макросы &lt;u0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now it's possible to insert some {&lt;u0&gt; point symbols}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150233Z" creationid="Алексей" creationdate="20170913T150233Z">
@@ -5389,6 +5429,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153903Z" creationid="Алексей" creationdate="20170911T153903Z">
         <seg>Объекты (например станции или скрапы, см. ниже), которые относятся к subsurvey текущего survey, записываются как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oct: first concrete ideas</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151111Z" creationid="Алексей" creationdate="20171028T151013Z">
+        <seg>Октябрь: первые конкретные идеи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,6 +6608,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141834Z" creationid="Алексей" creationdate="20171028T141453Z">
         <seg>Список поддерживаемых в настоящее время кодировок выводится опцией |--print-tex-encodings| в командной\break строке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The map warping model was substantially different from the current one (positions of features were relative to a particular survey shot, not to positions of all stations in a scrap).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151300Z" creationid="Алексей" creationdate="20171028T151300Z">
+        <seg>Модель деформации карты существенно отличалась от текущей (позиции характеристик были относительно конкретного съемного замера, а не позиции всех станций в скрапе).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8629,6 +8685,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>endscrap</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150551Z" creationid="Алексей" creationdate="20171028T150547Z">
+        <seg>	endscrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>endsurvey|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150623Z" creationid="Алексей" creationdate="20171028T150623Z">
+        <seg>endsurvey|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>epsf &lt;u4&gt;&lt;u5&gt;#1{} &lt;u6&gt;&lt;u7&gt;#1 #2 #3 #4 #5 #6 #7&lt;u8&gt;{#7} &lt;u9&gt;&lt;u15&gt;&lt;u16&gt; &lt;u10&gt;&lt;u22&gt;&lt;u17&gt; &lt;u11&gt;&lt;u23&gt;&lt;u18&gt; &lt;u12&gt;&lt;u24&gt;&lt;u19&gt; &lt;u13&gt;&lt;u25&gt;&lt;u20&gt; &lt;u14&gt;&lt;u26&gt;&lt;u21&gt; &lt;u27&gt; &lt;u30&gt;&lt;u32&gt;&lt;110 &lt;u34&gt;{Warning: PdfTeX too ancient to process samples} &lt;u28&gt;&lt;u31&gt;&lt;u33&gt;&lt;130 &lt;u35&gt; 5</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112730Z" creationid="Алексей" creationdate="20170910T052534Z">
@@ -8641,6 +8713,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112741Z" creationid="Алексей" creationdate="20170910T052942Z">
         <seg>etc/supp-mis &lt;u1&gt; etc/supp-pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>export model -fmt survex export map -layout l1|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150822Z" creationid="Алексей" creationdate="20171028T150811Z">
+        <seg>export model -fmt survex
+export map -layout l1|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8677,6 +8758,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>layout l1 scale 1 100 layers off endlayout</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150801Z" creationid="Алексей" creationdate="20171028T150746Z">
+        <seg>layout l1
+	scale 1 100
+	layers off
+endlayout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>line wall -close on 287 475 281 354 687 331 755 367 981 486 846 879 683 739 476 561 293 611 287 475 endline</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150543Z" creationid="Алексей" creationdate="20171028T150501Z">
+        <seg>		line wall -close on
+			287 475
+			281 354 687 331 755 367
+			981 486 846 879 683 739
+			476 561 293 611 287 475
+		endline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>loch, dxf, esri, compass, survex, vrml, 3dmf, kml&lt;u0&gt; map</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080305Z" creationid="Алексей" creationdate="20171022T080252Z">
@@ -8689,6 +8794,16 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175215Z" creationid="Алексей" creationdate="20171026T175215Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>map m1 -title "Test map" s1 endmap</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150620Z" creationid="Алексей" creationdate="20171028T150554Z">
+        <seg>	map m1 -title "Тестовая карта"
+		s1
+	endmap</seg>
       </tuv>
     </tu>
     <tu>
@@ -8756,6 +8871,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031412Z" creationid="Алексей" creationdate="20170923T023547Z">
         <seg>scrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>select m1@main</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150806Z" creationid="Алексей" creationdate="20171028T150806Z">
+        <seg>select m1@main</seg>
       </tuv>
     </tu>
     <tu>
@@ -9675,6 +9798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u1&gt;16pt&lt;u2&gt;1} * {&lt;u3&gt; 1999}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151005Z" creationid="Алексей" creationdate="20171028T151005Z">
+        <seg>{&lt;u1&gt;16pt&lt;u2&gt;1} * {&lt;u3&gt; 1999}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u1&gt;&lt;u6&gt;{&lt;u8&gt;0&lt;u12&gt;} &lt;u14&gt;0=&lt;u13&gt; &lt;u18&gt;0=&lt;u20&gt; &lt;u22&gt;0=&lt;u21&gt; &lt;u15&gt;1=&lt;u24&gt; &lt;u2&gt;&lt;u27&gt;{&lt;u9&gt;&lt;u28&gt;fam&lt;u25&gt;} &lt;u16&gt;&lt;u29&gt;fam=&lt;u26&gt; &lt;u3&gt;&lt;u30&gt;{&lt;u10&gt;&lt;u31&gt;fam&lt;u35&gt;} &lt;u17&gt;&lt;u32&gt;fam=&lt;u36&gt; &lt;u19&gt;&lt;u33&gt;fam=&lt;u37&gt; &lt;u23&gt;&lt;u34&gt;fam=&lt;u38&gt; &lt;u4&gt;&lt;u39&gt;{&lt;u11&gt;&lt;u40&gt;fam&lt;u41&gt;} &lt;u42&gt;=12pt &lt;u43&gt;&lt;u44&gt;=&lt;i0&gt;&lt;u45&gt; height9.5pt depth4.5pt width0pt&lt;/i0&gt; &lt;u46&gt;&lt;u7&gt;}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114040Z" creationid="Алексей" creationdate="20170910T064318Z">
@@ -10251,6 +10382,15 @@ endsurvey|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145331Z" creationid="Алексей" creationdate="20171028T145331Z">
         <seg>|encoding utf-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|encoding utf-8 source test</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150744Z" creationid="Алексей" creationdate="20171028T150729Z">
+        <seg>|encoding utf-8
+source test</seg>
       </tuv>
     </tu>
     <tu>
