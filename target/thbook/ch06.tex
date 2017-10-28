@@ -227,11 +227,11 @@ Therion считывает следующие переменные среды:
 
 * |tex-fonts-optional <кодировка> <rm> <it> <bf> <ss> <si>| 
 
-Подобно смотрите в |tex-fonts|, но дополнительно проверяет, установлены ли в системе шрифты \TeX. It does nothing if any of the specified fonts is not present. 
+Подобно смотрите в |tex-fonts|, но дополнительно проверяет, установлены ли в системе шрифты \TeX. Ничего не происходит, если какой-либо из указанных шрифтов отсутствует. 
 
-This setting is used by default for Czech/Slovak and cyrillic fonts to avoid \MP\ errors on systems without these fonts present. 
+Этот параметр используется по умолчанию для чешских/словацких и кириллических шрифтов, чтобы избежать ошибок \MP\ для систем без этих шрифтов. 
 
-As the test takes some time (pdfTeX instance is run), you might disable the default behaviour completely by setting |tex-fonts| in the INI file. 
+Поскольку тест занимает некоторое время (экземпляр pdfTeX запущен), вы можете полностью отключить поведение по умолчанию, установив |tex-fonts| в файле INI. 
 
 \endlist
 
