@@ -281,8 +281,10 @@
       <tuv lang="EN-US">
         <seg>(The |&lt;u1&gt;| is also used in the default map layout definition: |&lt;u3&gt;&lt;u4&gt;{&lt;u5&gt;{0}{100}{NW}{&lt;u6&gt;&lt;u2&gt;}}|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185117Z" creationid="Алексей" creationdate="20171028T185053Z">
-        <seg>(|&lt;u1&gt;| также используется в определении макета карты по умолчанию: |&lt;u3&gt;&lt;u4&gt;{&lt;u5&gt;{0}{100}{NW}{&lt;u6&gt;&lt;u2&gt;}}|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191726Z" creationid="Алексей" creationdate="20171028T185053Z">
+        <seg>(|&lt;u1&gt;| также\break используется в определении макета карты по умолчанию:
+
+|&lt;u3&gt;&lt;u4&gt;{&lt;u5&gt;{0}{100}{NW}{&lt;u6&gt;&lt;u2&gt;}}|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -753,8 +755,8 @@
       <tuv lang="EN-US">
         <seg>* one of the letters `p', `l', `a', `s' for point, line, area or special symbols, respectively; * underscore character; * symbol type as listed in the chapter {&lt;u1&gt; Data format&lt;u2&gt;} with all dashes removed; * if the symbol has a subtype, add underscore character and subtype; * underscore character; * symbol set identifier in uppercase</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190420Z" creationid="Алексей" creationdate="20171028T190420Z">
-        <seg>* одна из букв `p',`l', `a',`s' для точки, линии, области или специальных символов, соответственно; * символ подчеркивания; * тип символа, указанный в главе {&lt;u1&gt; Формат данных&lt;u2&gt;} с удалением всех тире; * если символ имеет подтип, добавьте символ подчеркивания и подтип; * символ подчеркивания; * идентификатор набора символов в верхнем регистре.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192452Z" creationid="Алексей" creationdate="20171028T190420Z">
+        <seg>* одна из букв `p', `l', `a', `s' для точки, линии, области или специальных символов, соответственно; * символ подчеркивания; * тип символа, указанный в главе {&lt;u1&gt; Формат данных&lt;u2&gt;} с удалением всех тире; * если символ имеет подтип, добавьте символ подчеркивания и подтип; * символ подчеркивания; * идентификатор набора символов в верхнем регистре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3836,8 +3838,8 @@
       <tuv lang="EN-US">
         <seg>Following token registers may be used (according to user's requirements before or after the |&lt;u0&gt;| macro):</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T073754Z" creationid="Алексей" creationdate="20171028T073754Z">
-        <seg>Следующие регистровые токены могут использоваться (в соответствии с необходимостью до или после макроса |&lt;u0&gt;|):</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191053Z" creationid="Алексей" creationdate="20171028T073754Z">
+        <seg>Следующие символьные регистры могут использоваться (в соответствии с необходимостью до или после макроса |&lt;u0&gt;|):</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,8 +3894,8 @@
       <tuv lang="EN-US">
         <seg>For drawing and filling use |thdraw| and |thfill| commands instead of &lt;u4&gt;'s |draw| and |fill|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190914Z" creationid="Алексей" creationdate="20171028T190914Z">
-        <seg>Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо &lt;u4&gt;'s |draw| и |fill|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192811Z" creationid="Алексей" creationdate="20171028T190914Z">
+        <seg>Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо команд &lt;u4&gt;\  |draw| и |fill|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,8 +4054,8 @@
       <tuv lang="EN-US">
         <seg>For user's convenience, there is |&lt;u0&gt;| token register.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184818Z" creationid="Алексей" creationdate="20171028T184818Z">
-        <seg>Для удобства пользователя существует регистровый токен |&lt;u0&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191233Z" creationid="Алексей" creationdate="20171028T184818Z">
+        <seg>Для удобства пользователя существует символьный регистр |&lt;u0&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4156,8 +4158,8 @@
       <tuv lang="EN-US">
         <seg>Hobby, J. D.: {&lt;u0&gt; A User's Manual for MetaPost}, available at &lt;u1&gt;&lt;u2&gt; &lt;u3&gt;{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185955Z" creationid="Алексей" creationdate="20171028T185912Z">
-        <seg>Hobby, J. D.: {&lt;u0&gt; A User's Manual for MetaPost}, доступно в &lt;u1&gt;&lt;u2&gt; &lt;u3&gt;{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192247Z" creationid="Алексей" creationdate="20171028T185912Z">
+        <seg>Hobby, J. D.: {&lt;u0&gt; A User's Manual for MetaPost}, доступно здесь: &lt;u1&gt;&lt;u2&gt; &lt;u3&gt;{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,8 +5001,8 @@
       <tuv lang="EN-US">
         <seg>It contains preformatted cave name, north arrow, scale bar, explo/topo/carto teams, comment, copyrights and legend.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185033Z" creationid="Алексей" creationdate="20171028T185033Z">
-        <seg>Он содержит предварительно отформатированное имя пещеры, стрелку на север, шкалу масштаба, команды исследователей, съемщиков и авторов карты, комментарии, авторские права и легенду.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191548Z" creationid="Алексей" creationdate="20171028T185033Z">
+        <seg>Он содержит предварительно отформатированное имя пещеры, стрелку на север, шкалу масштаба, команды исследователей, съемщиков и авторов\break карты, комментарии, авторские права и легенду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,8 +5057,8 @@
       <tuv lang="EN-US">
         <seg>It is also possible to add symbols permanently by compiling them into Therion executable (see the {&lt;u0&gt; Appendix} for instructions how to do this).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190233Z" creationid="Алексей" creationdate="20171028T190233Z">
-        <seg>Также можно добавлять символы для постоянного использования, компилируя их в исполняемый файл Therion (смотрите. {&lt;u0&gt; Приложение} для инструкций, как это сделать).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192426Z" creationid="Алексей" creationdate="20171028T190233Z">
+        <seg>Также можно добавлять символы для постоянного использования, компили\-руя их в исполняемый файл Therion (смотрите {&lt;u0&gt; Приложение} для инструкций, как это сделать).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5128,8 +5130,8 @@
       <tuv lang="EN-US">
         <seg>It is possible to display the whole map framed by setting the |&lt;u0&gt;| dimen register to positive value, e.g. |0.5mm|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185659Z" creationid="Алексей" creationdate="20171028T185659Z">
-        <seg>Можно отобразить всю карту, обрамленную установкой регистра |&lt;u0&gt;| в положительное значение, например |0.5mm|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192106Z" creationid="Алексей" creationdate="20171028T185659Z">
+        <seg>Можно отобразить всю карту, обрамленную установкой регистра\break |&lt;u0&gt;| в положительное значение, например |0.5mm|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5243,8 +5245,8 @@
       <tuv lang="EN-US">
         <seg>It should contain one or more |&lt;u1&gt;| invocations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184630Z" creationid="Алексей" creationdate="20171028T184630Z">
-        <seg>Он должен содержать один или несколько |&lt;u1&gt;| вызовов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191252Z" creationid="Алексей" creationdate="20171028T184630Z">
+        <seg>Он должен содер\-жать один или несколько |&lt;u1&gt;| вызовов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5723,8 +5725,8 @@
       <tuv lang="EN-US">
         <seg>New symbols may be defined in the |code metapost| section of the |layout| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190105Z" creationid="Алексей" creationdate="20171028T190105Z">
-        <seg>Новые символы могут быть определены в разделе |code metapost| команды |layout|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192351Z" creationid="Алексей" creationdate="20171028T190105Z">
+        <seg>Новые символы могут быть определены в разделе |code metapost| команды\break |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,8 +6606,8 @@
       <tuv lang="EN-US">
         <seg>Standard name for user-defined symbol types should not include symbol set identifier, e.g. |p_u_bat|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190649Z" creationid="Алексей" creationdate="20171028T190649Z">
-        <seg>Стандартное имя для пользовательских типов символов не должно включать идентификатор набора символов, например. |p_u_bat|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192624Z" creationid="Алексей" creationdate="20171028T190649Z">
+        <seg>Стандартное имя для пользова\-тельских типов символов не должно включать идентификатор набора сим\-волов, например |p_u_bat|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,8 +6808,8 @@
       <tuv lang="EN-US">
         <seg>The color and size of texts in the preformatted legend can be easily changed using |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| and |&lt;u4&gt;| token registers, e.g. for large blue text:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185549Z" creationid="Алексей" creationdate="20171028T185549Z">
-        <seg>Цвет и размер текстов в преформатированной легенде можно легко изменить, используя |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| и |&lt;u4&gt;| символьные регистры, например для большого синего текста:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191939Z" creationid="Алексей" creationdate="20171028T185549Z">
+        <seg>Цвет и размер текстов в преформатированной легенде можно легко изменить, используя символьные регистры |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;| и |&lt;u4&gt;|, например для большого синего текста:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7432,8 +7434,8 @@
       <tuv lang="EN-US">
         <seg>The |&lt;u2&gt;| macro has four parameters: coordinates ranging 0--100, alignment specification (N, E, S, W, NE, SE, SW, NW or C) and the content to be displayed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184722Z" creationid="Алексей" creationdate="20171028T184722Z">
-        <seg>Макрос |&lt;u2&gt;| имеет четыре параметра: координаты в диапазоне 0--100, спецификация выравнивания (N, E, S, W, NE, SE, SW, NW или C) и отображаемый контент.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191328Z" creationid="Алексей" creationdate="20171028T184722Z">
+        <seg>Макрос |&lt;u2&gt;| имеет четыре параметра: координаты в диапазоне 0--100, спецификация выравни\-вания (N, E, S, W, NE, SE, SW, NW или C) и отображаемый контент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7793,8 +7795,8 @@
       <tuv lang="EN-US">
         <seg>Therion's layout command makes it easy to switch among various predefined map symbol sets.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185832Z" creationid="Алексей" creationdate="20171028T185832Z">
-        <seg>Команда компоновки Therion позволяет легко переключаться между различными предопределенными наборами символов карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192149Z" creationid="Алексей" creationdate="20171028T185832Z">
+        <seg>Команда компоновки Therion позволяет легко переключаться между различ\-ными предопределенными наборами символов карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8379,8 +8381,8 @@
       <tuv lang="EN-US">
         <seg>User may also benefit from comprehensive reference to the {&lt;u0&gt; METAFONT} language, which is quite similar to &lt;u1&gt;:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190018Z" creationid="Алексей" creationdate="20171028T190018Z">
-        <seg>Пользователь также может воспользоваться исчерпывающей ссылкой на язык {&lt;u0&gt; METAFONT}, который очень похож на &lt;u1&gt;:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192311Z" creationid="Алексей" creationdate="20171028T190018Z">
+        <seg>Пользователь также может воспользоваться исчерпывающей ссылкой на\break язык {&lt;u0&gt; METAFONT}, который очень похож на &lt;u1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8621,8 +8623,8 @@
       <tuv lang="EN-US">
         <seg>Width of the above text may be adjusted by |&lt;u0&gt;| dimen register (its default value is set by |legend-width| layout option).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185242Z" creationid="Алексей" creationdate="20171028T185242Z">
-        <seg>Ширина вышеуказанного текста может быть скорректирована с помощью регистра |&lt;u0&gt;| (его значение по умолчанию задано опцией |legend-width| эскиза).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191819Z" creationid="Алексей" creationdate="20171028T185242Z">
+        <seg>Ширина вышеуказанного текста может быть скорректирована с помощью регистра |&lt;u0&gt;| (его значение по умолчанию задано опцией\break |legend-width| эскиза).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9697,6 +9699,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{5.4}The following variables are also available:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190932Z" creationid="Алексей" creationdate="20171028T190923Z">
+        <seg>{5.4}Доступны также следующие переменные:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Adding line point}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024518Z" creationid="Алексей" creationdate="20170920T024506Z">
@@ -10688,8 +10698,10 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;u0&gt;&lt;u1&gt;{ &lt;u2&gt;{0}{100}{NW}{&lt;u3&gt;} }|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184733Z" creationid="Алексей" creationdate="20171028T184733Z">
-        <seg>|&lt;u0&gt;&lt;u1&gt;{ &lt;u2&gt;{0}{100}{NW}{&lt;u3&gt;} }|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191443Z" creationid="Алексей" creationdate="20171028T184733Z">
+        <seg>|&lt;u0&gt;&lt;u1&gt;{
+	&lt;u2&gt;{0}{100}{NW}{&lt;u3&gt;}
+}|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10838,8 +10850,12 @@ endcentreline|</seg>
       <tuv lang="EN-US">
         <seg>|code tex-map &lt;u0&gt;=20cm &lt;u1&gt;={&lt;u2&gt;[0 0 100]} &lt;u3&gt;={&lt;u4&gt;[20]} &lt;u6&gt;={&lt;u5&gt;[60]}|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185552Z" creationid="Алексей" creationdate="20171028T185552Z">
-        <seg>|code tex-map &lt;u0&gt;=20cm &lt;u1&gt;={&lt;u2&gt;[0 0 100]} &lt;u3&gt;={&lt;u4&gt;[20]} &lt;u6&gt;={&lt;u5&gt;[60]}|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192027Z" creationid="Алексей" creationdate="20171028T185552Z">
+        <seg>|code tex-map
+	&lt;u0&gt;=20cm
+	&lt;u1&gt;={&lt;u2&gt;[0 0 100]}
+	&lt;u3&gt;={&lt;u4&gt;[20]}
+	&lt;u6&gt;={&lt;u5&gt;[60]}|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11005,8 +11021,8 @@ source test</seg>
       <tuv lang="EN-US">
         <seg>|initsymbol("&lt;standard-name&gt;");|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190712Z" creationid="Алексей" creationdate="20171028T190712Z">
-        <seg>|initsymbol("&lt;standard-name&gt;");|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192655Z" creationid="Алексей" creationdate="20171028T190712Z">
+        <seg>|initsymbol("&lt;стандартное имя символа&gt;");|</seg>
       </tuv>
     </tu>
     <tu>
