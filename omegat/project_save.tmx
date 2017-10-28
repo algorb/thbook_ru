@@ -6014,6 +6014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is a general-purpose macro for typesetting in multiple columns&lt;u0&gt;Not to be used with map legend, where multiple columns are to be adjusted by |legend-columns| layout option]:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085629Z" creationid="Алексей" creationdate="20171028T085629Z">
+        <seg>Есть макрос общего назначения для набора текста в нескольких столбцах&lt;u0&gt;Не используйте с легендой карты оформленной в несколько столбцов с помощью опции |legend-columns| макета.]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is a macro |&lt;u0&gt;| which combines most of the token registers mentioned above to get simple preformatted atlas introductory pages.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T074827Z" creationid="Алексей" creationdate="20171028T074827Z">
