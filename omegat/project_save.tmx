@@ -5013,6 +5013,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to add symbols permanently by compiling them into Therion executable (see the {&lt;u0&gt; Appendix} for instructions how to do this).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190233Z" creationid="Алексей" creationdate="20171028T190233Z">
+        <seg>Также можно добавлять символы для постоянного использования, компилируя их в исполняемый файл Therion (смотрите. {&lt;u0&gt; Приложение} для инструкций, как это сделать).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also possible to type (some small snippets of) code directly in configuration file using the multi-line syntax.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055239Z" creationid="Алексей" creationdate="20171021T055239Z">
@@ -5377,6 +5385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knuth, D. E.: {&lt;u0&gt; The METAFONTbook}, Reading, Massachusetts, Addison-Wesley $^1$1986</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190021Z" creationid="Алексей" creationdate="20171028T190021Z">
+        <seg>Knuth, D. E.: {&lt;u0&gt; The METAFONTbook}, Reading, Massachusetts, Addison-Wesley $^1$1986</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Labyrinth.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153941Z" creationid="Алексей" creationdate="20171028T153941Z">
@@ -5661,6 +5677,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185820Z" creationid="Алексей" creationdate="20171028T185820Z">
         <seg>Новые символы карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New symbols may be defined in the |code metapost| section of the |layout| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190105Z" creationid="Алексей" creationdate="20171028T190105Z">
+        <seg>Новые символы могут быть определены в разделе |code metapost| команды |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8057,6 +8081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes it easy to add new symbols at the run-time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190113Z" creationid="Алексей" creationdate="20171028T190113Z">
+        <seg>Это упрощает добавление новых символов во время выполнения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170616Z" creationid="Алексей" creationdate="20170909T155111Z">
@@ -8285,6 +8317,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135915Z" creationid="Алексей" creationdate="20171028T135915Z">
         <seg>Полезно, если в вашей системе установлен другой дистрибутив &lt;u1&gt;, который настроил переменные среды, которые могут запутать программы &lt;u2&gt;&lt;u3&gt;и &lt;u5&gt;, поставляемые с дистрибутивом Therion для Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User may also benefit from comprehensive reference to the {&lt;u0&gt; METAFONT} language, which is quite similar to &lt;u1&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190018Z" creationid="Алексей" creationdate="20171028T190018Z">
+        <seg>Пользователь также может воспользоваться исчерпывающей ссылкой на язык {&lt;u0&gt; METAFONT}, который очень похож на &lt;u1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
