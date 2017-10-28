@@ -1202,8 +1202,8 @@
       <tuv lang="EN-US">
         <seg>* |THERION| = [not required] search path for (x)therion.ini file(s) * |HOME| (|HOMEDRIVE| + |HOMEPATH| on WinXP) = [not required, but usually present on your system] search path for (x)therion.ini file(s) * |TEMP|, |TMP| = system temporary directory, where Therion stores temporary files (in a directory named |th$PID$|, where |$PID$| is a process ID), unless |tmp-path| is specified in the initialization file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125450Z" creationid="Алексей" creationdate="20171028T125450Z">
-        <seg>* |THERION| = [не требуется] путь поиска для файла(ов) (x)therion.ini; * |HOME| (|HOMEDRIVE| + |HOMEPATH| на WinXP) = [не требуется, но обычно присутствует в вашей системе] путь поиска для файла(ов) (x)therion.ini; * |TEMP|, |TMP| = системный временный каталог, где Therion хранит временные файлы (в каталоге с именем |th$PID$|, где |$PID$| является идентификатором процесса), если только |tmp-path| указан в файле инициализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132108Z" creationid="Алексей" creationdate="20171028T125450Z">
+        <seg>* |THERION| = [не требуется] путь поиска для файла(ов) (x)therion.ini; * |HOME| (|HOMEDRIVE| + |HOMEPATH| на WinXP) = [не требуется, но обычно присутствует в вашей системе] путь поиска для файла(ов) (x)therion.ini; * |TEMP|, |TMP| = системный временный каталог, где Therion хранит времен\-ные файлы (в каталоге с именем |th$PID$|, где |$PID$| является идентифика\-тором процесса), если только |tmp-path| указан в файле инициализации.</seg>
       </tuv>
     </tu>
     <tu>
