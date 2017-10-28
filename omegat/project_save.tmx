@@ -903,6 +903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;u0&gt; &lt;i&gt;|, |&lt;u1&gt;| = text between these macros is typeset in |&lt;i&gt;| columns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085717Z" creationid="Алексей" creationdate="20171028T085642Z">
+        <seg>* |&lt;u0&gt; &lt;i&gt;|, |&lt;u1&gt;| = текст между этими макросами набирается в столбцы |&lt;i&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;[#1 #2 #3]| for colour changes (RGB values in the range 0--100), and</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044014Z" creationid="Алексей" creationdate="20171028T043957Z">
@@ -2921,6 +2929,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example how to create atlas with lists of surveyors etc.&lt;u0&gt;followed by map pages and with legend at the end:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085802Z" creationid="Алексей" creationdate="20171028T085802Z">
+        <seg>Пример создания атласа со списками съемщиков и т.д.&lt;u0&gt;за которыми следуют карты и с легендой в конце:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example:&lt;u0&gt;&lt;u1&gt; |station 4 "pit to explore" continuation attr code "V"|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T052253Z" creationid="Алексей" creationdate="20170920T052253Z">
@@ -4773,6 +4789,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173510Z" creationid="Алексей" creationdate="20171026T173510Z">
         <seg>Макет страницы в режиме атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page layout in the map mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085852Z" creationid="Алексей" creationdate="20171028T085852Z">
+        <seg>Макет страницы в режиме карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,6 +8561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085821Z" creationid="Алексей" creationdate="20171028T085821Z">
+        <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>| syntax on Linux and |start &lt;command&gt;| syntax on Windows.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053241Z" creationid="Алексей" creationdate="20171021T053207Z">
@@ -8779,6 +8811,14 @@
 	[данные съемки]
 	...
 endcentreline|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|code tex-atlas</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085815Z" creationid="Алексей" creationdate="20171028T085815Z">
+        <seg>|code tex-atlas</seg>
       </tuv>
     </tu>
     <tu>
