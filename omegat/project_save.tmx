@@ -816,6 +816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; 2003}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153151Z" creationid="Алексей" creationdate="20171028T153151Z">
+        <seg>* {&lt;u0&gt; 2003}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; keyword} = a sequence of |A-Z|, |a-z|, |0-9| and |_-/| characters (not starting with `|-|').</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123617Z" creationid="Алексей" creationdate="20170910T123617Z">
@@ -2882,6 +2890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apr: Therion included in Debian GNU/Linux</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153335Z" creationid="Алексей" creationdate="20171028T153335Z">
+        <seg>Апрель: Therion включен в Debian GNU/Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrows show data flow between programs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185703Z" creationid="Алексей" creationdate="20170909T185703Z">
@@ -2916,8 +2932,8 @@
       <tuv lang="EN-US">
         <seg>Aug: XTherion extended to 2D map editor (as a replacement of ThEdit)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152716Z" creationid="Алексей" creationdate="20171028T152716Z">
-        <seg>Август: XTherion расширен до редактора 2D-карт (в качестве замены ThEdit).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153107Z" creationid="Алексей" creationdate="20171028T152716Z">
+        <seg>Август: XTherion расширен до редактора 2D-карт (в качестве замены\break ThEdit).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5123,8 +5139,16 @@
       <tuv lang="EN-US">
         <seg>Jul 27: Therion 0.2 --- Therion compiles simple map (consisting of two scraps) for the first time (800 kB of source code)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152652Z" creationid="Алексей" creationdate="20171028T152652Z">
-        <seg>27 июля: Therion 0.2 -- Therion впервые в первый раз компилирует простую карту (состоящую из двух скрапов) (800 КБ исходного кода).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153044Z" creationid="Алексей" creationdate="20171028T152652Z">
+        <seg>Июль, 27: Therion 0.2 -- Therion впервые компилирует простую карту (состоящую из двух скрапов) (800 КБ исходного кода).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jun: all Perl scripts rewritten in C++, Therion is one executable program now (although using Survex and &lt;u0&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153421Z" creationid="Алексей" creationdate="20171028T153421Z">
+        <seg>Июнь: все сценарии Perl переписанные на C++, Therion -- это одна исполняемая программа (хотя использует Survex и &lt;u0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5315,8 +5339,16 @@
       <tuv lang="EN-US">
         <seg>Mar: Therion 0.1 --- Therion is able to process survey data (centreline) of the Cave of Dead Bats.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152548Z" creationid="Алексей" creationdate="20171028T152548Z">
-        <seg>Март: Therion 0.1 -- Therion способен обрабатывать данные съемки (центральной линии) пещеры Мертвых летучих мышей.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152918Z" creationid="Алексей" creationdate="20171028T152548Z">
+        <seg>Март: Therion 0.1 -- Therion способен обрабатывать данные съемки (цен\-тральной линии) пещеры Мертвых летучих мышей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mar: the first version of The Therion Book finished</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153319Z" creationid="Алексей" creationdate="20171028T153319Z">
+        <seg>Март: первая версия Therion Book завершена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8267,6 +8299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XTherion extended to compiler.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152841Z" creationid="Алексей" creationdate="20171028T152841Z">
+        <seg>XTherion использует компилятор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XTherion is a GUI (Graphical User Interface) for Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T172749Z" creationid="Алексей" creationdate="20170912T172725Z">
@@ -8318,8 +8358,8 @@
       <tuv lang="EN-US">
         <seg>XTherion, text editor designed for Therion (Tcl/Tk).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152614Z" creationid="Алексей" creationdate="20171028T152614Z">
-        <seg>XTherion -- текстовый редактор, предназначенный для Therion'а (Tcl/Tk).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152950Z" creationid="Алексей" creationdate="20171028T152614Z">
+        <seg>XTherion -- тексто\-вый редактор, предназначенный для Therion'а (Tcl/Tk).</seg>
       </tuv>
     </tu>
     <tu>
