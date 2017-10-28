@@ -1856,6 +1856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |source-path &lt;directory&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135046Z" creationid="Алексей" creationdate="20171028T135041Z">
+        <seg>* |source-path &lt;каталог&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;]| = set the station comment and its flags.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051430Z" creationid="Алексей" creationdate="20170920T051430Z">
@@ -5273,6 +5281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Path to data and configuration files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135100Z" creationid="Алексей" creationdate="20171028T135100Z">
+        <seg>Путь к файлам данных и конфигурации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
@@ -5635,16 +5651,16 @@
       <tuv lang="EN-US">
         <seg>Set the full path to ImageMagick's convert executable if Therion can't find it (``|convert|'' is the default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134828Z" creationid="Алексей" creationdate="20171028T134828Z">
-        <seg>Устанавливает полный путь к исполняемому файлу ImageMagick, если Therion не может его найти (`` | convert | '' является значением по умолчанию).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135014Z" creationid="Алексей" creationdate="20171028T134828Z">
+        <seg>Устанавливает полный путь к исполняемому файлу ImageMagick, если\break Therion не может его найти (``|convert|'' является значением по умолчанию);</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Set the full path to ImageMagick's identify executable if Therion can't find it (``|identify|'' is the default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134747Z" creationid="Алексей" creationdate="20171028T134705Z">
-        <seg>Устанавливает полный путь к ImageMagick, если Therion не может его найти (``|ident|'' является значением по умолчанию).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134928Z" creationid="Алексей" creationdate="20171028T134705Z">
+        <seg>Устанавливает полный путь к идентификатору ImageMagick, если Therion не может его найти (``|ident|'' является значением по умолчанию);</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,8 +5675,8 @@
       <tuv lang="EN-US">
         <seg>Set the full path to a pdf&lt;u0&gt;&lt;u1&gt;executable if Therion can't find it (``|pdfetex|'' is the default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134651Z" creationid="Алексей" creationdate="20171028T134651Z">
-        <seg>Устанавливает полный путь к исполняемому файлу pdf&lt;u0&gt;, если Therion не сможет его найти (``|pdfetex|'' является значением по умолчанию).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134924Z" creationid="Алексей" creationdate="20171028T134651Z">
+        <seg>Устанавливает полный путь к исполняемому файлу pdf&lt;u0&gt;, если Therion не сможет его найти (``|pdfetex|'' является значением по умолчанию);</seg>
       </tuv>
     </tu>
     <tu>
@@ -7404,6 +7420,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185551Z" creationid="Алексей" creationdate="20171021T141702Z">
         <seg>Используйте |flag:&lt;entrance/continuation/sink/spring/doline/dig&gt;| как |&lt;тип символа&gt;| чтобы скрыть станции с определенными флагами (например, |symbol-hide point flag:entrance|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used mostly for system-wide grades and layout definitions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135331Z" creationid="Алексей" creationdate="20171028T135331Z">
+        <seg>Используется в основном для system-wide grades и определений макетов;</seg>
       </tuv>
     </tu>
     <tu>
