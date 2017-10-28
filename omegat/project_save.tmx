@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;&lt;u3&gt;distribution with at least &lt;u1&gt;&lt;u4&gt;with Plain format, recent pdf&lt;u2&gt;, and &lt;u6&gt;&lt;u5&gt;(&lt;u7&gt;{https://www.tug.org}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092004Z" creationid="Алексей" creationdate="20171028T091834Z">
+        <seg>* &lt;u0&gt;&lt;u3&gt;дистрибутив с plain форматом &lt;u1&gt;, pdf&lt;u2&gt;, и &lt;u6&gt;&lt;u5&gt;(&lt;u7&gt;{https://www.tug.org}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.3}|filter &lt;(on)/off&gt;| = set whether continuations without comment/text should be filtered out.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074946Z" creationid="Алексей" creationdate="20171022T074754Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192745Z" creationid="Алексей" creationdate="20170909T132427Z">
         <seg>* Скачайте примеры данных с сайта Therion'а и распакуйте их на жесткий диск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* GNU C/C++ compiler * GNU make * Perl * Python 2.7 or 3 * Tcl/Tk 8.4.3 and newer (&lt;u0&gt;{https://www.tcl.tk}) with {&lt;u3&gt; BWidget} widget set &lt;u5&gt;&lt;u7&gt; (&lt;u1&gt;{https://sourceforge.net/projects/tcllib/}) and optionally {&lt;u4&gt; tkImg} extension &lt;u6&gt;&lt;u8&gt; (&lt;u2&gt;{https://sourceforge.net/projects/tkimg/}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091806Z" creationid="Алексей" creationdate="20171028T091513Z">
+        <seg>* GNU C/C++ compiler. * GNU make. * Perl. * Python 2.7 или 3. * Tcl/Tk 8.4.3 или новее (&lt;u0&gt;{https://www.tcl.tk}) с набором виджетов {&lt;u3&gt; BWidget} &lt;u5&gt;&lt;u7&gt; (&lt;u1&gt;{https://sourceforge.net/projects/tcllib/}) и необязательным расширением {&lt;u4&gt; tkImg} &lt;u6&gt;&lt;u8&gt; (&lt;u2&gt;{https://sourceforge.net/projects/tkimg/}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,6 +2056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u2&gt; 6pt &lt;u3&gt;{&lt;u4&gt; ---Arthur C. Clarke, {&lt;u5&gt; 1973}} }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091424Z" creationid="Алексей" creationdate="20171028T091320Z">
+        <seg>&lt;u2&gt; 6pt &lt;u3&gt;{&lt;u4&gt; -- C. Clarke, {&lt;u5&gt; 1973}} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u2&gt; &lt;u3&gt;&lt;u5&gt;{&lt;u1&gt;&lt;u6&gt;&lt;u7&gt;&lt;u8&gt;} &lt;u4&gt;&lt;u9&gt;{=}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113741Z" creationid="Алексей" creationdate="20170910T055017Z">
@@ -2465,6 +2489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appendix.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091437Z" creationid="Алексей" creationdate="20171028T091437Z">
+        <seg>Приложение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrows show data flow between programs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185703Z" creationid="Алексей" creationdate="20170909T185703Z">
@@ -2701,6 +2733,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053543Z" creationid="Алексей" creationdate="20171022T053543Z">
         <seg>Цветовой диапазон 0-100 для оттенков серого, [0-100 0-100 0-100] для цветов в пространстве RGB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compilation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091443Z" creationid="Алексей" creationdate="20171028T091443Z">
+        <seg>Компиляция.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3823,6 +3863,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044306Z" creationid="Алексей" creationdate="20170920T044306Z">
         <seg>Если вы хотите их комбинировать, вы должны использовать их в одной строке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to compile Therion from source code and run it, you need (first three are required only during compilation):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091551Z" creationid="Алексей" creationdate="20171028T091510Z">
+        <seg>Если вы хотите скомпилировать Therion из исходников и запустить его, вам нужны (первые три необходимы только во время компиляции):</seg>
       </tuv>
     </tu>
     <tu>
@@ -6946,6 +6994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When he states that something is impossible, he is very probably wrong.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091359Z" creationid="Алексей" creationdate="20171028T091220Z">
+        <seg>Когда он утверждает, что что-то невозможно, он, вероятно, оши\-бается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190214Z" creationid="Алексей" creationdate="20170909T185305Z">
@@ -7735,6 +7791,30 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112751Z" creationid="Алексей" creationdate="20170910T112751Z">
         <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudr�k) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091151Z" creationid="Алексей" creationdate="20171028T091151Z">
+        <seg>{1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091223Z" creationid="Алексей" creationdate="20171028T091223Z">
+        <seg>{2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091251Z" creationid="Алексей" creationdate="20171028T091251Z">
+        <seg>{3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9431,6 +9511,30 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113834Z" creationid="Алексей" creationdate="20170910T062606Z">
         <seg>} &lt;u3&gt;&lt;u5&gt;#1{&lt;u4&gt;&lt;u6&gt;##1#1{##1&lt;u8&gt;&lt;u9&gt;}&lt;u7&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}Any sufficiently advanced technology is indistinguishable from magic.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091314Z" creationid="Алексей" creationdate="20171028T091314Z">
+        <seg>}Любая достаточно развитая технология неотличима от магии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}The only way of discovering the limits of the possible is to venture a little way past them into the impossible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091249Z" creationid="Алексей" creationdate="20171028T091234Z">
+        <seg>}Единственный способ обнаружить пределы возможного -- это отправиться в путь к невозможному.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}When a distinguished but elderly scientist states that something is possible, he is almost certainly right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091209Z" creationid="Алексей" creationdate="20171028T091155Z">
+        <seg>}Когда выдающийся, но пожилой ученый утверждает, что что-то возможно, он почти наверняка прав.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
