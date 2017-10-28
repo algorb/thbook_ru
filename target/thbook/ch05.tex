@@ -164,15 +164,15 @@ endlayout|
 
 Используя другие plain макросы \TeX\ или примитивы \TeX, можно добавить другие функции, например другой макет для нечетных и четных страниц, заголовки и колонтитулы или добавить логотип на каждую страницу. 
 
-In addition to map pages contains atlas additional items: title page, basic facts about the cave, legend with used map symbols etc. 
+В дополнение к страницам карты атлас содержит дополнительные области: титульная страница, основные факты о пещере, легенда с использованием символов карты и т.д. 
 
-Therion automatically generates list of used map symbols and lists of persons who have discovered, surveyed and drawn selected part of the cave. Following token registers may be used (according to user's requirements before or after the |\insertmaps| macro): 
+Therion автоматически генерирует список используемых символов карты и списки лиц, которые обнаружили, исследовали и нарисовали выбранную часть пещеры. Следующие регистровые токены могут использоваться (в соответствии с необходимостью до или после макроса |\insertmaps|): 
 
 \list
 
-* |\explotitle|, |\topotitle|, |\cartotitle| = translated titles * |\exploteam|, |\topoteam|, |\cartoteam| = participating members (according to |team|, |explo-team| options for |centreline| and |author| option of scraps) * |\explodate|, |\topodate|, |\cartodate| = corresponding dates * |\comment| = is set according to |map-comment| option of the |layout| command * |\copyrights| = is set according to copyright options for surveys and other objects * |\cavename| = name of the exported map; set according to |-title| option of exported map * |\cavelength|, |\cavedepth| = approximate length and depth of displayed map * |\cavelengthtitle|, |\cavedepthtitle| = translated labels * \NEW{5.4}|\cavemaxz|, |\caveminz| = altitude max/min value * \NEW{5.4}|\thversion| = current therion version * \NEW{5.4}|\currentdate| = current date * \NEW{5.4}|\outcscode|, |\outcsname| = output coordinat system code and name * \NEW{5.4}|\northdir| = `true' or `grid' * \NEW{5.4}|\magdecl| = magnetic declination in degrees * \NEW{5.4}|\gridconv| = grid meridian convergence in degrees \endlist
+* |\explotitle|, |\topotitle|, |\cartotitle| = перевод названий. * |\exploteam|, |\topoteam|, |\cartoteam| = участники (в соответствии с опциями |team|, |explo-team| команды |centreline| и опции |author| для скрапов). * |\explodate|, |\topodate|, |\cartodate| = соответствующие даты. * |\comment| = задано в соответствии с опцией |map-comment| команды |layout|. * |\copyrights| = устанавливается в соответствии с вариантами авторского права для съемок и других объектов. * |\cavename| = имя экспортируемой карты, устанавливается в соответствии с опцией |-title| экспортируемой карты. * |\cavelength|, |\cavedepth| = приблизительная длина и глубина отображаемой карты. * |\cavelengthtitle|, |\cavedepthtitle| = переведенные метки. * \NEW{5.4}|\cavemaxz|, |\caveminz| = значение высоты max/min. * \NEW{5.4}|\thversion| = текущая версия Therion'а. * \NEW{5.4}|\currentdate| = текущая дата. * \NEW{5.4}|\outcscode|, |\outcsname| = вывести код и наименование координатной системы. * \NEW{5.4}|\northdir| = `true' или `grid'. * \NEW{5.4}|\magdecl| = магнитное склонение в градусах. * \NEW{5.4}|\gridconv| = конвергенция сетки меридиана в градусах. \endlist
 
-There is a macro |\atlastitlepages| which combines most of the token registers mentioned above to get simple preformatted atlas introductory pages. 
+Макрос |\atlastitlepages| объединяет большинство перечисленных токенов, чтобы получить простой, предварительно отформатированный вывод страницы в виде атласа. 
 
 For legend displaying there are 
 
