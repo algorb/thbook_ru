@@ -280,17 +280,30 @@ survey main -title "Тестовая пещера"
 		endcentreline
 	endsurvey 
 
-centreline equate 2@first 1@second endcentreline 
+	centreline
+		equate 2@first 1@second
+	endcentreline 
 
-# scraps are usually in separate *.th2 files scrap s1 -author 2004 "Therion team" 
+	# скрапы обычно находятся в отдельных *.th2 файлах
+	scrap s1 -author 2004 "Команда Therion'а" 
 
-point 763 746 station -name 2@second point 702 430 station -name 2@first point 352 469 station -name 1@first point 675 585 air-draught -orientation 240 -scale large 
+		point 763 746 station -name 2@second
+		point 702 430 station -name 2@first
+		point 352 469 station -name 1@first
+		point 675 585 air-draught -orientation 240 -scale large 
 
-line wall -close on 287 475 281 354 687 331 755 367 981 486 846 879 683 739 476 561 293 611 287 475 endline 
+		line wall -close on
+			287 475
+			281 354 687 331 755 367
+			981 486 846 879 683 739
+			476 561 293 611 287 475
+		endline 
 
-endscrap 
+	endscrap 
 
-map m1 -title "Test map" s1 endmap 
+	map m1 -title "Тестовая карта"
+		s1
+	endmap 
 
 endsurvey| 
 
