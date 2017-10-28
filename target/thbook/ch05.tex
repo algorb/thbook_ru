@@ -146,10 +146,11 @@ endlayout|
 Более продвинутым является определение по умолчанию макроса |\dopage|: 
 
 |\def\dopage{|\%|
-  \vbox{\centerline{\framed{\mapbox}}t \bigskip
+  \vbox{\centerline{\framed{\mapbox}}
+     \bigskip
 
 %
-\line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \ifpagenumbering\space(\the\pagenum)\fi \space\size[16]\the\pagename} \ifpagenumbering
+\linet{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \ifpagenumbering\space(\the\pagenum)\fi \space\size[16]\the\pagename} \ifpagenumbering
 
 %
 \medskip
