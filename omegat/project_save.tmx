@@ -961,8 +961,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| = conditional; true iff |legend| option of the |layout| command was set to |on| or |all| values * |&lt;u1&gt;| = token register containing translated legend title * |&lt;u2&gt;| = macro for inserting legend symbols pictures with translated descriptions in the specified number of columns (according to |legend-columns| layout option) * |&lt;u3&gt;| = combines all three above commands to get preformatted legend with header and symbols typeset in two&lt;u4&gt;Default; adjust the |legend-columns| layout option to get them more or less] columns if |legend| option is set |on|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085027Z" creationid="Алексей" creationdate="20171028T084418Z">
-        <seg>* |&lt;u0&gt;| = условный; true если опция |legend| команды |layout| была установлена ​​в |on| или |all|; * |&lt;u1&gt;| = регистровый токен, содержащий переведенное название легенды; * |&lt;u2&gt;| = макрос для вставки изображений символов легенды с переведенными описаниями в указанное количество столбцов (в соответствии с опцией |legend-columns| макета); * |&lt;u3&gt;| = объединяет все три приведенные выше команды, чтобы получить предварительно отформатированную легенду с заголовком и символами в двух&lt;u4&gt;Значение по умолчанию; устанавливайте опцию |legend-columns| макета, чтобы указать количество столбцов.] столбцах, если опция |legend| установлена ​в ​|on|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T090350Z" creationid="Алексей" creationdate="20171028T084418Z">
+        <seg>* |&lt;u0&gt;| = условный; true если опция |legend| команды |layout| была установ\-лена в |on| или |all|; * |&lt;u1&gt;| = регистровый токен, содержащий переведенное название\break легенды; * |&lt;u2&gt;| = макрос для вставки изображений символов легенды с пере\-веденными описаниями в указанное количество столбцов (в соответствии с опцией |legend-columns| макета); * |&lt;u3&gt;| = объединяет все три приведенные выше команды, чтобы получить предварительно отформатированную легенду с заголовком и сим\-волами в двух&lt;u4&gt;Значение по умолчанию; устанавливайте опцию |legend-columns| макета, чтобы указать количество столбцов.] столбцах, если опция |legend| установлена в |on|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1852,6 +1852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0=../samples.doc/index.tex &lt;u6&gt;0 &lt;u5&gt;0=../../therion.bin/samples.doc/index.tex &lt;u7&gt;0 &lt;u8&gt;{Warning: skipping the case studies} &lt;u9&gt;&lt;u10&gt; &lt;u11&gt; &lt;u2&gt;{../../therion.bin/samples.doc/index.tex} &lt;u13&gt;0 &lt;u15&gt;&lt;u12&gt; &lt;u3&gt;{../samples.doc/index.tex} &lt;u14&gt;0</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091032Z" creationid="Алексей" creationdate="20171028T091032Z">
+        <seg>0=../samples.doc/index.tex &lt;u6&gt;0 &lt;u5&gt;0=../../therion.bin/samples.doc/index.tex &lt;u7&gt;0 &lt;u8&gt;{Warning: skipping the case studies} &lt;u9&gt;&lt;u10&gt; &lt;u11&gt; &lt;u2&gt;{../../therion.bin/samples.doc/index.tex} &lt;u13&gt;0 &lt;u15&gt;&lt;u12&gt; &lt;u3&gt;{../samples.doc/index.tex} &lt;u14&gt;0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0=&lt;i0&gt;&lt;u1&gt;{#1&lt;/i0&gt;&lt;u3&gt;&lt;u5&gt;} &lt;u7&gt;{&lt;u2&gt; &lt;u8&gt;&lt;u9&gt;0&gt;&lt;u10&gt;0 width &lt;u11&gt; height &lt;u12&gt; 10cm{#1}&lt;u4&gt;&lt;u6&gt;}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113923Z" creationid="Алексей" creationdate="20170910T062949Z">
@@ -1964,6 +1972,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;110 &lt;u2&gt;{Warning: skipping the case studies -- PDF version}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091028Z" creationid="Алексей" creationdate="20171028T091028Z">
+        <seg>&lt;110 &lt;u2&gt;{Warning: skipping the case studies -- PDF version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;140</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112755Z" creationid="Алексей" creationdate="20170910T053347Z">
@@ -2040,6 +2056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u37&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T090815Z" creationid="Алексей" creationdate="20171028T090815Z">
+        <seg>&lt;u37&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u9&gt;{5.3}Strings may contain special tag |&lt;lang:XX&gt;| to separate translations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124247Z" creationid="Алексей" creationdate="20170910T124247Z">
@@ -2048,10 +2072,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>=1 &lt;u9&gt;`&lt;u11&gt;=&lt;u12&gt; &lt;u14&gt;"{&lt;u16&gt;&lt;u3&gt;=1&lt;u18&gt;&lt;u4&gt;=0``&lt;u22&gt;&lt;u19&gt;&lt;u5&gt;=1&lt;u24&gt;34 &lt;u26&gt;} &lt;u10&gt;`&lt;u28&gt;=&lt;u13&gt; &lt;u15&gt;'{&lt;u17&gt;&lt;u6&gt;=1&lt;u20&gt;&lt;u7&gt;=0`&lt;u23&gt;&lt;u21&gt;&lt;u8&gt;=1&lt;u25&gt;39 &lt;u27&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091047Z" creationid="Алексей" creationdate="20171028T091047Z">
+        <seg>=1 &lt;u9&gt;`&lt;u11&gt;=&lt;u12&gt; &lt;u14&gt;"{&lt;u16&gt;&lt;u3&gt;=1&lt;u18&gt;&lt;u4&gt;=0``&lt;u22&gt;&lt;u19&gt;&lt;u5&gt;=1&lt;u24&gt;34 &lt;u26&gt;} &lt;u10&gt;`&lt;u28&gt;=&lt;u13&gt; &lt;u15&gt;'{&lt;u17&gt;&lt;u6&gt;=1&lt;u20&gt;&lt;u7&gt;=0`&lt;u23&gt;&lt;u21&gt;&lt;u8&gt;=1&lt;u25&gt;39 &lt;u27&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u4&gt; We both step and do not step in the same rivers.&lt;/i0&gt; &lt;u5&gt;{herakl.pdf} &lt;u6&gt;1pt &lt;u7&gt; &lt;u3&gt;{---Heraclitus of Ephesus, {&lt;u8&gt; 6}th/{&lt;u9&gt; 5}th century BC} }</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T051319Z" creationid="Алексей" creationdate="20171021T051305Z">
         <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u4&gt; Невозможно дважды войти в одну реку.&lt;/i0&gt; &lt;u5&gt;{herakl.pdf} &lt;u6&gt;1pt &lt;u7&gt; &lt;u3&gt;{---Heraclitus of Ephesus, {&lt;u8&gt; 6}th/{&lt;u9&gt; 5}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u6&gt; There is no royal road to geometry.&lt;/i0&gt; &lt;u8&gt;{euclid.pdf} &lt;u9&gt;1pt &lt;u12&gt; &lt;u3&gt;{---Euclid, {&lt;u13&gt; 3}rd century BC} &lt;u10&gt;10pt &lt;u4&gt;{&lt;u7&gt; There is no royal road, but there is a road.} &lt;u11&gt;3pt &lt;u5&gt;{---Frederick P. Brooks, {&lt;u14&gt; 1987}} }</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091034Z" creationid="Алексей" creationdate="20171028T091034Z">
+        <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u6&gt; There is no royal road to geometry.&lt;/i0&gt; &lt;u8&gt;{euclid.pdf} &lt;u9&gt;1pt &lt;u12&gt; &lt;u3&gt;{---Euclid, {&lt;u13&gt; 3}rd century BC} &lt;u10&gt;10pt &lt;u4&gt;{&lt;u7&gt; There is no royal road, but there is a road.} &lt;u11&gt;3pt &lt;u5&gt;{---Frederick P. Brooks, {&lt;u14&gt; 1987}} }</seg>
       </tuv>
     </tu>
     <tu>
@@ -2613,6 +2653,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163920Z" creationid="Алексей" creationdate="20171027T163920Z">
         <seg>Переопределив этот макрос, вы получите желаемый макет страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case studies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091041Z" creationid="Алексей" creationdate="20171028T091041Z">
+        <seg>Case studies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3944,6 +3992,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174048Z" creationid="Алексей" creationdate="20170913T170336Z">
         <seg>В файле, сохраненном XTherion'ом, будет только то, что вы введете в {Редакторе} или смотрите в {Просмотре команд}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the map mode it's possible to use a lot of predefined variables which are described in the previous chapter:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T090744Z" creationid="Алексей" creationdate="20171028T085915Z">
+        <seg>В режиме карты можно использовать множество предопределенных пере\-менных, которые описаны в предыдущей главе:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6048,8 +6104,8 @@
       <tuv lang="EN-US">
         <seg>There is a macro |&lt;u0&gt;| which combines most of the token registers mentioned above to get simple preformatted atlas introductory pages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T074827Z" creationid="Алексей" creationdate="20171028T074827Z">
-        <seg>Макрос |&lt;u0&gt;| объединяет большинство перечисленных токенов, чтобы получить простой, предварительно отформатированный вывод страницы в виде атласа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T090036Z" creationid="Алексей" creationdate="20171028T074827Z">
+        <seg>Макрос |&lt;u0&gt;| объединяет большинство перечисленных токенов,\break чтобы получить простой, предварительно отформатированный, вывод стра\-ницы в виде атласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6410,6 +6466,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T142646Z" creationid="Алексей" creationdate="20170919T142646Z">
         <seg>В этой главе объясняется работа опций |-clip|, |-place|, |-visibility| и |-context | команд |point|, |line| и |area|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter is automatically generated from the samples directory in the Therion source code.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091045Z" creationid="Алексей" creationdate="20171028T091045Z">
+        <seg>This chapter is automatically generated from the samples directory in the Therion source code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8276,6 +8340,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;0cm plus 5cm |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;|, |&lt;u4&gt;|, |&lt;u5&gt;|, |&lt;u6&gt;|, |&lt;u7&gt;|, |&lt;u8&gt;|, |&lt;u9&gt;|, |&lt;u10&gt;|, |&lt;u11&gt;|, |&lt;u12&gt;|, |&lt;u13&gt;|, |&lt;u15&gt;|, |&lt;u14&gt;title|, |&lt;u16&gt;title|, |&lt;u17&gt;|, |&lt;u18&gt;|, |&lt;u19&gt;|, |&lt;u20&gt;|, |&lt;u21&gt;|, |&lt;u22&gt;|, |&lt;u23&gt;|, |&lt;u24&gt;|, |&lt;u25&gt;|, |&lt;u26&gt;|, |&lt;u27&gt;|, |&lt;u28&gt;|, |&lt;u29&gt;|, |&lt;u30&gt;|, |&lt;u31&gt;|, |&lt;u32&gt;|, |&lt;u33&gt; &lt;i&gt;|, |&lt;u34&gt;|, |&lt;u35&gt;|, |&lt;u36&gt;|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T090809Z" creationid="Алексей" creationdate="20171028T090809Z">
+        <seg>{&lt;u0&gt;0cm plus 5cm |&lt;u1&gt;|, |&lt;u2&gt;|, |&lt;u3&gt;|, |&lt;u4&gt;|, |&lt;u5&gt;|, |&lt;u6&gt;|, |&lt;u7&gt;|, |&lt;u8&gt;|, |&lt;u9&gt;|, |&lt;u10&gt;|, |&lt;u11&gt;|, |&lt;u12&gt;|, |&lt;u13&gt;|, |&lt;u15&gt;|, |&lt;u14&gt;title|, |&lt;u16&gt;title|, |&lt;u17&gt;|, |&lt;u18&gt;|, |&lt;u19&gt;|, |&lt;u20&gt;|, |&lt;u21&gt;|, |&lt;u22&gt;|, |&lt;u23&gt;|, |&lt;u24&gt;|, |&lt;u25&gt;|, |&lt;u26&gt;|, |&lt;u27&gt;|, |&lt;u28&gt;|, |&lt;u29&gt;|, |&lt;u30&gt;|, |&lt;u31&gt;|, |&lt;u32&gt;|, |&lt;u33&gt; &lt;i&gt;|, |&lt;u34&gt;|, |&lt;u35&gt;|, |&lt;u36&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
@@ -8365,6 +8437,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114042Z" creationid="Алексей" creationdate="20170910T064619Z">
         <seg>{&lt;u1&gt;&lt;u7&gt;{&lt;u9&gt;0&lt;u14&gt;} &lt;u16&gt;0=&lt;u15&gt; &lt;u24&gt;0=&lt;u29&gt; &lt;u30&gt;0=&lt;u35&gt; &lt;u17&gt;1=&lt;u36&gt; &lt;u25&gt;1=&lt;u39&gt; &lt;u31&gt;1=&lt;u40&gt; &lt;u18&gt;2=&lt;u41&gt; &lt;u26&gt;2=&lt;u42&gt; &lt;u32&gt;2=&lt;u43&gt; &lt;u19&gt;3=&lt;u44&gt; &lt;u27&gt;3=&lt;u45&gt; &lt;u33&gt;3=&lt;u46&gt; &lt;u20&gt;&lt;u47&gt;=&lt;u37&gt;t &lt;u2&gt;&lt;u49&gt;{&lt;u10&gt;&lt;u48&gt;&lt;u38&gt;t} &lt;u21&gt;&lt;u50&gt;=&lt;u52&gt; &lt;u3&gt;&lt;u54&gt;{&lt;u11&gt;&lt;u51&gt;&lt;u53&gt;} &lt;u22&gt;&lt;u55&gt;=&lt;u57&gt; &lt;u4&gt;&lt;u59&gt;{&lt;u12&gt;&lt;u56&gt;&lt;u58&gt;} &lt;u23&gt;&lt;u60&gt;=&lt;u64&gt; &lt;u28&gt;&lt;u61&gt;=&lt;u66&gt; &lt;u34&gt;&lt;u62&gt;=&lt;u67&gt; &lt;u5&gt;&lt;u68&gt;{&lt;u13&gt;&lt;u63&gt;&lt;u65&gt;} &lt;u69&gt;=12pt &lt;u70&gt;&lt;u71&gt;=logo10 &lt;u72&gt;&lt;u73&gt;=&lt;i0&gt;&lt;u74&gt; height9.5pt depth4.5pt width0pt&lt;/i0&gt; &lt;u75&gt;&lt;u8&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u1&gt;=93.2mm&lt;u2&gt;=12pt&lt;u3&gt;3.5mm&lt;u4&gt;0pt</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091147Z" creationid="Алексей" creationdate="20171028T091147Z">
+        <seg>{&lt;u1&gt;=93.2mm&lt;u2&gt;=12pt&lt;u3&gt;3.5mm&lt;u4&gt;0pt</seg>
       </tuv>
     </tu>
     <tu>
@@ -8557,14 +8637,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195228Z" creationid="Алексей" creationdate="20170909T195228Z">
         <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>|</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085821Z" creationid="Алексей" creationdate="20171028T085821Z">
-        <seg>|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8811,14 +8883,6 @@
 	[данные съемки]
 	...
 endcentreline|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>|code tex-atlas</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085815Z" creationid="Алексей" creationdate="20171028T085815Z">
-        <seg>|code tex-atlas</seg>
       </tuv>
     </tu>
     <tu>
