@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(We should use actually virtual font |vpalatino| instead of |palatino|, which contains no kerning or ligatures, but pdf&lt;u0&gt;&lt;u1&gt;doesn't support |&lt;u2&gt;| command on virtual fonts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143141Z" creationid="Алексей" creationdate="20171028T143141Z">
+        <seg>(Мы должны использовать виртуальный шрифт |vpalatino| вместо |palatino|, который не содержит кернинга или лигатуры, но pdf&lt;u0&gt;&lt;u1&gt;не поддерживает команду |&lt;u2&gt;| на виртуальных шрифтах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Which contains |&lt;u2&gt;| or |&lt;u4&gt;|, see above.) For each record it calls the macro |&lt;u5&gt;|, which is responsible for data formatting.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045050Z" creationid="Алексей" creationdate="20171028T043447Z">
@@ -2512,6 +2520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add the line</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142826Z" creationid="Алексей" creationdate="20171028T142826Z">
+        <seg>Добавьте строчку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add your translations at lines beginning with `|xx:|'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130123Z" creationid="Алексей" creationdate="20171028T123813Z">
@@ -3211,8 +3227,8 @@
       <tuv lang="EN-US">
         <seg>Default setting is |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142256Z" creationid="Алексей" creationdate="20171028T142246Z">
-        <seg>Значение по умолчанию: |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142702Z" creationid="Алексей" creationdate="20171028T142246Z">
+        <seg>Зна\-чение по умолчанию: |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3355,8 +3371,8 @@
       <tuv lang="EN-US">
         <seg>Encoding has to be followed by five font specifications for regular, italic, bold, sans-serif and sans-serif oblique styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142236Z" creationid="Алексей" creationdate="20171028T142236Z">
-        <seg>За кодировкой должны следовать пять спецификаций шрифтов для обычных, курсивных, полужирных, без засечек и наклонных без засечек.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142608Z" creationid="Алексей" creationdate="20171028T142236Z">
+        <seg>За кодировкой должны следовать пять спецификаций шрифтов для обыч\-ных, курсивных, полужирных, без засечек и наклонных без засечек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4275,6 +4291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to add some unsupported encodings, read the chapter {&lt;u0&gt; Compilation / Hacker's guide}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143344Z" creationid="Алексей" creationdate="20171028T143344Z">
+        <seg>Если вы хотите добавить некоторые неподдерживаемые кодировки, прочитайте главу {&lt;u0&gt; Компиляция / Руководство хакера}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to change an SD, use the sd option after this command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044106Z" creationid="Алексей" creationdate="20170920T044106Z">
@@ -4336,6 +4360,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193222Z" creationid="Алексей" creationdate="20170909T181835Z">
         <seg>Если вы хотите использовать собственные шрифты для латинских или нела\-тин\-ских символов в PDF-картах, отредактируйте файл инициализации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're lazy try</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143047Z" creationid="Алексей" creationdate="20171028T143047Z">
+        <seg>Если вы ленитесь, попробуйте:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5545,6 +5577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142347Z" creationid="Алексей" creationdate="20171028T142347Z">
+        <seg>Запустите:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080426Z" creationid="Алексей" creationdate="20171022T080359Z">
@@ -6485,8 +6525,8 @@
       <tuv lang="EN-US">
         <seg>The only exception is the base set of Computer Modern fonts, which use `raw' encoding.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142104Z" creationid="Алексей" creationdate="20171028T142104Z">
-        <seg>Единственным исключением является базовый набор шрифтов Computer Modern, которые используют `сырую' кодировку.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142531Z" creationid="Алексей" creationdate="20171028T142104Z">
+        <seg>Единственным исключением является базовый набор\break шрифтов Computer Modern, который использует `сырую' кодировку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6551,6 +6591,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015636Z" creationid="Алексей" creationdate="20170914T015636Z">
         <seg>Тот же файл используется для обоих импортов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same should be done for the italic and bold faces and corresponding sans-serif and sans-serif-oblique fonts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143037Z" creationid="Алексей" creationdate="20171028T143037Z">
+        <seg>То же самое должно быть сделано для курсивых и полужирных шрифтов и соответствующих шрифтов без засечек и наклонных без засечек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7520,6 +7568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To be improved.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143241Z" creationid="Алексей" creationdate="20171028T143151Z">
+        <seg>Будет улучшен).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To compile Loch, you need</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092408Z" creationid="Алексей" creationdate="20171028T092408Z">
@@ -8091,6 +8147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You get files |vpalatino.vf|, |vpalatino.tfm| and |palatino.tfm|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142809Z" creationid="Алексей" creationdate="20171028T142754Z">
+        <seg>Вы получите файлы |vpalatino.vf|, |vpalatino.tfm| и |palatino.tfm|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have to drag them to points with known coordinates---usually intersections of mm grid lines on the scanned drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171147Z" creationid="Алексей" creationdate="20170913T171147Z">
@@ -8574,6 +8638,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055452Z" creationid="Алексей" creationdate="20171022T055452Z">
         <seg>to 482bp{&lt;u1&gt;{&lt;u2&gt; to 400bp{ &lt;u3&gt;{&lt;u4&gt;{page.pdf}} &lt;u5&gt;{page.1} &lt;u6&gt;}}&lt;u7&gt; }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to the pdf&lt;u0&gt;'s map file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142943Z" creationid="Алексей" creationdate="20171028T142846Z">
+        <seg>в pdf&lt;u0&gt;\ файл карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9825,6 +9897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|afm2tfm palatino.afm -u -v vpalatino -T xl2.enc|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142353Z" creationid="Алексей" creationdate="20171028T142353Z">
+        <seg>|afm2tfm palatino.afm -u -v vpalatino -T xl2.enc|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|atlas| = 2D atlas in more pages</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060738Z" creationid="Алексей" creationdate="20171022T060720Z">
@@ -10181,6 +10261,14 @@ endline|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|palatino &lt;xl2.enc &lt;palatino.ttf|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142833Z" creationid="Алексей" creationdate="20171028T142833Z">
+        <seg>|palatino &lt;xl2.enc &lt;palatino.ttf|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|pdf-fonts "/usr/share/fonts/Serif.ttf" &lt;u0&gt;"/usr/share/fonts/Serif-Italic.ttf" &lt;u1&gt;"/usr/share/fonts/Serif-Bold.ttf" &lt;u2&gt;"/usr/share/fonts/Sans.ttf" &lt;u3&gt;"/usr/share/fonts/Sans-Oblique.ttf"|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141104Z" creationid="Алексей" creationdate="20171028T140945Z">
@@ -10351,6 +10439,14 @@ endsurvey [&lt;id&gt;]|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|tex-fonts xl2 palatino palatino palatino palatino palatino|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143050Z" creationid="Алексей" creationdate="20171028T143050Z">
+        <seg>|tex-fonts xl2 palatino palatino palatino palatino palatino|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|text &lt;language ID&gt; &lt;therion text&gt; &lt;my text&gt;|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111653Z" creationid="Алексей" creationdate="20171021T111257Z">
@@ -10399,6 +10495,14 @@ endsurvey [&lt;id&gt;]|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|ttf2afm -e xl2.enc -o palatino.afm palatino.ttf|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142350Z" creationid="Алексей" creationdate="20171028T142350Z">
+        <seg>|ttf2afm -e xl2.enc -o palatino.afm palatino.ttf|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|unselect &lt;object&gt; [OPTIONS]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111031Z" creationid="Алексей" creationdate="20171021T111018Z">
@@ -10411,6 +10515,14 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071604Z" creationid="Алексей" creationdate="20170920T070452Z">
         <seg>|vertical| = не перемещает станцию (замер) в направлении $X$, использует только $Z$ компонент замера;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|vptovf vpalatino.vpl vpalatino.vf vpalatino.tfm|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142359Z" creationid="Алексей" creationdate="20171028T142359Z">
+        <seg>|vptovf vpalatino.vpl vpalatino.vf vpalatino.tfm|</seg>
       </tuv>
     </tu>
     <tu>
