@@ -1200,6 +1200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |THERION| = [not required] search path for (x)therion.ini file(s) * |HOME| (|HOMEDRIVE| + |HOMEPATH| on WinXP) = [not required, but usually present on your system] search path for (x)therion.ini file(s) * |TEMP|, |TMP| = system temporary directory, where Therion stores temporary files (in a directory named |th$PID$|, where |$PID$| is a process ID), unless |tmp-path| is specified in the initialization file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125450Z" creationid="Алексей" creationdate="20171028T125450Z">
+        <seg>* |THERION| = [не требуется] путь поиска для файла(ов) (x)therion.ini; * |HOME| (|HOMEDRIVE| + |HOMEPATH| на WinXP) = [не требуется, но обычно присутствует в вашей системе] путь поиска для файла(ов) (x)therion.ini; * |TEMP|, |TMP| = системный временный каталог, где Therion хранит временные файлы (в каталоге с именем |th$PID$|, где |$PID$| является идентификатором процесса), если только |tmp-path| указан в файле инициализации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |UTM1N| -- |UTM60N| = same as |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM in southern hemisphere, WGS84 datum.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132111Z" creationid="Алексей" creationdate="20170910T132016Z">
@@ -3133,6 +3141,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153719Z" creationid="Алексей" creationdate="20170911T153638Z">
         <seg>Каждый survey имеет собственное пространство имен, указанное его |&lt;id&gt;| аргументом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environment variables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125157Z" creationid="Алексей" creationdate="20171028T125157Z">
+        <seg>Переменные среды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6554,6 +6570,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T145301Z" creationid="Алексей" creationdate="20171023T145301Z">
         <seg>Если опция |-x| включена, то Therion выводит некоторые основные данные о каждой съемки (длина, амплитуда, длина с севера на юг, длина с запада на восток, количество замеров и станций).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion reads following environment variables:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125210Z" creationid="Алексей" creationdate="20171028T125210Z">
+        <seg>Therion считывает следующие переменные среды:</seg>
       </tuv>
     </tu>
     <tu>
