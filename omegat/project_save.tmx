@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(note how to use the {&lt;u0&gt; destination} argument), or much simpler (if we don't need hyperlink features):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043909Z" creationid="Алексей" creationdate="20171028T043909Z">
+        <seg>(обратите внимание, как использовать аргумент {&lt;u0&gt; destination}), или намного проще (если нам не нужны функции гиперссылки):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* 3D model is generated from 2D maps to get a realistic 3D model without entering too much data</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163226Z" creationid="Алексей" creationdate="20170909T160319Z">
@@ -2304,6 +2312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example definition may be</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043806Z" creationid="Алексей" creationdate="20171028T043806Z">
+        <seg>Пример может быть следующим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example may be</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204636Z" creationid="Алексей" creationdate="20170909T204636Z">
@@ -3021,6 +3037,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182333Z" creationid="Алексей" creationdate="20170914T182333Z">
         <seg>Например, есть survey |main| который содержит surveys |a|, |b|, |c| и |d|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For font management there are macros</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043934Z" creationid="Алексей" creationdate="20171028T043927Z">
+        <seg>Для управления шрифтом есть следующие макросы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5207,6 +5231,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170857Z" creationid="Алексей" creationdate="20170912T170857Z">
         <seg>Quantity list может содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The arguments are delimited as follows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043723Z" creationid="Алексей" creationdate="20171028T043723Z">
+        <seg>Аргументы разделяются следующим образом</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,6 +8048,30 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124|#3&lt;u5&gt;{...}|}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043729Z" creationid="Алексей" creationdate="20171028T043729Z">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124|#3&lt;u5&gt;{...}|}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;#2 (#1)&lt;/i0&gt; }|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043913Z" creationid="Алексей" creationdate="20171028T043913Z">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;#2 (#1)&lt;/i0&gt; }|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; goto name {#3} #2 (#1)&lt;u7&gt;} }|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043812Z" creationid="Алексей" creationdate="20171028T043812Z">
+        <seg>{&lt;u0&gt;|&lt;u1&gt;&lt;u2&gt;#1|&lt;u3&gt;124|#2|&lt;u4&gt;124}|#3&lt;u5&gt;{ &lt;i0&gt;&lt;u6&gt; attr {/Border [0 0 0]&lt;/i0&gt; goto name {#3} #2 (#1)&lt;u7&gt;} }|</seg>
       </tuv>
     </tu>
     <tu>
