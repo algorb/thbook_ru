@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(BTW, why not to use precompiled Windows version?)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092806Z" creationid="Алексей" creationdate="20171028T092806Z">
+        <seg>(Кстати, почему бы не использовать предварительно скомпилированную версию для Windows?).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Cf. chapter {&lt;u2&gt; Data format}).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143928Z" creationid="Алексей" creationdate="20170913T143928Z">
@@ -2392,6 +2400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All programs (with the exception of BWidget and tkImg package) are usually included in Linux, Unix or MacOS X distributions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092626Z" creationid="Алексей" creationdate="20171028T092626Z">
+        <seg>Все программы (за исключением пакетов BWidget и tkImg) обычно включаются в дистрибутивы Linux, Unix или MacOS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All shots having one of the stations named either `|.|' or `|-|' are |splay| shots by default (see also |data| command).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T051211Z" creationid="Алексей" creationdate="20170920T050827Z">
@@ -3157,6 +3173,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T073754Z" creationid="Алексей" creationdate="20171028T073754Z">
         <seg>Следующие регистровые токены могут использоваться (в соответствии с необходимостью до или после макроса |&lt;u0&gt;|):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Windows consider using MinGW and MSYS (&lt;u0&gt;{http://www.mingw.org}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092653Z" creationid="Алексей" creationdate="20171028T092653Z">
+        <seg>Для Windows необходимы MinGW и MSYS (&lt;u0&gt; {http://www.mingw.org}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4388,6 +4412,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113600Z" creationid="Алексей" creationdate="20171022T112106Z">
         <seg>Он будет печатать только предуп\-реждения и сообщения об ошибках в STDERR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's a distribution of GNU utilities with GNU make and GCC.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092726Z" creationid="Алексей" creationdate="20171028T092726Z">
+        <seg>Эти дистрибутивы содержат GNU make и GCC.</seg>
       </tuv>
     </tu>
     <tu>
