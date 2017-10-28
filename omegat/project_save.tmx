@@ -751,6 +751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* one of the letters `p', `l', `a', `s' for point, line, area or special symbols, respectively; * underscore character; * symbol type as listed in the chapter {&lt;u1&gt; Data format&lt;u2&gt;} with all dashes removed; * if the symbol has a subtype, add underscore character and subtype; * underscore character; * symbol set identifier in uppercase</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190420Z" creationid="Алексей" creationdate="20171028T190420Z">
+        <seg>* одна из букв `p',`l', `a',`s' для точки, линии, области или специальных символов, соответственно; * символ подчеркивания; * тип символа, указанный в главе {&lt;u1&gt; Формат данных&lt;u2&gt;} с удалением всех тире; * если символ имеет подтип, добавьте символ подчеркивания и подтип; * символ подчеркивания; * идентификатор набора символов в верхнем регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* press Ctrl+A or {&lt;u0&gt; File commands} $&lt;u3&gt;$ {&lt;u1&gt; Insert} $&lt;u4&gt;$ {&lt;u2&gt; area} to switch to the `insert area border' mode * RightClick on the lines, that surround desired area * Esc to finish area border lines insertion</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T025924Z" creationid="Алексей" creationdate="20170920T025924Z">
@@ -3602,6 +3610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each symbol has to have a unique name, which consists of following items:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190245Z" creationid="Алексей" creationdate="20171028T190245Z">
+        <seg>Каждый символ должен иметь уникальное имя, состоящее из следующих элементов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Encoding has to be followed by five font specifications for regular, italic, bold, sans-serif and sans-serif oblique styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142608Z" creationid="Алексей" creationdate="20171028T142236Z">
@@ -3670,6 +3686,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140555Z" creationid="Алексей" creationdate="20171028T140555Z">
         <seg>Пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: standard name for a point `water-flow' symbol with a `permanent' subtype in the `MY' set is |p_waterflow_permanent_MY|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190627Z" creationid="Алексей" creationdate="20171028T190627Z">
+        <seg>Пример: стандартное имя для символа `water-flow' с подтипом `permanent' в наборе `MY' -- |p_waterflow_permanent_MY|.</seg>
       </tuv>
     </tu>
     <tu>
