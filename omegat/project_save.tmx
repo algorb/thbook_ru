@@ -2617,6 +2617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A simple example is</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184730Z" creationid="Алексей" creationdate="20171028T184730Z">
+        <seg>Простой пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A synonym term `centerline' may be used.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T005816Z" creationid="Алексей" creationdate="20170912T004901Z">
@@ -3986,6 +3994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For user's convenience, there is |&lt;u0&gt;| token register.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184818Z" creationid="Алексей" creationdate="20171028T184818Z">
+        <seg>Для удобства пользователя существует регистровый токен |&lt;u0&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For working with Therion it is enough to know that you have to create input data (best done with XTherion), run Therion, and display output files (3D model, map, log file) in the appropriate program.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192133Z" creationid="Алексей" creationdate="20170909T185502Z">
@@ -4897,6 +4913,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T165807Z" creationid="Алексей" creationdate="20171027T165626Z">
         <seg>Они состоят из одной или нескольких конкатенирован\-ных записей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains preformatted cave name, north arrow, scale bar, explo/topo/carto teams, comment, copyrights and legend.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185033Z" creationid="Алексей" creationdate="20171028T185033Z">
+        <seg>Он содержит предварительно отформатированное имя пещеры, стрелку на север, шкалу масштаба, команды исследователей, съемщиков и авторов карты, комментарии, авторские права и легенду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9304,6 +9328,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>which displays north arrow in the upper-left corner of the map sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184753Z" creationid="Алексей" creationdate="20171028T184753Z">
+        <seg>который отображает стрелку на север в верхнем левом углу листа карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>which is followed by a mass of SQL insert commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163315Z" creationid="Алексей" creationdate="20171024T163213Z">
@@ -10450,6 +10482,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050131Z" creationid="Алексей" creationdate="20170920T045637Z">
         <seg>|&lt;тип&gt;| может принимать одно из значений: fixed (фиксированным), painted (нари\-сованный) и temporary (временным) (по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;u0&gt;&lt;u1&gt;{ &lt;u2&gt;{0}{100}{NW}{&lt;u3&gt;} }|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184733Z" creationid="Алексей" creationdate="20171028T184733Z">
+        <seg>|&lt;u0&gt;&lt;u1&gt;{ &lt;u2&gt;{0}{100}{NW}{&lt;u3&gt;} }|</seg>
       </tuv>
     </tu>
     <tu>
