@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* loop closure information in SQL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153723Z" creationid="Алексей" creationdate="20171028T153723Z">
+        <seg>* информация о закрытии колец в SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* modify PATH: {&lt;u1&gt;`&lt;u2&gt;12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123455Z" creationid="Алексей" creationdate="20171028T122941Z">
@@ -820,6 +828,30 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153151Z" creationid="Алексей" creationdate="20171028T153151Z">
         <seg>* {&lt;u0&gt; 2003}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; 2004}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153425Z" creationid="Алексей" creationdate="20171028T153425Z">
+        <seg>* {&lt;u0&gt; 2004}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; 2006}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153517Z" creationid="Алексей" creationdate="20171028T153517Z">
+        <seg>* {&lt;u0&gt; 2006}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; 2007}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153538Z" creationid="Алексей" creationdate="20171028T153538Z">
+        <seg>* {&lt;u0&gt; 2007}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2785,6 +2817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although Therion is already used for map production, there are a lot of new features to be implemented:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153644Z" creationid="Алексей" creationdate="20171028T153644Z">
+        <seg>Хотя Therion уже используется для производства карт, есть много новых функций, которые необходимо реализовать:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although Therion makes no distinction between them yet, it should be used to improve 3D modeling in the future.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T063226Z" creationid="Алексей" creationdate="20170920T063226Z">
@@ -3626,6 +3666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feb: Therion 0.5 --- Support for bitmap sketches morphing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153611Z" creationid="Алексей" creationdate="20171028T153611Z">
+        <seg>Февраль: Therion 0.5 -- Поддержка морфинга эскизов растровых изображений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally draw cross-sections.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172918Z" creationid="Алексей" creationdate="20170913T172918Z">
@@ -3918,6 +3966,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053624Z" creationid="Алексей" creationdate="20171022T053624Z">
         <seg>Для |map-fg| вы можете использовать |altitude|, |scrap| или |map| как цвета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Future.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153617Z" creationid="Алексей" creationdate="20171028T153617Z">
+        <seg>Будущее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153655Z" creationid="Алексей" creationdate="20171028T153655Z">
+        <seg>Главная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,6 +5313,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loop closure algorithm included into Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153514Z" creationid="Алексей" creationdate="20171028T153514Z">
+        <seg>Алгоритм замыкания колец включен в Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower-left corner of the map is |0 0|, upper-right corner is |100 100|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040553Z" creationid="Алексей" creationdate="20171022T040553Z">
@@ -5341,6 +5413,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152918Z" creationid="Алексей" creationdate="20171028T152548Z">
         <seg>Март: Therion 0.1 -- Therion способен обрабатывать данные съемки (цен\-тральной линии) пещеры Мертвых летучих мышей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mar: Therion 0.3 --- Therion exports 3D model created from 2D maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153448Z" creationid="Алексей" creationdate="20171028T153448Z">
+        <seg>Март: Therion 0.3 -- Therion экспортирует трехмерную модель, созданную с 2D-карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,6 +5637,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153903Z" creationid="Алексей" creationdate="20170911T153903Z">
         <seg>Объекты (например станции или скрапы, см. ниже), которые относятся к subsurvey текущего survey, записываются как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oct: Therion 0.4 --- New 3D viewer (Loch).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153535Z" creationid="Алексей" creationdate="20171028T153535Z">
+        <seg>Октябрь: Therion 0.4 -- Новый 3D-просмотрщик (Loch).</seg>
       </tuv>
     </tu>
     <tu>
