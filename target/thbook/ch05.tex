@@ -204,59 +204,59 @@ Therion автоматически генерирует список используемых символов карты и списки лиц
 
 {\rightskip0cm plus 5cm |\cavename|, |\comment|, |\copyrights|, |\explotitle|, |\topotitle|, |\cartotitle|, |\exploteam|, |\topoteam|, |\cartoteam|, |\explodate|, |\topodate|, |\cartodate|, |\cavelength|, |\cavedepth|, |\cavelengthtitle|, |\cavedepthtitle|, |\cavemaxz|, |\caveminz|, |\thversion|, |\currentdate|, |\outcscode|, |\outcsname|, |\northdir|, |\magdecl|, |\gridconv|, |\ifnortharrow|, |\ifscalebar|, |\northarrow|, |\scalebar|, |\iflegend|, |\legendtitle|, |\insertlegend|, |\begmulti <i>|, |\endmulti|, |\formattedlegend|, |\legendcolumns|. \par} 
 
-In order to place them somewhere on the map page, you have to define |\maplayout| macro in the |code tex-map| section of the |layout| command. It should contain one or more |\legendbox| invocations. The |\legendbox| macro has four parameters: coordinates ranging 0--100, alignment specification (N, E, S, W, NE, SE, SW, NW or C) and the content to be displayed. 
+Чтобы разместить их где-нибудь на странице карты, вам нужно определить макрос |\maplayout| в разделе |code tex-map| команды |layout|. Он должен содержать один или несколько |\legendbox| вызовов. Макрос |\legendbox| имеет четыре параметра: координаты в диапазоне 0--100, спецификация выравнивания (N, E, S, W, NE, SE, SW, NW или C) и отображаемый контент. 
 
-A simple example is 
+Простой пример: 
 
 |\def\maplayout{ \legendbox{0}{100}{NW}{\northarrow} }| 
 
-which displays north arrow in the upper-left corner of the map sheet. 
+который отображает стрелку на север в верхнем левом углу листа карты. 
 
-For user's convenience, there is |\legendcontent| token register. It contains preformatted cave name, north arrow, scale bar, explo/topo/carto teams, comment, copyrights and legend. (The |\legendcontent| is also used in the default map layout definition: |\def\maplayout{\legendbox{0}{100}{NW}{\the\legendcontent}}|). 
+Для удобства пользователя существует регистровый токен |\legendcontent|. Он содержит предварительно отформатированное имя пещеры, стрелку на север, шкалу масштаба, команды исследователей, съемщиков и авторов карты, комментарии, авторские права и легенду. (|\legendcontent| также используется в определении макета карты по умолчанию: |\def\maplayout{\legendbox{0}{100}{NW}{\the\legendcontent}}|). 
 
-Width of the above text may be adjusted by |\legendwidth| dimen register (its default value is set by |legend-width| layout option). The color and size of texts in the preformatted legend can be easily changed using |\legendtextcolor|, |\legendtextsize|, |\legendtextsectionsize| and |\legendtextheadersize| token registers, e.g. for large blue text: 
+Ширина вышеуказанного текста может быть скорректирована с помощью регистра |\legendwidth| (его значение по умолчанию задано опцией |legend-width| эскиза). Цвет и размер текстов в преформатированной легенде можно легко изменить, используя |\legendtextcolor|, |\legendtextsize|, |\legendtextsectionsize| и |\legendtextheadersize| символьные регистры, например для большого синего текста: 
 
 |code tex-map \legendwidth=20cm \legendtextcolor={\color[0 0 100]} \legendtextsize={\size[20]} \legendtextheadersize={\size[60]}| 
 
-It is possible to display the whole map framed by setting the |\framethickness| dimen register to positive value, e.g. |0.5mm|. 
+Можно отобразить всю карту, обрамленную установкой регистра |\framethickness| в положительное значение, например |0.5mm|. 
 
-\subchapter Customizing text labels. 
+\subchapter Настройка текстовых меток. 
 
-Starting with the release 5.4.1 you can use |fonts-setup| layout option instead of the \MP\ macro |fonts_setup()|. 
+Начиная с версии 5.4.1 вы можете использовать опцию |fonts-setup| макета вместо макроса \MP\ |fonts_setup()|. 
 
-\subchapter New map symbols. 
+\subchapter Новые символы карты. 
 
-Therion's layout command makes it easy to switch among various predefined map symbol sets. If there is no such symbol or symbol set you want, it's possible to design new map symbols. 
+Команда компоновки Therion позволяет легко переключаться между различными предопределенными наборами символов карты. Если такой символ или набор символов вам не нужен, можно создать новые символы карты. 
 
-However, this requires knowledge of the \MP\ language, which is used for map visualization. It's described in 
+Однако для этого требуется знание языка \MP, который используется для визуализации карты. Это описано в: 
 
 \list
 
-Hobby, J. D.: {\it A User's Manual for MetaPost}, available at \hfil\break \www{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz} \endlist
+Hobby, J. D.: {\it A User's Manual for MetaPost}, доступно в \hfil\break \www{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz} \endlist
 
-User may also benefit from comprehensive reference to the {\manfnt METAFONT} language, which is quite similar to \MP: 
+Пользователь также может воспользоваться исчерпывающей ссылкой на язык {\manfnt METAFONT}, который очень похож на \MP: 
 
 \list
 
 Knuth, D. E.: {\it The METAFONTbook}, Reading, Massachusetts, Addison-Wesley $^1$1986 \endlist
 
-New symbols may be defined in the |code metapost| section of the |layout| command. This makes it easy to add new symbols at the run-time. It is also possible to add symbols permanently by compiling them into Therion executable (see the {\it Appendix} for instructions how to do this). 
+Новые символы могут быть определены в разделе |code metapost| команды |layout|. Это упрощает добавление новых символов во время выполнения. Также можно добавлять символы для постоянного использования, компилируя их в исполняемый файл Therion (смотрите. {\it Приложение} для инструкций, как это сделать). 
 
-Each symbol has to have a unique name, which consists of following items: 
+Каждый символ должен иметь уникальное имя, состоящее из следующих элементов: 
 
-\list * one of the letters `p', `l', `a', `s' for point, line, area or special symbols, respectively; * underscore character; * symbol type as listed in the chapter {\it Data format\/} with all dashes removed; * if the symbol has a subtype, add underscore character and subtype; * underscore character; * symbol set identifier in uppercase \endlist
+\list * одна из букв `p',`l', `a',`s' для точки, линии, области или специальных символов, соответственно; * символ подчеркивания; * тип символа, указанный в главе {\it Формат данных\/} с удалением всех тире; * если символ имеет подтип, добавьте символ подчеркивания и подтип; * символ подчеркивания; * идентификатор набора символов в верхнем регистре. \endlist
 
-Example: standard name for a point `water-flow' symbol with a `permanent' subtype in the `MY' set is |p_waterflow_permanent_MY|. Standard name for user-defined symbol types should not include symbol set identifier, e.g.~|p_u_bat|. 
+Пример: стандартное имя для символа `water-flow' с подтипом `permanent' в наборе `MY' -- |p_waterflow_permanent_MY|. Стандартное имя для пользовательских типов символов не должно включать идентификатор набора символов, например. |p_u_bat|. 
 
-Each new symbol has to be registered by a macro call 
+Каждый новый символ должен быть зарегистрирован вызовом макроса: 
 
 |initsymbol("<standard-name>");| 
 
-unless it's compiled into Therion executable. 
+если он не скомпилирован в исполняемый файл Therion. 
 
-There are four predefined pens {\it PenA} (thickest) \dots\ {\it PenD} (thinnest), which should be used for all drawings. For drawing and filling use |thdraw| and |thfill| commands instead of \MP's |draw| and |fill|. 
+Существует четыре предопределенных ручки {\it PenA} (самый толстый) \dots\ {\it PenD} (самый тонкий), который должен использоваться для всех чертежей. Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо \MP's |draw| и |fill|. 
 
-\NEW{5.4}The following variables are also available: 
+\NEW{5.4}Доступны также следующие переменные: 
 
 \list
 
