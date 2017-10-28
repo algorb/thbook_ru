@@ -695,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* unpack the source distribution |therion-5.*.tar.gz| * |cd therion| * |make config-macosx| or |make config-win32|, if you use MacOS X or Windows, respectively * |make| * |sudo make install|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122355Z" creationid="Алексей" creationdate="20171028T122355Z">
+        <seg>* распаковать исходники дистрибутива |therion-5.*.tar.gz|; * |cd therion|; * |make config-macosx| или |make config-win32|, если вы используете MacOS X или Windows, соответственно; * |make|; * |sudo make install|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = display a particular symbol in the given symbol-set.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184910Z" creationid="Алексей" creationdate="20171021T125245Z">
