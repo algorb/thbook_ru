@@ -3209,6 +3209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default setting is |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142256Z" creationid="Алексей" creationdate="20171028T142246Z">
+        <seg>Значение по умолчанию: |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
@@ -3345,6 +3353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Encoding has to be followed by five font specifications for regular, italic, bold, sans-serif and sans-serif oblique styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142236Z" creationid="Алексей" creationdate="20171028T142236Z">
+        <seg>За кодировкой должны следовать пять спецификаций шрифтов для обычных, курсивных, полужирных, без засечек и наклонных без засечек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environment variables.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125157Z" creationid="Алексей" creationdate="20171028T125157Z">
@@ -3381,6 +3397,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085802Z" creationid="Алексей" creationdate="20171028T085802Z">
         <seg>Пример создания атласа со списками съемщиков и т.д.&lt;u0&gt;за которыми следуют карты и с легендой в конце:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example how to use other fonts (e.g. TrueType Palatino in xl2 (an encoding derived from ISO8859-2) encoding).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142335Z" creationid="Алексей" creationdate="20171028T142335Z">
+        <seg>Пример использования других шрифтов (например, TrueType Palatino в кодировке xl2, кодировка, полученная из ISO8859-2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5883,8 +5907,8 @@
       <tuv lang="EN-US">
         <seg>Some information is lost in the PFB format, but there is advantage that pdf&lt;u0&gt;&lt;u1&gt;can embed subset of PFB fonts (in contrast with OpenType fonts which must be fully embedded).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141329Z" creationid="Алексей" creationdate="20171028T141329Z">
-        <seg>Некоторая информация теряется в формате PFB, но есть преимущество, что pdf &lt;u0&gt;&lt;u1&gt;может встраивать часть шрифтов PFB (в отличие от шрифтов OpenType, которые должны быть встроены полностью);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141728Z" creationid="Алексей" creationdate="20171028T141329Z">
+        <seg>Некоторая информация теряется в формате PFB, но есть преимущество в том, что pdf&lt;u0&gt;&lt;u1&gt;может встраивать часть шрифтов PFB (в отличие от шрифтов OpenType, которые должны быть встроены полностью);</seg>
       </tuv>
     </tu>
     <tu>
@@ -6387,6 +6411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list of currently supported encodings gives the |--print-tex-encodings| command line option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141834Z" creationid="Алексей" creationdate="20171028T141453Z">
+        <seg>Список поддерживаемых в настоящее время кодировок выводится опцией |--print-tex-encodings| в командной\break строке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximal and average scrap distortions are calculated as a maximum or average of such measures applied to all pairs of points.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135706Z" creationid="Алексей" creationdate="20171022T132150Z">
@@ -6451,6 +6483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The only exception is the base set of Computer Modern fonts, which use `raw' encoding.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142104Z" creationid="Алексей" creationdate="20171028T142104Z">
+        <seg>Единственным исключением является базовый набор шрифтов Computer Modern, которые используют `сырую' кодировку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The order of submenus on the side may be customized by the user.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
@@ -6495,6 +6535,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111116Z" creationid="Алексей" creationdate="20171021T111116Z">
         <seg>Так же, как и в команде |select|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same encoding must be used while generating &lt;u0&gt;&lt;u3&gt;metrics (|*.tfm| files) for those fonts (e.g. with the afm2tfm program) and this encoding must be explicitly given also in the pdf&lt;u1&gt;'s map file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142009Z" creationid="Алексей" creationdate="20171028T141559Z">
+        <seg>Та же кодировка должна использоваться при генерации &lt;u0&gt;\break метрик (|*.tfm| файлов) для этих шрифтов (например, с использованием программы afm2tfm), и эта кодировка должна быть явно указана в файле карты в pdf&lt;u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7295,6 +7343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This encoding doesn't need to be specified in the pdf&lt;u2&gt;'s map file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142146Z" creationid="Алексей" creationdate="20171028T142146Z">
+        <seg>Эта кодировка не нуждается в указывании в файле карты pdf&lt;u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This file is UTF-8 encoded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130113Z" creationid="Алексей" creationdate="20171028T123734Z">
@@ -7780,8 +7836,8 @@
       <tuv lang="EN-US">
         <seg>When set to |on| (default), OpenType fonts used in |pdf-fonts| are converted to PFB fonts, if they are PostScript-based.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141212Z" creationid="Алексей" creationdate="20171028T141212Z">
-        <seg>Когда установлено значение |on| (по умолчанию), шрифты OpenType, используемые в |pdf-fonts|, преобразуются в шрифты PFB, если они основаны на PostScript.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141653Z" creationid="Алексей" creationdate="20171028T141212Z">
+        <seg>Когда установлено значение |on| (по умолчанию), шрифты OpenType,\break используемые в |pdf-fonts|, преобразуются в шрифты PFB, если они осно\-ваны на PostScript.</seg>
       </tuv>
     </tu>
     <tu>
