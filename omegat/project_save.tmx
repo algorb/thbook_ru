@@ -3386,6 +3386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customizing text labels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185706Z" creationid="Алексей" creationdate="20171028T185706Z">
+        <seg>Настройка текстовых меток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DON'T PANIC!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185019Z" creationid="Алексей" creationdate="20170909T185019Z">
@@ -4106,6 +4114,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hobby, J. D.: {&lt;u0&gt; A User's Manual for MetaPost}, available at &lt;u1&gt;&lt;u2&gt; &lt;u3&gt;{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185955Z" creationid="Алексей" creationdate="20171028T185912Z">
+        <seg>Hobby, J. D.: {&lt;u0&gt; A User's Manual for MetaPost}, доступно в &lt;u1&gt;&lt;u2&gt; &lt;u3&gt;{http://cm.bell-labs.com/cm/cs/cstr/162.ps.gz}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How does it work?.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181938Z" creationid="Алексей" creationdate="20170909T181938Z">
@@ -4150,6 +4166,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125001Z" creationid="Алексей" creationdate="20171028T125001Z">
         <seg>Тем не менее, возможно внесение постоянных изменений в файлы макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, this requires knowledge of the &lt;u0&gt;&lt;u1&gt;language, which is used for map visualization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185858Z" creationid="Алексей" creationdate="20171028T185858Z">
+        <seg>Однако для этого требуется знание языка &lt;u0&gt;, который используется для визуализации карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4528,6 +4552,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164511Z" creationid="Алексей" creationdate="20171027T164511Z">
         <seg>Если такой страницы нет, номер ее страницы равен 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is no such symbol or symbol set you want, it's possible to design new map symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185842Z" creationid="Алексей" creationdate="20171028T185842Z">
+        <seg>Если такой символ или набор символов вам не нужен, можно создать новые символы карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5209,6 +5241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's described in</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185907Z" creationid="Алексей" creationdate="20171028T185907Z">
+        <seg>Это описано в:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's easy to add new encodings for 2D map output.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T131100Z" creationid="Алексей" creationdate="20171028T124403Z">
@@ -5613,6 +5653,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170119Z" creationid="Алексей" creationdate="20170909T161323Z">
         <seg>Необходимо только в том случае, если вы хотите соз\-да\-вать 2D-карты в формате PDF или SVG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New map symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185820Z" creationid="Алексей" creationdate="20171028T185820Z">
+        <seg>Новые символы карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6486,6 +6534,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055111Z" creationid="Алексей" creationdate="20171021T055111Z">
         <seg>Указывает, какие файлы съемки (данных) Therion должны читать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting with the release 5.4.1 you can use |fonts-setup| layout option instead of the &lt;u0&gt;&lt;u1&gt;macro |fonts_setup()|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185814Z" creationid="Алексей" creationdate="20171028T185814Z">
+        <seg>Начиная с версии 5.4.1 вы можете использовать опцию |fonts-setup| макета вместо макроса &lt;u0&gt;&lt;u1&gt;|fonts_setup()|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,6 +7707,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132829Z" creationid="Алексей" creationdate="20171028T132620Z">
         <seg>Системно-зависимые параметры Therion'а и XTherion'а указаны в файле\break therion.ini или xtherion.ini, соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion's layout command makes it easy to switch among various predefined map symbol sets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185832Z" creationid="Алексей" creationdate="20171028T185832Z">
+        <seg>Команда компоновки Therion позволяет легко переключаться между различными предопределенными наборами символов карты.</seg>
       </tuv>
     </tu>
     <tu>
