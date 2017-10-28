@@ -217,17 +217,17 @@ Therion считывает следующие переменные среды:
 
 |palatino <xl2.enc <palatino.ttf| 
 
-в pdf\TeX\ файл карты. The same should be done for the italic and bold faces and corresponding sans-serif and sans-serif-oblique fonts. If you're lazy try 
+в pdf\TeX\ файл карты. То же самое должно быть сделано для курсивых и полужирных шрифтов и соответствующих шрифтов без засечек и наклонных без засечек. Если вы ленитесь, попробуйте: 
 
 |tex-fonts xl2 palatino palatino palatino palatino palatino| 
 
-(We should use actually virtual font |vpalatino| instead of |palatino|, which contains no kerning or ligatures, but pdf\TeX\ doesn't support |\pdfincludechars| command on virtual fonts. To be improved.) 
+(Мы должны использовать виртуальный шрифт |vpalatino| вместо |palatino|, который не содержит кернинга или лигатуры, но pdf\TeX\ не поддерживает команду |\pdfincludechars| на виртуальных шрифтах. Будет улучшен). 
 
-If you want to add some unsupported encodings, read the chapter {\it Compilation / Hacker's guide}. 
+Если вы хотите добавить некоторые неподдерживаемые кодировки, прочитайте главу {\it Компиляция / Руководство хакера}; 
 
-* |tex-fonts-optional <encoding> <rm> <it> <bf> <ss> <si>| 
+* |tex-fonts-optional <кодировка> <rm> <it> <bf> <ss> <si>| 
 
-Similar to |tex-fonts|, but tests if the \TeX\ fonts are installed in the system. It does nothing if any of the specified fonts is not present. 
+Подобно смотрите в |tex-fonts|, но дополнительно проверяет, установлены ли в системе шрифты \TeX \ . It does nothing if any of the specified fonts is not present. 
 
 This setting is used by default for Czech/Slovak and cyrillic fonts to avoid \MP\ errors on systems without these fonts present. 
 
