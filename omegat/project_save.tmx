@@ -630,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* install the following static/win32 packages (i686-w64-mingw32.static-&lt;u0&gt;42) to the directory |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122934Z" creationid="Алексей" creationdate="20171028T122842Z">
+        <seg>* установите следующие static/win32-пакеты (i686-w64-mingw32.static-&lt;u0&gt;42) в директорию |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* it has |-visibility| option set |on| (all symbols by default), * it hasn't been hidden by the |-symbol-hide| option in layout, * if its |-context| option is set, the corresponding symbol hasn't been hidden by the |-symbol-hide| option in layout.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143540Z" creationid="Алексей" creationdate="20170919T143540Z">
         <seg>* он имеет опцию |-visibility| со значением |on| (все символы по умолчанию); * он не был скрыт опцией |-symbol-hide| в layout; * если его опция |-context| установлена, а соответствующий символ не был скрыт опцией |-symbol-hide| в layout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* modify PATH: {&lt;u1&gt;`&lt;u2&gt;12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123001Z" creationid="Алексей" creationdate="20171028T122941Z">
+        <seg>* измените PATH: {&lt;u1&gt;`&lt;u2&gt;12|export PATH=/usr/lib/mxe/usr/bin:$PATH|} * |cd therion| * |make config-win32cross| * |make|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion supports compilation of Win32 executables in Linux using MXE cross compiler (&lt;u0&gt;{http://mxe.cc}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122832Z" creationid="Алексей" creationdate="20171028T122832Z">
+        <seg>Therion поддерживает компиляцию исполняемых файлов Win32 в Linux с использованием кросс-компилятора MXE (&lt;u0&gt;{http://mxe.cc}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion supports coordinate transformations in geodetic coordinate systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131006Z" creationid="Алексей" creationdate="20170910T131006Z">
@@ -8072,6 +8096,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164428Z" creationid="Алексей" creationdate="20171027T164415Z">
         <seg>{&lt;u0&gt; Регистровые счетчики:}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Cross-compilation for Windows}&lt;u1&gt;{5.4}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122805Z" creationid="Алексей" creationdate="20171028T122756Z">
+        <seg>{&lt;u0&gt; Кросс-компиляция для Windows}&lt;u1&gt;{5.4}</seg>
       </tuv>
     </tu>
     <tu>
