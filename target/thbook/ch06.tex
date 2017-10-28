@@ -256,15 +256,21 @@ SVG-карта: без ограничений; * количество скрапов = примерно 500--6000, в зависим
 
 предел pdf\TeX: $2\times страницы + изображения + шаблоны + 6 (скрапы + сечения)\break < 32500$ \endlist
 
-\subchapter Example data. 
+\subchapter Примеры данных. 
 
-Following simple example illustrates basic usage of Therion commands: 
+Следующий простой пример иллюстрирует базовое использование команд Therion: 
 
 |encoding utf-8 
 
-survey main -title "Test cave" 
+survey main -title "Тестовая пещера" 
 
-survey first centreline units compass grad data normal from to compass clino length 1 2 100 -5 10 endcentreline endsurvey 
+	survey first
+		centreline
+			units compass grad
+			data normal from to compass clino length
+				1 2 100 -5 10
+		endcentreline
+	endsurvey 
 
 survey second -declination [3 deg] centreline calibrate length 0 0.96 data normal from to compass length clino 1 2 0 10 +10 endcentreline endsurvey 
 
