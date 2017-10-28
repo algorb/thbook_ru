@@ -67,42 +67,42 @@ Therion поддерживает компиляцию исполняемых файлов Win32 в Linux с использование
 
 {\it Добавление новых переводов} 
 
-Therion supports translation of map labels. Suppose you want to add a new language |xx|. 
+Therion поддерживает перевод текстовых меток на картах. Предположим, вы хотите добавить новый язык |xx|. 
 
 \list
 
-* run `|perl process.pl export xx|' in the `thlang' Therion source subdirectory. This creates a file |texts_xx.txt|. This file is UTF-8 encoded. * edit the |texts_xx.txt| file. Add your translations at lines beginning with `|xx:|'. * run |make update| * compile Therion \endlist
+* run `|perl process.pl export xx|' в подкаталоге Therion'а `thlang'. Это создаст файл |texts_xx.txt|. Этот файл имеет кодировку UTF-8. * отредактируйте файл |texts_xx.txt|. Добавьте свои переводы в строки, начинающиеся с `|xx:|'. * запустите |make update|. * скомпилируйте Therion. \endlist
 
-{\it Adding new encodings} 
+{\it Добавление новых кодировок} 
 
-Although UTF-8 Unicode encoding covers all characters which Therion is able to process, it may be inconvenient to use it. In that case it's possible to add support for any 8-bit encoding for text input files. Copy a translation file to the |thchencdata| directory; add its name to `ifiles' hash in the beginning of the Perl script |generate.pl|; run it and recompile Therion. 
+Хотя кодировка Unicode UTF-8 содержит все символы, которые Therion может использовать, может быть неудобно использовать ее. В этом случае можно добавить поддержку любого 8-битной кодировки для текстовых входных файлов. Скопируйте файл перевода в |thchencdata| каталог; добавьте его имя в хэш-код `ifiles' в начале скрипта Perl |generate.pl|; запустить его и перекомпилируйте Therion. 
 
-The translation file should contain two hexadecimal values of a character (first one in the 8-bit encoding, second one in Unicode) in each line. Possible comments follow the `|#|' character. 
+Файл перевода должен содержать два шестнадцатеричных символа (первый в 8-разрядной кодировке, второй в Unicode) в каждой строке. Можно добавлять комментарии за символом `|#|'. 
 
-{\it Adding new \TeX\ encodings} 
+{\it Добавление новых \TeX\ кодировок} 
 
-It's easy to add new encodings for 2D map output. \[\NEW{5.3}This section applies to old-style font selection using |tex-fonts| command in the initialization file and is obsolete when using |pdf-fonts| command.] Copy an appropriate encoding mapping file with an |*.enc| extension to the |texenc/encodings|, run the Perl script |mktexenc.pl| located in the |texenc| directory and compile Therion. 
+Легко добавить новые кодировки для вывода 2D-карты. \[\NEW{5.3}Этот раздел относится к выбору шрифтов старого стиля с использованием команды |tex-fonts| в файле инициализации и устарела при использовании команды |pdf-fonts|.] Скопируйте соответствующий файл сопоставления кодировки с |*.enc| расширение для в |texenc/encodings|, запустить скрипт Perl |mktexenc.pl| расположенный в каталоге |texenc| и перекомпилируйте Therion. 
 
 %
-Therion uses the same encoding files as |afm2tfm| program from the \TeX\  distribution, which has the same format as an encoding vector in a PostScript font. You may find more details in the chapter {\it 6.3.1.5 Encoding file format} in the documentation to Dvips program. 
+Therion использует те же файлы кодировки, что и программа |afm2tfm| из дистрибутива \TeX\ , который имеет тот же формат, что и векторная кодировка в шрифте PostScript. Вы можете найти более подробную информацию в главе {\it 6.3.1.5 Формат файла кодировки} в документации к программе Dvips. 
 
-{\it Generating new \TeX\ and \MP\ headers} 
+{\it Генерация новых \TeX\ и \MP\ заголовков} 
 
-Therion uses \TeX\ and \MP\ for 2D map visualization and typesetting. Predefined macros are compiled into the Therion executable and are copied to the working directory just before running \MP\ and \TeX\ (unless the |--use-extern-libs| option is used). Layout command makes it possible to modify some macros in the configuration file at the run-time. 
+Therion использует \TeX\ и \MP\ для 2D-визуализации карт и верстки. Предопределенные макросы компилируются в исполняемый файл Therion'а и копируются в рабочий каталог непосредственно перед запуском \MP\ и \TeX\ (если не используется опция |--use-extern-libs|). Команда |layout| позволяет изменять некоторые макросы в файле конфигурации во время выполнения. 
 
-However, it's possible to make permanent changes to the macro files. After modifying the files in the |mpost| and |tex| directories it's necessary to run Perl scripts |genmpost.pl| and |gentex.pl|, which generate C++ header files, and compile Therion executable again. 
+Тем не менее, возможно внесение постоянных изменений в файлы макросов. После изменения файлов в каталогах |mpost| и |tex| необходимо запустить Perl-скрипты |genmpost.pl| и |gentex.pl|, которые генерируют header файлы C++, и снова компилируют исполняемый файл Therion'а. 
 
-\subchapter Environment variables. 
+\subchapter Переменные среды. 
 
-Therion reads following environment variables: 
+Therion считывает следующие переменные среды: 
 
 \list
 
-* |THERION| = [not required] search path for (x)therion.ini file(s) * |HOME| (|HOMEDRIVE| + |HOMEPATH| on WinXP) = [not required, but usually present on your system] search path for (x)therion.ini file(s) * |TEMP|, |TMP| = system temporary directory, where Therion stores temporary files (in a directory named |th$PID$|, where |$PID$| is a process ID), unless |tmp-path| is specified in the initialization file. \endlist
+* |THERION| = [не требуется] путь поиска для файла(ов) (x)therion.ini; * |HOME| (|HOMEDRIVE| + |HOMEPATH| на WinXP) = [не требуется, но обычно присутствует в вашей системе] путь поиска для файла(ов) (x)therion.ini; * |TEMP|, |TMP| = системный временный каталог, где Therion хранит временные файлы (в каталоге с именем |th$PID$|, где |$PID$| является идентификатором процесса), если только |tmp-path| указан в файле инициализации. \endlist
 
-Consult the documentation of your OS how to set them. 
+Проконсультируйтесь с документацией вашей ОС о том, как их установить. 
 
-\subchapter Initialization files. 
+\subchapter Файлы инициализации. 
 
 Therion's and XTherion's system dependent settings are specified in the file therion.ini or xtherion.ini, respectively. They are searched for in the following directories: 
 
