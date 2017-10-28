@@ -2859,8 +2859,8 @@
       <tuv lang="EN-US">
         <seg>Although Therion is already used for map production, there are a lot of new features to be implemented:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153644Z" creationid="Алексей" creationdate="20171028T153644Z">
-        <seg>Хотя Therion уже используется для производства карт, есть много новых функций, которые необходимо реализовать:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T154251Z" creationid="Алексей" creationdate="20171028T153644Z">
+        <seg>Хотя Therion уже используется для создания карт, есть много новых\break функций, которые необходимо реализовать:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3708,8 +3708,8 @@
       <tuv lang="EN-US">
         <seg>Feb: Therion 0.5 --- Support for bitmap sketches morphing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153611Z" creationid="Алексей" creationdate="20171028T153611Z">
-        <seg>Февраль: Therion 0.5 -- Поддержка морфинга эскизов растровых изображений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T154154Z" creationid="Алексей" creationdate="20171028T153611Z">
+        <seg>Февраль: Therion 0.5 -- Поддержка морфинга эскизов растровых изобра\-жений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5251,8 +5251,8 @@
       <tuv lang="EN-US">
         <seg>Jun: all Perl scripts rewritten in C++, Therion is one executable program now (although using Survex and &lt;u0&gt;)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153421Z" creationid="Алексей" creationdate="20171028T153421Z">
-        <seg>Июнь: все сценарии Perl переписанные на C++, Therion -- это одна исполняемая программа (хотя использует Survex и &lt;u0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T154209Z" creationid="Алексей" creationdate="20171028T153421Z">
+        <seg>Июнь: все сценарии Perl переписанные на C++, Therion -- это одна испол\-няемая программа (хотя использует Survex и &lt;u0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
