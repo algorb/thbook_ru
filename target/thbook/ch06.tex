@@ -174,20 +174,20 @@ Therion считывает следующие переменные среды:
 
 Установите в |on|, если вы используете другой дистрибутив \TeX\ для обработки карт; 
 
-* |text <language ID> <therion text> <my text>| 
+* |text <ID языка> <текст Therion'а> <свой текст>| 
 
-Using this option you can change any default therion text translation in output. Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|. 
+С помощью этой опции вы можете изменить любой текст перевода по умолчанию на выходе. Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|; 
 
 * |cs-def <id> <proj4def>|\NEW{5.4} 
 
 %[other options]
-Define a new coordinate system |<id>| using Proj4 syntax. 
+Определяет новую систему координат |<id>| используя синтаксис Proj4; 
 
 * |pdf-fonts <rm> <it> <bf> <ss> <si>|\NEW{5.3} 
 
-Set-up fonts to be used in PDF maps. The command has to be followed by paths specifying where regular, italic, bold, sans-serif and sans-serif oblique fonts are located in your system. TrueType and OpenType fonts are supported. 
+Настройка шрифтов, которые будут использоваться в PDF-картах. За командой должны следовать пути, указывающие, где в вашей системе расположены обычные, курсивные, полужирные, без засечек и наклонные без засечек шрифты. Поддерживаются шрифты TrueType и OpenType. 
 
-Therion requires LCDF Typetools to be installed on your system to use this command. Example: 
+Для использования этой команды Therion требует установки LCDF Typetools в вашей системе. Пример: 
 
 |pdf-fonts "/usr/share/fonts/Serif.ttf" \"/usr/share/fonts/Serif-Italic.ttf" \"/usr/share/fonts/Serif-Bold.ttf" \"/usr/share/fonts/Sans.ttf" \"/usr/share/fonts/Sans-Oblique.ttf"| 
 
