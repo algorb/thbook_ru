@@ -105,7 +105,9 @@ Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, доступно
 %% %
 (обратите внимание, как использовать аргумент {\it destination}), или намного проще (если нам не нужны функции гиперссылки): 
 
-{\tt|\def\processpointeritem#1|\char124|#2|\char124}|#3\endarg{ \hbox{#2 (#1)} }| \endlist
+{\tt|\def\processpointeritem#1|\char124|#2|\char124}|#3\endarg{|\%|
+	\hbox{#2 (#1)}|\%|
+}| \endlist
 
 %%
 Для управления шрифтом есть следующие макросы: 
