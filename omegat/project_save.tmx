@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>(Which contains |&lt;u2&gt;| or |&lt;u4&gt;|, see above.) For each record it calls the macro |&lt;u5&gt;|, which is responsible for data formatting.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043447Z" creationid="Алексей" creationdate="20171028T043447Z">
-        <seg>(Который содержит |&lt;u2&gt;| или |&lt;u4&gt;|, смотрите выше.) Для каждой записи он вызывает макрос |&lt;u5&gt;|, который отвечает за форматирование данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045050Z" creationid="Алексей" creationdate="20171028T043447Z">
+        <seg>Содержимое |&lt;u2&gt;| и |&lt;u4&gt;| смо\-трите выше. Для каждой записи |&lt;u0&gt;| вызывает макрос |&lt;u5&gt;|, который отвечает за форматирование данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -969,16 +969,16 @@
       <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| has three arguments (page-name, page-number, destination) and visualizes these data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043714Z" creationid="Алексей" creationdate="20171028T043535Z">
-        <seg>* |&lt;u0&gt;| имеет три аргумента (page-name (название страницы), page-number (номер страницы), destination (место отображения)) и выводит эти данные.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045225Z" creationid="Алексей" creationdate="20171028T043535Z">
+        <seg>* |&lt;u0&gt;| имеет три аргумента -- page-name (название страницы), page-number (номер страницы), destination (место отображения), и выводит эти данные.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |&lt;u0&gt;| with one of the |&lt;u1&gt;| or |&lt;u3&gt;| as an argument presents the content of this argument.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043357Z" creationid="Алексей" creationdate="20171028T043319Z">
-        <seg>* |&lt;u0&gt;| с одним из аргументов |&lt;u1&gt;| или |&lt;u3&gt;| представляет содержание этого аргумента.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044744Z" creationid="Алексей" creationdate="20171028T043319Z">
+        <seg>* |&lt;u0&gt;| с одним из аргументов |&lt;u1&gt;| или |&lt;u3&gt;| представ\-ляет содержание этого аргумента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,8 +2346,8 @@
       <tuv lang="EN-US">
         <seg>An example definition may be</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043806Z" creationid="Алексей" creationdate="20171028T043806Z">
-        <seg>Пример может быть следующим</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045610Z" creationid="Алексей" creationdate="20171028T043806Z">
+        <seg>Пример может быть следующим:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4370,8 +4370,8 @@
       <tuv lang="EN-US">
         <seg>Macro |&lt;u0&gt;| should be used without redefinition in the place where you want to display the content of its argument; for custom data formatting redefine |&lt;u1&gt;| macro.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043529Z" creationid="Алексей" creationdate="20171028T043529Z">
-        <seg>Макрос |&lt;u0&gt;| следует использовать без переопределения в том месте, где вы хотите отобразить содержимое своего аргумента; для форматирования пользовательских данных переопределите макрос |&lt;u1&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045137Z" creationid="Алексей" creationdate="20171028T043529Z">
+        <seg>Макрос |&lt;u0&gt;| следует использовать без переопределения в том месте, где вы хотите отобразить содержимое своего аргумента; для форма\-тирования пользовательских данных переопределите макрос |&lt;u1&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4476,6 +4476,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
         <seg>Значение цветов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More advanced is the default definition of the |&lt;u0&gt;| macro:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044629Z" creationid="Алексей" creationdate="20171028T044629Z">
+        <seg>Более продвинутым является определение по умолчанию макроса |&lt;u0&gt;|:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5301,8 +5309,8 @@
       <tuv lang="EN-US">
         <seg>The arguments are delimited as follows</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T043723Z" creationid="Алексей" creationdate="20171028T043723Z">
-        <seg>Аргументы разделяются следующим образом</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045308Z" creationid="Алексей" creationdate="20171028T043723Z">
+        <seg>Аргументы разделяются следующим образом:</seg>
       </tuv>
     </tu>
     <tu>
