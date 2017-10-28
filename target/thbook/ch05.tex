@@ -87,50 +87,50 @@ Th\`anh, H. T.---Rahtz, S.---Hagen, H.: {\it The pdf\TeX\ user manual}, доступно
 
 * |\showpointer| с одним из |\pointerE|, |\pointerW|, |\pointerN| или |\pointerS| в качестве аргумента отображает значение аргумента. Если значение равно 0, тогда ничего не отображается. Это полезно, потому что нулевое значе\-ние (нет соседней страницы) не должно отображаться. 
 
-* |\showpointerlist| with one of the |\pointerU| or |\pointerD| as an argument presents the content of this argument. (Which contains |\pointerU| or |\pointerD|, see above.) For each record it calls the macro |\processpointeritem|, which is responsible for data formatting. 
+* |\showpointerlist| с одним из аргументов |\pointerU| или |\pointerD| представляет содержание этого аргумента. (Который содержит |\pointerU| или |\pointerD|, смотрите выше.) Для каждой записи он вызывает макрос |\processpointeritem|, который отвечает за форматирование данных. 
 
-Macro |\showpointerlist| should be used without redefinition in the place where you want to display the content of its argument; for custom data formatting redefine |\processpointeritem| macro. 
+Макрос |\showpointerlist| следует использовать без переопределения в том месте, где вы хотите отобразить содержимое своего аргумента; для форматирования пользовательских данных переопределите макрос |\processpointeritem|. 
 
-* |\processpointeritem| has three arguments (page-name, page-number, destination) and visualizes these data. The arguments are delimited as follows 
+* |\processpointeritem| имеет три аргумента (page-name (название страницы), page-number (номер страницы), destination (место отображения)) и выводит эти данные. Аргументы разделяются следующим образом 
 
 {\tt|\def\processpointeritem#1|\char124|#2|\char124|#3\endarg{...}|} 
 
-An example definition may be 
+Пример может быть следующим 
 
 {\tt|\def\processpointeritem#1|\char124|#2|\char124}|#3\endarg{ \hbox{\pdfstartlink attr {/Border [0 0 0]} goto name {#3} #2 (#1)\pdfendlink} }| 
 
 %% %
-(note how to use the {\it destination} argument), or much simpler (if we don't need hyperlink features): 
+(обратите внимание, как использовать аргумент {\it destination}), или намного проще (если нам не нужны функции гиперссылки): 
 
 {\tt|\def\processpointeritem#1|\char124|#2|\char124}|#3\endarg{ \hbox{#2 (#1)} }| \endlist
 
 %%
-For font management there are macros 
+Для управления шрифтом есть следующие макросы: 
 
 \list
 
-* |\size[#1]| for size changes, 
+* |\size[#1]| для изменения размера, 
 
-* |\color[#1 #2 #3]| for colour changes (RGB values in the range 0--100), and 
+* |\color[#1 #2 #3]| для изменения цвета (значения RGB в диапазоне 0-100) и 
 
-* |\rm|, |\it|, |\bf|, |?|, |\si| for type face switching. \endlist
+* |\rm|, |\it|, |\bf|, |?|, |\si| для изменения типа отображения. \endlist
 
 %If you use own texts in \TeX\ macros (like a label for the scale bar), these 
 %font switches work only in restricted manner: it's supposed that all characters 
 %are present in the first encoding specified in the initialization file. 
-See below for a list of predefined texts which may be used in the atlas. 
+Ниже приведен список предопределенных настроек текстов, которые могут быть использованы в атласе. 
 
-There is also a |\framed| macro which takes a box as an argument and displays the box framed. The frame style can be customized by redefining the |\linestyle| macro which defaults to |1 J 1 j 1.5 w|. 
+Также есть макрос |\framed|, который принимает бокс в качестве аргумента и отображает бокс в рамке. Стиль рамки можно настроить, переопределив макрос |\linestyle|, который по умолчанию равен |1 J 1 j 1.5 w|. 
 
-Now we're ready to define the |\dopage| macro. You may choose which of the predefined elements to use. A very simple example would be 
+Теперь мы готовы определить макрос |\dopage|. Вы можете выбрать, какой из предопределенных элементов использовать. Очень простой пример: 
 
 |layout my_layout scale 1 200 page-setup 29.7 21 27.7 19 1 1 cm size 26.7 18 cm overlap 0.5 cm code tex-atlas \def\dopage{\box\mapbox} \insertmaps endlayout| 
 
-which defines the landscape A4 layout without the navigator nor any texts. There is only a map on the page. 
+который определяет размер формата A4 без навигатора и любых текстов. На странице есть только карта. 
 
-Note the |\insertmaps| macro. Map pages are inserted at its position. This is not done automatically because you may wish to insert some other pages before the first map page. 
+Обратите внимание на макрос |\insertmaps|. Страницы карты вставляются в его положение. Это не делается автоматически, потому что вы можете вставить некоторые другие страницы перед первой страницей карты. 
 
-More advanced is the default definition of the |\dopage| macro: 
+Более продвинутым является определение по умолчанию макроса |\dopage|: 
 
 |\def\dopage{ \vbox{\centerline{\framed{\mapbox}} \bigskip
 
@@ -267,7 +267,7 @@ This is usually done in two steps (assume that four arguments are {\it P}, {\it 
 
 For drawing and filling use |thdraw| and |thfill| commands instead of \MP's |draw| and |fill|. These take automatically care of {\it T} transformation. 
 
-An example definition may be 
+Пример может быть следующим 
 
 |def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");| 
 
