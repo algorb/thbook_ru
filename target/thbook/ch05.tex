@@ -145,24 +145,22 @@ endlayout|
 
 Более продвинутым является определение по умолчанию макроса |\dopage|: 
 
-|\def\dopage{|\%|
-  \vbox{\centerline{\framed{\mapbox}}
-     \bigskip
+ \bigskip
 
 %
-\linet{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \ifpagenumbering\space(\the\pagenum)\fi \space\size[16]\the\pagename} \ifpagenumbering
+\line\the\pagename} \ifpagenumbering
 
 %
 \medskip
 
-\hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em} \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss} \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss} \rlap{\hskip0.7em\showpointer\pointerE}} \hbox to 0pt{\hss\showpointer\pointerS\hss} }\qquad\qquad \vtop{ \def\arr{$\uparrow$} \showpointerlist\pointerU \def\arr{$\downarrow$} \showpointerlist\pointerD } } \fi
+\hbox{\qquad\qquad \vtop \fi
 
 %%%%
 \vss
 
 \scalebar
 
-}\hss \box\navbox } } }| 
+ 
 
 Using other plain \TeX\ macros or \TeX\ primitives it's possible to add other features, e.g.~a different layout for odd and even pages; headers and footers; or adding a logo to each page. 
 
