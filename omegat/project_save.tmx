@@ -2112,6 +2112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A very simple example would be</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044415Z" creationid="Алексей" creationdate="20171028T044415Z">
+        <seg>Очень простой пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135443Z" creationid="Алексей" creationdate="20171022T131610Z">
@@ -4400,6 +4408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map pages are inserted at its position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044533Z" creationid="Алексей" creationdate="20171028T044533Z">
+        <seg>Страницы карты вставляются в его положение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maps are produced in PDF and SVG formats, which may be viewed or printed in a wide variety of viewers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172612Z" creationid="Алексей" creationdate="20171024T172612Z">
@@ -4552,6 +4568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note the |&lt;u0&gt;| macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044517Z" creationid="Алексей" creationdate="20171028T044517Z">
+        <seg>Обратите внимание на макрос |&lt;u0&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note, that Windows installation does not include |ghostscript|] to a raster format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020524Z" creationid="Алексей" creationdate="20170914T015140Z">
@@ -4572,6 +4596,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T154004Z" creationid="Алексей" creationdate="20170919T153609Z">
         <seg>Теперь мы готовы описать как строится карта (или атлас):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now we're ready to define the |&lt;u0&gt;| macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044359Z" creationid="Алексей" creationdate="20171028T044359Z">
+        <seg>Теперь мы готовы определить макрос |&lt;u0&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5435,6 +5467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The frame style can be customized by redefining the |&lt;u1&gt;| macro which defaults to |1 J 1 j 1.5 w|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044341Z" creationid="Алексей" creationdate="20171028T044314Z">
+        <seg>Стиль рамки можно настроить, переопределив макрос |&lt;u1&gt;|, который по умолчанию равен |1 J 1 j 1.5 w|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The full contents of any command is displayed in the {&lt;u0&gt; Command preview} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151643Z" creationid="Алексей" creationdate="20170913T145927Z">
@@ -5942,6 +5982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is only a map on the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044505Z" creationid="Алексей" creationdate="20171028T044505Z">
+        <seg>На странице есть только карта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143816Z" creationid="Алексей" creationdate="20170909T142824Z">
@@ -6347,6 +6395,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173647Z" creationid="Алексей" creationdate="20171026T173647Z">
         <seg>Это делается с помощью таких опций, как |page-setup| или |overlap|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not done automatically because you may wish to insert some other pages before the first map page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044610Z" creationid="Алексей" creationdate="20171028T044610Z">
+        <seg>Это не делается автоматически, потому что вы можете вставить некоторые другие страницы перед первой страницей карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6963,6 +7019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may choose which of the predefined elements to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044410Z" creationid="Алексей" creationdate="20171028T044410Z">
+        <seg>Вы можете выбрать, какой из предопределенных элементов использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may create these files in an arbitrary plain text editor like {&lt;u0&gt; ed} or {&lt;u1&gt; vi}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
@@ -7423,6 +7487,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152124Z" creationid="Алексей" creationdate="20170909T151555Z">
         <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его коор\-ди\-на\-ты и специфический тип символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which defines the landscape A4 layout without the navigator nor any texts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044457Z" creationid="Алексей" creationdate="20171028T044457Z">
+        <seg>который определяет размер формата A4 без навигатора и любых текстов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8822,6 +8894,14 @@ endsurvey|</seg>
 	code &lt;metapost/tex-map/tex-atlas&gt;
 	endcode
 endlayout|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|layout my_layout scale 1 200 page-setup 29.7 21 27.7 19 1 1 cm size 26.7 18 cm overlap 0.5 cm code tex-atlas &lt;u0&gt;&lt;u1&gt;{&lt;u2&gt;&lt;u3&gt;} &lt;u4&gt; endlayout|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044419Z" creationid="Алексей" creationdate="20171028T044419Z">
+        <seg>|layout my_layout scale 1 200 page-setup 29.7 21 27.7 19 1 1 cm size 26.7 18 cm overlap 0.5 cm code tex-atlas &lt;u0&gt;&lt;u1&gt;{&lt;u2&gt;&lt;u3&gt;} &lt;u4&gt; endlayout|</seg>
       </tuv>
     </tu>
     <tu>
