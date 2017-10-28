@@ -1736,6 +1736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |otf2pfb &lt;on/off&gt;|&lt;u0&gt;{5.3}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141125Z" creationid="Алексей" creationdate="20171028T141125Z">
+        <seg>* |otf2pfb &lt;on/off&gt;|&lt;u0&gt;{5.3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |pdf-fonts &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|&lt;u0&gt;{5.3}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140330Z" creationid="Алексей" creationdate="20171028T140330Z">
@@ -1940,6 +1948,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135458Z" creationid="Алексей" creationdate="20171028T135458Z">
         <seg>* |tex-env &lt;on/off&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |tex-fonts &lt;encoding&gt; &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141344Z" creationid="Алексей" creationdate="20171028T141333Z">
+        <seg>* |tex-fonts &lt;кодировка&gt; &lt;rm&gt; &lt;it&gt; &lt;bf&gt; &lt;ss&gt; &lt;si&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3203,8 +3219,8 @@
       <tuv lang="EN-US">
         <seg>Define a new coordinate system |&lt;id&gt;| using Proj4 syntax.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140328Z" creationid="Алексей" creationdate="20171028T140328Z">
-        <seg>Определяет новую систему координат |&lt;id&gt;| используя синтаксис Proj4.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140343Z" creationid="Алексей" creationdate="20171028T140328Z">
+        <seg>Определяет новую систему координат |&lt;id&gt;| используя синтаксис Proj4;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3365,6 +3381,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085802Z" creationid="Алексей" creationdate="20171028T085802Z">
         <seg>Пример создания атласа со списками съемщиков и т.д.&lt;u0&gt;за которыми следуют карты и с легендой в конце:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140555Z" creationid="Алексей" creationdate="20171028T140555Z">
+        <seg>Пример:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,8 +3643,8 @@
       <tuv lang="EN-US">
         <seg>For list of therion texts and available translations, see |thlang/texts.txt| file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111534Z" creationid="Алексей" creationdate="20171021T111534Z">
-        <seg>Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140339Z" creationid="Алексей" creationdate="20171021T111534Z">
+        <seg>Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5305,6 +5329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original and more complicated way to set-up fonts for PDF maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141404Z" creationid="Алексей" creationdate="20171028T141404Z">
+        <seg>Исходный и более сложный способ настройки шрифтов для PDF-карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise survey structure with aggregated ststistics is also displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075252Z" creationid="Алексей" creationdate="20171022T075252Z">
@@ -5747,8 +5779,16 @@
       <tuv lang="EN-US">
         <seg>Set to |on| if you use other &lt;u0&gt;&lt;u1&gt;distribution for maps processing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140027Z" creationid="Алексей" creationdate="20171028T140027Z">
-        <seg>Установите в |on|, если вы используете другой дистрибутив &lt;u0&gt;&lt;u1&gt;для обработки карт;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140646Z" creationid="Алексей" creationdate="20171028T140027Z">
+        <seg>Установите в |on|, если вы используете другой дистрибутив &lt;u0&gt;&lt;u1&gt;для обра\-ботки карт;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set-up fonts to be used in PDF maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140404Z" creationid="Алексей" creationdate="20171028T140404Z">
+        <seg>Настройка шрифтов, которые будут использоваться в PDF-картах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5837,6 +5877,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131945Z" creationid="Алексей" creationdate="20170909T131726Z">
         <seg>Имелось несколько компьютерных программ, которые строили нитку хода после зак\-рытия колец и разброса ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some information is lost in the PFB format, but there is advantage that pdf&lt;u0&gt;&lt;u1&gt;can embed subset of PFB fonts (in contrast with OpenType fonts which must be fully embedded).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141329Z" creationid="Алексей" creationdate="20171028T141329Z">
+        <seg>Некоторая информация теряется в формате PFB, но есть преимущество, что pdf &lt;u0&gt;&lt;u1&gt;может встраивать часть шрифтов PFB (в отличие от шрифтов OpenType, которые должны быть встроены полностью);</seg>
       </tuv>
     </tu>
     <tu>
@@ -6087,6 +6135,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173316Z" creationid="Алексей" creationdate="20170913T165011Z">
         <seg>Важным является чек-бокс {&lt;u2&gt; обратная}: Therion требует ори\-ен\-ти\-ро\-ван\-ных кривых, и нет ничего необычного в том, что вы начинаете рисовать с неправильного конца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command has to be followed by paths specifying where regular, italic, bold, sans-serif and sans-serif oblique fonts are located in your system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140856Z" creationid="Алексей" creationdate="20171028T140525Z">
+        <seg>За\break командой должны следовать пути, указывающие, где в вашей системе расположены обычные, курсивные, полужирные, без засечек и наклонные без засечек шрифты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6910,6 +6966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion requires LCDF Typetools to be installed on your system to use this command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140549Z" creationid="Алексей" creationdate="20171028T140549Z">
+        <seg>Для использования этой команды Therion требует установки LCDF Typetools в вашей системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion supports compilation of Win32 executables in Linux using MXE cross compiler (&lt;u0&gt;{http://mxe.cc}).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122832Z" creationid="Алексей" creationdate="20171028T122832Z">
@@ -7464,6 +7528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TrueType and OpenType fonts are supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140538Z" creationid="Алексей" creationdate="20171028T140538Z">
+        <seg>Поддерживаются шрифты TrueType и OpenType.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, as a limitation of Tcl/Tk language, only GIF, PNM and PPM (plus PNG and JPEG if you installed tkImg extension) images are supported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142559Z" creationid="Алексей" creationdate="20170913T140239Z">
@@ -7702,6 +7774,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091359Z" creationid="Алексей" creationdate="20171028T091220Z">
         <seg>Когда он утверждает, что что-то невозможно, он, вероятно, оши\-бается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When set to |on| (default), OpenType fonts used in |pdf-fonts| are converted to PFB fonts, if they are PostScript-based.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141212Z" creationid="Алексей" creationdate="20171028T141212Z">
+        <seg>Когда установлено значение |on| (по умолчанию), шрифты OpenType, используемые в |pdf-fonts|, преобразуются в шрифты PFB, если они основаны на PostScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7991,6 +8071,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185504Z" creationid="Алексей" creationdate="20171021T185308Z">
         <seg>Вы можете использовать |group cave-centerline|, |group surface-centerline|,\break |point cave-station|, |point surface-station| и &lt;u0&gt;{5.4}|group text| в командах |symbol-hide| и |symbol-show|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to explicitly specify encoding (maximum 256 characters from the font that will be used).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141422Z" creationid="Алексей" creationdate="20171028T141422Z">
+        <seg>Вам нужно явно указать кодировку (не более 256 символов из шрифта, который будет использоваться).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10033,6 +10121,18 @@ endline|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071513Z" creationid="Алексей" creationdate="20170920T070006Z">
         <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/обрат\-ном направлении по отношению к предыдущей станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|pdf-fonts "/usr/share/fonts/Serif.ttf" &lt;u0&gt;"/usr/share/fonts/Serif-Italic.ttf" &lt;u1&gt;"/usr/share/fonts/Serif-Bold.ttf" &lt;u2&gt;"/usr/share/fonts/Sans.ttf" &lt;u3&gt;"/usr/share/fonts/Sans-Oblique.ttf"|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141104Z" creationid="Алексей" creationdate="20171028T140945Z">
+        <seg>|pdf-fonts "/usr/share/fonts/Serif.ttf" &lt;u0&gt;
+			"/usr/share/fonts/Serif-Italic.ttf" &lt;u1&gt;
+			"/usr/share/fonts/Serif-Bold.ttf" &lt;u2&gt;
+			"/usr/share/fonts/Sans.ttf" &lt;u3&gt;
+			"/usr/share/fonts/Sans-Oblique.ttf"|</seg>
       </tuv>
     </tu>
     <tu>
