@@ -792,6 +792,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; 2000}&lt;u1&gt;&lt;u3&gt;&lt;u2&gt; Jan: xthedit (Tcl/Tk), a graphical front-end for Therion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151918Z" creationid="Алексей" creationdate="20171028T151412Z">
+        <seg>* {&lt;u0&gt; 2000}&lt;u1&gt;&lt;u3&gt;&lt;u2&gt; Январь: xthedit (Tcl / Tk) -- графический интерфейс для Therion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* {&lt;u0&gt; 2001}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152105Z" creationid="Алексей" creationdate="20171028T152105Z">
+        <seg>* {&lt;u0&gt; 2001}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; keyword} = a sequence of |A-Z|, |a-z|, |0-9| and |_-/| characters (not starting with `|-|').</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123617Z" creationid="Алексей" creationdate="20170910T123617Z">
@@ -2850,6 +2866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apr 1: the first hyperlinked PDF cave map / atlas</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152015Z" creationid="Алексей" creationdate="20171028T152015Z">
+        <seg>Апрель, 1: первая гиперссылка PDF-карты/атласа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrows show data flow between programs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185703Z" creationid="Алексей" creationdate="20170909T185703Z">
@@ -2878,6 +2902,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163850Z" creationid="Алексей" creationdate="20171027T163850Z">
         <seg>В конце каждой страницы вызывается макрос |&lt;u2&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aug: experiments with PDF, pdf&lt;u0&gt;&lt;u1&gt;and</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152101Z" creationid="Алексей" creationdate="20171028T152101Z">
+        <seg>Август: эксперименты с PDF, pdf&lt;u0&gt;&lt;u1&gt;и</seg>
       </tuv>
     </tu>
     <tu>
@@ -3252,8 +3284,16 @@
       <tuv lang="EN-US">
         <seg>Dec 27: Therion compiles simple map in PostScript format for the first time (32 kB of Perl and 7 kB of &lt;u0&gt;&lt;u1&gt;and &lt;u3&gt;&lt;u2&gt;source code).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151225Z" creationid="Алексей" creationdate="20171028T151225Z">
-        <seg>27 декабря: Therion впервые компилирует простую карту в формате PostScript (32 Кбайт Perl и 7 Кбайт &lt;u0&gt;&lt;u1&gt;и &lt;u3&gt;&lt;u2&gt;исходного кода).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151539Z" creationid="Алексей" creationdate="20171028T151225Z">
+        <seg>Декабрь, 27: Therion впервые компилирует простую карту в формате PostScript (32 Кбайт Perl и 7 Кбайт &lt;u0&gt;&lt;u1&gt;и &lt;u3&gt;&lt;u2&gt;исходного кода).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dec 30: the first web page (with data examples but without source code)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151803Z" creationid="Алексей" creationdate="20171028T151408Z">
+        <seg>Декабрь, 30: первая веб-страница (с примерами данных, но без исходного кода).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,6 +3574,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150838Z" creationid="Алексей" creationdate="20170909T150838Z">
         <seg>Особенности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feb 18: start of reprogramming (Perl)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151942Z" creationid="Алексей" creationdate="20171028T151942Z">
+        <seg>Февраль, 18: начало перепрограммирования (Perl).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6614,8 +6662,8 @@
       <tuv lang="EN-US">
         <seg>The map warping model was substantially different from the current one (positions of features were relative to a particular survey shot, not to positions of all stations in a scrap).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151300Z" creationid="Алексей" creationdate="20171028T151300Z">
-        <seg>Модель деформации карты существенно отличалась от текущей (позиции характеристик были относительно конкретного съемного замера, а не позиции всех станций в скрапе).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151604Z" creationid="Алексей" creationdate="20171028T151300Z">
+        <seg>Модель деформации карты существенно отличалась от текущей (пози\-ции характеристик были относительно конкретного съемного замера, а не позиции всех станций в скрапе).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7701,6 +7749,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051740Z" creationid="Алексей" creationdate="20170924T051740Z">
         <seg>Это значение впоследствии отображается в статистике съемки/пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This version already included some interesting features such as {&lt;u4&gt; transformation functions} which allowed user specification of the input format for survey data, or splitting large maps to multiple sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151717Z" creationid="Алексей" creationdate="20171028T151349Z">
+        <seg>Эта версия уже включала некото\-рые интересные функции, такие как {&lt;u4&gt; функции трансформации}, которые позволяли определять спецификацию входного формата для данных\break съемки или разбивать большие карты на несколько листов.</seg>
       </tuv>
     </tu>
     <tu>
