@@ -852,8 +852,8 @@
       <tuv lang="EN-US">
         <seg>* set the {&lt;u0&gt; U} pair variable to $&lt;u2&gt;({width&lt;u5&gt;2},{height&lt;u6&gt;2}&lt;u9&gt;)$ of the symbol for correct alignment.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064848Z" creationid="Алексей" creationdate="20171029T063222Z">
-        <seg>* установите переменную {&lt;u0&gt; U} (пара) в $&lt;u2&gt;({ширина&lt;u5&gt;2},{высота&lt;u6&gt;2}&lt;u9&gt;)$ символа для правильного выравнивания.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T065214Z" creationid="Алексей" creationdate="20171029T063222Z">
+        <seg>* установите переменную {&lt;u0&gt; U} (пара) в $&lt;u2&gt;({$ширина$&lt;u5&gt;2},{высота&lt;u6&gt;2}&lt;u9&gt;)$ символа для правильного выравнивания.</seg>
       </tuv>
     </tu>
     <tu>
