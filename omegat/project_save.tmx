@@ -121,8 +121,8 @@
       <tuv lang="EN-US">
         <seg>(BTW, why not to use precompiled Windows version?)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093317Z" creationid="Алексей" creationdate="20171028T092806Z">
-        <seg>(Кстати, почему бы не использовать предварительно скомпили\-рованную версию для Windows?).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074316Z" creationid="Алексей" creationdate="20171028T092806Z">
+        <seg>Кстати, почему бы не использовать\break предварительно скомпилированную версию для Windows?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>(Empty lines or lines starting with `|#|' are ignored; lines ending with a backslash continue on next line.) Currently supported initialization commands follow.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133856Z" creationid="Алексей" creationdate="20171028T133225Z">
-        <seg>(Пустые строки или строки, начинаю\-щиеся с `|#|', игнорируются, строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке). В настоящее время поддержива\-ются команды инициализации:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074800Z" creationid="Алексей" creationdate="20171028T133225Z">
+        <seg>Пустые строки или строки,\break начинающиеся с `|#|', игнорируются, строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке. В настоящее время\break поддерживаются команды инициализации:</seg>
       </tuv>
     </tu>
     <tu>
@@ -707,8 +707,8 @@
       <tuv lang="EN-US">
         <seg>* fill an uniform or randomised grid in a temporary picture (having dimensions |bbox path|) with some point symbols; clip it according to |path| and add to the |currentpicture| * fill |path| with a solid colour * fill |path| with a predefined pattern using a |withpattern| keyword.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073133Z" creationid="Алексей" creationdate="20171029T073133Z">
-        <seg>* заполнить единую или рандомизированную сетку во временном изображении (имеющем размеры |bbox path|) с некоторыми точечными символами; закрепите его в соответствии с |path| и добавьте в |currentpicture|; * заполните |path| сплошным цветом; * заполните |path| с предопределенным шаблоном с использованием |withpattern|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073614Z" creationid="Алексей" creationdate="20171029T073133Z">
+        <seg>* заполнить единую или рандомизированную сетку во временном\break изображении (имеющем размеры |bbox path|) с некоторыми точечными\break символами; закрепите его в соответствии с |path| и добавьте в\break |currentpicture|; * заполните |path| сплошным цветом; * заполните |path| с предопределенным шаблоном с использованием\break |withpattern|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -747,8 +747,8 @@
       <tuv lang="EN-US">
         <seg>* install the following static/win32 packages (i686-w64-mingw32.static-&lt;u0&gt;42) to the directory |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123430Z" creationid="Алексей" creationdate="20171028T122842Z">
-        <seg>* установите следующие static/win32-пакеты (i686-w64-mingw32.static-&lt;u0&gt;42) в ди\-ректорию |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc,\break gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074426Z" creationid="Алексей" creationdate="20171028T122842Z">
+        <seg>* установите следующие static/win32-пакеты (i686-w64-mingw32.static-&lt;u0&gt;42) в\break директорию |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc,\break gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1405,8 +1405,8 @@
       <tuv lang="EN-US">
         <seg>* |THERION| = [not required] search path for (x)therion.ini file(s) * |HOME| (|HOMEDRIVE| + |HOMEPATH| on WinXP) = [not required, but usually present on your system] search path for (x)therion.ini file(s) * |TEMP|, |TMP| = system temporary directory, where Therion stores temporary files (in a directory named |th$PID$|, where |$PID$| is a process ID), unless |tmp-path| is specified in the initialization file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132108Z" creationid="Алексей" creationdate="20171028T125450Z">
-        <seg>* |THERION| = [не требуется] путь поиска для файла(ов) (x)therion.ini; * |HOME| (|HOMEDRIVE| + |HOMEPATH| на WinXP) = [не требуется, но обычно присутствует в вашей системе] путь поиска для файла(ов) (x)therion.ini; * |TEMP|, |TMP| = системный временный каталог, где Therion хранит времен\-ные файлы (в каталоге с именем |th$PID$|, где |$PID$| является идентифика\-тором процесса), если только |tmp-path| указан в файле инициализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074650Z" creationid="Алексей" creationdate="20171028T125450Z">
+        <seg>* |THERION| = [не требуется] путь поиска для файла(ов) (x)therion.ini; * |HOME| (|HOMEDRIVE| + |HOMEPATH| на WinXP) = [не требуется, но обычно присутствует в вашей системе] путь поиска для файла(ов) (x)therion.ini; * |TEMP|, |TMP| = системный временный каталог, где Therion хранит\break временные файлы (в каталоге с именем |th$PID$|, где |$PID$| является\break идентификатором процесса), если только |tmp-path| указан в файле\break инициализации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1493,16 +1493,16 @@
       <tuv lang="EN-US">
         <seg>* |config-linux|, |config-macosx|, |config-win32| = configure Therion for a specific platform.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123126Z" creationid="Алексей" creationdate="20171028T122552Z">
-        <seg>* |config-linux|, |config-macosx|, |config-win32| = настроить Therion для конкрет\-ной платформы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074341Z" creationid="Алексей" creationdate="20171028T122552Z">
+        <seg>* |config-linux|, |config-macosx|, |config-win32| = настроить Therion для\break конкретной платформы.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |config-release|, |config-oxygen|, |config-ozone| = set optimization level for C++ compiler (none, |-O2| and |-O3|) * |config-debug| = useful before debugging the program * |install| = install Therion * |clean| = delete all temporary files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123230Z" creationid="Алексей" creationdate="20171028T122625Z">
-        <seg>* |config-release|, |config-oxygen|, |config-ozone| = установить уровень оптимиза\-ции для компилятора C++ (none, |-O2| или |-O3|); * |config-debug| = полезно перед отладкой программы; * |install| = установить Therion; * |clean| = удалить все временные файлы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074348Z" creationid="Алексей" creationdate="20171028T122625Z">
+        <seg>* |config-release|, |config-oxygen|, |config-ozone| = установить уровень\break оптимизации для компилятора C++ (none, |-O2| или |-O3|); * |config-debug| = полезно перед отладкой программы; * |install| = установить Therion; * |clean| = удалить все временные файлы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1861,8 +1861,8 @@
       <tuv lang="EN-US">
         <seg>* |loop-closure &lt;therion/survex&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133242Z" creationid="Алексей" creationdate="20171028T133229Z">
-        <seg>* |loop-closure &lt;therion/survex&gt;|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074847Z" creationid="Алексей" creationdate="20171028T133229Z">
+        <seg>* |loop-closure &lt;therion/survex&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2485,8 +2485,8 @@
       <tuv lang="EN-US">
         <seg>&lt;u0&gt;&lt;u1&gt;{5.3}This section applies to old-style font selection using |tex-fonts| command in the initialization file and is obsolete when using |pdf-fonts| command.] Copy an appropriate encoding mapping file with an |*.enc| extension to the |texenc/encodings|, run the Perl script |mktexenc.pl| located in the |texenc| directory and compile Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T131515Z" creationid="Алексей" creationdate="20171028T124605Z">
-        <seg>&lt;u0&gt;&lt;u1&gt;{5.3}Этот раздел относится к выбору шрифтов старого стиля с использованием команды |tex-fonts| в файле инициализации и устарела при использовании команды |pdf-fonts|.]. Скопируйте соот\-ветствующий файл сопоставления кодировки с расширением |*.enc| в\break |texenc/encodings|, запустите скрипт Perl |mktexenc.pl| расположенный в ката\-логе |texenc| и перекомпилируйте Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074533Z" creationid="Алексей" creationdate="20171028T124605Z">
+        <seg>&lt;u0&gt;&lt;u1&gt;{5.3}Этот раздел относится к выбору шрифтов старого стиля с использованием команды |tex-fonts| в файле инициализации и устарела при использовании команды |pdf-fonts|.]. Скопируйте\break соответствующий файл сопоставления кодировки с расширением |*.enc| в\break |texenc/encodings|, запустите скрипт Perl |mktexenc.pl| расположенный в\break каталоге |texenc| и перекомпилируйте Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2725,8 +2725,8 @@
       <tuv lang="EN-US">
         <seg>Add your translations at lines beginning with `|xx:|'.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130123Z" creationid="Алексей" creationdate="20171028T123813Z">
-        <seg>Добавьте свои переводы в строки, начи\-нающиеся с `|xx:|';</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074431Z" creationid="Алексей" creationdate="20171028T123813Z">
+        <seg>Добавьте свои переводы в строки,\break начинающиеся с `|xx:|';</seg>
       </tuv>
     </tu>
     <tu>
@@ -2797,8 +2797,8 @@
       <tuv lang="EN-US">
         <seg>After modifying the files in the |mpost| and |tex| directories it's necessary to run Perl scripts |genmpost.pl| and |gentex.pl|, which generate C++ header files, and compile Therion executable again.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125152Z" creationid="Алексей" creationdate="20171028T125152Z">
-        <seg>После изменения файлов в каталогах |mpost| и |tex| необходимо запустить Perl-скрипты |genmpost.pl| и |gentex.pl|, которые генерируют header файлы C++, и снова компилируют исполняемый файл Therion'а.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074604Z" creationid="Алексей" creationdate="20171028T125152Z">
+        <seg>После изменения файлов в каталогах |mpost| и |tex| необходимо запустить\break Perl-скрипты |genmpost.pl| и |gentex.pl|, которые генерируют header файлы C++, и снова компилируют исполняемый файл Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2885,8 +2885,8 @@
       <tuv lang="EN-US">
         <seg>All programs (with the exception of BWidget and tkImg package) are usually included in Linux, Unix or MacOS X distributions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T093246Z" creationid="Алексей" creationdate="20171028T092626Z">
-        <seg>Все программы (за исключением пакетов BWidget и tkImg) обычно включа\-ются в дистрибутивы Linux, Unix или MacOS X.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074221Z" creationid="Алексей" creationdate="20171028T092626Z">
+        <seg>Все программы (за исключением пакетов BWidget и tkImg) обычно\break включаются в дистрибутивы Linux, Unix или MacOS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,8 +3190,16 @@
       <tuv lang="EN-US">
         <seg>Bolek, P.: ``&lt;u0&gt;&lt;u1&gt;and patterns,'' {&lt;u2&gt; TUGboat}, 3, XIX (1998), pp. 276--283, available online at &lt;u3&gt;{https://www.tug.org/TUGboat/Articles/tb19-3/tb60bolek.pdf}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073211Z" creationid="Алексей" creationdate="20171029T073211Z">
-        <seg>Bolek, P.: ``&lt;u0&gt;&lt;u1&gt;and patterns,'' {&lt;u2&gt; TUGboat}, 3, XIX (1998), pp. 276--283, available online at &lt;u3&gt;{https://www.tug.org/TUGboat/Articles/tb19-3/tb60bolek.pdf}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074008Z" creationid="Алексей" creationdate="20171029T073211Z">
+        <seg>Bolek, P.: ``&lt;u0&gt;&lt;u1&gt;and patterns,'' {&lt;u2&gt; TUGboat}, 3, XIX (1998), pp. 276--283, доступна тут: &lt;u3&gt;{https://www.tug.org/TUGboat/Articles/tb19-3/tb60bolek.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both are experimental and subject to change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073433Z" creationid="Алексей" creationdate="20171029T073433Z">
+        <seg>Оба экспериментальные и могут быть изменены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,8 +3286,8 @@
       <tuv lang="EN-US">
         <seg>By default, survex is used if present, otherwise therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T133923Z" creationid="Алексей" creationdate="20171028T133455Z">
-        <seg>По умолчанию используется |survex|, если он установлен, иначе использу\-ется |therion|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074815Z" creationid="Алексей" creationdate="20171028T133455Z">
+        <seg>По умолчанию используется |survex|, если он установлен, иначе\break используется |therion|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,8 +3550,8 @@
       <tuv lang="EN-US">
         <seg>Default setting is |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142702Z" creationid="Алексей" creationdate="20171028T142246Z">
-        <seg>Зна\-чение по умолчанию: |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075057Z" creationid="Алексей" creationdate="20171028T142246Z">
+        <seg>Значение по умолчанию: |tex-fonts raw cmr10 cmti10 cmbx10 cmss10 cmssi10|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,8 +3718,8 @@
       <tuv lang="EN-US">
         <seg>Encoding has to be followed by five font specifications for regular, italic, bold, sans-serif and sans-serif oblique styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142608Z" creationid="Алексей" creationdate="20171028T142236Z">
-        <seg>За кодировкой должны следовать пять спецификаций шрифтов для обыч\-ных, курсивных, полужирных, без засечек и наклонных без засечек.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075054Z" creationid="Алексей" creationdate="20171028T142236Z">
+        <seg>За кодировкой должны следовать пять спецификаций шрифтов для\break обычных, курсивных, полужирных, без засечек и наклонных без засечек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,8 +3870,8 @@
       <tuv lang="EN-US">
         <seg>Feb: Therion 0.5 --- Support for bitmap sketches morphing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T154154Z" creationid="Алексей" creationdate="20171028T153611Z">
-        <seg>Февраль: Therion 0.5 -- Поддержка морфинга эскизов растровых изобра\-жений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075514Z" creationid="Алексей" creationdate="20171028T153611Z">
+        <seg>Февраль: Therion 0.5 -- Поддержка морфинга эскизов растровых\break изображений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,8 +3958,8 @@
       <tuv lang="EN-US">
         <seg>For Windows consider using MinGW and MSYS (&lt;u0&gt;{http://www.mingw.org}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092653Z" creationid="Алексей" creationdate="20171028T092653Z">
-        <seg>Для Windows необходимы MinGW и MSYS (&lt;u0&gt; {http://www.mingw.org}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074238Z" creationid="Алексей" creationdate="20171028T092653Z">
+        <seg>Для Windows\break необходимы MinGW и MSYS (&lt;u0&gt; {http://www.mingw.org}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4792,8 @@
       <tuv lang="EN-US">
         <seg>If you want to add some unsupported encodings, read the chapter {&lt;u0&gt; Compilation / Hacker's guide}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143637Z" creationid="Алексей" creationdate="20171028T143344Z">
-        <seg>Если вы хотите добавить некоторые неподдерживаемые кодировки, прочи\-тайте главу {&lt;u0&gt; Компиляция / Руководство хакера};</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075141Z" creationid="Алексей" creationdate="20171028T143344Z">
+        <seg>Если вы хотите добавить некоторые неподдерживаемые кодировки,\break прочитайте главу {&lt;u0&gt; Компиляция / Руководство хакера};</seg>
       </tuv>
     </tu>
     <tu>
@@ -5517,8 +5525,8 @@
       <tuv lang="EN-US">
         <seg>Jun: all Perl scripts rewritten in C++, Therion is one executable program now (although using Survex and &lt;u0&gt;)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T154209Z" creationid="Алексей" creationdate="20171028T153421Z">
-        <seg>Июнь: все сценарии Perl переписанные на C++, Therion -- это одна испол\-няемая программа (хотя использует Survex и &lt;u0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075459Z" creationid="Алексей" creationdate="20171028T153421Z">
+        <seg>Июнь: все сценарии Perl переписанные на C++, Therion -- это одна\break исполняемая программа (хотя использует Survex и &lt;u0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5757,8 +5765,8 @@
       <tuv lang="EN-US">
         <seg>Mar: Therion 0.1 --- Therion is able to process survey data (centreline) of the Cave of Dead Bats.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152918Z" creationid="Алексей" creationdate="20171028T152548Z">
-        <seg>Март: Therion 0.1 -- Therion способен обрабатывать данные съемки (цен\-тральной линии) пещеры Мертвых летучих мышей.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075412Z" creationid="Алексей" creationdate="20171028T152548Z">
+        <seg>Март: Therion 0.1 -- Therion способен обрабатывать данные съемки\break (центральной линии) пещеры Мертвых летучих мышей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6150,8 +6158,8 @@
       <tuv lang="EN-US">
         <seg>Patterns are defined using the same user interface (without the |patterncolor| macro) as described in the article</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073202Z" creationid="Алексей" creationdate="20171029T073202Z">
-        <seg>Шаблоны определяются с использованием того же пользовательского интерфейса (без макроса |patterncolor|), как описано в статье:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073643Z" creationid="Алексей" creationdate="20171029T073202Z">
+        <seg>Шаблоны определяются с использованием того же пользовательского\break интерфейса (без макроса |patterncolor|), как описано в статье:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6206,8 +6214,8 @@
       <tuv lang="EN-US">
         <seg>Possible comments follow the `|#|' character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130852Z" creationid="Алексей" creationdate="20171028T124325Z">
-        <seg>Можно добав\-лять комментарии за символом `|#|'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074502Z" creationid="Алексей" creationdate="20171028T124325Z">
+        <seg>Можно\break добавлять комментарии за символом `|#|'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6350,8 +6358,8 @@
       <tuv lang="EN-US">
         <seg>SVG map: unlimited * scraps count = approx. 500--6000, depending on frequency of cross-sections</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145144Z" creationid="Алексей" creationdate="20171028T144634Z">
-        <seg>SVG-карта: без ограничений; * количество скрапов = примерно 500--6000, в зависимости от частоты попе\-речных сечений</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075217Z" creationid="Алексей" creationdate="20171028T144634Z">
+        <seg>SVG-карта: без ограничений; * количество скрапов = примерно 500--6000, в зависимости от частоты\break поперечных сечений</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,8 +6502,8 @@
       <tuv lang="EN-US">
         <seg>See the copyright page for the list of available languages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T134312Z" creationid="Алексей" creationdate="20171028T134101Z">
-        <seg>Список доступных языков смотрите на стра\-нице авторских прав;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074852Z" creationid="Алексей" creationdate="20171028T134101Z">
+        <seg>Список доступных языков смотрите на\break странице авторских прав;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6598,8 +6606,8 @@
       <tuv lang="EN-US">
         <seg>Set to |on| if you use other &lt;u0&gt;&lt;u1&gt;distribution for maps processing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140646Z" creationid="Алексей" creationdate="20171028T140027Z">
-        <seg>Установите в |on|, если вы используете другой дистрибутив &lt;u0&gt;&lt;u1&gt;для обра\-ботки карт;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074943Z" creationid="Алексей" creationdate="20171028T140027Z">
+        <seg>Установите в |on|, если вы используете другой дистрибутив &lt;u0&gt;&lt;u1&gt;для\break обработки карт;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7272,8 +7280,8 @@
       <tuv lang="EN-US">
         <seg>The map warping model was substantially different from the current one (positions of features were relative to a particular survey shot, not to positions of all stations in a scrap).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151604Z" creationid="Алексей" creationdate="20171028T151300Z">
-        <seg>Модель деформации карты существенно отличалась от текущей (пози\-ции характеристик были относительно конкретного съемного замера, а не позиции всех станций в скрапе).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075331Z" creationid="Алексей" creationdate="20171028T151300Z">
+        <seg>Модель деформации карты существенно отличалась от текущей\break (позиции характеристик были относительно конкретного съемного\break замера, а не позиции всех станций в скрапе).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7416,8 +7424,8 @@
       <tuv lang="EN-US">
         <seg>The same should be done for the italic and bold faces and corresponding sans-serif and sans-serif-oblique fonts.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T143600Z" creationid="Алексей" creationdate="20171028T143037Z">
-        <seg>То же самое должно быть сделано для курсивых и полужирных шрифтов и соответствующих шрифтов без засечек и наклон\-ных без засечек.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075124Z" creationid="Алексей" creationdate="20171028T143037Z">
+        <seg>То же самое должно быть сделано для курсивых и полужирных шрифтов и соответствующих шрифтов без засечек и\break наклонных без засечек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,6 +7697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are currently two special symbols: scale bar and north arrow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073425Z" creationid="Алексей" creationdate="20171029T073425Z">
+        <seg>В настоящее время существуют два специальных символа: шкала масштаба и стрелка на север.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are four predefined pens {&lt;u0&gt; PenA} (thickest) &lt;u2&gt;&lt;u3&gt;{&lt;u1&gt; PenD} (thinnest), which should be used for all drawings.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190823Z" creationid="Алексей" creationdate="20171028T190823Z">
@@ -7915,8 +7931,8 @@
       <tuv lang="EN-US">
         <seg>Therion requires LCDF Typetools to be installed on your system to use this command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140549Z" creationid="Алексей" creationdate="20171028T140549Z">
-        <seg>Для использования этой команды Therion требует установки LCDF Typetools в вашей системе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075008Z" creationid="Алексей" creationdate="20171028T140549Z">
+        <seg>Для использования этой команды Therion требует установки LCDF\break Typetools в вашей системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8115,8 +8131,8 @@
       <tuv lang="EN-US">
         <seg>They are searched for in the following directories:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T132846Z" creationid="Алексей" creationdate="20171028T132645Z">
-        <seg>Они ищутся в следующих ката\-логах:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074710Z" creationid="Алексей" creationdate="20171028T132645Z">
+        <seg>Они ищутся в следующих\break каталогах:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8429,8 +8445,8 @@
       <tuv lang="EN-US">
         <seg>This version already included some interesting features such as {&lt;u4&gt; transformation functions} which allowed user specification of the input format for survey data, or splitting large maps to multiple sheets.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T151717Z" creationid="Алексей" creationdate="20171028T151349Z">
-        <seg>Эта версия уже включала некото\-рые интересные функции, такие как {&lt;u4&gt; функции трансформации}, которые позволяли определять спецификацию входного формата для данных\break съемки или разбивать большие карты на несколько листов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075350Z" creationid="Алексей" creationdate="20171028T151349Z">
+        <seg>Эта версия уже включала некоторые интересные функции, такие как {&lt;u4&gt; функции трансформации}, которые позволяли определять спецификацию входного формата для данных съемки или разбивать большие карты на несколько листов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8799,16 +8815,16 @@
       <tuv lang="EN-US">
         <seg>When he states that something is impossible, he is very probably wrong.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091359Z" creationid="Алексей" creationdate="20171028T091220Z">
-        <seg>Когда он утверждает, что что-то невозможно, он, вероятно, оши\-бается.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074123Z" creationid="Алексей" creationdate="20171028T091220Z">
+        <seg>Когда он утверждает, что что-то невозможно, он, вероятно,\break ошибается.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When set to |on| (default), OpenType fonts used in |pdf-fonts| are converted to PFB fonts, if they are PostScript-based.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141653Z" creationid="Алексей" creationdate="20171028T141212Z">
-        <seg>Когда установлено значение |on| (по умолчанию), шрифты OpenType,\break используемые в |pdf-fonts|, преобразуются в шрифты PFB, если они осно\-ваны на PostScript.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075029Z" creationid="Алексей" creationdate="20171028T141212Z">
+        <seg>Когда установлено значение |on| (по умолчанию), шрифты OpenType,\break используемые в |pdf-fonts|, преобразуются в шрифты PFB, если они\break основаны на PostScript.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8968,8 +8984,8 @@
       <tuv lang="EN-US">
         <seg>XTherion, text editor designed for Therion (Tcl/Tk).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152950Z" creationid="Алексей" creationdate="20171028T152614Z">
-        <seg>XTherion -- тексто\-вый редактор, предназначенный для Therion'а (Tcl/Tk).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075429Z" creationid="Алексей" creationdate="20171028T152614Z">
+        <seg>XTherion -- текстовый редактор, предназначенный для Therion'а (Tcl/Tk).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9136,8 +9152,8 @@
       <tuv lang="EN-US">
         <seg>You may use standard &lt;u0&gt;&lt;u1&gt;|draw| and similar macros without setting of {&lt;u2&gt; T} variable in pattern definitions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073244Z" creationid="Алексей" creationdate="20171029T073244Z">
-        <seg>Вы можете использовать стандартный &lt;u0&gt;&lt;u1&gt;|draw| и аналогичные макросы без установки переменной {&lt;u2&gt; T} в определениях шаблонов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074040Z" creationid="Алексей" creationdate="20171029T073244Z">
+        <seg>Вы можете использовать стандартный &lt;u0&gt;&lt;u1&gt;|draw| и аналогичные\break макросы без установки переменной {&lt;u2&gt; T} в определениях шаблонов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +9200,8 @@
       <tuv lang="EN-US">
         <seg>[Works on Windows only.] When set to |off| (default), Therion temporarily clears all environment variables related to &lt;u0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T135745Z" creationid="Алексей" creationdate="20171028T135543Z">
-        <seg>Работает только в Windows. Когда установлено значение |off| (по умол\-чанию), Therion временно очищает все переменные среды, связанные с &lt;u0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074924Z" creationid="Алексей" creationdate="20171028T135543Z">
+        <seg>Работает только в Windows. Когда установлено значение |off| (по\break умолчанию), Therion временно очищает все переменные среды, связанные с &lt;u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9465,8 +9481,8 @@
       <tuv lang="EN-US">
         <seg>current &lt;u0&gt;&lt;u1&gt;limit: $4 (scraps + sections) &lt; 4096$ (may be arbitrarily increased)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145207Z" creationid="Алексей" creationdate="20171028T144830Z">
-        <seg>текущий предел &lt;u0&gt;: $4 (скрапы + сечения) &lt; 4096$ (может быть про\-извольно увеличено)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075221Z" creationid="Алексей" creationdate="20171028T144830Z">
+        <seg>текущий предел &lt;u0&gt;: $4 (скрапы + сечения) &lt; 4096$ (может быть\break произвольно увеличено)</seg>
       </tuv>
     </tu>
     <tu>
