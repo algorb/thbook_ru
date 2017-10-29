@@ -153,8 +153,8 @@
       <tuv lang="EN-US">
         <seg>(Hence |aligned A| means |shifted (xpart A * xpart U, ypart A * ypart U)|.) * set the {&lt;u0&gt; T} transformation variable</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064104Z" creationid="Алексей" creationdate="20171029T063717Z">
-        <seg>(Следовательно, |aligned A| означает |shifted (xpart A * xpart U, ypart A * ypart U)|.) * Устанавливает переменную трансформации {&lt;u0&gt; T}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T065944Z" creationid="Алексей" creationdate="20171029T063717Z">
+        <seg>Следовательно, |aligned A| означает |shifted (xpart A * xpart U, ypart A * ypart U)|. * устанавливается переменная трансформации {&lt;u0&gt; T}</seg>
       </tuv>
     </tu>
     <tu>
@@ -625,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* arrow = numeric: 0 is no arrows, 1 arrow at the end, 2 begin, 3 both ends * contour = text: list of points which get the tick or one of $-1$, $-2$ or $-3$ to mark undefined tick, tick in the middle or no tick, respectively * section = text: list of points which get the orientation arrow or $-1$ to indicate no arrows * slope = numeric: 0 no border, 1 border; text: list of (point,direction,length) triplets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071958Z" creationid="Алексей" creationdate="20171029T071416Z">
+        <seg>* arrow (стрелка) = числовая: 0 -- нет стрелок, 1 -- стрелка в конце, 2 -- в начале, 3 -- с обоих концов; * contour (контур) = текст: список точек, которые получают отметку или один из $-1$, $-2$ или $-3$ для отметки неопределенного метки, отметки в середине или без метки, соответственно; * section (сечение) = текст: список точек, которые получают стрелку ориентации или $-1$, чтобы указать стрелки; * slope (склон) = числовая: 0 -- нет границы, 1 -- есть граница; текст: список (точки, направления, длины) триплеты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* black---Therion programs and macros (XTherion is written in Tcl/Tk, so it needs this interpreter to run) * red---&lt;u0&gt;&lt;u1&gt;package * green---input files created by the user and output files created by Therion</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192347Z" creationid="Алексей" creationdate="20170909T190102Z">
@@ -852,8 +860,8 @@
       <tuv lang="EN-US">
         <seg>* set the {&lt;u0&gt; U} pair variable to $&lt;u2&gt;({width&lt;u5&gt;2},{height&lt;u6&gt;2}&lt;u9&gt;)$ of the symbol for correct alignment.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T065214Z" creationid="Алексей" creationdate="20171029T063222Z">
-        <seg>* установите переменную {&lt;u0&gt; U} (пара) в $&lt;u2&gt;({$ширина$&lt;u5&gt;2},{высота&lt;u6&gt;2}&lt;u9&gt;)$ символа для правильного выравнивания.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070045Z" creationid="Алексей" creationdate="20171029T063222Z">
+        <seg>* устанавливается переменная {&lt;u0&gt; U} (пара) символа в $&lt;u2&gt;({width&lt;u5&gt;2},{height&lt;u6&gt;2}&lt;u9&gt;)$ для\break правильного выравнивания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3596,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each line symbol gets the {&lt;u0&gt; path} in absolute coordinates as the first argument.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071331Z" creationid="Алексей" creationdate="20171029T071331Z">
+        <seg>Каждый линейный символ получает {&lt;u0&gt; путь} в абсолютных координатах в качестве первого аргумента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each line symbol is oriented and its visualization may depend on its orientation (e.g. pitch edge ticks).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064613Z" creationid="Алексей" creationdate="20170924T064445Z">
@@ -3766,8 +3782,8 @@
       <tuv lang="EN-US">
         <seg>Exceptions are {&lt;u0&gt; section} which has no visual representation; all {&lt;u1&gt; labels}, which require special treatment as described in the previous chapter, and {&lt;u2&gt; station} which takes only one argument: position (pair).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064350Z" creationid="Алексей" creationdate="20171029T062958Z">
-        <seg>Исключения составляют {&lt;u0&gt; section (сечение)}, который не имеет визуального представления; все {&lt;u1&gt; labels (подписи)}, которые требуют специальной обработки, как описано в предыдущей главе; и {&lt;u2&gt; station\break (станция)}, которая принимает только один аргумент: положение (пара).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070458Z" creationid="Алексей" creationdate="20171029T062958Z">
+        <seg>Исключения\break составляют {&lt;u0&gt; section (сечение)}, который не имеет визуального представления; все {&lt;u1&gt; labels (подписи)}, которые требуют специальной обработки, как описано в предыдущей главе; и {&lt;u2&gt; station (станция)}, которая принимает только один аргумент: position (положение, пара).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +3892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following symbols take additional arguments:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071359Z" creationid="Алексей" creationdate="20171029T071359Z">
+        <seg>Следующие символы принимают дополнительные аргументы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following token registers may be used (according to user's requirements before or after the |&lt;u0&gt;| macro):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191053Z" creationid="Алексей" creationdate="20171028T073754Z">
@@ -3934,8 +3958,8 @@
       <tuv lang="EN-US">
         <seg>For drawing and filling use |thdraw| and |thfill| commands instead of &lt;u0&gt;'s |draw| and |fill|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064005Z" creationid="Алексей" creationdate="20171029T064005Z">
-        <seg>Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо команд &lt;u0&gt; |draw| и |fill|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070935Z" creationid="Алексей" creationdate="20171029T064005Z">
+        <seg>Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо команд &lt;u0&gt;\ |draw| и |fill|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5531,6 +5555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line symbols differ from point symbols in respect that there is no local coordinate system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071250Z" creationid="Алексей" creationdate="20171029T071250Z">
+        <seg>Линейные символы отличаются от точечных символов тем, что нет локальной системы координат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line symbols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064123Z" creationid="Алексей" creationdate="20171029T064123Z">
@@ -5613,8 +5645,8 @@
       <tuv lang="EN-US">
         <seg>Majority of point symbol definitions has four arguments: position (pair), rotation (numeric), scale (numeric) and alignment (pair).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062703Z" creationid="Алексей" creationdate="20171029T062703Z">
-        <seg>Большинство определений точечных символов имеют четыре аргумента: положение (пара), вращение (числовое), масштаб (числовое) и выравнивание (пара).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070341Z" creationid="Алексей" creationdate="20171029T062703Z">
+        <seg>Большинство определений точечных символов имеют четыре аргумента: position (положение, пара), rotation (вращение, числовое), scale (масштаб, числовое) и alignment (выравнивание, пара).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6872,8 +6904,8 @@
       <tuv lang="EN-US">
         <seg>The alignment argument {&lt;u1&gt; A} is a pair representing ratios $&lt;u3&gt;(shift_x&lt;u7&gt; U_x&lt;u10&gt;)$ and $&lt;u4&gt;(shift_y&lt;u8&gt; U_y&lt;u11&gt;)$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063617Z" creationid="Алексей" creationdate="20171029T063617Z">
-        <seg>Аргумент выравнивания {&lt;u1&gt; A} представляет собой пару, представляющую отношения $&lt;u3&gt;(смещение_x&lt;u7&gt; U_x&lt;u10&gt;)$ и $&lt;u4&gt;(смещение_y&lt;u8&gt; U_y&lt;u11&gt;)$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070748Z" creationid="Алексей" creationdate="20171029T063617Z">
+        <seg>Аргумент alignment (выравнивание) {&lt;u1&gt; A}\break является парой значений, представляющих собой отношения $&lt;u3&gt;(shift_x&lt;u7&gt; U_x&lt;u10&gt;)$ и\break $&lt;u4&gt;(shift_y&lt;u8&gt; U_y&lt;u11&gt;)$.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7697,6 +7729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore it's necessary to set {&lt;u1&gt; T} variable to |identity| before drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071348Z" creationid="Алексей" creationdate="20171029T071348Z">
+        <seg>Поэтому необходимо установить переменную {&lt;u1&gt; T} в |identity| перед рисованием.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion also exports 3D model (full or centreline) in various formats.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191957Z" creationid="Алексей" creationdate="20170909T191957Z">
@@ -7995,8 +8035,8 @@
       <tuv lang="EN-US">
         <seg>These take automatically care of {&lt;u1&gt; T} transformation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064053Z" creationid="Алексей" creationdate="20171029T064053Z">
-        <seg>Они автоматически обрабатывают трансформацию {&lt;u1&gt; T}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071026Z" creationid="Алексей" creationdate="20171029T064053Z">
+        <seg>Они автоматически обрабатывают\break трансформацию {&lt;u1&gt; T}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10421,8 +10461,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;`&lt;u1&gt;12|T:=identity aligned A rotated R scaled S shifted P;|}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063918Z" creationid="Алексей" creationdate="20171029T063918Z">
-        <seg>{&lt;u0&gt;`&lt;u1&gt;12|T:=идентично для выравнивания A, вращения R, масштабирования S и сдвига P;|}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070905Z" creationid="Алексей" creationdate="20171029T063918Z">
+        <seg>{&lt;u0&gt;`&lt;u1&gt;12|T:=identity aligned A rotated R scaled S shifted P;|}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11066,8 +11106,13 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
       <tuv lang="EN-US">
         <seg>|def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064113Z" creationid="Алексей" creationdate="20171029T064113Z">
-        <seg>|def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071143Z" creationid="Алексей" creationdate="20171029T064113Z">
+        <seg>|def p_entrance_UIS (expr P,R,S,A)=
+	U:=(.2u,.5u);
+	T:=identity aligned A rotated R scaled S shifted P;
+	thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle;
+enddef;
+initsymbol("p_entrance_UIS");|</seg>
       </tuv>
     </tu>
     <tu>
