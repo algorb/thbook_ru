@@ -3932,6 +3932,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For drawing and filling use |thdraw| and |thfill| commands instead of &lt;u0&gt;'s |draw| and |fill|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064005Z" creationid="Алексей" creationdate="20171029T064005Z">
+        <seg>Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо команд &lt;u0&gt; |draw| и |fill|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For drawing and filling use |thdraw| and |thfill| commands instead of &lt;u4&gt;'s |draw| and |fill|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192811Z" creationid="Алексей" creationdate="20171028T190914Z">
@@ -7973,6 +7981,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144727Z" creationid="Алексей" creationdate="20170909T144146Z">
         <seg>Эти проблемы оставались, когда мы пытались рисовать карты с помощью некоторых программ CAD в 1998 и 1999 годах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These take automatically care of {&lt;u1&gt; T} transformation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064053Z" creationid="Алексей" creationdate="20171029T064053Z">
+        <seg>Они автоматически обрабатывают трансформацию {&lt;u1&gt; T}.</seg>
       </tuv>
     </tu>
     <tu>
