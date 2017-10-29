@@ -625,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* boolean |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = set for line survey * boolean |ATTR__stationflag_splay| = set true for endstations of splay shots * boolean |ATTR__scrap_centerline| = set true for scraps created from centreline * boolean |ATTR__elevation| = true for (extended) elevation, false for plan projection * numeric |ATTR__height| = height of a pit or wall:pit * string |ATTR__id| = contains current object ID * string |ATTR__survey| = contains current survey name * string |ATTR__scrap| = contains current scrap name * picture |ATTR__text| = contains typeset text e.g.&lt;u2&gt;for point continuation * string |NorthDir| = `true' or `grid' * numeric |MagDecl| = magnetic declination in degrees * numeric |GridConv| = grid meridian convergence in degrees</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T061815Z" creationid="Алексей" creationdate="20171029T060315Z">
+        <seg>* булевская |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = устанавливает линию съемки; * булевская |ATTR__stationflag_splay| = установлено в `true' для боковых замеров крайних станций; * булевская |ATTR__scrap_centerline| = установлено в `true' для скрапов созданных по нитке хода; * булевская |ATTR__elevation| = устанавливается в `true' для разрезе (разрез-развертки), в `false' для проекции плана; * числовая |ATTR__height| = глубина колодца (pit) или входного колодца (wall:pit); * строковая |ATTR__id| = содержит текущий идентификатор объекта ID; * строковая |ATTR__survey| = содержит текущее название съемки; * строковая |ATTR__scrap| = содержит текущее название скрапа; * изображение |ATTR__text| = содержит набранный текст, например&lt;u2&gt;для точечного символа -- продолжение (continuation); * строковая |NorthDir| = `true' или `grid'; * числовая |MagDecl| = магнитное склонение в градусах; * числовая |GridConv| = конвергенция сетки магнитного меридиана в градусах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* bottom = all symbols with |-place bottom| option set * default-bottom = all |area| symbols by default * default = symbols which don't belong to any other group * default-top = |ceiling-step| and |chimney| by default * top = all symbols with |-place top| option set</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T153124Z" creationid="Алексей" creationdate="20170919T153124Z">
