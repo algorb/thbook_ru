@@ -153,8 +153,8 @@
       <tuv lang="EN-US">
         <seg>(Hence |aligned A| means |shifted (xpart A * xpart U, ypart A * ypart U)|.) * set the {&lt;u0&gt; T} transformation variable</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063717Z" creationid="Алексей" creationdate="20171029T063717Z">
-        <seg>(Следовательно, |aligned A| означает |shifted (xpart A * xpart U, ypart A * ypart U)|.) * Устанавливает переменную преобразования {&lt;u0&gt; T}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064104Z" creationid="Алексей" creationdate="20171029T063717Z">
+        <seg>(Следовательно, |aligned A| означает |shifted (xpart A * xpart U, ypart A * ypart U)|.) * Устанавливает переменную трансформации {&lt;u0&gt; T}</seg>
       </tuv>
     </tu>
     <tu>
@@ -852,8 +852,8 @@
       <tuv lang="EN-US">
         <seg>* set the {&lt;u0&gt; U} pair variable to $&lt;u2&gt;({width&lt;u5&gt;2},{height&lt;u6&gt;2}&lt;u9&gt;)$ of the symbol for correct alignment.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063427Z" creationid="Алексей" creationdate="20171029T063222Z">
-        <seg>* установите переменную (пара) {&lt;u0&gt; U} в $&lt;u2&gt;({ширина&lt;u5&gt;2},{высота&lt;u6&gt;2}&lt;u9&gt;)$ символа для правильного выравнивания.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064848Z" creationid="Алексей" creationdate="20171029T063222Z">
+        <seg>* установите переменную {&lt;u0&gt; U} (пара) в $&lt;u2&gt;({ширина&lt;u5&gt;2},{высота&lt;u6&gt;2}&lt;u9&gt;)$ символа для правильного выравнивания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,8 +3766,8 @@
       <tuv lang="EN-US">
         <seg>Exceptions are {&lt;u0&gt; section} which has no visual representation; all {&lt;u1&gt; labels}, which require special treatment as described in the previous chapter, and {&lt;u2&gt; station} which takes only one argument: position (pair).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062958Z" creationid="Алексей" creationdate="20171029T062958Z">
-        <seg>Исключения составляют {&lt;u0&gt; section (сечение)}, который не имеет визуального представления; все {&lt;u1&gt; labels (подписи)}, которые требуют специальной обработки, как описано в предыдущей главе; и {&lt;u2&gt; station (станция)}, которая принимает только один аргумент: позиция (пара).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064350Z" creationid="Алексей" creationdate="20171029T062958Z">
+        <seg>Исключения составляют {&lt;u0&gt; section (сечение)}, который не имеет визуального представления; все {&lt;u1&gt; labels (подписи)}, которые требуют специальной обработки, как описано в предыдущей главе; и {&lt;u2&gt; station\break (станция)}, которая принимает только один аргумент: положение (пара).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,8 +4094,8 @@
       <tuv lang="EN-US">
         <seg>For the final map, all drawings are transformed as specified in the {&lt;u1&gt; T&lt;u4&gt;} transformation variable, so it's necessary to set this variable before drawing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063142Z" creationid="Алексей" creationdate="20171029T063142Z">
-        <seg>Для окончательной карты все чертежи преобразуются, как указано в переменной преобразования {&lt;u1&gt; T&lt;u4&gt;}, поэтому перед ее рисованием необходимо установить эту переменную.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064559Z" creationid="Алексей" creationdate="20171029T063142Z">
+        <seg>Для окончательной карты все\break чертежи трансформируются, как указано в переменной трансформации {&lt;u1&gt; T&lt;u4&gt;},\break поэтому перед ее рисованием необходимо установить эту переменную.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5531,6 +5531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064123Z" creationid="Алексей" creationdate="20171029T064123Z">
+        <seg>Линейные символы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linux is a default.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T123216Z" creationid="Алексей" creationdate="20171028T122614Z">
@@ -6094,8 +6102,8 @@
       <tuv lang="EN-US">
         <seg>Point symbols are defined as macros using |def ... enddef;| commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062621Z" creationid="Алексей" creationdate="20171029T062621Z">
-        <seg>Точечные символы определяются как макросы с использованием команд |def ... enddef;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064157Z" creationid="Алексей" creationdate="20171029T062621Z">
+        <seg>Точечные символы определяются как макросы с использованием команд\break |def ... enddef;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8244,8 +8252,8 @@
       <tuv lang="EN-US">
         <seg>This is usually done in two steps (assume that four arguments are {&lt;u0&gt; P}, {&lt;u1&gt; R}, {&lt;u2&gt; S}, {&lt;u3&gt; A}):</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063208Z" creationid="Алексей" creationdate="20171029T063208Z">
-        <seg>Обычно это делается в два этапа (предположим, что четыре аргумента: {&lt;u0&gt; P}, {&lt;u1&gt; R}, {&lt;u2&gt; S}, {&lt;u3&gt; A}):</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064656Z" creationid="Алексей" creationdate="20171029T063208Z">
+        <seg>Обычно это делается в два этапа (предположим, есть четыре аргумента: {&lt;u0&gt; P}, {&lt;u1&gt; R}, {&lt;u2&gt; S}, {&lt;u3&gt; A}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -11052,6 +11060,14 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060947Z" creationid="Алексей" creationdate="20171022T060922Z">
         <seg>|database| = база данных SQL с ниткой хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T064113Z" creationid="Алексей" creationdate="20171029T064113Z">
+        <seg>|def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");|</seg>
       </tuv>
     </tu>
     <tu>
