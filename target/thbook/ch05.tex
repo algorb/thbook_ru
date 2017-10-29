@@ -299,11 +299,11 @@ initsymbol("p_entrance_UIS");|
 
 \subsubchapter Линейные символы. 
 
-Line symbols differ from point symbols in respect that there is no local coordinate system. Each line symbol gets the {\it path} in absolute coordinates as the first argument. Therefore it's necessary to set {\it T} variable to |identity| before drawing. 
+Линейные символы отличаются от точечных символов тем, что нет локальной системы координат. Каждый линейный символ получает {\it путь} в абсолютных координатах в качестве первого аргумента. Поэтому необходимо установить переменную {\it T} в |identity| перед рисованием. 
 
-Following symbols take additional arguments: \list
+Следующие символы принимают дополнительные аргументы: \list
 
-* arrow = numeric: 0 is no arrows, 1 arrow at the end, 2 begin, 3 both ends * contour = text: list of points which get the tick or one of $-1$, $-2$ or $-3$ to mark undefined tick, tick in the middle or no tick, respectively * section = text: list of points which get the orientation arrow or $-1$ to indicate no arrows * slope = numeric: 0 no border, 1 border; text: list of (point,direction,length) triplets \endlist
+* arrow (стрелка) = числовая: 0 -- нет стрелок, 1 -- стрелка в конце, 2 -- в начале, 3 -- с обоих концов; * contour (контур) = текст: список точек, которые получают отметку или один из $-1$, $-2$ или $-3$ для отметки неопределенного метки, отметки в середине или без метки, соответственно; * section (сечение) = текст: список точек, которые получают стрелку ориентации или $-1$, чтобы указать стрелки; * slope (склон) = числовая: 0 -- нет границы, 1 -- есть граница; текст: список (точки, направления, длины) триплеты. \endlist
 
 Usage example: 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  29 OCT 2017 14:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  29 OCT 2017 14:11
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -839,7 +839,7 @@ Underfull \hbox (badness 2680) in paragraph at lines 289--290
 .etc.
 
 [81]
-Overfull \hbox (5.99564pt too wide) in paragraph at lines 321--321
+Overfull \hbox (5.99564pt too wide) in paragraph at lines 326--326
  \tt avail-able on-line at [][]https://www.tug.org/TUGboat/Articles/tb19-3/tb60
 bolek.pdf[][] |
 
@@ -851,7 +851,7 @@ bolek.pdf[][] |
 .\tt i
 .etc.
 
-) (ch06.tex [82] [83]
+[82]) (ch06.tex [83]
 Underfull \hbox (badness 1400) in paragraph at lines 17--18
  \tt ([][]https://sourceforge.net/projects/tcllib/[][]) и необязательным расшир
 ением
@@ -961,7 +961,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (95 pages, 779181 bytes).
+Output written on thbook.pdf (95 pages, 779197 bytes).
 PDF statistics:
  574 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
