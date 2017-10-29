@@ -842,6 +842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* set the {&lt;u0&gt; U} pair variable to $&lt;u2&gt;({width&lt;u5&gt;2},{height&lt;u6&gt;2}&lt;u9&gt;)$ of the symbol for correct alignment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063427Z" creationid="Алексей" creationdate="20171029T063222Z">
+        <seg>* установите переменную (пара) {&lt;u0&gt; U} в $&lt;u2&gt;({ширина&lt;u5&gt;2},{высота&lt;u6&gt;2}&lt;u9&gt;)$ символа для правильного выравнивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* there is no &lt;u0&gt;&lt;u1&gt;warning ``|scrap outline intersects itself|'' * when you set passage fill to any color (|color map-fg &lt;number&gt;| option in |layout|), you may see what Therion considers to be inside of the scrap.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T010921Z" creationid="Алексей" creationdate="20170919T010313Z">
@@ -8198,6 +8206,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171551Z" creationid="Алексей" creationdate="20171027T170909Z">
         <seg>Это полезно, потому что нулевое значе\-ние (нет соседней страницы) не должно отображаться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is usually done in two steps (assume that four arguments are {&lt;u0&gt; P}, {&lt;u1&gt; R}, {&lt;u2&gt; S}, {&lt;u3&gt; A}):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063208Z" creationid="Алексей" creationdate="20171029T063208Z">
+        <seg>Обычно это делается в два этапа (предположим, что четыре аргумента: {&lt;u0&gt; P}, {&lt;u1&gt; R}, {&lt;u2&gt; S}, {&lt;u3&gt; A}):</seg>
       </tuv>
     </tu>
     <tu>
