@@ -270,29 +270,29 @@ Knuth, D. E.: {\it The METAFONTbook}, Reading, Massachusetts, Addison-Wesley $^1
 
 * булевская |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,\hfil\break |ATTR__shotflag_approx| = устанавливает линию съемки; * булевская |ATTR__stationflag_splay| = установлено в `true' для боковых заме\-ров крайних станций; * булевская |ATTR__scrap_centerline| = установлено в `true' для скрапов создан\-ных по нитке хода; * булевская |ATTR__elevation| = устанавливается в `true' для разрезе (разрез-развертки), в `false' для проекции плана; * числовая |ATTR__height| = глубина колодца (pit) или входного колодца\break (wall:pit); * строковая |ATTR__id| = содержит текущий идентификатор объекта ID; * строковая |ATTR__survey| = содержит текущее название съемки; * строковая |ATTR__scrap| = содержит текущее название скрапа; * изображение |ATTR__text| = содержит набранный текст, например для\break точечного символа -- продолжение (continuation); * строковая |NorthDir| = `true' или `grid'; * числовая |MagDecl| = магнитное склонение в градусах; * числовая |GridConv| = конвергенция сетки магнитного меридиана в гра\-дусах. \endlist
 
-\subsubchapter Point symbols. 
+\subsubchapter Точечные символы. 
 
-Point symbols are defined as macros using |def ... enddef;| commands. Majority of point symbol definitions has four arguments: position (pair), rotation (numeric), scale (numeric) and alignment (pair). Exceptions are {\it section} which has no visual representation; all {\it labels}, which require special treatment as described in the previous chapter, and {\it station} which takes only one argument: position (pair). 
+Точечные символы определяются как макросы с использованием команд |def ... enddef;|. Большинство определений точечных символов имеют четыре аргумента: положение (пара), вращение (числовое), масштаб (числовое) и выравнивание (пара). Исключения составляют {\it section (сечение)}, который не имеет визуального представления; все {\it labels (подписи)}, которые требуют специальной обработки, как описано в предыдущей главе; и {\it station (станция)}, которая принимает только один аргумент: позиция (пара). 
 
-All point symbols are drawn in local coordinates with the length unit {\it u}. Recommended ranges are $\left<-0.5u,0.5u\right>$ in both axes. The symbol should be centered at the coordinates' origin. For the final map, all drawings are transformed as specified in the {\it T\/} transformation variable, so it's necessary to set this variable before drawing. 
+Все точечные символы рисуются в локальных координатах с единицей длины {\it u}. Рекомендуемые диапазоны: $\left<-0.5u,0.5u\right>$ в обоих осях. Символ должен быть центрирован в начале координат. Для окончательной карты все чертежи преобразуются, как указано в переменной преобразования {\it T\/}, поэтому перед ее рисованием необходимо установить эту переменную. 
 
-This is usually done in two steps (assume that four arguments are {\it P}, {\it R}, {\it S}, {\it A}): 
+Обычно это делается в два этапа (предположим, что четыре аргумента: {\it P}, {\it R}, {\it S}, {\it A}): 
 
 \list
 
-* set the {\it U} pair variable to $\left({width\over2},{height\over2}\right)$ of the symbol for correct alignment. The alignment argument {\it A} is a pair representing ratios $\left(shift_x\over U_x\right)$ and $\left(shift_y\over U_y\right)$. 
+* установите переменную (пара) {\it U} в $\left({ширина\over2},{высота\over2}\right)$ символа для правильного выравнивания. Аргумент выравнивания {\it A} представляет собой пару, представляющую отношения $\left(смещение_x\over U_x\right)$ и $\left(смещение_y\over U_y\right)$. 
 
-(Hence |aligned A| means |shifted (xpart A * xpart U, ypart A * ypart U)|.) * set the {\it T} transformation variable 
+(Следовательно, |aligned A| означает |shifted (xpart A * xpart U, ypart A * ypart U)|.) * Устанавливает переменную трансформации {\it T} 
 
-{\catcode`\=12|T:=identity aligned A rotated R scaled S shifted P;|} \endlist
+{\catcode`\=12|T:=идентично для выравнивания A, вращения R, масштабирования S и сдвига P;|} \endlist
 
-For drawing and filling use |thdraw| and |thfill| commands instead of \MP's |draw| and |fill|. These take automatically care of {\it T} transformation. 
+Для рисования и заполнения используйте команды |thdraw| и |thfill| вместо команд \MP |draw| и |fill|. Они автоматически обрабатывают трансформацию {\it T}. 
 
 Пример может быть следующим: 
 
 |def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");| 
 
-\subsubchapter Line symbols. 
+\subsubchapter Линейные символы. 
 
 Line symbols differ from point symbols in respect that there is no local coordinate system. Each line symbol gets the {\it path} in absolute coordinates as the first argument. Therefore it's necessary to set {\it T} variable to |identity| before drawing. 
 
