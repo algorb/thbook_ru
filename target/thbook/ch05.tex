@@ -307,7 +307,12 @@ initsymbol("p_entrance_UIS");|
 
 Пример использования: 
 
-|def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; enddef; initsymbol("l_wall_bedrock_UIS");| 
+|def l_wall_bedrock_UIS (expr P) =
+	T:=identity;
+	pickup PenA;
+	thdraw P;
+enddef;
+initsymbol("l_wall_bedrock_UIS");| 
 
 \subsubchapter Символы областей. 
 
