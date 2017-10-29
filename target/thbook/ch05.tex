@@ -305,11 +305,11 @@ initsymbol("p_entrance_UIS");|
 
 * arrow (стрелка) = числовая: 0 -- нет стрелок, 1 -- стрелка в конце, 2 -- в начале, 3 -- с обоих концов; * contour (контур) = текст: список точек, которые получают галочку или может принимать одно из значений:  $-1$, $-2$ или $-3$ для неопределенной галочки, галочки в середине или без галочки, соответственно; * section (сечение) = текст: список точек, которые получают стрелку\break ориентации или $-1$, чтобы указать стрелки; * slope (склон) = числовая: 0 -- нет границы, 1 -- есть граница; текст: список триплет (точка, направление, длина). \endlist
 
-Usage example: 
+Пример использования: 
 
 |def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; enddef; initsymbol("l_wall_bedrock_UIS");| 
 
-\subsubchapter Area symbols. 
+\subsubchapter Символы областей. 
 
 Areas are similar to lines: they take only one argument -- {\it path} in absolute coordinates. 
 
