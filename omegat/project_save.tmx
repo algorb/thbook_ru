@@ -151,6 +151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Hence |aligned A| means |shifted (xpart A * xpart U, ypart A * ypart U)|.) * set the {&lt;u0&gt; T} transformation variable</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063717Z" creationid="Алексей" creationdate="20171029T063717Z">
+        <seg>(Следовательно, |aligned A| означает |shifted (xpart A * xpart U, ypart A * ypart U)|.) * Устанавливает переменную преобразования {&lt;u0&gt; T}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you answer this, you'll know, why XTherion will never be true WYSIWYG editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142355Z" creationid="Алексей" creationdate="20170913T135332Z">
@@ -6846,6 +6854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The alignment argument {&lt;u1&gt; A} is a pair representing ratios $&lt;u3&gt;(shift_x&lt;u7&gt; U_x&lt;u10&gt;)$ and $&lt;u4&gt;(shift_y&lt;u8&gt; U_y&lt;u11&gt;)$.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063617Z" creationid="Алексей" creationdate="20171029T063617Z">
+        <seg>Аргумент выравнивания {&lt;u1&gt; A} представляет собой пару, представляющую отношения $&lt;u3&gt;(смещение_x&lt;u7&gt; U_x&lt;u10&gt;)$ и $&lt;u4&gt;(смещение_y&lt;u8&gt; U_y&lt;u11&gt;)$.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The arguments are delimited as follows</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T045308Z" creationid="Алексей" creationdate="20171028T043723Z">
@@ -10375,6 +10391,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;`&lt;u1&gt;12|T:=identity aligned A rotated R scaled S shifted P;|}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063918Z" creationid="Алексей" creationdate="20171029T063918Z">
+        <seg>{&lt;u0&gt;`&lt;u1&gt;12|T:=идентично для выравнивания A, вращения R, масштабирования S и сдвига P;|}</seg>
       </tuv>
     </tu>
     <tu>
