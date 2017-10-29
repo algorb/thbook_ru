@@ -627,8 +627,8 @@
       <tuv lang="EN-US">
         <seg>* arrow = numeric: 0 is no arrows, 1 arrow at the end, 2 begin, 3 both ends * contour = text: list of points which get the tick or one of $-1$, $-2$ or $-3$ to mark undefined tick, tick in the middle or no tick, respectively * section = text: list of points which get the orientation arrow or $-1$ to indicate no arrows * slope = numeric: 0 no border, 1 border; text: list of (point,direction,length) triplets</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071958Z" creationid="Алексей" creationdate="20171029T071416Z">
-        <seg>* arrow (стрелка) = числовая: 0 -- нет стрелок, 1 -- стрелка в конце, 2 -- в начале, 3 -- с обоих концов; * contour (контур) = текст: список точек, которые получают отметку или один из $-1$, $-2$ или $-3$ для отметки неопределенного метки, отметки в середине или без метки, соответственно; * section (сечение) = текст: список точек, которые получают стрелку ориентации или $-1$, чтобы указать стрелки; * slope (склон) = числовая: 0 -- нет границы, 1 -- есть граница; текст: список (точки, направления, длины) триплеты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072521Z" creationid="Алексей" creationdate="20171029T071416Z">
+        <seg>* arrow (стрелка) = числовая: 0 -- нет стрелок, 1 -- стрелка в конце, 2 -- в начале, 3 -- с обоих концов; * contour (контур) = текст: список точек, которые получают галочку или может принимать одно из значений:  $-1$, $-2$ или $-3$ для неопределенной галочки, галочки в середине или без галочки, соответственно; * section (сечение) = текст: список точек, которые получают стрелку\break ориентации или $-1$, чтобы указать стрелки; * slope (склон) = числовая: 0 -- нет границы, 1 -- есть граница; текст: список триплет (точка, направление, длина).</seg>
       </tuv>
     </tu>
     <tu>
@@ -701,6 +701,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220805Z" creationid="Алексей" creationdate="20170909T210818Z">
         <seg>* Все, что следует за |#| и до конца строки, даже внутри команды, считается комментарием и игнорируется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* fill an uniform or randomised grid in a temporary picture (having dimensions |bbox path|) with some point symbols; clip it according to |path| and add to the |currentpicture| * fill |path| with a solid colour * fill |path| with a predefined pattern using a |withpattern| keyword.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073133Z" creationid="Алексей" creationdate="20171029T073133Z">
+        <seg>* заполнить единую или рандомизированную сетку во временном изображении (имеющем размеры |bbox path|) с некоторыми точечными символами; закрепите его в соответствии с |path| и добавьте в |currentpicture|; * заполните |path| сплошным цветом; * заполните |path| с предопределенным шаблоном с использованием |withpattern|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3040,6 +3048,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153335Z" creationid="Алексей" creationdate="20171028T153335Z">
         <seg>Апрель: Therion включен в Debian GNU/Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Area symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072708Z" creationid="Алексей" creationdate="20171029T072708Z">
+        <seg>Символы областей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Areas are similar to lines: they take only one argument -- {&lt;u0&gt; path} in absolute coordinates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072919Z" creationid="Алексей" creationdate="20171029T072919Z">
+        <seg>Области похожи на строки: они принимают только один аргумент -- {&lt;u0&gt; путь} в абсолютных координатах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,8 +5581,8 @@
       <tuv lang="EN-US">
         <seg>Line symbols differ from point symbols in respect that there is no local coordinate system.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071250Z" creationid="Алексей" creationdate="20171029T071250Z">
-        <seg>Линейные символы отличаются от точечных символов тем, что нет локальной системы координат.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072047Z" creationid="Алексей" creationdate="20171029T071250Z">
+        <seg>Линейные символы отличаются от точечных символов тем, что нет\break локальной системы координат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7731,8 +7755,8 @@
       <tuv lang="EN-US">
         <seg>Therefore it's necessary to set {&lt;u1&gt; T} variable to |identity| before drawing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071348Z" creationid="Алексей" creationdate="20171029T071348Z">
-        <seg>Поэтому необходимо установить переменную {&lt;u1&gt; T} в |identity| перед рисованием.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072112Z" creationid="Алексей" creationdate="20171029T071348Z">
+        <seg>Поэтому\break необходимо установить переменную {&lt;u1&gt; T} в |identity| перед рисованием.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8507,6 +8531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usage example:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072650Z" creationid="Алексей" creationdate="20171029T072650Z">
+        <seg>Пример использования:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use `|/|' to separate first name and surname if there are more names.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124126Z" creationid="Алексей" creationdate="20170910T124126Z">
@@ -9050,6 +9082,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
         <seg>Вы можете создавать эти файлы в любом текстовом редакторе, например  {&lt;u0&gt; ed} или {&lt;u1&gt; vi}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may fill them in three ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072928Z" creationid="Алексей" creationdate="20171029T072928Z">
+        <seg>Вы можете заполнить их тремя способами:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11100,6 +11140,19 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060947Z" creationid="Алексей" creationdate="20171022T060922Z">
         <seg>|database| = база данных SQL с ниткой хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; enddef; initsymbol("l_wall_bedrock_UIS");|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072753Z" creationid="Алексей" creationdate="20171029T072653Z">
+        <seg>|def l_wall_bedrock_UIS (expr P) =
+	T:=identity;
+	pickup PenA;
+	thdraw P;
+enddef;
+initsymbol("l_wall_bedrock_UIS");|</seg>
       </tuv>
     </tu>
     <tu>
