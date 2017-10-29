@@ -3188,6 +3188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bolek, P.: ``&lt;u0&gt;&lt;u1&gt;and patterns,'' {&lt;u2&gt; TUGboat}, 3, XIX (1998), pp. 276--283, available online at &lt;u3&gt;{https://www.tug.org/TUGboat/Articles/tb19-3/tb60bolek.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073211Z" creationid="Алексей" creationdate="20171029T073211Z">
+        <seg>Bolek, P.: ``&lt;u0&gt;&lt;u1&gt;and patterns,'' {&lt;u2&gt; TUGboat}, 3, XIX (1998), pp. 276--283, available online at &lt;u3&gt;{https://www.tug.org/TUGboat/Articles/tb19-3/tb60bolek.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both |&lt;u0&gt;| and |&lt;u1&gt;| also contain hyperlinks.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T164359Z" creationid="Алексей" creationdate="20171027T164359Z">
@@ -3760,6 +3768,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142335Z" creationid="Алексей" creationdate="20171028T142335Z">
         <seg>Пример использования других шрифтов (например, TrueType Palatino в кодировке xl2, кодировка, полученная из ISO8859-2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example on how to define and use patterns:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073254Z" creationid="Алексей" creationdate="20171029T073254Z">
+        <seg>Пример того, как определять и использовать шаблоны:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6132,6 +6148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patterns are defined using the same user interface (without the |patterncolor| macro) as described in the article</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073202Z" creationid="Алексей" creationdate="20171029T073202Z">
+        <seg>Шаблоны определяются с использованием того же пользовательского интерфейса (без макроса |patterncolor|), как описано в статье:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pdf&lt;u6&gt;&lt;u4&gt;does all the typesetting and creates a PDF file of the cave map.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193209Z" creationid="Алексей" creationdate="20170909T191142Z">
@@ -6712,6 +6736,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T130914Z" creationid="Алексей" creationdate="20170909T100729Z">
         <seg>Исходный код и установщик для Windows доступны на веб-странице\break(&lt;u0&gt;{https://therion.speleo.sk}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073404Z" creationid="Алексей" creationdate="20171029T073404Z">
+        <seg>Специальные символы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9102,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may use standard &lt;u0&gt;&lt;u1&gt;|draw| and similar macros without setting of {&lt;u2&gt; T} variable in pattern definitions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073244Z" creationid="Алексей" creationdate="20171029T073244Z">
+        <seg>Вы можете использовать стандартный &lt;u0&gt;&lt;u1&gt;|draw| и аналогичные макросы без установки переменной {&lt;u2&gt; T} в определениях шаблонов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may use |group cave-centerline|, |group surface-centerline|, |point cave-station|, |point surface-station| and &lt;u0&gt;{5.4}|group text| in |symbol-hide| and |symbol-show| commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185504Z" creationid="Алексей" creationdate="20171021T185308Z">
@@ -9427,6 +9467,18 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145207Z" creationid="Алексей" creationdate="20171028T144830Z">
         <seg>текущий предел &lt;u0&gt;: $4 (скрапы + сечения) &lt; 4096$ (может быть про\-извольно увеличено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>def a_water_UIS (expr p) = T:=identity; thclean p; thfill p withpattern pattern_water_UIS; enddef; initsymbol("a_water_UIS");|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073356Z" creationid="Алексей" creationdate="20171029T073329Z">
+        <seg>def a_water_UIS (expr p) =
+	T:=identity;
+	thclean p; thfill p withpattern pattern_water_UIS;
+enddef;
+initsymbol("a_water_UIS");|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11014,6 +11066,18 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060738Z" creationid="Алексей" creationdate="20171022T060720Z">
         <seg>|atlas| = 2D-атлас на нескольких страницах;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|beginpattern(pattern_water_UIS); draw origin--10up withpen pensquare scaled (0.02u); patternxstep(.18u); patterntransform(identity rotated 45); endpattern;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T073326Z" creationid="Алексей" creationdate="20171029T073302Z">
+        <seg>|beginpattern(pattern_water_UIS);
+	draw origin--10up withpen pensquare scaled (0.02u);
+	patternxstep(.18u);
+	patterntransform(identity rotated 45);
+endpattern;</seg>
       </tuv>
     </tu>
     <tu>
