@@ -627,8 +627,8 @@
       <tuv lang="EN-US">
         <seg>* boolean |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = set for line survey * boolean |ATTR__stationflag_splay| = set true for endstations of splay shots * boolean |ATTR__scrap_centerline| = set true for scraps created from centreline * boolean |ATTR__elevation| = true for (extended) elevation, false for plan projection * numeric |ATTR__height| = height of a pit or wall:pit * string |ATTR__id| = contains current object ID * string |ATTR__survey| = contains current survey name * string |ATTR__scrap| = contains current scrap name * picture |ATTR__text| = contains typeset text e.g.&lt;u2&gt;for point continuation * string |NorthDir| = `true' or `grid' * numeric |MagDecl| = magnetic declination in degrees * numeric |GridConv| = grid meridian convergence in degrees</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T061815Z" creationid="Алексей" creationdate="20171029T060315Z">
-        <seg>* булевская |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = устанавливает линию съемки; * булевская |ATTR__stationflag_splay| = установлено в `true' для боковых замеров крайних станций; * булевская |ATTR__scrap_centerline| = установлено в `true' для скрапов созданных по нитке хода; * булевская |ATTR__elevation| = устанавливается в `true' для разрезе (разрез-развертки), в `false' для проекции плана; * числовая |ATTR__height| = глубина колодца (pit) или входного колодца (wall:pit); * строковая |ATTR__id| = содержит текущий идентификатор объекта ID; * строковая |ATTR__survey| = содержит текущее название съемки; * строковая |ATTR__scrap| = содержит текущее название скрапа; * изображение |ATTR__text| = содержит набранный текст, например&lt;u2&gt;для точечного символа -- продолжение (continuation); * строковая |NorthDir| = `true' или `grid'; * числовая |MagDecl| = магнитное склонение в градусах; * числовая |GridConv| = конвергенция сетки магнитного меридиана в градусах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062516Z" creationid="Алексей" creationdate="20171029T060315Z">
+        <seg>* булевская |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = устанавливает линию съемки; * булевская |ATTR__stationflag_splay| = установлено в `true' для боковых заме\-ров крайних станций; * булевская |ATTR__scrap_centerline| = установлено в `true' для скрапов создан\-ных по нитке хода; * булевская |ATTR__elevation| = устанавливается в `true' для разрезе (разрез-развертки), в `false' для проекции плана; * числовая |ATTR__height| = глубина колодца (pit) или входного колодца\break (wall:pit); * строковая |ATTR__id| = содержит текущий идентификатор объекта ID; * строковая |ATTR__survey| = содержит текущее название съемки; * строковая |ATTR__scrap| = содержит текущее название скрапа; * изображение |ATTR__text| = содержит набранный текст, например для\break точечного символа -- продолжение (continuation); * строковая |NorthDir| = `true' или `grid'; * числовая |MagDecl| = магнитное склонение в градусах; * числовая |GridConv| = конвергенция сетки магнитного меридиана в гра\-дусах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3740,6 +3740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exceptions are {&lt;u0&gt; section} which has no visual representation; all {&lt;u1&gt; labels}, which require special treatment as described in the previous chapter, and {&lt;u2&gt; station} which takes only one argument: position (pair).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062958Z" creationid="Алексей" creationdate="20171029T062958Z">
+        <seg>Исключения составляют {&lt;u0&gt; section (сечение)}, который не имеет визуального представления; все {&lt;u1&gt; labels (подписи)}, которые требуют специальной обработки, как описано в предыдущей главе; и {&lt;u2&gt; station (станция)}, которая принимает только один аргумент: позиция (пара).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053755Z" creationid="Алексей" creationdate="20170920T052831Z">
@@ -5555,6 +5563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Majority of point symbol definitions has four arguments: position (pair), rotation (numeric), scale (numeric) and alignment (pair).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062703Z" creationid="Алексей" creationdate="20171029T062703Z">
+        <seg>Большинство определений точечных символов имеют четыре аргумента: положение (пара), вращение (числовое), масштаб (числовое) и выравнивание (пара).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Map editor allows you to draw and edit map fully interactively.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175742Z" creationid="Алексей" creationdate="20170912T175742Z">
@@ -6032,6 +6048,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023511Z" creationid="Алексей" creationdate="20170923T023511Z">
         <seg>Точка -- это команда для рисования символа точки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point symbols are defined as macros using |def ... enddef;| commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062621Z" creationid="Алексей" creationdate="20171029T062621Z">
+        <seg>Точечные символы определяются как макросы с использованием команд |def ... enddef;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T062555Z" creationid="Алексей" creationdate="20171029T062555Z">
+        <seg>Точечные символы.</seg>
       </tuv>
     </tu>
     <tu>
