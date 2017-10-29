@@ -2835,6 +2835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All point symbols are drawn in local coordinates with the length unit {&lt;u0&gt; u}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063017Z" creationid="Алексей" creationdate="20171029T063017Z">
+        <seg>Все точечные символы рисуются в локальных координатах с единицей длины {&lt;u0&gt; u}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All previously specified standard deviations or grades are lost.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T044040Z" creationid="Алексей" creationdate="20170920T044040Z">
@@ -4056,6 +4064,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T073145Z" creationid="Алексей" creationdate="20170920T073145Z">
         <seg>Для небольших и простых пещер вся пещера может поместиться в одном скрапе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the final map, all drawings are transformed as specified in the {&lt;u1&gt; T&lt;u4&gt;} transformation variable, so it's necessary to set this variable before drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063142Z" creationid="Алексей" creationdate="20171029T063142Z">
+        <seg>Для окончательной карты все чертежи преобразуются, как указано в переменной преобразования {&lt;u1&gt; T&lt;u4&gt;}, поэтому перед ее рисованием необходимо установить эту переменную.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6172,6 +6188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended ranges are $&lt;u2&gt;&lt;-0.5u,0.5u&lt;u3&gt;&gt;$ in both axes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063049Z" creationid="Алексей" creationdate="20171029T063049Z">
+        <seg>Рекомендуемые диапазоны: $&lt;u2&gt;&lt;-0.5u,0.5u&lt;u3&gt;&gt;$ в обоих осях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run the setup program and follow instructions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180837Z" creationid="Алексей" creationdate="20170909T180837Z">
@@ -7339,6 +7363,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004804Z" creationid="Алексей" creationdate="20170914T183334Z">
         <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt;Если вы подключаете файлы карт в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The symbol should be centered at the coordinates' origin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063104Z" creationid="Алексей" creationdate="20171029T063104Z">
+        <seg>Символ должен быть центрирован в начале координат.</seg>
       </tuv>
     </tu>
     <tu>
