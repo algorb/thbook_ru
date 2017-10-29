@@ -863,7 +863,7 @@ Underfull \hbox (badness 2961) in paragraph at lines 302--303
 .etc.
 
 [81]
-Overfull \hbox (5.99564pt too wide) in paragraph at lines 326--326
+Overfull \hbox (5.99564pt too wide) in paragraph at lines 331--331
  \tt avail-able on-line at [][]https://www.tug.org/TUGboat/Articles/tb19-3/tb60
 bolek.pdf[][] |
 
@@ -985,7 +985,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (95 pages, 779540 bytes).
+Output written on thbook.pdf (95 pages, 779612 bytes).
 PDF statistics:
  574 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

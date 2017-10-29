@@ -316,31 +316,39 @@ initsymbol("l_wall_bedrock_UIS");|
 
 \subsubchapter —имволы областей. 
 
-Areas are similar to lines: they take only one argument -- {\it path} in absolute coordinates. 
+ќбласти похожи на строки: они принимают только один аргумент -- {\it путь} в абсолютных координатах. 
 
-You may fill them in three ways: 
+¬ы можете заполнить их трем€ способами: 
 
 \list
 
-* fill an uniform or randomised grid in a temporary picture (having dimensions |bbox path|) with some point symbols; clip it according to |path| and add to the |currentpicture| * fill |path| with a solid colour * fill |path| with a predefined pattern using a |withpattern| keyword. \endlist
+* заполнить единую или рандомизированную сетку во временном изображении (имеющем размеры |bbox path|) с некоторыми точечными символами; закрепите его в соответствии с |path| и добавьте в |currentpicture|; * заполните |path| сплошным цветом; * заполните |path| с предопределенным шаблоном с использованием |withpattern|. \endlist
 
-Patterns are defined using the same user interface (without the |patterncolor| macro) as described in the article 
+Ўаблоны определ€ютс€ с использованием того же пользовательского интерфейса (без макроса |patterncolor|), как описано в статье: 
 
 \list
 
 Bolek, P.: ``\MP\ and patterns,'' {\it TUGboat}, 3, XIX (1998), pp.~276--283, available online at \www{https://www.tug.org/TUGboat/Articles/tb19-3/tb60bolek.pdf} \endlist
 
-You may use standard \MP\ |draw| and similar macros without setting of {\it T} variable in pattern definitions. 
+¬ы можете использовать стандартный \MP\ |draw| и аналогичные макросы без установки переменной {\it T} в определени€х шаблонов. 
 
-Example on how to define and use patterns: 
+ѕример того, как определ€ть и использовать шаблоны: 
 
-|beginpattern(pattern_water_UIS); draw origin--10up withpen pensquare scaled (0.02u); patternxstep(.18u); patterntransform(identity rotated 45); endpattern; 
+|beginpattern(pattern_water_UIS);
+	draw origin--10up withpen pensquare scaled (0.02u);
+	patternxstep(.18u);
+	patterntransform(identity rotated 45);
+endpattern; 
 
-def a_water_UIS (expr p) = T:=identity; thclean p; thfill p withpattern pattern_water_UIS; enddef; initsymbol("a_water_UIS");| 
+def a_water_UIS (expr p) =
+	T:=identity;
+	thclean p; thfill p withpattern pattern_water_UIS;
+enddef;
+initsymbol("a_water_UIS");| 
 
-\subsubchapter Special symbols. 
+\subsubchapter —пециальные символы. 
 
-There are currently two special symbols: scale bar and north arrow. Both are experimental and subject to change. 
+¬ насто€щее врем€ существуют два специальных символа: шкала масштаба и стрелка на север. ќба экспериментальные и могут быть изменены. 
 
 \endinput
 
