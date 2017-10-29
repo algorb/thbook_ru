@@ -290,7 +290,12 @@ Knuth, D. E.: {\it The METAFONTbook}, Reading, Massachusetts, Addison-Wesley $^1
 
 Пример может быть следующим: 
 
-|def p_entrance_UIS (expr P,R,S,A)= U:=(.2u,.5u); T:=identity aligned A rotated R scaled S shifted P; thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle; enddef; initsymbol("p_entrance_UIS");| 
+|def p_entrance_UIS (expr P,R,S,A)=
+	U:=(.2u,.5u);
+	T:=identity aligned A rotated R scaled S shifted P;
+	thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle;
+enddef;
+initsymbol("p_entrance_UIS");| 
 
 \subsubchapter Линейные символы. 
 

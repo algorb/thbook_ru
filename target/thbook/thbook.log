@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  29 OCT 2017 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  29 OCT 2017 14:10
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -826,11 +826,11 @@ Underfull \hbox (badness 1661) in paragraph at lines 283--284
 .etc.
 
 
-Overfull \hbox (21.9807pt too wide) in paragraph at lines 289--290
+Underfull \hbox (badness 2680) in paragraph at lines 289--290
 \tt команд \manfnt META\tt -\manfnt POST []\tt draw[] и []fill[]. ќни автоматич
-ески обрабатывают трансформацию|
+ески обрабатывают
 
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+\hbox(8.04599+2.412)x452.96786, glue set 2.99466
 .\tt к
 .\kern-0.24
 .\tt о
@@ -961,7 +961,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (95 pages, 779198 bytes).
+Output written on thbook.pdf (95 pages, 779181 bytes).
 PDF statistics:
  574 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
