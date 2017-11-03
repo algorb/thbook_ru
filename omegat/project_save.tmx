@@ -1429,8 +1429,8 @@
       <tuv lang="EN-US">
         <seg>* |[LINE DATA]| specify either the coordinates of a line segment |&lt;x&gt; &lt;y&gt;|, or coordinates of a B&lt;u0&gt;ezier curve arc |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, where |c| indicates the control point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185507Z" creationid="Алексей" creationdate="20171103T185344Z">
-        <seg>* |[LINE DATA]| указать либо координаты отрезка |&lt;x&gt; &lt;y&gt;|, либо координаты кривой Безье |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, где |c| указывает контрольную точку.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190108Z" creationid="Алексей" creationdate="20171103T185344Z">
+        <seg>* |[LINE DATA]| указывает либо координаты отрезка |&lt;x&gt; &lt;y&gt;|, либо\break координаты кривой Безье |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, где |c|\break указывает контрольную точку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1493,8 +1493,8 @@
       <tuv lang="EN-US">
         <seg>* |close &lt;on/off/auto&gt;| = determines whether a line is closed or not * |mark &lt;keyword&gt;| = is used to mark the point on the line (see |join| command).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185633Z" creationid="Алексей" creationdate="20171103T185530Z">
-        <seg>* |close &lt;on/off/auto&gt;| = определяет, закрыта ли линия или нет. * | mark &lt;keyword&gt; | = используется для маркировки точки на линии (см. команду |join|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190215Z" creationid="Алексей" creationdate="20171103T185530Z">
+        <seg>* |close &lt;on/off/auto&gt;| = определяет, закрыта ли линия или нет. * |mark &lt;keyword&gt;| = используется для маркировки точки на линии (см.\break команду |join|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,10 +1939,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |orientation/orient &lt;number&gt;| = orientation of the symbols on the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190250Z" creationid="Алексей" creationdate="20171103T185653Z">
+        <seg>* |orientation/orient &lt;число&gt;| = ориентация символов на линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |otf2pfb &lt;on/off&gt;|&lt;u0&gt;{5.3}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141125Z" creationid="Алексей" creationdate="20171028T141125Z">
         <seg>* |otf2pfb &lt;on/off&gt;|&lt;u0&gt;{5.3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |outline &lt;in/out/none&gt;| = determines whether the line serves as a border line for a scrap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185845Z" creationid="Алексей" creationdate="20171103T185829Z">
+        <seg>* |outline &lt;in/out/none&gt;| = определяет, служит ли линия границ для скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,6 +2355,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040354Z" creationid="Алексей" creationdate="20170924T040349Z">
         <seg>0 $&lt;u0&gt;$ |число| $&lt;$ 360.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0 $&lt;u1&gt;$ |number| $&lt;$ 360.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190254Z" creationid="Алексей" creationdate="20171103T185813Z">
+        <seg>0 $&lt;u1&gt;$ |число| $&lt;$ 360.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,6 +4544,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040345Z" creationid="Алексей" creationdate="20170924T040345Z">
         <seg>Если не указано, то ориентировано на север.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not specified, it's perpendicular to the line on its left side.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190319Z" creationid="Алексей" creationdate="20171103T185809Z">
+        <seg>Если не\break указано, она перпендикулярна линии с левой стороны.</seg>
       </tuv>
     </tu>
     <tu>
