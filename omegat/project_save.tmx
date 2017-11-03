@@ -1429,8 +1429,8 @@
       <tuv lang="EN-US">
         <seg>* |[LINE DATA]| specify either the coordinates of a line segment |&lt;x&gt; &lt;y&gt;|, or coordinates of a B&lt;u0&gt;ezier curve arc |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, where |c| indicates the control point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185344Z" creationid="Алексей" creationdate="20171103T185344Z">
-        <seg>* |[LINE DATA]| specify either the coordinates of a line segment |&lt;x&gt; &lt;y&gt;|, or coordinates of a B&lt;u0&gt;ezier curve arc |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, where |c| indicates the control point.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185507Z" creationid="Алексей" creationdate="20171103T185344Z">
+        <seg>* |[LINE DATA]| указать либо координаты отрезка |&lt;x&gt; &lt;y&gt;|, либо координаты кривой Безье |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, где |c| указывает контрольную точку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1487,6 +1487,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T043930Z" creationid="Алексей" creationdate="20170924T043830Z">
         <seg>* |clip &lt;on/off&gt;| = указывает, подрезать ли символ границей скрапа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |close &lt;on/off/auto&gt;| = determines whether a line is closed or not * |mark &lt;keyword&gt;| = is used to mark the point on the line (see |join| command).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185633Z" creationid="Алексей" creationdate="20171103T185530Z">
+        <seg>* |close &lt;on/off/auto&gt;| = определяет, закрыта ли линия или нет. * | mark &lt;keyword&gt; | = используется для маркировки точки на линии (см. команду |join|).</seg>
       </tuv>
     </tu>
     <tu>
