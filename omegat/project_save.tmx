@@ -1811,6 +1811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |gradient &lt;none/center/point&gt;| = can be used only with the contour type and indicates where to put a gradient mark on the contour line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053644Z" creationid="Алексей" creationdate="20171104T053553Z">
+        <seg>* |gradient &lt;none/center/point&gt;| = может использоваться только с типом `contour' (контур) и указывает, где расположить градиентную метку на контурной линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
@@ -4830,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no gradient specification, behaviour is symbol-set dependent (e.g. no tick in UIS, tick in the middle in SKBB).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053828Z" creationid="Алексей" creationdate="20171104T053828Z">
+        <seg>Если спецификация градиента отсутствует, то поведение зависит от набора символов (например, без галочки в UIS, галочка посередине в SKBB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no map defined, all scraps in the given projection are exported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073817Z" creationid="Алексей" creationdate="20171022T073817Z">
@@ -5307,6 +5323,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T173237Z" creationid="Алексей" creationdate="20170912T172818Z">
         <seg>Он помо\-гает в создании файлов входных данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It indicates where to put a direction arrow on the section line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053506Z" creationid="Алексей" creationdate="20171104T053506Z">
+        <seg>Он указывает, куда следует поместить стрелку направления на линию сечения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6063,6 +6087,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T112041Z" creationid="Алексей" creationdate="20170924T111551Z">
         <seg>Кривая сечения не отображается.&lt;u8&gt;&lt;u9&gt;&lt;u10&gt;{xsect.1}], |survey| (нитка хода)&lt;u2&gt;Нитка хода автоматически рисуется Therion'ом.], |map-connection| (линия выноса)&lt;u3&gt;Используется для указания соединения между картами (при смещении или же точками в разрез-развертке).], |u|&lt;u4&gt;Для определенных пользователем линейных символов.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None is default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053527Z" creationid="Алексей" creationdate="20171104T053527Z">
+        <seg>По умолчанию `none'.</seg>
       </tuv>
     </tu>
     <tu>
