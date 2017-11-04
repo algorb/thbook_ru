@@ -1435,6 +1435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |adjust &lt;horizontal/vertical&gt;| = shifts the line point to be aligned horizontally/ver­ti­cally with the previous point (or next point if there is no previous point).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052645Z" creationid="Алексей" creationdate="20171104T052545Z">
+        <seg>* |adjust &lt;horizontal/vertical&gt;| = сдвигает точку линии, которая должна быть выровнена по горизонтали/вертикали с предыдущей точкой (или следующей точкой, если нет предыдущей точки).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |align| = alignment of the symbol or text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040424Z" creationid="Алексей" creationdate="20170924T040411Z">
@@ -4440,6 +4448,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205702Z" creationid="Алексей" creationdate="20170909T205702Z">
         <seg>Если строка данных начинается со слова, зарезервированного для опции, вам нужно вставить `|!|' перед ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all line points have this option, they are aligned to the average $y$ or $x$ coordinate, respectively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052817Z" creationid="Алексей" creationdate="20171104T052817Z">
+        <seg>Если у всех точек линии есть этот параметр, они выравниваются посередине координаты $y$ или $x$, соответственно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,6 +7502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result is horizontal/vertical line segment).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052713Z" creationid="Алексей" creationdate="20171104T052713Z">
+        <seg>Результат - горизонтальный/вертикальный сегмент линии).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The same as the |select| command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111116Z" creationid="Алексей" creationdate="20171021T111116Z">
@@ -8495,6 +8519,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154210Z" creationid="Алексей" creationdate="20170911T154210Z">
         <seg>Это означает, что идентификаторы объектов должны быть уникальными только в рамках одного survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is not allowed in the |plan| projection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052848Z" creationid="Алексей" creationdate="20171104T052848Z">
+        <seg>Этот параметр не используется в проекции |plan|.</seg>
       </tuv>
     </tu>
     <tu>
