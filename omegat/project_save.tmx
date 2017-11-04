@@ -1196,8 +1196,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;pointX&gt;| can be an ID of a point or line symbol, optionally followed by a line point mark |&lt;id&gt;:&lt;mark&gt;| (e.g. |podangl_l31@podangl:mark1|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060925Z" creationid="Алексей" creationdate="20171104T060631Z">
-        <seg>* |&lt;объектX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |&lt;id&gt;:&lt;mark&gt;| (например |podangl_l31@podangl:mark1|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061051Z" creationid="Алексей" creationdate="20171104T060631Z">
+        <seg>* |&lt;объектX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |&lt;идентификатор&gt;:&lt;метка&gt;| (например |podangl_l31@podangl:mark1|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11304,6 +11304,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T115151Z" creationid="Алексей" creationdate="20171021T115131Z">
         <seg>|&lt;id&gt;| = идентификатор макета (используется в команде |export|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;mark&gt;| can be also `|end|' (end of the line) or line point index (where 0 is the first point).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061118Z" creationid="Алексей" creationdate="20171104T060945Z">
+        <seg>|&lt;метка&gt;| может быть также `|end|' (конец линии) или индекс точки линии (где 0 это первая точка).</seg>
       </tuv>
     </tu>
     <tu>
