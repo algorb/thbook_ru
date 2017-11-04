@@ -1196,8 +1196,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;pointX&gt;| can be an ID of a point or line symbol, optionally followed by a line point mark |&lt;id&gt;:&lt;mark&gt;| (e.g. |podangl_l31@podangl:mark1|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061051Z" creationid="Алексей" creationdate="20171104T060631Z">
-        <seg>* |&lt;объектX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |&lt;идентификатор&gt;:&lt;метка&gt;| (например |podangl_l31@podangl:mark1|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061223Z" creationid="Алексей" creationdate="20171104T060631Z">
+        <seg>* |&lt;точкаX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |&lt;идентификатор&gt;:&lt;метка&gt;| (например, |podangl_l31@podangl:mark1|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1607,6 +1607,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121027Z" creationid="Алексей" creationdate="20171021T115208Z">
         <seg>* |copy &lt;id исходного макета&gt;| = устанавливаются свойства макета, которые бе\-рутся из данных исходного макета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |count &lt;N&gt;| (when used with scraps) = Therion will try to join scraps which connect in |N| locations/passages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061636Z" creationid="Алексей" creationdate="20171104T061406Z">
+        <seg>* |count &lt;N&gt;| (при использовании со скрапами) = Therion попытается соединиться к скрапам, которые соединяются в |N| месте/хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2207,6 +2215,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052503Z" creationid="Алексей" creationdate="20171104T052442Z">
         <seg>* |smooth &lt;on/off/auto&gt;| = сглаживание линии в данной точке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |smooth &lt;on/off&gt;| indicates whether two lines are to be connected smoothly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061356Z" creationid="Алексей" creationdate="20171104T061332Z">
+        <seg>* |smooth &lt;on/off&gt;| = указывает, должны ли две линии соединяться плавно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2847,6 +2863,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T184730Z" creationid="Алексей" creationdate="20171028T184730Z">
         <seg>Простой пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A special case is when |&lt;point1&gt;| and |&lt;point2&gt;| are scrap IDs---than the closest scrap ends are joined together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061324Z" creationid="Алексей" creationdate="20171104T061149Z">
+        <seg>Частным случаем является то, что |&lt;точка1&gt;| и |&lt;точка2&gt;| -- это идентификаторы скрапа, более близкие концы скрапов соединяются вместе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,8 +11804,8 @@ source test</seg>
       <tuv lang="EN-US">
         <seg>|join &lt;point1&gt; &lt;point2&gt; ... &lt;pointN&gt; [OPTIONS]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060743Z" creationid="Алексей" creationdate="20171104T060553Z">
-        <seg>|join &lt;объект1&gt; &lt;объект2&gt; ... &lt;объектN&gt; [ОПЦИИ]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061206Z" creationid="Алексей" creationdate="20171104T060553Z">
+        <seg>|join &lt;точка1&gt; &lt;точка2&gt; ... &lt;точкаN&gt; [ОПЦИИ]|</seg>
       </tuv>
     </tu>
     <tu>
