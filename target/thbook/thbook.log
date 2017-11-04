@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  4 NOV 2017 02:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  4 NOV 2017 13:21
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -640,12 +640,12 @@ Underfull \hbox (badness 1748) in paragraph at lines 479--479
 .\tt [
 .etc.
 
-[30]
-Overfull \hbox (3.0436pt too wide) in paragraph at lines 479--479
- [][][]\tt adjust <hor-i-zon-tal/vertical>[] $\mit .$ \tt shifts the line point
- to be aligned horizontally/ver-|
 
-\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+Overfull \hbox (13.18352pt too wide) in paragraph at lines 479--479
+ [][][]\tt size <число>[] $\mit .$ \tt ширина строки (размеры слева и справа ус
+тановлены половине|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
 .\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
@@ -655,11 +655,203 @@ Overfull \hbox (3.0436pt too wide) in paragraph at lines 479--479
 ..\mathoff
 ..\glue 4.31999 plus 2.592 minus 1.032
 .\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+[30]
+Overfull \hbox (8.64749pt too wide) in paragraph at lines 479--479
+ \tt выровнена по горизонтали/вертикали с предыдущей точкой (или следующей|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt в
+.\tt ы
+.\tt р
+.\tt о
+.etc.
+
+
+Overfull \hbox (33.81783pt too wide) in paragraph at lines 479--479
+ \tt точкой, если нет предыдущей точки). Результат - горизонтальный/вертикальны
+й|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt т
+.\tt о
+.\kern-0.12001
+.\tt ч
+.etc.
+
+
+Overfull \hbox (35.11392pt too wide) in paragraph at lines 479--479
+ \tt сегмент линии). Если у всех точек линии есть этот параметр, они выравниваю
+тся|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt е
+.\tt г
+.\tt м
+.etc.
+
+
+Overfull \hbox (31.64209pt too wide) in paragraph at lines 479--479
+ \tt посередине координаты $\mit y$ \tt или $\mit x$\tt , соответственно. Этот 
+параметр не используется|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt п
+.\kern-0.12001
+.\tt о
+.\tt с
+.etc.
+
+
+Overfull \hbox (23.79149pt too wide) in paragraph at lines 479--480
+ []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
+ в соответствии|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+
+Overfull \hbox (16.63553pt too wide) in paragraph at lines 483--483
+ \tt ближайшая станция не будет принята во внимание; вместо этого используется|
+
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt б
+.\kern-0.192
+.\tt л
+.\tt и
+.etc.
+
+
+Overfull \hbox (15.36981pt too wide) in paragraph at lines 483--483
+ \tt tour' (контур) и указывает, где расположить градиентную метку на контурной
+|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt t
+.\tt o
+.\kern-0.12001
+.\tt u
+.etc.
+
+[31]
+Overfull \hbox (1.09163pt too wide) in paragraph at lines 493--494
+[]\tt Area (область) определяется окружающими граничными линиями. Они могут|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt A
+.\tt r
+.\tt e
 .\tt a
 .etc.
 
-[31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]
-[46] [47] [48] [49]) (ch03.tex [50] [51 <./pic/herakl.pdf>]
+
+Overfull \hbox (21.0483pt too wide) in paragraph at lines 493--494
+\tt линии пересекаются даже после преобразования скрапа, вы можете, продолжить|
+
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\tt л
+.\tt и
+.\tt н
+.\tt и
+.\tt и
+.etc.
+
+
+Overfull \hbox (23.79149pt too wide) in paragraph at lines 516--516
+ []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
+ в соответствии|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+[32]
+Overfull \hbox (18.62546pt too wide) in paragraph at lines 530--530
+ [][][][]\rm Если вам нужен какой-либо объект, который отсекается границей скра
+па, чтобы продолжить|
+
+\hbox(9.5+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 18.0
+.\hbox(0.0+0.0)x0.0
+.\pdfcolorstack 1 push {0 0 0 1 k}
+.\hbox(8.14003+0.0)x0.0, glue set - 10.13898fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\hbox(4.51111+0.0)x8.47226, shifted -3.62892
+...\sevenrm 3
+...\sevenrm 6
+..\mathoff
+..\kern 1.66672
+.\vbox(9.5+0.0)x0.0
+.etc.
+
+
+Overfull \hbox (88.28189pt too wide) in paragraph at lines 542--543
+ \tt линии, необязательно сопровождаемый меткой символа линии []<идентификатор>
+:<метка>[]|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt л
+.\tt и
+.\tt н
+.\tt и
+.etc.
+
+
+Overfull \hbox (20.30199pt too wide) in paragraph at lines 544--544
+ []\tt Частным случаем является то, что []<точка1>[] и []<точка2>[] -- это иден
+тификаторы|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Ч
+.\tt а
+.\tt с
+.etc.
+
+
+Overfull \hbox (19.36359pt too wide) in paragraph at lines 548--548
+ [][][]\tt count <N>[] (при использовании со скрапами) $\mit .$ \tt The-rion по
+пытается соединиться|
+
+\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47]
+[48] [49]) (ch03.tex [50] [51 <./pic/herakl.pdf>]
 Overfull \hbox (1.12593pt too wide) in paragraph at lines 42--43
 []\tt Если []cs[] не определяется в файле конфигурации, то будет использован пе
 рвый|
@@ -1270,7 +1462,7 @@ pdfTeX warning: miktex-pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pscyr/handb12.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb><D:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (95 pages, 779912 bytes).
+Output written on thbook.pdf (95 pages, 781891 bytes).
 PDF statistics:
  574 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
