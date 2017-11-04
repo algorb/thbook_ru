@@ -1859,6 +1859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054226Z" creationid="Алексей" creationdate="20171104T054209Z">
+        <seg>* |id &lt;идентификатор&gt;| = Идентификатор символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |id &lt;ext_keyword&gt;| = id of the object * |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163945Z" creationid="Алексей" creationdate="20170912T163557Z">
@@ -3176,6 +3184,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153335Z" creationid="Алексей" creationdate="20171028T153335Z">
         <seg>Апрель: Therion включен в Debian GNU/Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Area is specified by surrounding border lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054340Z" creationid="Алексей" creationdate="20171104T054340Z">
+        <seg>Area (область) определяется окружающими пограничными линиями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9530,6 +9546,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T160821Z" creationid="Алексей" creationdate="20170909T160821Z">
         <seg>``Программа должна делать одну задачу, и должна делать это хорошо'' (Кен Томпсон). Поэтому мы используем несколько внешних программ, которые обрабатывают и визуализируют данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`area'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054230Z" creationid="Алексей" creationdate="20171104T054230Z">
+        <seg>`area'.</seg>
       </tuv>
     </tu>
     <tu>
