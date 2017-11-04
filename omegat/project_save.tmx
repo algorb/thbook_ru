@@ -1194,6 +1194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |&lt;pointX&gt;| can be an ID of a point or line symbol, optionally followed by a line point mark |&lt;id&gt;:&lt;mark&gt;| (e.g. |podangl_l31@podangl:mark1|).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060925Z" creationid="Алексей" creationdate="20171104T060631Z">
+        <seg>* |&lt;объектX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |&lt;id&gt;:&lt;mark&gt;| (например |podangl_l31@podangl:mark1|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |&lt;type&gt;| = The following export types are supported:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060635Z" creationid="Алексей" creationdate="20171022T060612Z">
@@ -10006,6 +10014,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>none, scrap, survey</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060612Z" creationid="Алексей" creationdate="20171104T060612Z">
+        <seg>none, scrap, survey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>none, survey</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154527Z" creationid="Алексей" creationdate="20170911T154527Z">
@@ -11750,6 +11766,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151046Z" creationid="Алексей" creationdate="20170911T151046Z">
         <seg>|input &lt;file-name&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|join &lt;point1&gt; &lt;point2&gt; ... &lt;pointN&gt; [OPTIONS]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060743Z" creationid="Алексей" creationdate="20171104T060553Z">
+        <seg>|join &lt;объект1&gt; &lt;объект2&gt; ... &lt;объектN&gt; [ОПЦИИ]|</seg>
       </tuv>
     </tu>
     <tu>
