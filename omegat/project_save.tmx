@@ -5763,6 +5763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Join works in two modes: it joins either two scraps or two or more points or lines in a map together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060119Z" creationid="Алексей" creationdate="20171104T060119Z">
+        <seg>Соединения работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или строк на карте вместе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jul 27: Therion 0.2 --- Therion compiles simple map (consisting of two scraps) for the first time (800 kB of source code)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153044Z" creationid="Алексей" creationdate="20171028T152652Z">
@@ -9141,6 +9149,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When joining more than two points or lines, use one join command for all of them, not a sequence of join commands for pairs.&lt;u0&gt;E.g. use |join a b c|, not |join a b| followed by |join b c|.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060258Z" creationid="Алексей" creationdate="20171104T060128Z">
+        <seg>При объединении более двух точек или строк используйте одну команду `join' для всех из них, а не последовательность команд.&lt;u0&gt;Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When set to |on| (default), OpenType fonts used in |pdf-fonts| are converted to PFB fonts, if they are PostScript-based.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075029Z" creationid="Алексей" creationdate="20171028T141212Z">
@@ -9642,6 +9658,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172322Z" creationid="Алексей" creationdate="20170910T172322Z">
         <seg>`input'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`join'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060010Z" creationid="Алексей" creationdate="20171104T060010Z">
+        <seg>`join'.</seg>
       </tuv>
     </tu>
     <tu>
