@@ -401,6 +401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* &lt;u0&gt;{5.4}|height &lt;value&gt;| = height of pit or wall:pit; available in &lt;u1&gt;&lt;u2&gt;as a numeric variable |ATTR__height|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054201Z" creationid="Алексей" creationdate="20171104T054012Z">
+        <seg>* &lt;u0&gt;{5.4}|height &lt;значение&gt;| = высота pit (колодца) или wall:pit (входного колодца); доступная в &lt;u1&gt;&lt;u2&gt;как числовая переменная |ATTR__height|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* A one-line command is terminated by an end of line character.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204406Z" creationid="Алексей" creationdate="20170909T204406Z">
@@ -1843,6 +1851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |head &lt;begin/end/both/none&gt;| = can be used only with the arrow type and indicates where to put an arrow head.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053907Z" creationid="Алексей" creationdate="20171104T053835Z">
+        <seg>* |head &lt;begin/end/both/none&gt;| = может использоваться только с типом `arrow' (стрелка) и указывает, куда поставить стрелу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |id &lt;ext_keyword&gt;| = id of the object * |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163945Z" creationid="Алексей" creationdate="20170912T163557Z">
@@ -2255,6 +2271,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140202Z" creationid="Алексей" creationdate="20171028T140112Z">
         <seg>* |text &lt;ID языка&gt; &lt;текст Therion'а&gt; &lt;свой текст&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |text &lt;string&gt;| = valid only for label lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054007Z" creationid="Алексей" creationdate="20171104T053948Z">
+        <seg>* |text &lt;строка&gt;| = действует только для линий надписей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,6 +3864,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075054Z" creationid="Алексей" creationdate="20171028T142236Z">
         <seg>За кодировкой должны следовать пять спецификаций шрифтов для\break обычных, курсивных, полужирных, без засечек и наклонных без засечек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End is default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053938Z" creationid="Алексей" creationdate="20171104T053938Z">
+        <seg>По умолчанию `end' (в конце линии).</seg>
       </tuv>
     </tu>
     <tu>
