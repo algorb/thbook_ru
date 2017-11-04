@@ -2851,6 +2851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A map is a collection of either scraps or other maps of the same projection type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061721Z" creationid="Алексей" creationdate="20171104T061721Z">
+        <seg>Карта представляет собой набор либо скрапов, либо других карт одного и того же типа проекции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A shortcut for all this is Ctrl-p.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150522Z" creationid="Алексей" creationdate="20170913T150522Z">
@@ -5763,6 +5771,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's possible to include survey in the map---this will display centreline in the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061806Z" creationid="Алексей" creationdate="20171104T061806Z">
+        <seg>На карте можно включить съемку, тогда на карте будет отображаться нитка хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's possible to open an existing file without loading of background images using {&lt;u6&gt; Open XP} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142810Z" creationid="Алексей" creationdate="20170913T140839Z">
@@ -6023,6 +6039,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174924Z" creationid="Алексей" creationdate="20171024T173657Z">
         <seg>Карта в формате XVI содержит нитку хода с LRUD (и, возможно, эскизом подвергнувшимся морфингу) и может быть импортирована в XTherion,\break чтобы служить фоном для оцифровки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map object simplifies the data management when selecting data for output.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061826Z" creationid="Алексей" creationdate="20171104T061826Z">
+        <seg>Объект карты упрощает управление данными при выборе данных для вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,6 +6824,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170510Z" creationid="Алексей" creationdate="20170912T170510Z">
         <seg>См. опцию declination команды survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the chapter {&lt;u0&gt; How the map is put together} for more thorough explanation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061847Z" creationid="Алексей" creationdate="20171104T061847Z">
+        <seg>Смотрите главу {&lt;u0&gt; Как собрать карту} для более подробного объяснения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11926,6 +11958,19 @@ endline|</seg>
 	smooth off
 	1205.5 788.0 1195.5 832.5 1173.5 879.0
 endline|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|map &lt;id&gt; [OPTIONS] ... scrap, survey or other map references ... break ... next level scrap, survey or other map references ... preview &lt;above/below&gt; &lt;other map id&gt; endmap|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062121Z" creationid="Алексей" creationdate="20171104T061903Z">
+        <seg>|map &lt;id&gt; [ОПЦИИ]
+	... скрап, съемка или другие карты ...
+	break
+	... скрап, съемка или другие карты (следующий уровень)...
+	preview &lt;above/below&gt; &lt;other map id&gt;
+endmap|</seg>
       </tuv>
     </tu>
     <tu>
