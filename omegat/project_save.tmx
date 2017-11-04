@@ -1196,8 +1196,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;pointX&gt;| can be an ID of a point or line symbol, optionally followed by a line point mark |&lt;id&gt;:&lt;mark&gt;| (e.g. |podangl_l31@podangl:mark1|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061223Z" creationid="Алексей" creationdate="20171104T060631Z">
-        <seg>* |&lt;точкаX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |&lt;идентификатор&gt;:&lt;метка&gt;| (например, |podangl_l31@podangl:mark1|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064431Z" creationid="Алексей" creationdate="20171104T060631Z">
+        <seg>* |&lt;точкаX&gt;| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии\break |&lt;идентификатор&gt;:&lt;метка&gt;| (например, |podangl_l31@podangl:mark1|).\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -1220,16 +1220,16 @@
       <tuv lang="EN-US">
         <seg>* |&lt;type&gt;| is a keyword that determines the type of line.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T114013Z" creationid="Алексей" creationdate="20170924T065702Z">
-        <seg>* |&lt;тип&gt;| это зарезервированное слово, которое определяет тип линии.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062539Z" creationid="Алексей" creationdate="20170924T065702Z">
+        <seg>* |&lt;тип&gt;| это зарезервированное слово, которое определяет тип линии.\break </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |&lt;type&gt;| is one of following: |water|, |sump|, |sand|, |debris|, |blocks|, |flowstone|, |moonmilk|, |snow|, |ice|, |clay|, |pebbles|, |bedrock|&lt;u0&gt;An empty area which can be used to clean the background.], |u|&lt;u1&gt;For user defined area symbols, may be followed by arbitrary subtype.].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055826Z" creationid="Алексей" creationdate="20171104T055333Z">
-        <seg>* |&lt;type&gt;| является одним из следующих: |water| (вода), |sump| (сифон), |sand| (песок), |debris| (щебень), |blocks| (навал глыб), |flowstone| (натечный каскад), |moonmilk| (мондмильх), |snow| (снег), |ice| (лед), |clay| (глина), |pebbles| (галька), |bedrock| (коренная порода)&lt;u0&gt;Пустая область, которая может быть использована для очистки фона.], |u|&lt;u1&gt;Для пользовательских символов области, может иметь произвольный подтип.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063930Z" creationid="Алексей" creationdate="20171104T055333Z">
+        <seg>* |&lt;тип&gt;| является одним из следующих: |water| (вода), |sump| (сифон), |sand| (песок), |debris| (щебень), |blocks| (навал глыб), |flowstone| (натечный каскад), |moonmilk| (мондмильх), |snow| (снег), |ice| (лед), |clay| (глина), |pebbles| (галька), |bedrock| (коренная порода)&lt;u0&gt;Пустая область, которая может быть использована для очистки фона.], |u|&lt;u1&gt;Для пользовательских символов области, может иметь произвольный подтип.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -1461,16 +1461,16 @@
       <tuv lang="EN-US">
         <seg>* |[LINE DATA]| specify either the coordinates of a line segment |&lt;x&gt; &lt;y&gt;|, or coordinates of a B&lt;u0&gt;ezier curve arc |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, where |c| indicates the control point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190108Z" creationid="Алексей" creationdate="20171103T185344Z">
-        <seg>* |[LINE DATA]| указывает либо координаты отрезка |&lt;x&gt; &lt;y&gt;|, либо\break координаты кривой Безье |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, где |c|\break указывает контрольную точку.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062423Z" creationid="Алексей" creationdate="20171103T185344Z">
+        <seg>* |[ДАННЫЕ ЛИНИИ]| указывает либо координаты отрезка |&lt;x&gt; &lt;y&gt;|, либо\break координаты кривой Безье |&lt;c1x&gt; &lt;c1y&gt; &lt;c2x&gt; &lt;c2y&gt; &lt;x&gt; &lt;y&gt;|, где |c|\break указывает контрольную точку.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |adjust &lt;horizontal/vertical&gt;| = shifts the line point to be aligned horizontally/ver­ti­cally with the previous point (or next point if there is no previous point).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052645Z" creationid="Алексей" creationdate="20171104T052545Z">
-        <seg>* |adjust &lt;horizontal/vertical&gt;| = сдвигает точку линии, которая должна быть выровнена по горизонтали/вертикали с предыдущей точкой (или следующей точкой, если нет предыдущей точки).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063121Z" creationid="Алексей" creationdate="20171104T052545Z">
+        <seg>* |adjust &lt;horizontal/vertical&gt;| = сдвигает точку линии, которая должна быть выровнена по горизонтали/вертикали с предыдущей точкой (или\break следующей точкой, если нет предыдущей точки).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,8 +1581,8 @@
       <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053037Z" creationid="Алексей" creationdate="20171104T052912Z">
-        <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| команды |layout|) будет скрыт/показан в соответствии с правилами для указанных |&lt;symbol-type&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063348Z" creationid="Алексей" creationdate="20171104T052912Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| команды |layout|) будет скрыт/показан в\break соответствии с правилами для указанного |&lt;типа символа&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1613,8 +1613,8 @@
       <tuv lang="EN-US">
         <seg>* |count &lt;N&gt;| (when used with scraps) = Therion will try to join scraps which connect in |N| locations/passages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061636Z" creationid="Алексей" creationdate="20171104T061406Z">
-        <seg>* |count &lt;N&gt;| (при использовании со скрапами) = Therion попытается соединиться к скрапам, которые соединяются в |N| месте/хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064632Z" creationid="Алексей" creationdate="20171104T061406Z">
+        <seg>* |count &lt;N&gt;| (при использовании со скрапами) = Therion попытается\break подсоединиться к скрапам, которые соединяются в |N| месте/хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1853,8 +1853,8 @@
       <tuv lang="EN-US">
         <seg>* |gradient &lt;none/center/point&gt;| = can be used only with the contour type and indicates where to put a gradient mark on the contour line.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053644Z" creationid="Алексей" creationdate="20171104T053553Z">
-        <seg>* |gradient &lt;none/center/point&gt;| = может использоваться только с типом `contour' (контур) и указывает, где расположить градиентную метку на контурной линии.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063536Z" creationid="Алексей" creationdate="20171104T053553Z">
+        <seg>* |gradient &lt;none/center/point&gt;| = может использоваться только с типом\break `contour' (контур) и указывает, где расположить градиентную метку на контурной линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1885,16 +1885,16 @@
       <tuv lang="EN-US">
         <seg>* |head &lt;begin/end/both/none&gt;| = can be used only with the arrow type and indicates where to put an arrow head.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053907Z" creationid="Алексей" creationdate="20171104T053835Z">
-        <seg>* |head &lt;begin/end/both/none&gt;| = может использоваться только с типом `arrow' (стрелка) и указывает, куда поставить стрелу.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063642Z" creationid="Алексей" creationdate="20171104T053835Z">
+        <seg>* |head &lt;begin/end/both/none&gt;| = может использоваться только с типом\break `arrow' (стрелка) и указывает, куда поставить стрелу.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054226Z" creationid="Алексей" creationdate="20171104T054209Z">
-        <seg>* |id &lt;идентификатор&gt;| = Идентификатор символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064117Z" creationid="Алексей" creationdate="20171104T054209Z">
+        <seg>* |id &lt;идентификатор&gt;| = идентификатор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2173,8 +2173,8 @@
       <tuv lang="EN-US">
         <seg>* |size &lt;number&gt;| = line width (left and right sizes are set to one half of this value) * |r-size &lt;number&gt;| = size of the line to the right * |l-size &lt;number&gt;| = same to the left.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052416Z" creationid="Алексей" creationdate="20171104T052416Z">
-        <seg>* |size &lt;число&gt;| = ширина строки (размеры слева и справа установлены половине этого значения). * |r-size &lt;число&gt;| = размер строки справа. * |l-size &lt;число&gt;| = размер строки слева.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063005Z" creationid="Алексей" creationdate="20171104T052416Z">
+        <seg>* |size &lt;число&gt;| = ширина строки (размеры слева и справа установлены\break половине этого значения). * |r-size &lt;число&gt;| = размер строки справа. * |l-size &lt;число&gt;| = размер строки слева.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2685,8 +2685,8 @@
       <tuv lang="EN-US">
         <seg>&lt;u0&gt;If you want some object which is clipped by a scrap boundary to continue to a neighbouring scrap, use |-clip off| option for that object.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060541Z" creationid="Алексей" creationdate="20171104T060447Z">
-        <seg>&lt;u0&gt;Если вам нужен какой-либо объект, который отсекается границей скрапа, чтобы продолжить соседний скрап, используйте опцию |-clip off| для этого объекта.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064331Z" creationid="Алексей" creationdate="20171104T060447Z">
+        <seg>&lt;u0&gt;Если вам нужен какой-либо объект, который отсекается границей скрапа, чтобы\break продолжить соседний скрап, используйте опцию |-clip off| для этого объекта.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -2877,8 +2877,8 @@
       <tuv lang="EN-US">
         <seg>A special case is when |&lt;point1&gt;| and |&lt;point2&gt;| are scrap IDs---than the closest scrap ends are joined together.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061324Z" creationid="Алексей" creationdate="20171104T061149Z">
-        <seg>Частным случаем является то, что |&lt;точка1&gt;| и |&lt;точка2&gt;| -- это идентификаторы скрапа, более близкие концы скрапов соединяются вместе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064546Z" creationid="Алексей" creationdate="20171104T061149Z">
+        <seg>Частным случаем |&lt;точка1&gt;| и |&lt;точка2&gt;| могут быть идентификаторами скрапов, более близкие концы скрапов соединяются вместе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4855,8 +4855,8 @@
       <tuv lang="EN-US">
         <seg>If the line is closed, it is filled with the background colour.], |rock-edge|&lt;u2&gt;Inner edges of large boulders.], |water-flow|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110252Z" creationid="Алексей" creationdate="20170924T110057Z">
-        <seg>Если линия замкнута, она заполняется цветом фона.], |rock-edge| (внутренняя кромка глыбы)&lt;u2&gt;Внутренние края больших валунов.], |water-flow| (водоток);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062643Z" creationid="Алексей" creationdate="20170924T110057Z">
+        <seg>Если линия замкнута, она заполняется цветом фона.], |rock-edge| (внутренняя кромка\break глыбы)&lt;u2&gt;Внутренние края больших валунов.], |water-flow| (водоток);</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +4952,8 @@
       <tuv lang="EN-US">
         <seg>If there is no gradient specification, behaviour is symbol-set dependent (e.g. no tick in UIS, tick in the middle in SKBB).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053828Z" creationid="Алексей" creationdate="20171104T053828Z">
-        <seg>Если спецификация градиента отсутствует, то поведение зависит от набора символов (например, без галочки в UIS, галочка посередине в SKBB).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063621Z" creationid="Алексей" creationdate="20171104T053828Z">
+        <seg>Если спецификация градиента отсутствует, то\break поведение зависит от набора символов (например, без галочки в UIS,\break галочка посередине в SKBB).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,8 +5249,8 @@
       <tuv lang="EN-US">
         <seg>In order to be sure that lines intersect even after scrap transformation you may e.g. continue a lake border 1 cm behind a passage wall---these overlaps will be automatically clipped by scrap border.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054745Z" creationid="Алексей" creationdate="20171104T054745Z">
-        <seg>Чтобы убедиться, что линии пересекаются даже после преобразования скрапа, вы можете, продолжить границу на 1 см за стену хода -- эти выступы будут автоматически обрезаны по границе скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063810Z" creationid="Алексей" creationdate="20171104T054745Z">
+        <seg>Чтобы\break убедиться, что линии пересекаются даже после преобразования скрапа, вы можете продолжить границу на 1 см за стену хода -- эти выступы будут автоматически обрезаны по границе скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5709,8 +5709,8 @@
       <tuv lang="EN-US">
         <seg>It's a good idea to place a scrap join in the passage which is as simple as possible, otherwise you have to specify join for each pair of objects which should be joined.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060436Z" creationid="Алексей" creationdate="20171104T060436Z">
-        <seg>Лучше всего размещать соединения скрапов в ходе, которое будет как можно более простым, иначе вам нужно будет указать соединение для каждой пары объектов, которые должны быть соединены.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064303Z" creationid="Алексей" creationdate="20171104T060436Z">
+        <seg>Лучше всего размещать соединения скрапов в ходе, которое будет как можно более простым, иначе вам нужно будет указать соединение для каждой пары объектов, которые должны быть соединены</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,8 +5829,8 @@
       <tuv lang="EN-US">
         <seg>Join works in two modes: it joins either two scraps or two or more points or lines in a map together.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060119Z" creationid="Алексей" creationdate="20171104T060119Z">
-        <seg>Соединения работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или строк на карте вместе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064141Z" creationid="Алексей" creationdate="20171104T060119Z">
+        <seg>Соединение работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или строк на карте вместе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7480,8 +7480,8 @@
       <tuv lang="EN-US">
         <seg>The following subtypes are supported for given types:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T114455Z" creationid="Алексей" creationdate="20170924T112132Z">
-        <seg>Для данных типов поддержива\-ются следующие подтипы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062744Z" creationid="Алексей" creationdate="20170924T112132Z">
+        <seg>Для данных типов\break поддерживаются следующие подтипы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7496,8 +7496,8 @@
       <tuv lang="EN-US">
         <seg>The following types are supported:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070650Z" creationid="Алексей" creationdate="20170923T023718Z">
-        <seg>Под\-держиваются следующие типы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062536Z" creationid="Алексей" creationdate="20170923T023718Z">
+        <seg>Поддерживаются следующие типы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7752,8 +7752,8 @@
       <tuv lang="EN-US">
         <seg>The result is horizontal/vertical line segment).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052713Z" creationid="Алексей" creationdate="20171104T052713Z">
-        <seg>Результат - горизонтальный/вертикальный сегмент линии).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063135Z" creationid="Алексей" creationdate="20171104T052713Z">
+        <seg>Результат --\break горизонтальный/вертикальный сегмент линии).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7945,8 +7945,8 @@
       <tuv lang="EN-US">
         <seg>The value can be prefixed by a keyword ``|fix|'', then no nearest station is taken into consideration; the absolute given value is used instead.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053248Z" creationid="Алексей" creationdate="20171104T053248Z">
-        <seg>Значение может иметь префикс с ключевым словом ``|fix|'', тогда никакая ближайшая станция не будет принята во внимание; вместо этого используется абсолютное заданное значение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063444Z" creationid="Алексей" creationdate="20171104T053248Z">
+        <seg>Значение может иметь префикс с ключевым словом ``|fix|'', тогда никакая ближайшая станция не будет принята во внимание; вместо этого\break используется абсолютное заданное значение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8523,8 +8523,8 @@
       <tuv lang="EN-US">
         <seg>They may be of any type, but must be listed in order and each pair of consecutive lines must intersect.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054540Z" creationid="Алексей" creationdate="20171104T054540Z">
-        <seg>Они могут быть любого типа, но должны быть перечислены друг за другом, и каждая пара последовательных линий должны пересекаться.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063727Z" creationid="Алексей" creationdate="20171104T054540Z">
+        <seg>Они\break могут быть любого типа, но должны быть перечислены друг за другом, и каждая пара последовательных линий должны пересекаться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,8 +9231,8 @@
       <tuv lang="EN-US">
         <seg>When joining more than two points or lines, use one join command for all of them, not a sequence of join commands for pairs.&lt;u0&gt;E.g. use |join a b c|, not |join a b| followed by |join b c|.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060258Z" creationid="Алексей" creationdate="20171104T060128Z">
-        <seg>При объединении более двух точек или строк используйте одну команду `join' для всех из них, а не последовательность команд.&lt;u0&gt;Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064218Z" creationid="Алексей" creationdate="20171104T060128Z">
+        <seg>При объединении более двух точек или строк используйте одну команду `join' для всех из них, а не последовательность команд&lt;u0&gt;Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,8 +9576,8 @@
       <tuv lang="EN-US">
         <seg>You may use invisible border to achieve this inside of the passage.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055109Z" creationid="Алексей" creationdate="20171104T054951Z">
-        <seg>Вы можете использовать невидимую (invisible) границу для расположения внутри хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063835Z" creationid="Алексей" creationdate="20171104T054951Z">
+        <seg>Вы можете использовать\break невидимую (invisible) границу для расположения внутри хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10769,8 +10769,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; border:} |visible| (default), |invisible|, |temporary|, |presumed|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T114754Z" creationid="Алексей" creationdate="20170924T113257Z">
-        <seg>{&lt;u0&gt; border (граница):} |visible| (видимая) (по умолчанию), |invisible| (неотображае\-мая), |temporary| (временная), |presumed| (предполагаемая);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062823Z" creationid="Алексей" creationdate="20170924T113257Z">
+        <seg>{&lt;u0&gt; border (граница):} |visible| (видимая) (по умолчанию), |invisible|\break (неотображаемая), |temporary| (временная), |presumed| (предполагаемая);</seg>
       </tuv>
     </tu>
     <tu>
@@ -10921,8 +10921,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; passage fills:} |flowstone|, |moonmilk|, |rock-border|&lt;u1&gt;Outer outline of large boulders.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T110037Z" creationid="Алексей" creationdate="20170924T105812Z">
-        <seg>{&lt;u0&gt; заливка ходов:} |flowstone| (натечный каскад), |moonmilk| (мондмильх), |rock-border| (внешняя кромка глыбы)&lt;u1&gt;Внешние границы крупных валунов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062615Z" creationid="Алексей" creationdate="20170924T105812Z">
+        <seg>{&lt;u0&gt; заливка ходов:} |flowstone| (натечный каскад), |moonmilk| (мондмильх),\break |rock-border| (внешняя кромка глыбы)&lt;u1&gt;Внешние границы крупных валунов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10977,8 +10977,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; survey:} |cave| (default), |surface| (default if centreline has surface flag).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T115223Z" creationid="Алексей" creationdate="20170924T113554Z">
-        <seg>{&lt;u0&gt; survey (нитка хода):} |cave| (пещерная) (по умолчанию), |surface| (поверхност\-ная) (по умолчанию, если нитка хода имеет флаг surface).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062845Z" creationid="Алексей" creationdate="20170924T113554Z">
+        <seg>{&lt;u0&gt; survey (нитка хода):} |cave| (пещерная) (по умолчанию), |surface|\break (поверхностная) (по умолчанию, если нитка хода имеет флаг surface).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11544,12 +11544,12 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|area &lt;type&gt; place &lt;bottom/default/top&gt; clip &lt;on/off&gt; visibility &lt;on/off&gt; ... border line references ... endarea|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055304Z" creationid="Алексей" creationdate="20171104T055113Z">
-        <seg>|area &lt;type&gt;
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063925Z" creationid="Алексей" creationdate="20171104T055113Z">
+        <seg>|area &lt;тип&gt;
 	place &lt;bottom/default/top&gt;
 	clip &lt;on/off&gt;
 	visibility &lt;on/off&gt;
-	... ссылки на границу ...
+	... ссылки на границы ...
 endarea|</seg>
       </tuv>
     </tu>
@@ -11934,15 +11934,15 @@ endlayout|</seg>
       <tuv lang="EN-US">
         <seg>|line &lt;type&gt; [OPTIONS] [OPTIONS] ... [LINE DATA] ... [OPTIONS] ... [LINE DATA] ... endline|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T113955Z" creationid="Алексей" creationdate="20170924T065440Z">
-        <seg>|line &lt;тип&gt; [OPTIONS]
-	[OPTIONS]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062359Z" creationid="Алексей" creationdate="20170924T065440Z">
+        <seg>|line &lt;тип&gt; [ОПЦИИ]
+	[ОПЦИИ]
 	...
-	[LINE DATA]
+	[ДАННЫЕ ЛИНИИ]
 	...
-	[OPTIONS]
+	[ОПЦИИ]
 	...
-	[LINE DATA]
+	[ДАННЫЕ ЛИНИИ]
 	...
 endline|</seg>
       </tuv>
@@ -12327,8 +12327,8 @@ endsurvey [&lt;id&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; wall:} |invisible|, |bedrock| (default), |sand|, |clay|, |pebbles|, |debris|, |blocks|, |ice|, |underlying|, &lt;u1&gt;{5.4}|overlying|, |unsurveyed|, |presumed|, |pit|&lt;u2&gt;Usually open to surface.], |flowstone|, |moonmilk|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T114716Z" creationid="Алексей" creationdate="20170924T112142Z">
-        <seg>{&lt;u0&gt; wall (стена):} |invisible| (неотображаемая), |bedrock| (коренная порода) (по умол\-чанию), |sand| (песчаная), |clay| (глинистая), |pebbles| (из крупной гальки), |debris| (из щебня), |blocks| (из блоков), |ice| (ледяная), |underlying| (лежащая ниже), &lt;u1&gt;{5.4}|overlying| (лежащая выше), |unsurveyed| (не привязанная к опорным точкам), |presumed| (предполагаемая), |pit| (стены колодца)&lt;u2&gt;Обычно открытые с поверхности.], |flowstone| (глыбовые), |moonmilk| (покрытые мондмильхом);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062806Z" creationid="Алексей" creationdate="20170924T112142Z">
+        <seg>{&lt;u0&gt; wall (стена):} |invisible| (неотображаемая), |bedrock| (коренная порода) (по умол\-чанию), |sand| (песчаная), |clay| (глинистая), |pebbles| (из крупной гальки), |debris| (из щебня), |blocks| (из блоков), |ice| (ледяная), |underlying| (лежащая ниже), &lt;u1&gt;{5.4}|overlying| (лежащая выше), |unsurveyed| (не привязанная к опорным точкам), |presumed| (предполагаемая), |pit| (стены колодца)&lt;u2&gt;Обычно открытые с поверхности.], |flowstone|\break (глыбовые), |moonmilk| (покрытые мондмильхом);</seg>
       </tuv>
     </tu>
   </body>
