@@ -3190,7 +3190,7 @@
       <tuv lang="EN-US">
         <seg>Area is specified by surrounding border lines.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054354Z" creationid="Алексей" creationdate="20171104T054340Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055057Z" creationid="Алексей" creationdate="20171104T054340Z">
         <seg>Area (область) определяется окружающими граничными линиями.</seg>
       </tuv>
     </tu>
@@ -9456,8 +9456,8 @@
       <tuv lang="EN-US">
         <seg>You may use invisible border to achieve this inside of the passage.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054951Z" creationid="Алексей" creationdate="20171104T054951Z">
-        <seg>Вы можете использовать невидимую границу для расположения внутри хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055109Z" creationid="Алексей" creationdate="20171104T054951Z">
+        <seg>Вы можете использовать невидимую (invisible) границу для расположения внутри хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11394,6 +11394,19 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T142353Z" creationid="Алексей" creationdate="20171028T142353Z">
         <seg>|afm2tfm palatino.afm -u -v vpalatino -T xl2.enc|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|area &lt;type&gt; place &lt;bottom/default/top&gt; clip &lt;on/off&gt; visibility &lt;on/off&gt; ... border line references ... endarea|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055304Z" creationid="Алексей" creationdate="20171104T055113Z">
+        <seg>|area &lt;type&gt;
+	place &lt;bottom/default/top&gt;
+	clip &lt;on/off&gt;
+	visibility &lt;on/off&gt;
+	... ссылки на границу ...
+endarea|</seg>
       </tuv>
     </tu>
     <tu>
