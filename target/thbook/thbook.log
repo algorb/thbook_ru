@@ -1,0 +1,858 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  4 NOV 2017 13:30
+entering extended mode
+**./thbook.tex
+(thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
+") (etc/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count26
+\scratchdimen=\dimen16
+\scratchdimen=\dimen17
+\scratchdimen=\dimen18
+\scratchdimen=\dimen19
+\scratchdimen=\dimen20
+\scratchdimen=\dimen21
+\scratchcounter=\count27
+\scratchtoks=\toks12
+\scratchtoks=\toks13
+\scratchtoks=\toks14
+\scratchtoks=\toks15
+\scratchtoks=\toks16
+\scratchtoks=\toks17
+\scratchtoks=\toks18
+\scratchtoks=\toks19
+\scratchtoks=\toks20
+\scratchtoks=\toks21
+\scratchskip=\skip18
+\scratchskip=\skip19
+\scratchskip=\skip20
+\scratchskip=\skip21
+\scratchmuskip=\muskip10
+\scratchmuskip=\muskip11
+\scratchmuskip=\muskip12
+\scratchmuskip=\muskip13
+\scratchmuskip=\muskip14
+\scratchmuskip=\muskip15
+\scratchmuskip=\muskip16
+\scratchmuskip=\muskip17
+\scratchmuskip=\muskip18
+\scratchmuskip=\muskip19
+\scratchmuskip=\muskip20
+\scratchmuskip=\muskip21
+\scratchbox=\box16
+\scratchread=\read0
+\scratchwrite=\write0
+\zeropoint=\dimen22
+\onepoint=\dimen23
+\onebasepoint=\dimen24
+\minusone=\count28
+\thousandpoint=\dimen25
+\onerealpoint=\dimen26
+\emptytoks=\toks22
+\nextbox=\box17
+\nextdepth=\dimen27
+\everyline=\toks23
+\!!counta=\count29
+\!!countb=\count30
+\recursecounter=\count31
+) (etc/supp-pdf.tex
+loading : Context Support Macros / PDF
+\scratchcounter=\count32
+\scratchdimen=\dimen28
+\scratchbox=\box18
+\nofMPsegments=\count33
+\nofMParguments=\count34
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count35
+\MPscratchDim=\dimen29
+\MPnumerator=\count36
+\everyMPtoPDFconversion=\toks25
+) (etc/optarg.tex) (etc/verbatim.tex)
+\footnum=\count37
+ (ch00.tex [1{C:/Users/РђР»РµРєСЃРµР№/AppData/Local/MiKTeX/2.9/pdftex/config/pd
+ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
+\openout1 = `etc/contents.tex'.
+
+) (ch01.tex [5 <./pic/ageom.pdf>] [6] [7]
+[MP to PDF] (mp/schema.1) [8] [9]) (ch02.tex [10] [11 <./pic/agrippa.jpg>]
+Overfull \hbox (2.87794pt too wide) in paragraph at lines 60--60
+ [][]\it keyword $\mit .$ \tt последовательность []A-Z[], []a-z[], []0-9[] и []
+_-/[] символов (не начинающиеся|
+
+\hbox(8.328+2.754)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\it k
+.\it e
+.etc.
+
+[12]
+Overfull \hbox (0.32193pt too wide) in paragraph at lines 67--68
+[]\tt Если вы не указали какой-либо []cs[] в вашем наборе данных, то предполага
+ется,|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+[13] [14] [15] [16]
+Overfull \hbox (11.32599pt too wide) in paragraph at lines 197--197
+ [][][]\tt entrance <имя-станции>[] $\mit .$ \tt указывает главный вход в пещер
+у, представленный|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt e
+.etc.
+
+[17]
+Overfull \hbox (9.79391pt too wide) in paragraph at lines 250--250
+ [][][]\tt date <дата>[] $\mit .$ \tt дата съемки. Если указано несколько дат, 
+создается временной|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt d
+.etc.
+
+
+Overfull \hbox (14.8219pt too wide) in paragraph at lines 250--250
+ [][][]\tt explo-date <дата>[] $\mit .$ \tt дата исследования. Если указано нес
+колько дат, создается|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt e
+.etc.
+
+
+Overfull \hbox (7.47554pt too wide) in paragraph at lines 250--250
+ \tt в настоящее время не используется). Поддерживаются следующие значения:|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt в
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt н
+.\tt а
+.etc.
+
+
+Overfull \hbox (15.9436pt too wide) in paragraph at lines 250--250
+ [][][]\tt infer <what> <on/off>[] $\mit .$ \tt `[]in-fer plumbs on[]' говорит 
+программе интерпретировать|
+
+\hbox(8.328+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt i
+.etc.
+
+[18]
+Overfull \hbox (7.5916pt too wide) in paragraph at lines 250--250
+ [][][]\tt grid-angle <значение> <единицы>[] $\mit .$ \tt задает угол магнитной
+ сетки (склонение|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt g
+.etc.
+
+
+Overfull \hbox (1.67958pt too wide) in paragraph at lines 250--250
+ \tt для данных измерений. Quan-tity list может содержать следующие значения:|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt д
+.\tt л
+.\tt я
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Overfull \hbox (4.3195pt too wide) in paragraph at lines 250--250
+ \tt нак-лона съемки (смотрите команду grade). Все ранее заданные стандартные|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt н
+.\tt а
+.\tt к
+.\discretionary
+..\tt -
+.etc.
+
+
+Overfull \hbox (42.47794pt too wide) in paragraph at lines 250--250
+ \tt станций отсутствует, все последующие станции будут отмечены соответствующи
+м|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt т
+.\tt а
+.\tt н
+.etc.
+
+
+Overfull \hbox (20.4116pt too wide) in paragraph at lines 250--251
+ [][][]\tt flags <флаги замеров>[] $\mit .$ \tt установить флаги для следующих 
+замеров. Поддержи-|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt  (ligature fl)
+.etc.
+
+[19]
+Overfull \hbox (29.40189pt too wide) in paragraph at lines 256--257
+ \tt станции и ее флаги. Если в качестве комментария указан []""[], то он игнор
+ируется. |
+
+\hbox(8.706+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt т
+.\tt а
+.\tt н
+.etc.
+
+
+Overfull \hbox (14.95157pt too wide) in paragraph at lines 263--264
+ \tt длинна>[] для станции. Исследовательские длины являются частью статистики|
+
+
+\hbox(8.04599+1.836)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt д
+.\tt л
+.\tt и
+.\tt н
+.etc.
+
+
+Overfull \hbox (11.98363pt too wide) in paragraph at lines 265--265
+ [][][]\tt cs <система координат>[] $\mit .$ \tt система координат для станций 
+с фиксированными|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+
+Overfull \hbox (11.94766pt too wide) in paragraph at lines 265--266
+ \tt topofil, div-ing, carte-sian, cylpo-lar, di-men-sions, no-sur-vey) и поряд
+ок считывания.|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt t
+.\tt o
+.\tt p
+.\tt o
+.etc.
+
+[20]
+Overfull \hbox (1.07552pt too wide) in paragraph at lines 273--273
+ [][][]\tt endgroup[] $\mit .$ []\tt group/endgroup[] пара позволяет пользовате
+лю делать временные|
+
+\hbox(8.328+2.69398)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt e
+.etc.
+
+
+Overfull \hbox (14.55295pt too wide) in paragraph at lines 275--276
+ []\tt Если ходы горизонтальны ([]наклон < vthresh-old[]), LR считается перпенд
+икуляр-|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.etc.
+
+
+Overfull \hbox (10.15953pt too wide) in paragraph at lines 281--282
+ []\tt normal/reverse[] $\mit .$ \tt развернуть данную и следующие станции в та
+ком же/обрат-|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt n
+.\tt o
+.\tt r
+.etc.
+
+[21]
+Overfull \hbox (6.73976pt too wide) in paragraph at lines 295--296
+ [][][]\tt station-names <префикс> <суффикс>[] $\mit .$ \tt добавляет данный пр
+ефикс/суффикс|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Overfull \hbox (4.64362pt too wide) in paragraph at lines 295--296
+ \tt для всех станций съемки в текущей нитки хода. Для сохранения типизации. |
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt д
+.\tt л
+.\tt я
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Overfull \hbox (4.18753pt too wide) in paragraph at lines 308--309
+\tt по умалчанию имеют опцию []-outline out[]). Эти линии не должны пересекатьс
+я,|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\tt п
+.\kern-0.12001
+.\tt о
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt у
+.etc.
+
+[22]
+Overfull \hbox (18.07162pt too wide) in paragraph at lines 330--331
+ [][][]\tt projection <спецификация>[] $\mit .$ \tt указывает проекцию чертежа.
+ Каждая проекция|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt p
+.etc.
+
+[23]
+Overfull \hbox (20.88759pt too wide) in paragraph at lines 340--341
+ [][][]\tt scale <спецификация>[] $\mit .$ \tt используется для предварительног
+о масштабирования|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Overfull \hbox (3.96996pt too wide) in paragraph at lines 348--348
+ [][][]\tt stations <список имен станций> [] $\mit .$ \tt станции, которые вы х
+отите использовать|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Overfull \hbox (17.93549pt too wide) in paragraph at lines 348--348
+ [][][]\tt flip (none)/horizontal/vertical[] $\mit .$ \tt зеркально отображает 
+скрап после трансформа-|
+
+\hbox(8.328+2.69398)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt  (ligature fl)
+.etc.
+
+[24]
+Overfull \hbox (20.39317pt too wide) in paragraph at lines 380--381
+ []\it окончание ходов: []\tt con-tin-u-a-tion[], []narrow-end[], []low-end[], 
+[]flowstone-choke[], []breakdown-|
+
+\hbox(8.04599+2.754)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it о
+.\it к
+.\it о
+.etc.
+
+[25]
+Overfull \hbox (13.96758pt too wide) in paragraph at lines 388--389
+ [][][]\tt subtype <подтип>[] $\mit .$ \tt определяет подтип объекта. Поддержив
+аются следующие|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Overfull \hbox (1.43962pt too wide) in paragraph at lines 400--400
+ [][][]\tt align[] $\mit .$ \tt выравнивание символа или текста. Принимает след
+ующие значения:|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt a
+.etc.
+
+[26]
+Overfull \hbox (23.6235pt too wide) in paragraph at lines 400--400
+ []\tt symbol-hide[] и []symbol-show[] в lay-out) символ будет скрыт/показан в 
+соответствии|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+
+Overfull \hbox (5.89247pt too wide) in paragraph at lines 408--409
+ []\tt <center>[]/[]<centre>[], []<left>[], []<right>[] $\mit .$ \tt выравниван
+ие строк для многострочных|
+
+\hbox(8.328+2.69398)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt <
+.\tt c
+.\tt e
+.etc.
+
+[27]
+Overfull \hbox (7.198pt too wide) in paragraph at lines 422--423
+ \tt значения: []+<число>[] (высота потолка), []-<число>[] (глубина этажа или г
+лубина|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt з
+.\tt н
+.\tt а
+.\kern-0.36
+.etc.
+
+
+Overfull \hbox (11.92601pt too wide) in paragraph at lines 422--423
+ \tt воды), []<число>[] (расстояние между потолком и полом) и [][+<число> -<чис
+ло>][]|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt в
+.\tt о
+.\kern-0.48001
+.\tt д
+.etc.
+
+
+Overfull \hbox (11.82771pt too wide) in paragraph at lines 426--426
+ []\it dimensions (размеры хода): []\tt -value [<выше> <ниже> [<единицы>]][] оп
+ределяет|
+
+\hbox(8.11198+2.754)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it d
+.\it i
+.\it m
+.etc.
+
+[28]
+Underfull \hbox (badness 1253) in paragraph at lines 457--458
+ []\it заливка ходов: []\tt flow-stone[] (натечный каскад), []moon-milk[] (монд
+мильх),
+
+\hbox(8.04599+2.754)x452.96786, glue set 2.32396
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it з
+.\it а
+.\it л
+.etc.
+
+[MP to PDF] (mp/xsect.1) [29]
+Underfull \hbox (badness 1210) in paragraph at lines 467--468
+ \tt точкам), []pre-sumed[] (предполагаемая), []pit[] (стены колодца)$[]$, []fl
+ow-stone[]
+
+\hbox(8.86581+2.69398)x452.96786, glue set 2.29723
+.\glue(\leftskip) 12.0
+.\tt т
+.\tt о
+.\kern-0.12001
+.\tt ч
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+ []\it border (граница): []\tt vis-i-ble[] (видимая) (по умолчанию), []in-vis-i
+-ble[]
+
+\hbox(8.11198+2.85599)x452.96786, glue set 4.84319
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it b
+.\it o
+.\it r
+.etc.
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 473--474
+ []\it survey (нитка хода): []\tt cave[] (пещерная) (по умолчанию), []sur-face[
+]
+
+\hbox(8.11198+2.85599)x452.96786, glue set 3.74033
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it s
+.\it u
+.\it r
+.etc.
+
+[30]
+Overfull \hbox (8.64749pt too wide) in paragraph at lines 479--479
+ \tt выровнена по горизонтали/вертикали с предыдущей точкой (или следующей|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt в
+.\tt ы
+.\tt р
+.\tt о
+.etc.
+
+
+Overfull \hbox (33.81783pt too wide) in paragraph at lines 479--479
+ \tt точкой, если нет предыдущей точки). Результат - горизонтальный/вертикальны
+й|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt т
+.\tt о
+.\kern-0.12001
+.\tt ч
+.etc.
+
+
+Overfull \hbox (35.11392pt too wide) in paragraph at lines 479--479
+ \tt сегмент линии). Если у всех точек линии есть этот параметр, они выравниваю
+тся|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt е
+.\tt г
+.\tt м
+.etc.
+
+
+Overfull \hbox (31.64209pt too wide) in paragraph at lines 479--479
+ \tt посередине координаты $\mit y$ \tt или $\mit x$\tt , соответственно. Этот 
+параметр не используется|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt п
+.\kern-0.12001
+.\tt о
+.\tt с
+.etc.
+
+
+Overfull \hbox (23.79149pt too wide) in paragraph at lines 479--480
+ []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
+ в соответствии|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+
+Overfull \hbox (16.63553pt too wide) in paragraph at lines 483--483
+ \tt ближайшая станция не будет принята во внимание; вместо этого используется|
+
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt б
+.\kern-0.192
+.\tt л
+.\tt и
+.etc.
+
+
+Overfull \hbox (15.36981pt too wide) in paragraph at lines 483--483
+ \tt tour' (контур) и указывает, где расположить градиентную метку на контурной
+|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt t
+.\tt o
+.\kern-0.12001
+.\tt u
+.etc.
+
+[31]
+Overfull \hbox (1.09163pt too wide) in paragraph at lines 493--494
+[]\tt Area (область) определяется окружающими граничными линиями. Они могут|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt A
+.\tt r
+.\tt e
+.\tt a
+.etc.
+
+
+Overfull \hbox (21.0483pt too wide) in paragraph at lines 493--494
+\tt линии пересекаются даже после преобразования скрапа, вы можете, продолжить|
+
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\tt л
+.\tt и
+.\tt н
+.\tt и
+.\tt и
+.etc.
+
+
+Overfull \hbox (23.79149pt too wide) in paragraph at lines 516--516
+ []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
+ в соответствии|
+
+\hbox(8.328+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+[32]
+Overfull \hbox (18.62546pt too wide) in paragraph at lines 530--530
+ [][][][]\rm Если вам нужен какой-либо объект, который отсекается границей скра
+па, чтобы продолжить|
+
+\hbox(9.5+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 18.0
+.\hbox(0.0+0.0)x0.0
+.\pdfcolorstack 1 push {0 0 0 1 k}
+.\hbox(8.14003+0.0)x0.0, glue set - 10.13898fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\hbox(4.51111+0.0)x8.47226, shifted -3.62892
+...\sevenrm 3
+...\sevenrm 6
+..\mathoff
+..\kern 1.66672
+.\vbox(9.5+0.0)x0.0
+.etc.
+
+
+Overfull \hbox (88.28189pt too wide) in paragraph at lines 542--543
+ \tt линии, необязательно сопровождаемый меткой символа линии []<идентификатор>
+:<метка>[]|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt л
+.\tt и
+.\tt н
+.\tt и
+.etc.
+
+
+Overfull \hbox (20.30199pt too wide) in paragraph at lines 544--544
+ []\tt Частным случаем является то, что []<точка1>[] и []<точка2>[] -- это иден
+тификаторы|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Ч
+.\tt а
+.\tt с
+.etc.
+
+
+Overfull \hbox (19.36359pt too wide) in paragraph at lines 548--548
+ [][][]\tt count <N>[] (при использовании со скрапами) $\mit .$ \tt The-rion по
+пытается соединиться|
+
+\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+[33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47]
+[48] [49]) (ch03.tex [50] [51 <./pic/herakl.pdf>]
+Overfull \hbox (1.12593pt too wide) in paragraph at lines 42--43
+[]\tt Если []cs[] не определяется в файле конфигурации, то будет использован пе
+рвый|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+[52] [53]
+Overfull \hbox (4.13957pt too wide) in paragraph at lines 134--134
+ [][][]\tt <therion текст>[] $\mit .$ \tt текст The-rion'а для перевода. Список
+ текстов и доступных|
+
+\hbox(8.04599+2.85599)x452.96786, gl
