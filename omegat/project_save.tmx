@@ -1451,6 +1451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |altitude &lt;value&gt;| = can be specified only with the wall type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053135Z" creationid="Алексей" creationdate="20171104T053053Z">
+        <seg>* |altitude &lt;значение&gt;| = могут быть указаны только с типом |wall| (стена).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |attributes &lt;(on)/off&gt;| = set whether to export user defined attributes in continuation list table.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074747Z" creationid="Алексей" creationdate="20171022T074711Z">
@@ -1527,6 +1535,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074348Z" creationid="Алексей" creationdate="20171028T122625Z">
         <seg>* |config-release|, |config-oxygen|, |config-ozone| = установить уровень\break оптимизации для компилятора C++ (none, |-O2| или |-O3|); * |config-debug| = полезно перед отладкой программы; * |install| = установить Therion; * |clean| = удалить все временные файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053037Z" creationid="Алексей" creationdate="20171104T052912Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| команды |layout|) будет скрыт/показан в соответствии с правилами для указанных |&lt;symbol-type&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
