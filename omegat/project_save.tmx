@@ -3190,8 +3190,8 @@
       <tuv lang="EN-US">
         <seg>Area is specified by surrounding border lines.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054340Z" creationid="Алексей" creationdate="20171104T054340Z">
-        <seg>Area (область) определяется окружающими пограничными линиями.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054354Z" creationid="Алексей" creationdate="20171104T054340Z">
+        <seg>Area (область) определяется окружающими граничными линиями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5179,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124400Z" creationid="Алексей" creationdate="20170910T124400Z">
         <seg>В многоязычных строках только текст между |&lt;lang:XX&gt;| (где |XX| - это язык, выбранный в файле инициализации или конфигурации) и следующим тегом |&lt;lang:YY&gt;| отображается на выходе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to be sure that lines intersect even after scrap transformation you may e.g. continue a lake border 1 cm behind a passage wall---these overlaps will be automatically clipped by scrap border.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054745Z" creationid="Алексей" creationdate="20171104T054745Z">
+        <seg>Чтобы убедиться, что линии пересекаются даже после преобразования скрапа, вы можете, продолжить границу на 1 см за стену хода -- эти выступы будут автоматически обрезаны по границе скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8405,6 +8413,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T171307Z" creationid="Алексей" creationdate="20171027T170504Z">
         <seg>Они устанавливают нашу площадку при определении макета страницы исполь\-зуя макрос |&lt;u4&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They may be of any type, but must be listed in order and each pair of consecutive lines must intersect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054540Z" creationid="Алексей" creationdate="20171104T054540Z">
+        <seg>Они могут быть любого типа, но должны быть перечислены друг за другом, и каждая пара последовательных линий должны пересекаться.</seg>
       </tuv>
     </tu>
     <tu>
