@@ -9454,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may use invisible border to achieve this inside of the passage.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T054951Z" creationid="Алексей" creationdate="20171104T054951Z">
+        <seg>Вы можете использовать невидимую границу для расположения внутри хода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may use standard &lt;u0&gt;&lt;u1&gt;|draw| and similar macros without setting of {&lt;u2&gt; T} variable in pattern definitions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074040Z" creationid="Алексей" creationdate="20171029T073244Z">
