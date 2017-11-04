@@ -2659,6 +2659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;u0&gt;If you want some object which is clipped by a scrap boundary to continue to a neighbouring scrap, use |-clip off| option for that object.]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060541Z" creationid="Алексей" creationdate="20171104T060447Z">
+        <seg>&lt;u0&gt;Если вам нужен какой-либо объект, который отсекается границей скрапа, чтобы продолжить соседний скрап, используйте опцию |-clip off| для этого объекта.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
@@ -5655,6 +5663,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092726Z" creationid="Алексей" creationdate="20171028T092726Z">
         <seg>Эти дистрибутивы содержат GNU make и GCC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's a good idea to place a scrap join in the passage which is as simple as possible, otherwise you have to specify join for each pair of objects which should be joined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060436Z" creationid="Алексей" creationdate="20171104T060436Z">
+        <seg>Лучше всего размещать соединения скрапов в ходе, которое будет как можно более простым, иначе вам нужно будет указать соединение для каждой пары объектов, которые должны быть соединены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9153,6 +9169,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060258Z" creationid="Алексей" creationdate="20171104T060128Z">
         <seg>При объединении более двух точек или строк используйте одну команду `join' для всех из них, а не последовательность команд.&lt;u0&gt;Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When joining scraps, only passage walls are joined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T060323Z" creationid="Алексей" creationdate="20171104T060323Z">
+        <seg>При соединении скрапов соединяются только ходы.</seg>
       </tuv>
     </tu>
     <tu>
