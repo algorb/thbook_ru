@@ -882,6 +882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* the data lines consist of border line references (IDs) * |place &lt;bottom/default/top&gt;| = changes displaying order in the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T055945Z" creationid="Алексей" creationdate="20171104T055844Z">
+        <seg>* строки данных состоят из ссылок на линии границы (ID). * |place &lt;bottom/default/top&gt;| = изменяет порядок отображения на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* there is no &lt;u0&gt;&lt;u1&gt;warning ``|scrap outline intersects itself|'' * when you set passage fill to any color (|color map-fg &lt;number&gt;| option in |layout|), you may see what Therion considers to be inside of the scrap.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T010921Z" creationid="Алексей" creationdate="20170919T010313Z">
