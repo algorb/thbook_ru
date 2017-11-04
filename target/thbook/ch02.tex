@@ -476,27 +476,32 @@ scrap \endcontext
 
 Любой подтип может использоваться с пользовательским типом (|u|). В этом случае вам также необходимо определить соответствующий метапост символ (смотрите главу {\it Новые символы карты}). 
 
-* |[LINE DATA]| указывает либо координаты отрезка |<x> <y>|, либо\break координаты кривой Безье |<c1x> <c1y> <c2x> <c2y> <x> <y>|, где |c|\break указывает контрольную точку. * |close <on/off/auto>| = определяет, закрыта ли линия или нет. * |mark <keyword>| = используется для маркировки точки на линии (см.\break команду |join|). * |orientation/orient <число>| = ориентация символов на линии. Если не\break указано, она перпендикулярна линии с левой стороны. 0 $\le$ |число| $<$ 360. * |outline <in/out/none>| = определяет, служит ли линия границ для скрапа. Default value is `|out|' for walls, `|none|' for all other lines. Use |-outline in| for large pillars etc. * |reverse <on/off>| = whether points are given in reverse order. * |size <number>| = line width (left and right sizes are set to one half of this value) * |r-size <number>| = size of the line to the right * |l-size <number>| = same to the left. Required for |slope| type. * |smooth <on/off/auto>| = whether the line is smooth at the given point. Auto is default. * |adjust <horizontal/vertical>| = shifts the line point to be aligned horizontally/ver\-ti\-cally with the previous point (or next point if there is no previous point). The result is horizontal/vertical line segment). If all line points have this option, they are aligned to the average $y$ or $x$ coordinate, respectively. This option is not allowed in the |plan| projection. * |place <bottom/default/top>| = порядок отображения изменений на карте. * |clip <on/off>| = указывает, подрезать ли символ границей скрапа. * |visibility <on/off>| = отображает/скрывает символ. * |context <point/line/area> <symbol-type>| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |<symbol-type>|. 
+* |[LINE DATA]| указывает либо координаты отрезка |<x> <y>|, либо\break координаты кривой Безье |<c1x> <c1y> <c2x> <c2y> <x> <y>|, где |c|\break указывает контрольную точку. * |close <on/off/auto>| = определяет, закрыта ли линия или нет. * |mark <keyword>| = используется для маркировки точки на линии (см.\break команду |join|). * |orientation/orient <число>| = ориентация символов на линии. Если не\break указано, она перпендикулярна линии с левой стороны. 0 $\le$ |число| $<$ 360. * |outline <in/out/none>| = определяет, служит ли линия границ для скрапа. Значение по умолчанию -- `|out|' для стен, `|none|' для всех других линий. Использовать |-outline in| для больших колонн и т.п. * |reverse <on/off>| = точки указаны в обратном порядке. * |size <число>| = ширина строки (размеры слева и справа установлены половине этого значения). * |r-size <число>| = размер строки справа. * |l-size <число>| = размер строки слева. Требуется для типа |slope|. * |smooth <on/off/auto>| = сглаживание линии в данной точке. По умолчанию `auto'. * |adjust <horizontal/vertical>| = сдвигает точку линии, которая должна быть выровнена по горизонтали/вертикали с предыдущей точкой (или следующей точкой, если нет предыдущей точки). Результат - горизонтальный/вертикальный сегмент линии). Если у всех точек линии есть этот параметр, они выравниваются посередине координаты $y$ или $x$, соответственно. Этот параметр не используется в проекции |plan|. * |place <bottom/default/top>| = порядок отображения изменений на карте. * |clip <on/off>| = указывает, подрезать ли символ границей скрапа. * |visibility <on/off>| = отображает/скрывает символ. * |context <point/line/area> <symbol-type>| = (для использования с опциями |symbol-hide| и |symbol-show| команды |layout|) будет скрыт/показан в соответствии с правилами для указанных |<symbol-type>|. 
 
 {\it Специальные параметры:}\Nobreak 
 
-* |altitude <value>| = can be specified only with the wall type. This option creates an altitude label on the wall. Все высоты экспортируются как разница от $Z$ сетки (по умолчанию 0). If the value is specified, it gives the altitude difference of the point on the wall relative to the nearest station. The value can be prefixed by a keyword ``|fix|'', then no nearest station is taken into consideration; the absolute given value is used instead. Units can follow the value. Examples: |+4|, |[+4 m]|, |[fix 1510 m]|. * |border <on/off>| = this option can be specified only with the `slope' symbol type. It switches on/off the border line of the slope. * |direction <begin/end/both/none/point>| = can be used only with the section type. It indicates where to put a direction arrow on the section line. None is default. * |gradient <none/center/point>| = can be used only with the contour type and indicates where to put a gradient mark on the contour line. If there is no gradient specification, behaviour is symbol-set dependent (e.g. no tick in UIS, tick in the middle in SKBB). * |head <begin/end/both/none>| = can be used only with the arrow type and indicates where to put an arrow head. End is default. * |text <string>| = valid only for label lines. * \NEW{5.4}|height <value>| = height of pit or wall:pit; available in \MP\ as a numeric variable |ATTR__height|. \endcomopt
+* |altitude <значение>| = могут быть указаны только с типом |wall| (стена). Этот параметр создает метку высоты на стене. Все высоты экспортируются как разница от $Z$ сетки (по умолчанию 0). Если значение указано, оно дает разность высот точки на стене относительно ближайшей станции. Значение может иметь префикс с ключевым словом ``|fix|'', тогда никакая ближайшая станция не будет принята во внимание; вместо этого используется абсолютное заданное значение. За значением можно указать единицы измерения. Например: |+4|, |[+4 m]|, |[fix 1510 m]|. * |border <on/off>| = эта опция может быть указана только с типом символа `slope' (склон). Он включает/выключает границу линии наклона. * |direction <begin/end/both/none/point>| = может использоваться только с типом `section' (сечение). Он указывает, куда следует поместить стрелку направления на линию сечения. По умолчанию `none'. * |gradient <none/center/point>| = может использоваться только с типом `contour' (контур) и указывает, где расположить градиентную метку на контурной линии. Если спецификация градиента отсутствует, то поведение зависит от набора символов (например, без галочки в UIS, галочка посередине в SKBB). * |head <begin/end/both/none>| = может использоваться только с типом `arrow' (стрелка) и указывает, куда поставить стрелу. По умолчанию `end' (в конце линии). * |text <строка>| = действует только для линий надписей. * \NEW{5.4}|height <значение>| = высота pit (колодца) или wall:pit (входного колодца); доступная в \MP\ как числовая переменная |ATTR__height|. \endcomopt
 
 \options
 
-* |id <ext_keyword>| = ID of the symbol. \endoptions
+* |id <идентификатор>| = Идентификатор символа. \endoptions
 
 \subsubchapter `area'. 
 
 \description
 
-Area is specified by surrounding border lines. They may be of any type, but must be listed in order and each pair of consecutive lines must intersect. In order to be sure that lines intersect even after scrap transformation you may e.g.~continue a lake border 1\,cm behind a passage wall---these overlaps will be automatically clipped by scrap border. You may use invisible border to achieve this inside of the passage. 
+Area (область) определяется окружающими граничными линиями. Они могут быть любого типа, но должны быть перечислены друг за другом, и каждая пара последовательных линий должны пересекаться. Чтобы убедиться, что линии пересекаются даже после преобразования скрапа, вы можете, продолжить границу на 1 см за стену хода -- эти выступы будут автоматически обрезаны по границе скрапа. Вы можете использовать невидимую (invisible) границу для расположения внутри хода. 
 
 \enddescription
 
 \syntax
 
-|area <type> place <bottom/default/top> clip <on/off> visibility <on/off> ... border line references ... endarea| \endsyntax
+|area <type>
+	place <bottom/default/top>
+	clip <on/off>
+	visibility <on/off>
+	... ссылки на границу ...
+endarea| \endsyntax
 
 \context
 
@@ -504,29 +509,29 @@ scrap \endcontext
 
 \arguments
 
-* |<type>| is one of following: |water|, |sump|, |sand|, |debris|, |blocks|, |flowstone|, |moonmilk|, |snow|, |ice|, |clay|, |pebbles|, |bedrock|\[An empty area which can be used to clean the background.], |u|\[For user defined area symbols, may be followed by arbitrary subtype.]. \endarguments
+* |<type>| является одним из следующих: |water| (вода), |sump| (сифон), |sand| (песок), |debris| (щебень), |blocks| (навал глыб), |flowstone| (натечный каскад), |moonmilk| (мондмильх), |snow| (снег), |ice| (лед), |clay| (глина), |pebbles| (галька), |bedrock| (коренная порода)\[Пустая область, которая может быть использована для очистки фона.], |u|\[Для пользовательских символов области, может иметь произвольный подтип.]. \endarguments
 
 \comopt
 
-* the data lines consist of border line references (IDs) * |place <bottom/default/top>| = changes displaying order in the map. * |clip <on/off>| = указывает, подрезать ли символ границей скрапа. * |visibility <on/off>| = отображает/скрывает символ. * |context <point/line/area> <symbol-type>| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |<symbol-type>|. \endcomopt
+* строки данных состоят из ссылок на линии границы (ID). * |place <bottom/default/top>| = изменяет порядок отображения на карте. * |clip <on/off>| = указывает, подрезать ли символ границей скрапа. * |visibility <on/off>| = отображает/скрывает символ. * |context <point/line/area> <symbol-type>| = (для использования с опциями |symbol-hide| и |symbol-show| команды |layout|) будет скрыт/показан в соответствии с правилами для указанных |<symbol-type>|. \endcomopt
 
 \options
 
-* |id <ext_keyword>| = ID of the symbol. \endoptions
+* |id <идентификатор>| = Идентификатор символа. \endoptions
 
 \subsubchapter `join'. 
 
 \description
 
-Join works in two modes: it joins either two scraps or two or more points or lines in a map together. 
+Соединения работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или строк на карте вместе. 
 
-When joining more than two points or lines, use one join command for all of them, not a sequence of join commands for pairs.\[E.g. use |join a b c|, not |join a b| followed by |join b c|.] 
+При объединении более двух точек или строк используйте одну команду `join' для всех из них, а не последовательность команд.\[Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.] 
 
-When joining scraps, only passage walls are joined. It's a good idea to place a scrap join in the passage which is as simple as possible, otherwise you have to specify join for each pair of objects which should be joined. \[If you want some object which is clipped by a scrap boundary to continue to a neighbouring scrap, use |-clip off| option for that object.] \enddescription
+При соединении скрапов соединяются только ходы. Лучше всего размещать соединения скрапов в ходе, которое будет как можно более простым, иначе вам нужно будет указать соединение для каждой пары объектов, которые должны быть соединены. \[Если вам нужен какой-либо объект, который отсекается границей скрапа, чтобы продолжить соседний скрап, используйте опцию |-clip off| для этого объекта.] \enddescription
 
 \syntax
 
-|join <point1> <point2> ... <pointN> [OPTIONS]| \endsyntax
+|join <точка1> <точка2> ... <точкаN> [ОПЦИИ]| \endsyntax
 
 \context
 
@@ -534,13 +539,13 @@ none, scrap, survey \endcontext
 
 \arguments
 
-* |<pointX>| can be an ID of a point or line symbol, optionally followed by a line point mark |<id>:<mark>| (e.g.~|podangl_l31@podangl:mark1|). |<mark>| can be also `|end|' (end of the line) or line point index (where 0 is the first point). 
+* |<точкаX>| может быть идентификатором точечного символа или символа линии, необязательно сопровождаемый меткой символа линии |<идентификатор>:<метка>| (например,~|podangl_l31@podangl:mark1|). |<метка>| может быть также `|end|' (конец линии) или индекс точки линии (где 0 это первая точка). 
 
-A special case is when |<point1>| and |<point2>| are scrap IDs---than the closest scrap ends are joined together. \endarguments
+Частным случаем является то, что |<точка1>| и |<точка2>| -- это идентификаторы скрапа, более близкие концы скрапов соединяются вместе. \endarguments
 
 \options
 
-* |smooth <on/off>| indicates whether two lines are to be connected smoothly. * |count <N>| (when used with scraps) = Therion will try to join scraps which connect in |N| locations/passages. \endoptions
+* |smooth <on/off>| = указывает, должны ли две линии соединяться плавно. * |count <N>| (при использовании со скрапами) = Therion попытается соединиться к скрапам, которые соединяются в |N| месте/хода. \endoptions
 
 \subsubchapter `equate'. 
 
@@ -560,11 +565,16 @@ none, survey \endcontext
 
 \description
 
-A map is a collection of either scraps or other maps of the same projection type. It's possible to include survey in the map---this will display centreline in the map. Map object simplifies the data management when selecting data for output. See the chapter {\it How the map is put together} for more thorough explanation. \enddescription
+Карта представляет собой набор либо скрапов, либо других карт одного и того же типа проекции. На карте можно включить съемку, тогда на карте будет отображаться нитка хода. Объект карты упрощает управление данными при выборе данных для вывода. Смотрите главу {\it Как собрать карту} для более подробного объяснения. \enddescription
 
 \syntax
 
-|map <id> [OPTIONS] ... scrap, survey or other map references ... break ... next level scrap, survey or other map references ... preview <above/below> <other map id> endmap| \endsyntax
+|map <id> [ОПЦИИ]
+	... скрап, съемка или другие карты ...
+	break
+	... скрап, съемка или другие карты (следующий уровень)...
+	preview <above/below> <other map id>
+endmap| \endsyntax
 
 \context
 
