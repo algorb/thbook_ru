@@ -1475,6 +1475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |border &lt;on/off&gt;| = this option can be specified only with the `slope' symbol type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053410Z" creationid="Алексей" creationdate="20171104T053340Z">
+        <seg>* |border &lt;on/off&gt;| = эта опция может быть указана только с типом символа `slope' (склон).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |break| = can be used with interleaved data to separate two traverses * |mark [&lt;station list&gt;] &lt;type&gt;| = set the type of named stations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050024Z" creationid="Алексей" creationdate="20170920T045610Z">
@@ -1615,6 +1623,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054018Z" creationid="Алексей" creationdate="20171022T054018Z">
         <seg>* |debug &lt;on/all/first/second/scrap-names/station-names/off&gt;| = рисовать скрап на разных этапах преобразования в разных цветах, чтобы увидеть, как Therion искажает данные карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |direction &lt;begin/end/both/none/point&gt;| = can be used only with the section type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053455Z" creationid="Алексей" creationdate="20171104T053429Z">
+        <seg>* |direction &lt;begin/end/both/none/point&gt;| = может использоваться только с типом `section' (сечение).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,6 +3940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples: |+4|, |[+4 m]|, |[fix 1510 m]|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053310Z" creationid="Алексей" creationdate="20171104T053303Z">
+        <seg>Например: |+4|, |[+4 m]|, |[fix 1510 m]|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exceptions are {&lt;u0&gt; section} which has no visual representation; all {&lt;u1&gt; labels}, which require special treatment as described in the previous chapter, and {&lt;u2&gt; station} which takes only one argument: position (pair).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T070458Z" creationid="Алексей" creationdate="20171029T062958Z">
@@ -4758,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value is specified, it gives the altitude difference of the point on the wall relative to the nearest station.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053221Z" creationid="Алексей" creationdate="20171104T053221Z">
+        <seg>Если значение указано, оно дает разность высот точки на стене относительно ближайшей станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the |main_map| is located in the |main| survey, scrap |s1| may cover part of the centreline from survey |a|, complete survey |b| and part of |c|; |s2| will cover part of the |a| and |c| surveys and a complete |d| survey.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182910Z" creationid="Алексей" creationdate="20170914T182910Z">
@@ -5495,6 +5527,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T175128Z" creationid="Алексей" creationdate="20171024T174035Z">
         <seg>Он поддерживает, например, рендеринг с высоким разрешением и стерео-прос\-мотр с помощью 3D-очков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It switches on/off the border line of the slope.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053422Z" creationid="Алексей" creationdate="20171104T053422Z">
+        <seg>Он включает/выключает границу линии наклона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7711,6 +7751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value can be prefixed by a keyword ``|fix|'', then no nearest station is taken into consideration; the absolute given value is used instead.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053248Z" creationid="Алексей" creationdate="20171104T053248Z">
+        <seg>Значение может иметь префикс с ключевым словом ``|fix|'', тогда никакая ближайшая станция не будет принята во внимание; вместо этого используется абсолютное заданное значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value can optionally be followed by length units.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063629Z" creationid="Алексей" creationdate="20170924T063629Z">
@@ -8539,6 +8587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This option creates an altitude label on the wall.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053145Z" creationid="Алексей" creationdate="20171104T053145Z">
+        <seg>Этот параметр создает метку высоты на стене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option is not allowed in the |plan| projection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052848Z" creationid="Алексей" creationdate="20171104T052848Z">
@@ -8703,6 +8759,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142559Z" creationid="Алексей" creationdate="20170913T140239Z">
         <seg>К сожалению, из-за ограничений языка Tcl/Tk, под\-дер\-жи\-ва\-ются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Units can follow the value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053332Z" creationid="Алексей" creationdate="20171104T053259Z">
+        <seg>За значением можно указать единицы измерения.</seg>
       </tuv>
     </tu>
     <tu>
