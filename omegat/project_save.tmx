@@ -3604,6 +3604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default value is `|out|' for walls, `|none|' for all other lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052045Z" creationid="Алексей" creationdate="20171104T052045Z">
+        <seg>Значение по умолчанию -- `|out|' для стен, `|none|' для всех других линий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Define a new coordinate system |&lt;id&gt;| using Proj4 syntax.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140343Z" creationid="Алексей" creationdate="20171028T140328Z">
@@ -8647,6 +8655,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113746Z" creationid="Алексей" creationdate="20171022T112753Z">
         <seg>Используйте с осто\-рожностью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use |-outline in| for large pillars etc. * |reverse &lt;on/off&gt;| = whether points are given in reverse order.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052242Z" creationid="Алексей" creationdate="20171104T052242Z">
+        <seg>Использовать |-outline in| для больших колонн и т.п. * |reverse &lt;on/off&gt;| = точки указаны в обратном порядке.</seg>
       </tuv>
     </tu>
     <tu>
