@@ -2067,6 +2067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |size &lt;number&gt;| = line width (left and right sizes are set to one half of this value) * |r-size &lt;number&gt;| = size of the line to the right * |l-size &lt;number&gt;| = same to the left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052416Z" creationid="Алексей" creationdate="20171104T052416Z">
+        <seg>* |size &lt;число&gt;| = ширина строки (размеры слева и справа установлены половине этого значения). * |r-size &lt;число&gt;| = размер строки справа. * |l-size &lt;число&gt;| = размер строки слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |size &lt;width&gt; &lt;height&gt; &lt;units&gt;| = set map size in the atlas mode.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191044Z" creationid="Алексей" creationdate="20171021T190938Z">
@@ -2095,6 +2103,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054501Z" creationid="Алексей" creationdate="20171021T054315Z">
         <seg>* |sketch-warp &lt;алгоритм&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |smooth &lt;on/off/auto&gt;| = whether the line is smooth at the given point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052503Z" creationid="Алексей" creationdate="20171104T052442Z">
+        <seg>* |smooth &lt;on/off/auto&gt;| = сглаживание линии в данной точке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,6 +3176,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135423Z" creationid="Алексей" creationdate="20170913T135423Z">
         <seg>Лень авторов -- не правильный ответ.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto is default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052537Z" creationid="Алексей" creationdate="20171104T052537Z">
+        <seg>По умолчанию `auto'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,6 +6392,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063049Z" creationid="Алексей" creationdate="20171029T063049Z">
         <seg>Рекомендуемые диапазоны: $&lt;u2&gt;&lt;-0.5u,0.5u&lt;u3&gt;&gt;$ в обоих осях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required for |slope| type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052435Z" creationid="Алексей" creationdate="20171104T052435Z">
+        <seg>Требуется для типа |slope|.</seg>
       </tuv>
     </tu>
     <tu>
