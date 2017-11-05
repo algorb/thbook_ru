@@ -2381,8 +2381,8 @@
       <tuv lang="EN-US">
         <seg>* |title &lt;string&gt;| = description of the object * |survey &lt;id&gt;| =&lt;u0&gt;{5.4} associate a survey with map (e.g.&lt;u1&gt;all surveying statistics from this survey will be used when this map is selected for output).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045412Z" creationid="Алексей" creationdate="20171105T045412Z">
-        <seg>* |title &lt;string&gt;| = description of the object * |survey &lt;id&gt;| =&lt;u0&gt;{5.4} associate a survey with map (e.g.&lt;u1&gt;all surveying statistics from this survey will be used when this map is selected for output).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045617Z" creationid="Алексей" creationdate="20171105T045412Z">
+        <seg>* |title &lt;строка&gt;| = описание объекта. * |survey &lt;идентификатор&gt;| = &lt;u0&gt;{5.4} связывает съемку с картой (например,&lt;u1&gt;все статистические данные из этой съемки  будут использоваться, когда эта карта будет выбрана для вывода).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9914,6 +9914,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055020Z" creationid="Алексей" creationdate="20171021T055020Z">
         <seg>`source'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`surface'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045621Z" creationid="Алексей" creationdate="20171105T045621Z">
+        <seg>`surface'.</seg>
       </tuv>
     </tu>
     <tu>
