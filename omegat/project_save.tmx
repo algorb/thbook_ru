@@ -739,8 +739,8 @@
       <tuv lang="EN-US">
         <seg>* if you refer to map, you can specify offset at which this sub-map will be displayed together with preview type of its original position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T043858Z" creationid="Алексей" creationdate="20171105T043858Z">
-        <seg>* если вы ссылаетесь на карту, вы можете указать смещение, в месте которого эта подкарта будет отображаться.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T044038Z" creationid="Алексей" creationdate="20171105T043858Z">
+        <seg>* если вы указываете название карты, то вы можете указать смещение, в месте которого эта подкарта будет отображаться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -900,8 +900,8 @@
       <tuv lang="EN-US">
         <seg>* the data lines consist of scrap or map references.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T043711Z" creationid="Алексей" creationdate="20171105T043711Z">
-        <seg>* строки данных состоят из ссылок на скрапы или карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T044011Z" creationid="Алексей" creationdate="20171105T043711Z">
+        <seg>* строки данных состоят из названий скрапа или карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,8 +7255,8 @@
       <tuv lang="EN-US">
         <seg>Syntax is following:&lt;u0&gt;&lt;u1&gt; |&lt;map reference&gt; [&lt;offset X&gt; &lt;offset Y&gt; &lt;units&gt;] &lt;above/below/none&gt;| * scraps following the |break| will be placed on another level * |preview &lt;above/below&gt; &lt;other map id&gt;| will put the outline of the other map in the specified preview position relative to the current map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T043945Z" creationid="Алексей" creationdate="20171105T043945Z">
-        <seg>Синтаксис следующий:&lt;u0&gt;&lt;u1&gt; |&lt;ссылка на карту&gt; [&lt;смещение X&gt; &lt;смещение Y&gt; &lt;единиц&gt;] &lt;выше / ниже / нет&gt; | * обрывки после | break | будет размещен на другом уровне * | preview &lt;выше / ниже&gt; &lt;other map id&gt; | поместит контур другой карты в указанную позицию предварительного просмотра относительно текущей карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T044223Z" creationid="Алексей" creationdate="20171105T043945Z">
+        <seg>Синтаксис следующий:&lt;u0&gt;&lt;u1&gt; |&lt;название карты&gt; [&lt;смещение X&gt; &lt;смещение Y&gt; &lt;единиц&gt;] &lt;above/below/none&gt;|. * скрапы после |break| будет размещен на другом уровне. * |preview &lt;above/below&gt; &lt;other map id&gt; | поместит контур другой карты в указанную позицию относительно текущей карты.</seg>
       </tuv>
     </tu>
     <tu>
