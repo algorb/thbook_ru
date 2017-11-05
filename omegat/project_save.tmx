@@ -1579,6 +1579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |colo[u]r &lt;color&gt;| = set the map colour; this option overrides the automatic choice when the layout specifies |colour map-fg [map]|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045324Z" creationid="Алексей" creationdate="20171105T045248Z">
+        <seg>* |colo[u]r &lt;цвет&gt;| = установить цвет карты; эта опция отменяет автоматический выбор, когда макет определяет |colour map-fg [map]|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |config-linux|, |config-macosx|, |config-win32| = configure Therion for a specific platform.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074341Z" creationid="Алексей" creationdate="20171028T122552Z">
@@ -2131,6 +2139,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |projection/proj &lt;plan/elevation/extended/none&gt;| = required if the map contains survey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045404Z" creationid="Алексей" creationdate="20171105T045331Z">
+        <seg>* |projection/proj &lt;plan/elevation/extended/none&gt;| = требуется, если карта содержит съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |recursive &lt;on/off&gt;| = valid only when a survey is selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060657Z" creationid="Алексей" creationdate="20171021T060632Z">
@@ -2359,6 +2375,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T161345Z" creationid="Алексей" creationdate="20170911T155932Z">
         <seg>* |title &lt;строка&gt;| = описание объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |title &lt;string&gt;| = description of the object * |survey &lt;id&gt;| =&lt;u0&gt;{5.4} associate a survey with map (e.g.&lt;u1&gt;all surveying statistics from this survey will be used when this map is selected for output).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045412Z" creationid="Алексей" creationdate="20171105T045412Z">
+        <seg>* |title &lt;string&gt;| = description of the object * |survey &lt;id&gt;| =&lt;u0&gt;{5.4} associate a survey with map (e.g.&lt;u1&gt;all surveying statistics from this survey will be used when this map is selected for output).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9031,6 +9055,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124126Z" creationid="Алексей" creationdate="20170910T124126Z">
         <seg>Используйте `|/|' чтобы отделить имя и фамилию, если есть несколько имен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the revise command if you want to add maps from higher levels to the preview.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045239Z" creationid="Алексей" creationdate="20171105T045239Z">
+        <seg>Используйте команду |revise|, если вы хотите добавить карты с более высоких уровней для отображения.</seg>
       </tuv>
     </tu>
     <tu>
