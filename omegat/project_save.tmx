@@ -1581,8 +1581,8 @@
       <tuv lang="EN-US">
         <seg>* |colo[u]r &lt;color&gt;| = set the map colour; this option overrides the automatic choice when the layout specifies |colour map-fg [map]|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045324Z" creationid="Алексей" creationdate="20171105T045248Z">
-        <seg>* |colo[u]r &lt;цвет&gt;| = установить цвет карты; эта опция отменяет автоматический выбор, когда макет определяет |colour map-fg [map]|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045919Z" creationid="Алексей" creationdate="20171105T045248Z">
+        <seg>* |colo[u]r &lt;цвет&gt;| = установить цвет карты; эта опция отменяет\break автоматический выбор, когда макет определяет |colour map-fg [map]|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2141,8 +2141,8 @@
       <tuv lang="EN-US">
         <seg>* |projection/proj &lt;plan/elevation/extended/none&gt;| = required if the map contains survey.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045404Z" creationid="Алексей" creationdate="20171105T045331Z">
-        <seg>* |projection/proj &lt;plan/elevation/extended/none&gt;| = требуется, если карта содержит съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045944Z" creationid="Алексей" creationdate="20171105T045331Z">
+        <seg>* |projection/proj &lt;plan/elevation/extended/none&gt;| = требуется, если карта\break содержит съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2381,8 +2381,8 @@
       <tuv lang="EN-US">
         <seg>* |title &lt;string&gt;| = description of the object * |survey &lt;id&gt;| =&lt;u0&gt;{5.4} associate a survey with map (e.g.&lt;u1&gt;all surveying statistics from this survey will be used when this map is selected for output).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045617Z" creationid="Алексей" creationdate="20171105T045412Z">
-        <seg>* |title &lt;строка&gt;| = описание объекта. * |survey &lt;идентификатор&gt;| = &lt;u0&gt;{5.4} связывает съемку с картой (например,&lt;u1&gt;все статистические данные из этой съемки  будут использоваться, когда эта карта будет выбрана для вывода).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045959Z" creationid="Алексей" creationdate="20171105T045412Z">
+        <seg>* |title &lt;строка&gt;| = описание объекта. * |survey &lt;идентификатор&gt;| = &lt;u0&gt;{5.4} связывает съемку с картой (например,&lt;u1&gt;все\break статистические данные из этой съемки  будут использоваться, когда эта карта будет выбрана для вывода).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6630,8 +6630,8 @@
       <tuv lang="EN-US">
         <seg>Preview is displayed only if the map is in the |map-level| level as specified by the |select| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045147Z" creationid="Алексей" creationdate="20171105T045147Z">
-        <seg>Карта отображается, только если она находится на уровне |map-level|, заданный командой |select|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045841Z" creationid="Алексей" creationdate="20171105T045147Z">
+        <seg>Карта отображается, только если она находится на уровне |map-level|,\break заданный командой |select|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7287,8 +7287,8 @@
       <tuv lang="EN-US">
         <seg>Syntax is following:&lt;u0&gt;&lt;u1&gt; |&lt;map reference&gt; [&lt;offset X&gt; &lt;offset Y&gt; &lt;units&gt;] &lt;above/below/none&gt;| * scraps following the |break| will be placed on another level * |preview &lt;above/below&gt; &lt;other map id&gt;| will put the outline of the other map in the specified preview position relative to the current map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T044223Z" creationid="Алексей" creationdate="20171105T043945Z">
-        <seg>Синтаксис следующий:&lt;u0&gt;&lt;u1&gt; |&lt;название карты&gt; [&lt;смещение X&gt; &lt;смещение Y&gt; &lt;единиц&gt;] &lt;above/below/none&gt;|. * скрапы после |break| будет размещен на другом уровне. * |preview &lt;above/below&gt; &lt;other map id&gt; | поместит контур другой карты в указанную позицию относительно текущей карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045802Z" creationid="Алексей" creationdate="20171105T043945Z">
+        <seg>Синтаксис следующий:&lt;u0&gt;&lt;u1&gt; |&lt;название карты&gt; [&lt;смещение X&gt; &lt;смещение Y&gt; &lt;единиц&gt;]|\break|&lt;above/below/none&gt;|. * скрапы после |break| будет размещен на другом уровне. * |preview &lt;above/below&gt; &lt;other map id&gt; | поместит контур другой карты в указанную позицию относительно текущей карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9061,8 +9061,8 @@
       <tuv lang="EN-US">
         <seg>Use the revise command if you want to add maps from higher levels to the preview.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045239Z" creationid="Алексей" creationdate="20171105T045239Z">
-        <seg>Используйте команду |revise|, если вы хотите добавить карты с более высоких уровней для отображения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045858Z" creationid="Алексей" creationdate="20171105T045239Z">
+        <seg>Используйте команду |revise|, если вы хотите добавить карты с более\break высоких уровней для отображения.</seg>
       </tuv>
     </tu>
     <tu>
