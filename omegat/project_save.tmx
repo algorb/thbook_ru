@@ -5594,8 +5594,8 @@
       <tuv lang="EN-US">
         <seg>It is possible to display it in two ways: as a scanned topographical map (both in 2D map and 3D model&lt;u0&gt;You need to enter elevation data in order to display the topographical map in 3D model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171201T180732Z" creationid="Алексей" creationdate="20171201T180732Z">
-        <seg>Его можно отобразить двумя способами: в качестве отсканированной топографической карты (как в 2D-карте, так и в 3D-модели &lt;u0&gt;Вам нужно ввести данные о высоте, чтобы отобразить топографическую карту в 3D-модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171201T181145Z" creationid="Алексей" creationdate="20171201T180732Z">
+        <seg>Его можно отобразить двумя\break способами: в качестве отсканированной топографической карты (как в 2D-карте, так и в 3D-модели &lt;u0&gt;Вам нужно ввести данные о высоте, чтобы отобразить топографическую карту в 3D-модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12267,6 +12267,21 @@ end of file|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071434Z" creationid="Алексей" creationdate="20170920T070507Z">
         <seg>|start| = указать начальную станцию (замер);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|surface [&lt;name&gt;] cs &lt;coordinate system&gt; bitmap &lt;filename&gt; &lt;calibration&gt; grid-units &lt;units&gt; grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt; grid-flip (none)/vertical/horizontal [grid data] endsurface|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171201T181049Z" creationid="Алексей" creationdate="20171201T180944Z">
+        <seg>|surface [&lt;name&gt;]
+	cs &lt;coordinate system&gt;
+	bitmap &lt;filename&gt; &lt;calibration&gt;
+	grid-units &lt;units&gt;
+	grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt;
+	grid-flip (none)/vertical/horizontal
+	[grid data]
+endsurface|</seg>
       </tuv>
     </tu>
     <tu>
