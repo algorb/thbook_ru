@@ -1659,6 +1659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |cs &lt;coordinate system&gt;| = coordinate system for bitmap calibration and grid origin specification * |bitmap &lt;filename&gt; &lt;calibration&gt;| = scanned topographical map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043410Z" creationid="Алексей" creationdate="20171202T043314Z">
+        <seg>* |cs &lt;coordinate system&gt;| = система координат для калибровки растровой карты и определения начала сетки. * |bitmap &lt;имя файла&gt; &lt;калибровка&gt;| = сканированная топографическая карта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = fix station coordinates (with specified errors---only the units transformation, not calibration, is applied to them).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T055101Z" creationid="Алексей" creationdate="20170920T054204Z">
@@ -11675,6 +11683,14 @@ endarea|</seg>
 	patternxstep(.18u);
 	patterntransform(identity rotated 45);
 endpattern;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|calibration| may have two forms:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043611Z" creationid="Алексей" creationdate="20171202T043611Z">
+        <seg>|calibration| may have two forms:</seg>
       </tuv>
     </tu>
     <tu>
