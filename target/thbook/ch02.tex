@@ -605,9 +605,9 @@ none, survey \endcontext
 \syntax
 
 |surface [<name>]
-	cs <coordinate system>
-	bitmap <filename> <calibration>
-	grid-units <units>
+	cs <система координат>
+	bitmap <имя файла> <калибровка>
+	grid-units <единицы>
 	grid <origin x> <origin y> <x spacing> <y spacing> <x count> <y count>
 	grid-flip (none)/vertical/horizontal
 	[grid data]
@@ -619,11 +619,11 @@ none, survey \endcontext
 
 \comopt
 
-* |cs <coordinate system>| = coordinate system for bitmap calibration and grid origin specification * |bitmap <filename> <calibration>| = scanned topographical map. 
+* |cs <coordinate system>| = система координат для калибровки растровой карты и определения начала сетки. * |bitmap <имя файла> <калибровка>| = сканированная топографическая карта. 
 
-|calibration| may have two forms: 
+|Калибровка| может иметь две формы: 
 
-1. |[X1 Y1 x1 y1 X2 Y2 x2 y2 [units]]|, where upper case X/Y variables are picture coordinates (pixels; lower-left corner is |0 0|), lower-case x/y variables are real coordinates. Optional units apply to real coordinates (metres by default). 
+1. |[X1 Y1 x1 y1 X2 Y2 x2 y2 [единицы]]|, где верхние регистры X/Y являются координатами изображения (пиксели, нижний левый угол равен |0 0|), нижние регистры x/y -- реальные координаты. Необязательный параметр единицы применяется к реальным координатам (метры по умолчанию). 
 
 2. |[X1 Y1 station1 X2 Y2 station2]|, where upper case X/Y variables are picture coordinates and |station1| and |station2| are survey stations names. 
 
