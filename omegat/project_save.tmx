@@ -12273,11 +12273,11 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|surface [&lt;name&gt;] cs &lt;coordinate system&gt; bitmap &lt;filename&gt; &lt;calibration&gt; grid-units &lt;units&gt; grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt; grid-flip (none)/vertical/horizontal [grid data] endsurface|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171201T181049Z" creationid="Алексей" creationdate="20171201T180944Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043250Z" creationid="Алексей" creationdate="20171201T180944Z">
         <seg>|surface [&lt;name&gt;]
-	cs &lt;coordinate system&gt;
-	bitmap &lt;filename&gt; &lt;calibration&gt;
-	grid-units &lt;units&gt;
+	cs &lt;система координат&gt;
+	bitmap &lt;имя файла&gt; &lt;калибровка&gt;
+	grid-units &lt;единицы&gt;
 	grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt;
 	grid-flip (none)/vertical/horizontal
 	[grid data]
