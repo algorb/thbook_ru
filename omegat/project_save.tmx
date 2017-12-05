@@ -1661,8 +1661,8 @@
       <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = coordinate system for bitmap calibration and grid origin specification * |bitmap &lt;filename&gt; &lt;calibration&gt;| = scanned topographical map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043410Z" creationid="Алексей" creationdate="20171202T043314Z">
-        <seg>* |cs &lt;coordinate system&gt;| = система координат для калибровки растровой карты и определения начала сетки. * |bitmap &lt;имя файла&gt; &lt;калибровка&gt;| = сканированная топографическая карта.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043858Z" creationid="Алексей" creationdate="20171202T043314Z">
+        <seg>* |cs &lt;coordinate system&gt;| = система координат для калибровки растровой карты и определения начала сетки. * |bitmap &lt;имя файла&gt; &lt;калибровка&gt;| = сканированная топографическая\break карта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,6 +1903,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035618Z" creationid="Алексей" creationdate="20171022T034555Z">
         <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt; | = заданные координаты начала сетки (M, A). * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = задать размер сетки в реальных едини\-цах (M, A, по умолчанию равен размеру шкалы). * |grid-coords &lt;off/border/all&gt;| = указать, где маркировать сетку координа\-тами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |grid-units &lt;units&gt;| = units in which grid is specified.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T044212Z" creationid="Алексей" creationdate="20171202T044157Z">
+        <seg>* |grid-units &lt;единицы&gt;| = единицы, в которых задана сетка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6211,6 +6219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metres by default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T044224Z" creationid="Алексей" creationdate="20171202T044224Z">
+        <seg>Метры по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More advanced is the default definition of the |&lt;u0&gt;| macro:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044629Z" creationid="Алексей" creationdate="20171028T044629Z">
@@ -6480,6 +6496,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143602Z" creationid="Алексей" creationdate="20170919T143602Z">
         <seg>Экспортируются только видимые символы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional units apply to real coordinates (metres by default).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043942Z" creationid="Алексей" creationdate="20171202T043757Z">
+        <seg>Необязательный параметр единицы применяется к реальным координатам (метры по\break умолчанию).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11638,6 +11662,22 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|[X1 Y1 station1 X2 Y2 station2]|, where upper case X/Y variables are picture coordinates and |station1| and |station2| are survey stations names.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T044319Z" creationid="Алексей" creationdate="20171202T044042Z">
+        <seg>|[X1 Y1 станция1 X2 Y2 станция2]|,  где верхние регистры X/Y\break представляют собой координаты изображения, а |станция1| и |станция2|\break являются именами станций съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|[X1 Y1 x1 y1 X2 Y2 x2 y2 [units]]|, where upper case X/Y variables are picture coordinates (pixels; lower-left corner is |0 0|), lower-case x/y variables are real coordinates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043727Z" creationid="Алексей" creationdate="20171202T043632Z">
+        <seg>|[X1 Y1 x1 y1 X2 Y2 x2 y2 [единицы]]|, где верхние регистры X/Y являются координатами изображения (пиксели, нижний левый угол равен |0 0|), нижние регистры x/y -- реальные координаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|[]| an empty string.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155313Z" creationid="Алексей" creationdate="20170911T155301Z">
@@ -11689,8 +11729,8 @@ endpattern;</seg>
       <tuv lang="EN-US">
         <seg>|calibration| may have two forms:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043611Z" creationid="Алексей" creationdate="20171202T043611Z">
-        <seg>|calibration| may have two forms:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043620Z" creationid="Алексей" creationdate="20171202T043611Z">
+        <seg>|Калибровка| может иметь две формы:</seg>
       </tuv>
     </tu>
     <tu>
