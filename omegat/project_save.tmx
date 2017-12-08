@@ -1891,6 +1891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt;|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171205T175504Z" creationid="Алексей" creationdate="20171205T175504Z">
+        <seg>* |grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
@@ -11536,6 +11544,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153912Z" creationid="Алексей" creationdate="20170911T153912Z">
         <seg>|&lt;object-id&gt;@&lt;subsurvey-id&gt;|,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;origin x&gt; &lt;origin y&gt;| = specify coordinates of the lower-left (S-W) corner of the grid</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171205T175606Z" creationid="Алексей" creationdate="20171205T175522Z">
+        <seg>|&lt;origin x&gt; &lt;origin y&gt;| = указывают координаты нижнего левого (Ю-З) угла сетки.</seg>
       </tuv>
     </tu>
     <tu>
