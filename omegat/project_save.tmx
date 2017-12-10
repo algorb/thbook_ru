@@ -2355,6 +2355,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |surveys (create)/use/ignore| = specifies how to import survey structure (works only with .3d files).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134530Z" creationid="Алексей" creationdate="20171210T134508Z">
+        <seg>* |surveys (create)/use/ignore| = указывает, как импортировать структуру съемки (работает только с файлами .3d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = don't display particular symbol or group of symbols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185332Z" creationid="Алексей" creationdate="20171021T185332Z">
@@ -6712,6 +6720,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041945Z" creationid="Алексей" creationdate="20171022T040247Z">
         <seg>Предопределен\-ный заголовок карты содержит некоторую базовую информацию о пещере: имя, масштаб, направление на север, список съемщиков и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prefix will be removed from station names.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134459Z" creationid="Алексей" creationdate="20171210T134459Z">
+        <seg>Префикс будет удален из имен станций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11949,6 +11965,14 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|create| = split stations into subsurveys, if subsurveys do not exist, create them</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134648Z" creationid="Алексей" creationdate="20171210T134542Z">
+        <seg>|create| = сплит-станции в подсъемки, если подсъемок не существуют, то создайет их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|cs| applies to all subsequent location data until other |cs| is specified or until the end of the current object, whichever comes first.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131636Z" creationid="Алексей" creationdate="20170910T131636Z">
@@ -12070,6 +12094,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071709Z" creationid="Алексей" creationdate="20170920T070842Z">
         <seg>|hide| = не показывает указанную станцию (замер) в развертке;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|ignore| = do not split stations into sub-surveys * |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |calibrate [&lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt;]| = coordinates in the imported file are shifted from lower-case coordinates to upper-case coordinates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134904Z" creationid="Алексей" creationdate="20171210T134724Z">
+        <seg>|ignore| = не разбивать станции на подсъемки. * |cs &lt;система координат&gt;| = система координат для станций с фиксированными координатами. * |calibrate [&lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt;]| = координаты в импортированном файле смещаются от координат в нижнем регистре к координатам верхнего регистра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12540,6 +12572,14 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T111031Z" creationid="Алексей" creationdate="20171021T111018Z">
         <seg>|unselect &lt;объект&gt; [ОПЦИИ]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|use| = split stations into existing subsurveys</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134713Z" creationid="Алексей" creationdate="20171210T134656Z">
+        <seg>|use| = разделенные станции в существующие подсъемки.</seg>
       </tuv>
     </tu>
     <tu>
