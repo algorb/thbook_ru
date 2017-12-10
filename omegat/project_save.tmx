@@ -1483,6 +1483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |[grid data]| = a stream of numbers giving the altitude a.s.l. in grid nodes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053246Z" creationid="Алексей" creationdate="20171210T053228Z">
+        <seg>* |[grid data]| = поток чисел, дающий высоту a.s.l. в узлах сетки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |adjust &lt;horizontal/vertical&gt;| = shifts the line point to be aligned horizontally/ver­ti­cally with the previous point (or next point if there is no previous point).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063121Z" creationid="Алексей" creationdate="20171104T052545Z">
@@ -1903,6 +1911,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
         <seg>* |grid-angle &lt;значение&gt; &lt;единицы&gt;| = задает угол магнитной сетки (склонение от направления на север).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* |grid-flip (none)/vertical/horizontal| = useful if your grid (exported from other program) needs to be flipped</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053447Z" creationid="Алексей" creationdate="20171210T053349Z">
+        <seg>* |grid-flip (none)/vertical/horizontal| = полезно, если ваша сетка\break (экспортированная из другой программы) должна быть перевернута.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5759,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T191252Z" creationid="Алексей" creationdate="20171028T184630Z">
         <seg>Он должен содер\-жать один или несколько |&lt;u1&gt;| вызовов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It starts in the grid-origin and fills the grid in rows (in the row from W to E; rows from S to N).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053341Z" creationid="Алексей" creationdate="20171210T053341Z">
+        <seg>Начинается с начала сетки и заполняет сетку строками (в строке от З до В, строки от Ю до С).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9874,6 +9898,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060520Z" creationid="Алексей" creationdate="20171022T060520Z">
         <seg>`export'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`import'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053410Z" creationid="Алексей" creationdate="20171210T053410Z">
+        <seg>`import'.</seg>
       </tuv>
     </tu>
     <tu>
