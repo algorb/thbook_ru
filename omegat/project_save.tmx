@@ -1835,6 +1835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* |filter &lt;prefix&gt;| = if specified, only stations with given prefix and shots between them will be imported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134450Z" creationid="Алексей" creationdate="20171210T134415Z">
+        <seg>* |filter &lt;префикс&gt;| = если указано, то будут импортированы только станции с заданным префиксом и замеры между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* |flags &lt;shot flags&gt;| = set flags for following shots.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
@@ -10377,6 +10385,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>survey / all&lt;u0&gt;only with .3d files, where survey structure is specified]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134401Z" creationid="Алексей" creationdate="20171210T134328Z">
+        <seg>survey / all&lt;u0&gt;только с .3d-файлами, в которых задана структура съемки.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>survey first centreline units compass grad data normal from to compass clino length 1 2 100 -5 10 endcentreline endsurvey</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145851Z" creationid="Алексей" creationdate="20171028T145410Z">
@@ -12062,6 +12078,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071659Z" creationid="Алексей" creationdate="20170920T070602Z">
         <seg>|ignore| = игнорирует указанную станцию (замер), продолжает развертку как у другой станции (замера), если возможно;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|import &lt;file-name&gt; [OPTIONS]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134216Z" creationid="Алексей" creationdate="20171210T134204Z">
+        <seg>|import &lt;имя файла&gt; [ОПЦИИ]|</seg>
       </tuv>
     </tu>
     <tu>
