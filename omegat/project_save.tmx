@@ -9950,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>`grade'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134908Z" creationid="Алексей" creationdate="20171210T134908Z">
+        <seg>`grade'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>`import'.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053410Z" creationid="Алексей" creationdate="20171210T053410Z">
