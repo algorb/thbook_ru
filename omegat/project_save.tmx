@@ -11614,6 +11614,22 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|&lt;x count&gt; &lt;y count&gt;| = number of nodes in the row and number of rows which form the grid (see below).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T052815Z" creationid="Алексей" creationdate="20171210T052751Z">
+        <seg>|&lt;x count&gt; &lt;y count&gt;| = количество узлов в строке и количество строк, которые образуют сетку (см. ниже).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;x spacing&gt; &lt;y spacing&gt;| = distance between grid nodes in W-E and S-N directions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053125Z" creationid="Алексей" creationdate="20171210T052659Z">
+        <seg>|&lt;x spacing&gt; &lt;y spacing&gt;| = расстояние между узлами сетки в направлениях З-В и Ю-С.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|&lt;x&gt;| is easting (left-right on page).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040435Z" creationid="Алексей" creationdate="20171022T040355Z">
