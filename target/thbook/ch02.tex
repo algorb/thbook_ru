@@ -647,25 +647,25 @@ none, survey \endcontext
 
 \description
 
-Reads survey data in different formats (currently processed centreline in *.3d, *.plt, *.xyz formats). Survey stations may be referenced in scraps etc. When importing Survex' 3D file, stations are inserted in survey hierarchy, if there exists identical hierarchy to that in 3D file. \enddescription
+Считывает данные съемки в разных форматах (в настоящее время обрабатывается нитка хода в форматах *.3d, *.plt и *.xyz). На станции съемки можно ссылаться в скрабах и т.д. При импорте 3D-файла Survex'а станции вставляются в иерархии съемки, если в 3D-файле существует идентичная иерархия. \enddescription
 
 \syntax
 
-|import <file-name> [OPTIONS]| \endsyntax
+|import <имя файла> [ОПЦИИ]| \endsyntax
 
 \context
 
-survey / all\[only with .3d files, where survey structure is specified] \endcontext
+survey / all\[только с .3d-файлами, в которых задана структура съемки.] \endcontext
 
 \options
 
-* |filter <prefix>| = if specified, only stations with given prefix and shots between them will be imported. Prefix will be removed from station names. * |surveys (create)/use/ignore| = specifies how to import survey structure (works only with .3d files). 
+* |filter <префикс>| = если указано, то будут импортированы только станции с заданным префиксом и замеры между ними. Префикс будет удален из имен станций. * |surveys (create)/use/ignore| = указывает, как импортировать структуру съемки (работает только с файлами .3d). 
 
-|create| = split stations into subsurveys, if subsurveys do not exist, create them 
+|create| = сплит-станции в подсъемки, если подсъемок не существуют, то создайет их. 
 
-|use| = split stations into existing subsurveys 
+|use| = разделенные станции в существующие подсъемки. 
 
-|ignore| = do not split stations into sub-surveys * |cs <coordinate system>| = coordinate system for stations with fixed coordinates * |calibrate [<x> <y> <z> <X> <Y> <Z>]| = coordinates in the imported file are shifted from lower-case coordinates to upper-case coordinates. \endoptions
+|ignore| = не разбивать станции на подсъемки. * |cs <система координат>| = система координат для станций с фиксированными координатами. * |calibrate [<x> <y> <z> <X> <Y> <Z>]| = координаты в импортированном файле смещаются от координат в нижнем регистре к координатам верхнего регистра. \endoptions
 
 \subsubchapter `grade'. 
 
