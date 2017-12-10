@@ -6780,6 +6780,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reads survey data in different formats (currently processed centreline in *.3d, *.plt, *.xyz formats).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T133859Z" creationid="Алексей" creationdate="20171210T133859Z">
+        <seg>Считывает данные съемки в разных форматах (в настоящее время обрабатывается нитка хода в форматах *.3d, *.plt и *.xyz).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recommended ranges are $&lt;u2&gt;&lt;-0.5u,0.5u&lt;u3&gt;&gt;$ in both axes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T063049Z" creationid="Алексей" creationdate="20171029T063049Z">
