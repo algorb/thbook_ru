@@ -7365,6 +7365,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Survey stations may be referenced in scraps etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T133957Z" creationid="Алексей" creationdate="20171210T133957Z">
+        <seg>На станции съемки можно ссылаться в скрабах и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Surveys may be nested---this allows a hierarchical structure to be built.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153650Z" creationid="Алексей" creationdate="20170911T153146Z">
@@ -9393,6 +9401,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074123Z" creationid="Алексей" creationdate="20171028T091220Z">
         <seg>Когда он утверждает, что что-то невозможно, он, вероятно,\break ошибается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When importing Survex' 3D file, stations are inserted in survey hierarchy, if there exists identical hierarchy to that in 3D file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134154Z" creationid="Алексей" creationdate="20171210T134154Z">
+        <seg>При импорте 3D-файла Survex'а станции вставляются в иерархии съемки, если в 3D-файле существует идентичная иерархия.</seg>
       </tuv>
     </tu>
     <tu>
