@@ -2357,8 +2357,8 @@
       <tuv lang="EN-US">
         <seg>* |surveys (create)/use/ignore| = specifies how to import survey structure (works only with .3d files).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134530Z" creationid="Алексей" creationdate="20171210T134508Z">
-        <seg>* |surveys (create)/use/ignore| = указывает, как импортировать структуру съемки (работает только с файлами .3d).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T135327Z" creationid="Алексей" creationdate="20171210T134508Z">
+        <seg>* |surveys (create)/use/ignore| = указывает, как импортировать структуру\break съемки (работает только с файлами .3d).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,8 +6806,8 @@
       <tuv lang="EN-US">
         <seg>Reads survey data in different formats (currently processed centreline in *.3d, *.plt, *.xyz formats).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T133859Z" creationid="Алексей" creationdate="20171210T133859Z">
-        <seg>Считывает данные съемки в разных форматах (в настоящее время обрабатывается нитка хода в форматах *.3d, *.plt и *.xyz).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T135159Z" creationid="Алексей" creationdate="20171210T133859Z">
+        <seg>Считывает данные съемки в разных форматах (в настоящее время\break обрабатывается нитка хода в форматах *.3d, *.plt и *.xyz).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10411,8 +10411,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>survey / all&lt;u0&gt;only with .3d files, where survey structure is specified]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134401Z" creationid="Алексей" creationdate="20171210T134328Z">
-        <seg>survey / all&lt;u0&gt;только с .3d-файлами, в которых задана структура съемки.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T135237Z" creationid="Алексей" creationdate="20171210T134328Z">
+        <seg>survey / all&lt;u0&gt;Только с .3d-файлами, в которых задана структура съемки.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,8 +12108,8 @@ source test</seg>
       <tuv lang="EN-US">
         <seg>|ignore| = do not split stations into sub-surveys * |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |calibrate [&lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt;]| = coordinates in the imported file are shifted from lower-case coordinates to upper-case coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T134904Z" creationid="Алексей" creationdate="20171210T134724Z">
-        <seg>|ignore| = не разбивать станции на подсъемки. * |cs &lt;система координат&gt;| = система координат для станций с фиксированными координатами. * |calibrate [&lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt;]| = координаты в импортированном файле смещаются от координат в нижнем регистре к координатам верхнего регистра.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T135442Z" creationid="Алексей" creationdate="20171210T134724Z">
+        <seg>|ignore| = не разбивать станции на подсъемки. * |cs &lt;система координат&gt;| = система координат для станций с\break фиксированными координатами. * |calibrate [&lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt;]| = координаты в импортированном файле смещаются от координат в нижнем регистре к координатам\break верхнего регистра.</seg>
       </tuv>
     </tu>
     <tu>
