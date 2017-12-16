@@ -2976,8 +2976,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>&lt;u1&gt;&lt;u3&gt;gives the actual shape to abstract map symbols according to map symbol definitions; it creates a lot of PostScript files with small fragments of the cave.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191345Z" creationid="Алексей" creationdate="20170909T190929Z">
-        <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму абстрактным сим\-во\-лам карты в соответствии с определениями символов карты; он создает много файлов PostScript с небольшими фрагментами пещеры.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T172202Z" creationid="Алексей" creationdate="20170909T190929Z">
+        <seg>&lt;u1&gt;&lt;u3&gt;дает фактическую форму\break абстрактным символам карты в соответствии с определениями символов\break карты; он создает много файлов PostScript с небольшими фрагментами\break пещеры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,8 +4096,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171151Z" creationid="Алексей" creationdate="20170909T181551Z">
-        <seg>Настройки по\break умолчанию должны работать отлично для пользователей использующих\break только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171714Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по\break умолчанию должны работать отлично для пользователей использующих\break только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как\break сочетание акцента и базового символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For working with Therion it is enough to know that you have to create input data (best done with XTherion), run Therion, and display output files (3D model, map, log file) in the appropriate program.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130327Z" creationid="Алексей" creationdate="20170909T185502Z">
-        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соответствующей программе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171859Z" creationid="Алексей" creationdate="20170909T185502Z">
+        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соответствующей\break программе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,8 +5482,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you want to use own fonts for latin or non-latin characters in PDF maps, edit initialization file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130248Z" creationid="Алексей" creationdate="20170909T181835Z">
-        <seg>Если вы хотите использовать собственные шрифты для латинских или нелатинских символов в PDF-картах, отредактируйте файл инициализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171704Z" creationid="Алексей" creationdate="20170909T181835Z">
+        <seg>Если вы хотите использовать собственные шрифты для латинских или не латинских символов в PDF-картах, отредактируйте файл инициализации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5989,8 +5989,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It reads the input files, interprets them, finds closed loops and distributes errors.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T190756Z" creationid="Алексей" creationdate="20170909T190756Z">
-        <seg>Он считывает входные файлы, интерпретирует их, находит замкнутые кольца и раскидывает ошибки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171950Z" creationid="Алексей" creationdate="20170909T190756Z">
+        <seg>Он считывает входные файлы, интерпретирует их, находит замкнутые кольца и раскидывает ошибки.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -6629,8 +6629,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Next it transforms all other data (e.g. 2D maps) according to new stations position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130456Z" creationid="Алексей" creationdate="20170909T190835Z">
-        <seg>Затем он преобразует все другие данные (например 2D-карты) в соответствии с позицией новых станций.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T172007Z" creationid="Алексей" creationdate="20170909T190835Z">
+        <seg>Затем он преобразует все другие данные (например 2D-карты) в\break соответствии с позицией новых станций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7518,8 +7518,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>So, now it's clear what Therion needs, let's have a look at the way it interacts with all these programs:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130300Z" creationid="Алексей" creationdate="20170909T184941Z">
-        <seg>Итак, теперь ясно, что нужно Therion'у, давайте посмотрим как он взаимодействует со всеми этими программами:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171821Z" creationid="Алексей" creationdate="20170909T184941Z">
+        <seg>Итак, теперь ясно, что нужно Therion'у, давайте посмотрим как он\break взаимодействует со всеми этими программами:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7558,8 +7558,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Some obscure accents might be omitted.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T181629Z" creationid="Алексей" creationdate="20170909T181629Z">
-        <seg>Некоторые неявные акценты могут быть опущены.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171738Z" creationid="Алексей" creationdate="20170909T181629Z">
+        <seg>Некоторые неявные акценты могут быть\break опущены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8986,8 +8986,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These are read back and converted to a PDF-like format, which forms input data for pdf&lt;u5&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131248Z" creationid="Алексей" creationdate="20170909T191107Z">
-        <seg>Они считываются и преобразуются в PDF формат, который формирует входные данные для pdf&lt;u5&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T172219Z" creationid="Алексей" creationdate="20170909T191107Z">
+        <seg>Они считываются и преобразуются в PDF формат, который\break формирует входные данные для pdf&lt;u5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,8 +9869,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130317Z" creationid="Алексей" creationdate="20170909T185305Z">
-        <seg>Когда ваша система настроена правильно, большинство из файлов скрыто от пользователя, и все необходимые программы автоматически запускаются Therion'ом.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171855Z" creationid="Алексей" creationdate="20170909T185305Z">
+        <seg>Когда ваша система настроена правильно, большинство из файлов скрыто от пользователя, и все необходимые программы\break автоматически запускаются Therion'ом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,8 +10926,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>where {&lt;u0&gt; point} is a keyword for point symbol followed by its coordinates and a symbol type specification.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125636Z" creationid="Алексей" creationdate="20170909T151555Z">
-        <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его координаты и специфический тип символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171604Z" creationid="Алексей" creationdate="20170909T151555Z">
+        <seg>где  {&lt;u0&gt; point} -- команда для символа точки, за которым следуют его координаты и специфический тип символа.</seg>
       </tuv>
     </tu>
     <tu>
