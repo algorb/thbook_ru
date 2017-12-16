@@ -1468,8 +1468,8 @@
       <tuv lang="EN-US">
         <seg>* |JTSK|, |iJTSK| = Czechoslovak S-JTSK system used since 1920s with south and west axis (JTSK) and its modified version with axis pointing east and north and negative numbers (iJTSK).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133847Z" creationid="Алексей" creationdate="20170910T132531Z">
-        <seg>* |JTSK|, |iJTSK| = Чехословацкая система S-JTSK, используемая с 1920-х годов с южной и западной осью (JTSK) и ее модифицированной версией с осью, указывающей восток и север отрицательными числми (iJTSK).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132043Z" creationid="Алексей" creationdate="20170910T132531Z">
+        <seg>* |JTSK|, |iJTSK| = Чехословацкая система S-JTSK, используемая с 1920-х годов с южной и западной осью (JTSK) и ее модифицированной версией с осью, указывающей восток и север отрицательными числами (iJTSK).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,8 +2045,8 @@
       <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133254Z" creationid="Алексей" creationdate="20170910T132120Z">
-        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (раз\-ре\-шено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131957Z" creationid="Алексей" creationdate="20170910T132120Z">
+        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3401,8 +3401,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Almost every coordinate system used worldwide has its own EPSG number.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133302Z" creationid="Алексей" creationdate="20170910T132409Z">
-        <seg>Почти каждая сис\-тема координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132008Z" creationid="Алексей" creationdate="20170910T132409Z">
+        <seg>Почти каждая система координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3489,9 +3489,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Angle units supported: degree[s], minute[s] (also deg, min), grad[s], mil[s], percent[age] (clino only).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T125031Z" creationid="Алексей" creationdate="20170910T124919Z">
-        <seg>Поддерживаемые угловые единицы:  degree[s], minute[s] (можно сокращать deg, min), grad[s], mil[s], percent[age] (только для угла наклона).
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131839Z" creationid="Алексей" creationdate="20170910T124919Z">
+        <seg>Поддерживаемые угловые единицы:  degree[s], minute[s] (можно сокращать deg, min), grad[s], mil[s], percent[age] (только для угла наклона).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5412,8 +5411,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you specify |cs| anywhere in the data, you have to specify it for all location data (|fix|, |origin| in |layout| etc.).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131549Z" creationid="Алексей" creationdate="20170910T131549Z">
-        <seg>Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и |layout| и т. д.).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131921Z" creationid="Алексей" creationdate="20170910T131549Z">
+        <seg>Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и |layout| и т.д.).</seg>
       </tuv>
     </tu>
     <tu>
