@@ -507,8 +507,8 @@
       <tuv lang="EN-US">
         <seg>* LCDF Typetools if you want to use easy setup for custom fonts in PDF maps * {&lt;u4&gt; convert} and {&lt;u5&gt; identify} utilities from ImageMagick distribution, if you want to use warping of survey sketches.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170142Z" creationid="Алексей" creationdate="20170909T161716Z">
-        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для поль\-зо\-ва\-тель\-ских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125912Z" creationid="Алексей" creationdate="20170909T161716Z">
+        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для пользовательских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6601,8 +6601,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Necessary only if you want to create 2D maps in PDF or SVG format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170119Z" creationid="Алексей" creationdate="20170909T161323Z">
-        <seg>Необходимо только в том случае, если вы хотите соз\-да\-вать 2D-карты в формате PDF или SVG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125833Z" creationid="Алексей" creationdate="20170909T161323Z">
+        <seg>Необходимо только в том случае, если вы хотите создавать 2D-карты в формате PDF или SVG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8759,8 +8759,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion can then do its task much better than if it was a standalone application in which you could calibrate your printer or scanner and with one click send e-mail with your data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170046Z" creationid="Алексей" creationdate="20170909T161006Z">
-        <seg>Therion в связке с другими про\-грам\-мами может выполнить свою задачу намного лучше.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125818Z" creationid="Алексей" creationdate="20170909T161006Z">
+        <seg>Therion в связке с другими программами может выполнить свою задачу намного лучше.</seg>
       </tuv>
     </tu>
     <tu>
