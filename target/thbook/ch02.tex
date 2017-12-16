@@ -687,17 +687,22 @@ all \endcontext
 
 \description
 
-This command is used to set or change properties of an already existing object. \enddescription
+Эта команда используется для установки или изменения свойств уже существующего объекта. \enddescription
 
 \syntax
 
-The syntax of this command for object created with ``single line'' command is 
+Синтаксис этой команды для объекта, созданного с помощью команды ``single line'': 
 
 |revise id [-option1 value1 -option2 value2 ...]| 
 
-For objects created with ``multi line'' commands is syntax following 
+Для объектов, созданных с помощью команд ``multi line'' используется синтаксис: 
 
-|revise id [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endrevise| \endsyntax
+|revise id [-option1 value1 -option2 value2 ...]
+	...
+	optionX valueX
+	data
+	...
+endrevise| \endsyntax
 
 \context
 
@@ -705,17 +710,17 @@ all \endcontext
 
 \arguments
 
-The id stands for object identifier (the id of an object you want to revise must always be specified). \endarguments
+Id означает идентификатор объекта (всегда должен указываться идентификатор объекта, который вы хотите изменить). \endarguments
 
-\subchapter Custom attributes. 
+\subchapter Пользовательские атрибуты. 
 
-Objects {\it survey}, {\it centreline}, {\it scrap}, {\it point}, {\it line}, {\it area}, {\it map} and {\it surface} can contain user-defined attributes in a form |-attr <name> <value>|. |<name>| may contain alphanumeric characters, |<value>| is a string. 
+Объекты {\it survey}, {\it centreline}, {\it scrap}, {\it point}, {\it line}, {\it area}, {\it map} and {\it surface} могут содержать пользовательские атрибуты в форме |-attr <имя> <значение>|. |<имя>| может содержать буквенно-цифровые символы, |<значение>| -- строку. 
 
-The custom attributes are used in map export depending on output format: \list
+Пользовательские атрибуты используются при экспорте карты в зависимости от формата вывода: \list
 
-* in {\it shapefile} export they are written directly to the associated dbf file, * in maps generated using \MP\ (PDF, SVG) the attributes are written in the \MP\ source file as strings (named like |ATTR_<name>|) and can be evaluated and used by user in symbols definition macros. 
+* при экспорте в {\it shapefile} они записываются непосредственно в файл dbf; * в картах, сгенерированных с использованием \MP\ (PDF, SVG) атрибуты записываются в исходный файл \MP\ как строки (именуемые |ATTR_<имя>|) и могут быть оценены и использованы пользователем в макросах определения символов. 
 
-You can test presence of such a variable using |if known ATTR_<name>: ... fi|. 
+Вы можете проверить наличие такой переменной, используя |if known ATTR_<имя>: ... fi|. 
 
 \endlist
 
