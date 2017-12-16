@@ -7906,6 +7906,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cover picture shows survey sketch of {&lt;u0&gt; Hrozn&lt;u1&gt;y kame&lt;u2&gt; nolom} Chamber in the Cave of Dead Bats in Slovakia and the map of it produced by Therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T110434Z" creationid="Алексей" creationdate="20171216T110434Z">
+        <seg>На обложке изображен эскиз съемки грота {&lt;u0&gt; Hrozn&lt;u1&gt;y kame&lt;u2&gt; nolom} в пещере Мертвых летучих мышей в Словакии и ее карта, созданная Therion'ом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cross section must be in the separate scrap with `none' projection specified.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031519Z" creationid="Алексей" creationdate="20170923T024857Z">
@@ -9698,8 +9706,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Vasily V. Suhachev, Andrey Kozhenkov&lt;u0&gt; sk</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105733Z" creationid="Алексей" creationdate="20171216T105218Z">
-        <seg>{Василий В. Сухачев, Андрей Коженков}&lt;u0&gt; sk</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T110033Z" creationid="Алексей" creationdate="20171216T105218Z">
+        <seg>{\font\tt=fhar6a \tt Василий Сухачев, Андрей Коженков}&lt;u0&gt; sk</seg>
       </tuv>
     </tu>
     <tu>
