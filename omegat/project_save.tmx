@@ -761,6 +761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* in {&lt;u0&gt; shapefile} export they are written directly to the associated dbf file, * in maps generated using &lt;u1&gt;&lt;u3&gt;(PDF, SVG) the attributes are written in the &lt;u2&gt;&lt;u4&gt;source file as strings (named like |ATTR_&lt;name&gt;|) and can be evaluated and used by user in symbols definition macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091040Z" creationid="Алексей" creationdate="20171216T090717Z">
+        <seg>* при экспорте в {&lt;u0&gt; shapefile} они записываются непосредственно в файл dbf; * в картах, сгенерированных с использованием &lt;u1&gt;&lt;u3&gt;(PDF, SVG) атрибуты записываются в исходный файл &lt;u2&gt;&lt;u4&gt;как строки (именуемые |ATTR_&lt;имя&gt;|) и могут быть оценены и использованы пользователем в макросах определения символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* install the following static/win32 packages (i686-w64-mingw32.static-&lt;u0&gt;42) to the directory |/usr/lib/mxe/|: binutils, bzip2, expat, freetype-bootstrap, gcc, gettext, glib, harfbuzz, jpeg, libiconv, libpng, tiff, vtk, wxwidgets, xz, zlib.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074426Z" creationid="Алексей" creationdate="20171028T122842Z">
@@ -7650,6 +7658,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The custom attributes are used in map export depending on output format:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090705Z" creationid="Алексей" creationdate="20171216T090705Z">
+        <seg>Пользовательские атрибуты используются при экспорте карты в зависимости от формата вывода:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data files specify only what is where, not what it looks like.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162738Z" creationid="Алексей" creationdate="20170909T154657Z">
@@ -11692,6 +11708,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T061118Z" creationid="Алексей" creationdate="20171104T060945Z">
         <seg>|&lt;метка&gt;| может быть также `|end|' (конец линии) или индекс точки линии (где 0 это первая точка).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|&lt;name&gt;| may contain alphanumeric characters, |&lt;value&gt;| is a string.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090646Z" creationid="Алексей" creationdate="20171216T090535Z">
+        <seg>|&lt;имя&gt;| может содержать буквенно-цифровые символы, |&lt;значение&gt;| -- строку.</seg>
       </tuv>
     </tu>
     <tu>
