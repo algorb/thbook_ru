@@ -3808,6 +3808,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090419Z" creationid="Алексей" creationdate="20171216T090419Z">
+        <seg>Пользовательские атрибуты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customizing text labels.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185706Z" creationid="Алексей" creationdate="20171028T185706Z">
@@ -6503,6 +6511,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects {&lt;u0&gt; survey}, {&lt;u1&gt; centreline}, {&lt;u2&gt; scrap}, {&lt;u3&gt; point}, {&lt;u4&gt; line}, {&lt;u5&gt; area}, {&lt;u6&gt; map} and {&lt;u7&gt; surface} can contain user-defined attributes in a form |-attr &lt;name&gt; &lt;value&gt;|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090529Z" creationid="Алексей" creationdate="20171216T090433Z">
+        <seg>Объекты {&lt;u0&gt; survey}, {&lt;u1&gt; centreline}, {&lt;u2&gt; scrap}, {&lt;u3&gt; point}, {&lt;u4&gt; line}, {&lt;u5&gt; area}, {&lt;u6&gt; map} and {&lt;u7&gt; surface} могут содержать пользовательские атрибуты в форме |-attr &lt;имя&gt; &lt;значение&gt;|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oct: Therion 0.4 --- New 3D viewer (Loch).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153535Z" creationid="Алексей" creationdate="20171028T153535Z">
@@ -7782,6 +7798,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011442Z" creationid="Алексей" creationdate="20170919T011355Z">
         <seg>Высота и глубина хода вычис\-ля\-ются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The id stands for object identifier (the id of an object you want to revise must always be specified).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090403Z" creationid="Алексей" creationdate="20171216T090403Z">
+        <seg>Id означает идентификатор объекта (всегда должен указываться идентификатор объекта, который вы хотите изменить).</seg>
       </tuv>
     </tu>
     <tu>
