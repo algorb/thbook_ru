@@ -507,8 +507,8 @@
       <tuv lang="EN-US">
         <seg>* LCDF Typetools if you want to use easy setup for custom fonts in PDF maps * {&lt;u4&gt; convert} and {&lt;u5&gt; identify} utilities from ImageMagick distribution, if you want to use warping of survey sketches.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125912Z" creationid="Алексей" creationdate="20170909T161716Z">
-        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для пользовательских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170948Z" creationid="Алексей" creationdate="20170909T161716Z">
+        <seg>* LCDF Typetools, если вы хотите использовать легкую настройку для\break пользовательских шрифтов в PDF-картах. * Утилиты {&lt;u4&gt; convert} и {&lt;u5&gt; identify} из дистрибутива ImageMagick, если вы хотите использовать деформирование эскизов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -619,16 +619,16 @@
       <tuv lang="EN-US">
         <seg>* There is strict separation of data and visualization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162711Z" creationid="Алексей" creationdate="20170909T154548Z">
-        <seg>* Cтрогое разделение данных и визуализации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171300Z" creationid="Алексей" creationdate="20170909T154548Z">
+        <seg>* Строгое разделение данных и визуализации.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* Therion is not dependent on particular operating system, character encoding or input files editor; input files will remain human readable</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170705Z" creationid="Алексей" creationdate="20170909T155957Z">
-        <seg>* Therion не зависит от конкретной операционной системы, кодировки\break символов или редактора входных файлов; входные файлы останутся читабельными для человека.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170853Z" creationid="Алексей" creationdate="20170909T155957Z">
+        <seg>* Therion не зависит от конкретной операционной системы, кодировки\break символов или редактора входных файлов; входные файлы останутся\break читабельными для человека.</seg>
       </tuv>
     </tu>
     <tu>
@@ -643,8 +643,8 @@
       <tuv lang="EN-US">
         <seg>* any PDF or SVG viewer displaying 2D maps; * any GIS supporting DXF or {&lt;u0&gt; shapefile} formats for analyzing the maps; * appropriate 3D viewer for models exported in other than default format; * any SQL database client to process exported database.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130027Z" creationid="Алексей" creationdate="20170909T162406Z">
-        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D просмотрщик для моделей, экспортированных в формате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171045Z" creationid="Алексей" creationdate="20170909T162406Z">
+        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D просмотрщик для моделей, экспортированных в\break формате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1084,8 +1084,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125928Z" creationid="Алексей" creationdate="20170909T161921Z">
-        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с геопривязанными PDF-картами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171006Z" creationid="Алексей" creationdate="20170909T161921Z">
+        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с\break геопривязанными PDF-картами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,8 +4096,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130106Z" creationid="Алексей" creationdate="20170909T181551Z">
-        <seg>Настройки по умолчанию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171151Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по\break умолчанию должны работать отлично для пользователей использующих\break только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4160,8 +4160,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>During 2000--2001 we searched for the optimal format of the input data, programming language, concept of interactive map editor and internal algorithms with the help of Martin Sluka (Prague) and Martin Heller (Z&lt;u0&gt;urich).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
-        <seg>В перирод 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171509Z" creationid="Алексей" creationdate="20170909T143506Z">
+        <seg>В период 2000--2001 годов мы искали оптимальный формат входных данных, язык программирования, концепцию интерактивного редактирования карт и внутренних алгоритмов с помощью Martin Sluka (Прага) и Martin Heller (Z&lt;u0&gt;urich).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4584,8 +4584,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For displaying of maps and models you may use any of the following programs:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125949Z" creationid="Алексей" creationdate="20170909T162123Z">
-        <seg>Для отображения карт и моделей вы можете использовать любую из следующих программ:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171031Z" creationid="Алексей" creationdate="20170909T162123Z">
+        <seg>Для отображения карт и моделей вы можете использовать любую из\break следующих программ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5193,8 +5193,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170658Z" creationid="Алексей" creationdate="20170909T155342Z">
-        <seg>Если координаты\break станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170840Z" creationid="Алексей" creationdate="20170909T155342Z">
+        <seg>Если\break координаты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта\break всегда актуальна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6597,8 +6597,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Necessary only if you want to create 2D maps in PDF or SVG format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125833Z" creationid="Алексей" creationdate="20170909T161323Z">
-        <seg>Необходимо только в том случае, если вы хотите создавать 2D-карты в формате PDF или SVG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170944Z" creationid="Алексей" creationdate="20170909T161323Z">
+        <seg>Необходимо только в том случае, если вы хотите\break создавать 2D-карты в формате PDF или SVG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,8 +7078,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Read the {&lt;u0&gt; Appendix} if you want to compile Therion yourself.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142611Z" creationid="Алексей" creationdate="20170909T162101Z">
-        <seg>Прочтите {&lt;u0&gt; Приложение}, если вы хотите скомпилировать Therion самостоятельно.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171103Z" creationid="Алексей" creationdate="20170909T162101Z">
+        <seg>Прочтите {&lt;u0&gt; Приложение}, если вы хотите\break скомпилировать Therion самостоятельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8746,8 +8746,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion can then do its task much better than if it was a standalone application in which you could calibrate your printer or scanner and with one click send e-mail with your data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125818Z" creationid="Алексей" creationdate="20170909T161006Z">
-        <seg>Therion в связке с другими программами может выполнить свою задачу намного лучше.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T170935Z" creationid="Алексей" creationdate="20170909T161006Z">
+        <seg>Therion в связке с другими\break программами может выполнить свою задачу намного лучше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,8 +9042,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These were a great help, especially for large and complicated cave systems.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131837Z" creationid="Алексей" creationdate="20170909T131837Z">
-        <seg>Это было большим подспорьев в работе, особенно работая над крупными и сложными пещерными системами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171310Z" creationid="Алексей" creationdate="20170909T131837Z">
+        <seg>Это было большим подспорьем в работе, особенно работая над крупными и сложными пещерными системами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9917,8 +9917,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Windows installer includes all required packages with the exception of {ghostscript}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125941Z" creationid="Алексей" creationdate="20170909T162009Z">
-        <seg>Установщик для Windows включает все необходимые пакеты, за исключением {ghostscript}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171024Z" creationid="Алексей" creationdate="20170909T162009Z">
+        <seg>Установщик для Windows включает все необходимые пакеты, за\break исключением {ghostscript}.</seg>
       </tuv>
     </tu>
     <tu>
