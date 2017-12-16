@@ -9810,6 +9810,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can test presence of such a variable using |if known ATTR_&lt;name&gt;: ... fi|.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091122Z" creationid="Алексей" creationdate="20171216T091053Z">
+        <seg>Вы можете проверить наличие такой переменной, используя |if known ATTR_&lt;имя&gt;: ... fi|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot specify this option for the following symbols: station, station-name, label, remark, date, altitude, height, passage-height.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044005Z" creationid="Алексей" creationdate="20170924T043944Z">
