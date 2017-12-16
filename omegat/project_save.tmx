@@ -419,8 +419,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.4}multiline comments inside |comment| ... |endcomment| block are allowed in data and configuration files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T221012Z" creationid="Алексей" creationdate="20170909T210939Z">
-        <seg>* &lt;u0&gt;{5.4}Многострочные комментарии внутри |comment| ... |endcomment| блока раз\-ре\-шены в файлах данных и конфигурационных файлах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131631Z" creationid="Алексей" creationdate="20170909T210939Z">
+        <seg>* &lt;u0&gt;{5.4}Многострочные комментарии внутри |comment| ... |endcomment| блока разрешены в файлах данных и конфигурационных файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -547,8 +547,8 @@
       <tuv lang="EN-US">
         <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211239Z" creationid="Алексей" creationdate="20170909T205554Z">
-        <seg>* Многострочные команды начинаются аналогично однострочным, но про\-дол\-жа\-ются на последующих строках до явного завершения команды.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131501Z" creationid="Алексей" creationdate="20170909T205554Z">
+        <seg>* Многострочные команды начинаются аналогично однострочным, но продолжаются на последующих строках до явного завершения команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -715,8 +715,8 @@
       <tuv lang="EN-US">
         <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220757Z" creationid="Алексей" creationdate="20170909T210736Z">
-        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается про\-дол\-жен\-ной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131618Z" creationid="Алексей" creationdate="20170909T210736Z">
+        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается продолженной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7058,8 +7058,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Quotes are used for strings; brackets for numerical values and keywords.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211507Z" creationid="Алексей" creationdate="20170909T210630Z">
-        <seg>Кавычки ис\-поль\-зу\-ются для строк; скобки для числовых значений и ключевых слов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131610Z" creationid="Алексей" creationdate="20170909T210630Z">
+        <seg>Кавычки используются для строк; скобки для числовых значений и ключевых слов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7570,8 +7570,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Sometimes options have no or multiple values.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211225Z" creationid="Алексей" creationdate="20170909T205337Z">
-        <seg>Иногда параметров нет или может быть несколько зна\-че\-ний.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131451Z" creationid="Алексей" creationdate="20170909T205337Z">
+        <seg>Иногда параметров нет или может быть несколько значений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8429,8 +8429,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The syntax is</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220119Z" creationid="Алексей" creationdate="20170909T205734Z">
-        <seg>Син\-так\-сис</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131513Z" creationid="Алексей" creationdate="20170909T205734Z">
+        <seg>Синтаксис</seg>
       </tuv>
     </tu>
     <tu>
@@ -9007,8 +9007,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These lines may contain either data or options, which are applied to subsequent data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211345Z" creationid="Алексей" creationdate="20170909T205617Z">
-        <seg>Эти строки могут содержать либо данные, либо параметры, которые при\-ме\-ня\-ются к последующим данным.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131508Z" creationid="Алексей" creationdate="20170909T205617Z">
+        <seg>Эти строки могут содержать либо данные, либо параметры, которые применяются к последующим данным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9207,8 +9207,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This command |line| has one obligatory argument, a line type (passage wall in this case), followed by one option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220455Z" creationid="Алексей" creationdate="20170909T210129Z">
-        <seg>Эта команда |line| имеет один обязательный аргумент, тип линии (коренная стена в данном случае), за которой следует одина опция.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131555Z" creationid="Алексей" creationdate="20170909T210129Z">
+        <seg>Эта команда |line| имеет один обязательный аргумент, тип линии (коренная стена в данном случае), за которой следует одна опция.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10972,8 +10972,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>with three obligatory arguments and one optional option/value pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T211138Z" creationid="Алексей" creationdate="20170909T205258Z">
-        <seg>с тремя обязательными аргументами и одной дополнительной парой оп\-ция/значение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131447Z" creationid="Алексей" creationdate="20170909T205258Z">
+        <seg>с тремя обязательными аргументами и одной дополнительной парой опция/значение.</seg>
       </tuv>
     </tu>
     <tu>
