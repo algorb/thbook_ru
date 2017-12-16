@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>96</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105248Z" creationid="Алексей" creationdate="20171216T105248Z">
+        <seg>96</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>: |grade &lt;id&gt; ... [&lt;quantity list&gt; &lt;value&gt; &lt;units&gt;] ... endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085744Z" creationid="Алексей" creationdate="20171216T085700Z">
@@ -4396,6 +4404,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060551Z" creationid="Алексей" creationdate="20171022T060551Z">
         <seg>Экспортирует выбранные съемки или карты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fatos Katallozi&lt;u0&gt; zh</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105255Z" creationid="Алексей" creationdate="20171216T105255Z">
+        <seg>Fatos Katallozi&lt;u0&gt; zh</seg>
       </tuv>
     </tu>
     <tu>
@@ -7600,6 +7616,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stacho Mudr&lt;u0&gt;ak&lt;u1&gt; sq</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105251Z" creationid="Алексей" creationdate="20171216T105251Z">
+        <seg>Stacho Mudr&lt;u0&gt;ak&lt;u1&gt; sq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard name for user-defined symbol types should not include symbol set identifier, e.g. |p_u_bat|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192624Z" creationid="Алексей" creationdate="20171028T190649Z">
@@ -9674,8 +9698,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Vasily V. Suhachev, Andrey Kozhenkov&lt;u0&gt; sk</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105218Z" creationid="Алексей" creationdate="20171216T105218Z">
-        <seg>Vasily V. Suhachev, Andrey Kozhenkov&lt;u0&gt; sk</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105733Z" creationid="Алексей" creationdate="20171216T105218Z">
+        <seg>{Василий В. Сухачев, Андрей Коженков}&lt;u0&gt; sk</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,6 +10222,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150639Z" creationid="Алексей" creationdate="20170913T150639Z">
         <seg>Вы останетесь в режиме `вставки' -- каждый щелчок по рабочей области добавляет новый символ точки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang Yuan Hai, Duncan Collis&lt;u0&gt; }}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105258Z" creationid="Алексей" creationdate="20171216T105258Z">
+        <seg>Zhang Yuan Hai, Duncan Collis&lt;u0&gt; }}</seg>
       </tuv>
     </tu>
     <tu>
