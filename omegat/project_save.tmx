@@ -3168,8 +3168,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>A synonym term `centerline' may be used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T005816Z" creationid="Алексей" creationdate="20170912T004901Z">
-        <seg>Можно использовать си\-но\-ним `centerline'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132555Z" creationid="Алексей" creationdate="20170912T004901Z">
+        <seg>Можно использовать синоним `centerline'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,8 +8016,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T171035Z" creationid="Алексей" creationdate="20170912T164655Z">
-        <seg>Поддерживаются следующие значения: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132753Z" creationid="Алексей" creationdate="20170912T164655Z">
+        <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8433,8 +8433,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The syntax is borrowed from Survex with minor modifications; the Survex manual may be useful as an additional reference for the user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T005905Z" creationid="Алексей" creationdate="20170912T004849Z">
-        <seg>Синтаксис заимствован из Survex с небольшими изменениями; руководство Survex может быть полезно в ка\-честве дополнительной справки для использования.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132601Z" creationid="Алексей" creationdate="20170912T004849Z">
+        <seg>Синтаксис заимствован из Survex с небольшими изменениями; руководство Survex может быть полезно в качестве дополнительной справки для использования.</seg>
       </tuv>
     </tu>
     <tu>
