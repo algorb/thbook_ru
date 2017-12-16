@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104645Z" creationid="Алексей" creationdate="20171216T104645Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># scraps are usually in separate *.th2 files scrap s1 -author 2004 "Therion team"</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150423Z" creationid="Алексей" creationdate="20171028T150219Z">
@@ -67,6 +75,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114010Z" creationid="Алексей" creationdate="20170910T063935Z">
         <seg>#1{&lt;u2&gt;&lt;u3&gt;{#1}&lt;&lt;u4&gt;{5.3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; Language}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104707Z" creationid="Алексей" creationdate="20171216T104701Z">
+        <seg>#&lt;u0&gt;&lt;u1&gt; {&lt;u2&gt; Язык}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,6 +2583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105036Z" creationid="Алексей" creationdate="20171216T105036Z">
+        <seg>--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-100{&lt;u1&gt; List of survey team members with an information how much has each of them surveyed:}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171056Z" creationid="Алексей" creationdate="20171024T170955Z">
@@ -2655,6 +2679,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.2cm</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104246Z" creationid="Алексей" creationdate="20171216T104246Z">
+        <seg>1.2cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105004Z" creationid="Алексей" creationdate="20171216T105004Z">
+        <seg>100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10000 &lt;u1&gt;10000 &lt;u2&gt;=159.2mm &lt;u3&gt;=239.2mm &lt;u4&gt;=210mm &lt;u5&gt;=297mm</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114055Z" creationid="Алексей" creationdate="20170910T065118Z">
@@ -2731,6 +2771,102 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112736Z" creationid="Алексей" creationdate="20170910T052823Z">
         <seg>5 &lt;u1&gt;&lt;u2&gt; &lt;u5&gt;&lt;u6&gt;&gt;139 &lt;u7&gt;0=glyphtounicode.tex &lt;u8&gt;0&lt;u9&gt;{No glyph to unicode mapping found!}&lt;u10&gt;&lt;u11&gt;0&lt;u12&gt; glyphtounicode.tex&lt;u13&gt;=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105114Z" creationid="Алексей" creationdate="20171216T105114Z">
+        <seg>75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>81</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105024Z" creationid="Алексей" creationdate="20171216T105024Z">
+        <seg>81</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>82</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105050Z" creationid="Алексей" creationdate="20171216T105050Z">
+        <seg>82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>83</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105126Z" creationid="Алексей" creationdate="20171216T105126Z">
+        <seg>83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>85</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105106Z" creationid="Алексей" creationdate="20171216T105106Z">
+        <seg>85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>86</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104933Z" creationid="Алексей" creationdate="20171216T104933Z">
+        <seg>86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>87</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105000Z" creationid="Алексей" creationdate="20171216T105000Z">
+        <seg>87</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>88</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105028Z" creationid="Алексей" creationdate="20171216T105028Z">
+        <seg>88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>90</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105154Z" creationid="Алексей" creationdate="20171216T105154Z">
+        <seg>90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>91</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105147Z" creationid="Алексей" creationdate="20171216T105147Z">
+        <seg>91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>92</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105053Z" creationid="Алексей" creationdate="20171216T105053Z">
+        <seg>92</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>93</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105118Z" creationid="Алексей" creationdate="20171216T105118Z">
+        <seg>93</seg>
       </tuv>
     </tu>
     <tu>
@@ -3155,6 +3291,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205846Z" creationid="Алексей" creationdate="20170909T205846Z">
         <seg>Опять же, для лучшей иллюстрации приведем пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alexander Yanev, Ivo Tachev, Vladimir Georgiev&lt;u0&gt; cz</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105020Z" creationid="Алексей" creationdate="20171216T105020Z">
+        <seg>Alexander Yanev, Ivo Tachev, Vladimir Georgiev&lt;u0&gt; cz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,6 +3824,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code contributions by {&lt;u0&gt; Olly Betts}, {&lt;u1&gt; Marco Corvi}, {&lt;u2&gt; Vladimir Georgiev}, {&lt;u3&gt; Georg Pacher} and {&lt;u4&gt; Dimitrios Zachariadis}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104345Z" creationid="Алексей" creationdate="20171216T104250Z">
+        <seg>В разработке кода принимали участие {&lt;u0&gt; Olly Betts}, {&lt;u1&gt; Marco Corvi}, {&lt;u2&gt; Vladimir\break Georgiev}, {&lt;u3&gt; Georg Pacher} и {&lt;u4&gt; Dimitrios Zachariadis}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colour range is 0--100 for grayscale, [0--100 0--100 0--100] triplet for RGB colours.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053543Z" creationid="Алексей" creationdate="20171022T053543Z">
@@ -3740,6 +3892,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130813Z" creationid="Алексей" creationdate="20171028T124154Z">
         <seg>Скопируйте файл перевода в |thchencdata| каталог; добавьте его имя в хэш-код `ifiles' в начале скрипта Perl |generate.pl|; запустите его и перекомпилируйте Therion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright &lt;u0&gt;&lt;u1&gt;1999--2017 Stacho Mudr&lt;u2&gt;ak, Martin Budaj</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104244Z" creationid="Алексей" creationdate="20171216T104109Z">
+        <seg>Copyright &lt;u0&gt;&lt;u1&gt;1999--2017 Stacho Mudr&lt;u2&gt;ak, Martin Budaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,6 +4120,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distributed under the GNU General Public License.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T103917Z" creationid="Алексей" creationdate="20171216T103917Z">
+        <seg>Распространяется по лицензии GNU General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During 2000--2001 we searched for the optimal format of the input data, programming language, concept of interactive map editor and internal algorithms with the help of Martin Sluka (Prague) and Martin Heller (Z&lt;u0&gt;urich).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T165552Z" creationid="Алексей" creationdate="20170909T143506Z">
@@ -4092,6 +4260,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T125157Z" creationid="Алексей" creationdate="20171028T125157Z">
         <seg>Переменные среды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eric Madelaine, Gilbert Fernandes&lt;u0&gt; it</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105138Z" creationid="Алексей" creationdate="20171216T105138Z">
+        <seg>Eric Madelaine, Gilbert Fernandes&lt;u0&gt; it</seg>
       </tuv>
     </tu>
     <tu>
@@ -6039,10 +6215,34 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Krzysztof Dudzi&lt;u0&gt;nski&lt;u1&gt; pt[&lt;u2&gt;BR$&lt;u4&gt;$&lt;u3&gt;PT]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105159Z" creationid="Алексей" creationdate="20171216T105159Z">
+        <seg>Krzysztof Dudzi&lt;u0&gt;nski&lt;u1&gt; pt[&lt;u2&gt;BR$&lt;u4&gt;$&lt;u3&gt;PT]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kyle Davis, Bruce Mutton&lt;u0&gt; pl</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105151Z" creationid="Алексей" creationdate="20171216T105151Z">
+        <seg>Kyle Davis, Bruce Mutton&lt;u0&gt; pl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Labyrinth.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153941Z" creationid="Алексей" creationdate="20171028T153941Z">
         <seg>Лабиринт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ladislav Bla&lt;u0&gt; zek&lt;u1&gt; de</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105042Z" creationid="Алексей" creationdate="20171216T105042Z">
+        <seg>Ladislav Bla&lt;u0&gt; zek&lt;u1&gt; de</seg>
       </tuv>
     </tu>
     <tu>
@@ -6267,6 +6467,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T153319Z" creationid="Алексей" creationdate="20171028T153319Z">
         <seg>Март: первая версия Therion Book завершена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marco Corvi&lt;u0&gt; mi</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105143Z" creationid="Алексей" creationdate="20171216T105143Z">
+        <seg>Marco Corvi&lt;u0&gt; mi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6872,6 +7080,22 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roger Schuster, Georg Pacher, Benedikt Hallinger&lt;u0&gt; el</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105102Z" creationid="Алексей" creationdate="20171216T105102Z">
+        <seg>Roger Schuster, Georg Pacher, Benedikt Hallinger&lt;u0&gt; el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roman Mu\ noz&lt;u0&gt; fr</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105134Z" creationid="Алексей" creationdate="20171216T105134Z">
+        <seg>Roman Mu\ noz&lt;u0&gt; fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run the setup program and follow instructions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180837Z" creationid="Алексей" creationdate="20170909T180837Z">
@@ -7368,6 +7592,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stacho Mudr&lt;u0&gt;ak, Olly Betts&lt;u1&gt; es</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105122Z" creationid="Алексей" creationdate="20171216T105122Z">
+        <seg>Stacho Mudr&lt;u0&gt;ak, Olly Betts&lt;u1&gt; es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard name for user-defined symbol types should not include symbol set identifier, e.g. |p_u_bat|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192624Z" creationid="Алексей" creationdate="20171028T190649Z">
@@ -7380,6 +7612,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185814Z" creationid="Алексей" creationdate="20171028T185814Z">
         <seg>Начиная с версии 5.4.1 вы можете использовать опцию |fonts-setup| макета вместо макроса &lt;u0&gt;&lt;u1&gt;|fonts_setup()|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stelios Zacharias&lt;u0&gt; en[&lt;u1&gt;GB$&lt;u3&gt;$&lt;u2&gt;US]</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105111Z" creationid="Алексей" creationdate="20171216T105111Z">
+        <seg>Stelios Zacharias&lt;u0&gt; en[&lt;u1&gt;GB$&lt;u3&gt;$&lt;u2&gt;US]</seg>
       </tuv>
     </tu>
     <tu>
@@ -8509,6 +8749,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion is copyrighted software.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104025Z" creationid="Алексей" creationdate="20171216T103847Z">
+        <seg>Therion -- программное обеспечение, защищенное авторскими правами.\break </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion is distributed under the &lt;u0&gt;[GNU General Public License] {https://www.gnu.org/}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T100825Z" creationid="Алексей" creationdate="20170909T100825Z">
@@ -8833,6 +9081,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T174122Z" creationid="Алексей" creationdate="20171026T174122Z">
         <seg>Преимущество такого подхода состоит в том, что пользователь имеет прямой доступ к расширенному механизму набора текста, не делая язык Therion сверхсложным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This book describes Therion &lt;u0&gt; version &lt;u1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104135Z" creationid="Алексей" creationdate="20171216T104113Z">
+        <seg>В этой книге описывается Therion &lt;u0&gt; version &lt;u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,6 +9487,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toni Cavalheiro, Rodrigo Severo&lt;u0&gt; ru</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105204Z" creationid="Алексей" creationdate="20171216T105204Z">
+        <seg>Toni Cavalheiro, Rodrigo Severo&lt;u0&gt; ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TrueType and OpenType fonts are supported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140538Z" creationid="Алексей" creationdate="20171028T140538Z">
@@ -9404,6 +9668,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T033421Z" creationid="Алексей" creationdate="20171022T033421Z">
         <seg>Диапазон значений 0-100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vasily V. Suhachev, Andrey Kozhenkov&lt;u0&gt; sk</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105218Z" creationid="Алексей" creationdate="20171216T105218Z">
+        <seg>Vasily V. Suhachev, Andrey Kozhenkov&lt;u0&gt; sk</seg>
       </tuv>
     </tu>
     <tu>
@@ -11011,10 +11283,26 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Loch}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104928Z" creationid="Алексей" creationdate="20171216T104928Z">
+        <seg>{&lt;u0&gt; Loch}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Make parameters}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T122440Z" creationid="Алексей" creationdate="20171028T122432Z">
         <seg>{&lt;u0&gt; Make параметры}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Map header}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104908Z" creationid="Алексей" creationdate="20171216T104748Z">
+        <seg>{&lt;u0&gt; Карты}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11083,6 +11371,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Translated by}&lt;u1&gt;&lt;u2&gt;{&lt;u3&gt;&lt;u5&gt;&lt;u4&gt;} bg</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104816Z" creationid="Алексей" creationdate="20171216T104807Z">
+        <seg>{&lt;u0&gt; Переводчики}&lt;u1&gt;&lt;u2&gt;{&lt;u3&gt;&lt;u5&gt;&lt;u4&gt;} bg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Type-specific options:}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050124Z" creationid="Алексей" creationdate="20170924T050115Z">
@@ -11095,6 +11391,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T171211Z" creationid="Алексей" creationdate="20171024T171155Z">
         <seg>{&lt;u0&gt; Какие части пещеры были отсняты в 1998 году?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; XTherion}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104731Z" creationid="Алексей" creationdate="20171216T104731Z">
+        <seg>{&lt;u0&gt; XTherion}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11381,8 +11685,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;0pt &lt;u4&gt;&lt;u6&gt;=cmssdc10 at 36pt &lt;u5&gt;&lt;u8&gt;=cmssdc10 at 24pt &lt;u11&gt;{&lt;u7&gt; The Therion Book&lt;u14&gt;0pt} &lt;u2&gt;365pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T102528Z" creationid="Алексей" creationdate="20171216T102207Z">
-        <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;0pt &lt;u4&gt;&lt;u6&gt;=fhar6a at 36pt &lt;u5&gt;&lt;u8&gt;=fhar6a at 24pt &lt;u11&gt;{&lt;u7&gt; The Therion Book\break (Руководство Therion)&lt;u14&gt;0pt} &lt;u2&gt;365pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T103748Z" creationid="Алексей" creationdate="20171216T102207Z">
+        <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;20pt &lt;u4&gt;&lt;u6&gt;=fhab6a at 36pt &lt;u5&gt;&lt;u8&gt;=fhab6a at 24pt &lt;u11&gt;{&lt;u7&gt; Руководство по Therion'у&lt;u14&gt;0pt} &lt;u2&gt;310pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Перевод Горбенко Алексей&lt;u16&gt;0pt}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11648,6 +11952,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{We owe thanks to}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104433Z" creationid="Алексей" creationdate="20171216T104423Z">
+        <seg>{Мы благодарны}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{mp/#1}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T113840Z" creationid="Алексей" creationdate="20170910T062647Z">
@@ -11682,8 +11994,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Translations (%):}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T195228Z" creationid="Алексей" creationdate="20170909T195228Z">
-        <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{and all users for their feedback, support and suggestions.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104615Z" creationid="Алексей" creationdate="20170909T195228Z">
+        <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{и всем пользователям за их замечания, поддержку и предложения.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
       </tuv>
     </tu>
     <tu>
