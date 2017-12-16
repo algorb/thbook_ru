@@ -23,6 +23,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#1#2{}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T110437Z" creationid="Алексей" creationdate="20171216T110437Z">
+        <seg>#1#2{}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#1.#2 {&lt;u5&gt;(#1*1000000+#2*1000)} &lt;u1&gt;&lt;u7&gt;#1.#2.#3 {&lt;u6&gt;(#1*1000000+#2*1000+#3)} &lt;u2&gt;&lt;u9&gt;#1{&lt;u10&gt;&lt;u11&gt;{[0-9]+[.][0-9]+[.][0-9]+}{#1}=1 &lt;u8&gt;#1 &lt;u12&gt; &lt;u4&gt;#1 &lt;u13&gt;}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114008Z" creationid="Алексей" creationdate="20170910T063904Z">
@@ -2663,6 +2671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0=etc/contents.tex &lt;u1&gt;0 &lt;u2&gt;{Warning: re-run to input a newly generated TOC file} &lt;u3&gt; &lt;u4&gt;0 &lt;u5&gt; etc/contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T110442Z" creationid="Алексей" creationdate="20171216T110442Z">
+        <seg>0=etc/contents.tex &lt;u1&gt;0 &lt;u2&gt;{Warning: re-run to input a newly generated TOC file} &lt;u3&gt; &lt;u4&gt;0 &lt;u5&gt; etc/contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0=version.tex &lt;u1&gt; 0 to &lt;u2&gt;&lt;u3&gt;0</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T112747Z" creationid="Алексей" creationdate="20170910T052959Z">
@@ -2699,6 +2715,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114055Z" creationid="Алексей" creationdate="20170910T065118Z">
         <seg>10000 &lt;u1&gt;10000 &lt;u2&gt;=159.2mm &lt;u3&gt;=239.2mm &lt;u4&gt;=210mm &lt;u5&gt;=297mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1=etc/contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T110446Z" creationid="Алексей" creationdate="20171216T110446Z">
+        <seg>1=etc/contents</seg>
       </tuv>
     </tu>
     <tu>
