@@ -10561,6 +10561,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>to 0pt{&lt;u1&gt;-1in&lt;u2&gt;-10pt&lt;u4&gt; to 0pt{&lt;u3&gt;-1in &lt;u5&gt;{thbook.jpg}&lt;u6&gt;}&lt;u7&gt;}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T102211Z" creationid="Алексей" creationdate="20171216T102211Z">
+        <seg>to 0pt{&lt;u1&gt;-1in&lt;u2&gt;-10pt&lt;u4&gt; to 0pt{&lt;u3&gt;-1in &lt;u5&gt;{thbook.jpg}&lt;u6&gt;}&lt;u7&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>to 482bp{&lt;u1&gt;{&lt;u2&gt; to 400bp{ &lt;u3&gt;{&lt;u4&gt;{page.pdf}} &lt;u5&gt;{page.1} &lt;u6&gt;}}&lt;u7&gt; }</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055452Z" creationid="Алексей" creationdate="20171022T055452Z">
@@ -11367,6 +11375,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T142237Z" creationid="Алексей" creationdate="20170909T142237Z">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;0pt &lt;u4&gt;&lt;u6&gt;=cmssdc10 at 36pt &lt;u5&gt;&lt;u8&gt;=cmssdc10 at 24pt &lt;u11&gt;{&lt;u7&gt; The Therion Book&lt;u14&gt;0pt} &lt;u2&gt;365pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T102528Z" creationid="Алексей" creationdate="20171216T102207Z">
+        <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;0pt &lt;u4&gt;&lt;u6&gt;=fhar6a at 36pt &lt;u5&gt;&lt;u8&gt;=fhar6a at 24pt &lt;u11&gt;{&lt;u7&gt; The Therion Book\break (Руководство Therion)&lt;u14&gt;0pt} &lt;u2&gt;365pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt}</seg>
       </tuv>
     </tu>
     <tu>
