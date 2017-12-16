@@ -1212,8 +1212,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;encoding-name&gt;| = to see a list of all the supported encoding names, run Therion with |--print-encodings| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172451Z" creationid="Алексей" creationdate="20170910T172204Z">
-        <seg>* |&lt;encoding-name&gt;| = чтобы увидеть список всех поддерживаемых имен ко\-ди\-ро\-вок, запустите Therion с опцией |--print-encodings|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132325Z" creationid="Алексей" creationdate="20170910T172204Z">
+        <seg>* |&lt;encoding-name&gt;| = чтобы увидеть список всех поддерживаемых имен кодировок, запустите Therion с опцией |--print-encodings|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1476,9 +1476,8 @@
       <tuv lang="EN-US">
         <seg>* |OSGB:&lt;H, N, O, S or T&gt;&lt;A-Z except I&gt;| = British Ordnance Survey National Grid.&lt;u0&gt;{5.4} * |S-MERC| = the spherical Mercator projection, as used by various online mapping sites.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134056Z" creationid="Алексей" creationdate="20170910T132720Z">
-        <seg>* |OSGB:&lt;H, N, O, S или T&gt;&lt;A-Z исключая I&gt;| = Британская Национальная Сеть.&lt;u0&gt;{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132110Z" creationid="Алексей" creationdate="20170910T132720Z">
+        <seg>* |OSGB:&lt;H, N, O, S или T&gt;&lt;A-Z исключая I&gt;| = Британская Национальная Сеть.&lt;u0&gt;{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3905,8 +3904,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Context {&lt;u3&gt; all} means that the command may be used anywhere.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161344Z" creationid="Алексей" creationdate="20170910T150212Z">
-        <seg>Контекст {&lt;u3&gt; all} означает, что команда может исполь\-зо\-ваться в любом месте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132246Z" creationid="Алексей" creationdate="20170910T150212Z">
+        <seg>Контекст {&lt;u3&gt; all} означает, что команда может использоваться в любом месте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4217,8 +4216,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each of the following sections describes one Therion command using the following structure:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161239Z" creationid="Алексей" creationdate="20170910T145836Z">
-        <seg>В каждом из следующих разделов описывается одна команда Therion, исполь\-зую\-щая следующую структуру:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132214Z" creationid="Алексей" creationdate="20170910T145836Z">
+        <seg>В каждом из следующих разделов описывается одна команда Therion, использующая следующую структуру:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4649,8 +4648,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For greatest portability use relative paths and Unix slashes `|/|', not Windows backslashes `|&lt;u0&gt;', as directory separators.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T152136Z" creationid="Алексей" creationdate="20170911T151041Z">
-        <seg>Для максимальной портабельности исполь\-зуйте относительные пути, а для разделения каталогов используйте харак\-тер\-ный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;'. </seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132352Z" creationid="Алексей" creationdate="20170911T151041Z">
+        <seg>Для максимальной портабельности используйте относительные пути, а для разделения каталогов используйте характерный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;'. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5844,9 +5843,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161641Z" creationid="Алексей" creationdate="20170910T134329Z">
-        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из под\-дер\-жи\-вае\-мых геодезических систем координат, и никакое склонение не опре\-де\-ля\-ется пользователем.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132149Z" creationid="Алексей" creationdate="20170910T134329Z">
+        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из поддерживаемых геодезических систем координат, и никакое склонение не определяется пользователем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,8 +7671,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Studying the example files distributed with Therion will help you understand.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161211Z" creationid="Алексей" creationdate="20170910T145728Z">
-        <seg>Изу\-че\-ние примеров файлов, распространяемых вместе с Therion, поможет вам понять основы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132207Z" creationid="Алексей" creationdate="20170910T145728Z">
+        <seg>Изучение примеров файлов, распространяемых вместе с Therion, поможет вам понять основы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7915,8 +7913,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The computed declination is listed in the LOG file for information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T134534Z" creationid="Алексей" creationdate="20170910T134345Z">
-        <seg>Вычисленное склонение указано в файле LOG для ин\-фор\-ма\-ции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132158Z" creationid="Алексей" creationdate="20170910T134345Z">
+        <seg>Вычисленное склонение указано в файле LOG для информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8532,8 +8530,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The {&lt;u1&gt; survey} context means that the command must be enclosed by |survey ... endsurvey| pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161253Z" creationid="Алексей" creationdate="20170910T150037Z">
-        <seg>Кон\-текст {&lt;u1&gt; survey} означает, что команда должна быть заключена в пару |survey ... endsurvey|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132225Z" creationid="Алексей" creationdate="20170910T150037Z">
+        <seg>Контекст {&lt;u1&gt; survey} означает, что команда должна быть заключена в пару |survey ... endsurvey|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,8 +8764,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion contains built-in IGRF&lt;u0&gt;See &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020&lt;u2&gt;{5.4}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T161730Z" creationid="Алексей" creationdate="20170910T134252Z">
-        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] --- модель геомагнитного поля Земли, дей\-стви\-тель\-ная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132133Z" creationid="Алексей" creationdate="20170910T134252Z">
+        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] --- модель геомагнитного поля Земли, действительная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9118,8 +9116,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This allows the use of non-ASCII characters in input files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172441Z" creationid="Алексей" creationdate="20170910T172105Z">
-        <seg>Это позволяет использовать сим\-волы не ASCII во входных файлах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132307Z" creationid="Алексей" creationdate="20170910T172105Z">
+        <seg>Это позволяет использовать символы не ASCII во входных файлах.</seg>
       </tuv>
     </tu>
     <tu>
