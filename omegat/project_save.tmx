@@ -8014,14 +8014,6 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132753Z" creationid="Алексей" creationdate="20170912T164655Z">
-        <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The following subtypes are supported for given types:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062744Z" creationid="Алексей" creationdate="20170924T112132Z">
