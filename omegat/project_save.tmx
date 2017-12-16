@@ -643,8 +643,8 @@
       <tuv lang="EN-US">
         <seg>* any PDF or SVG viewer displaying 2D maps; * any GIS supporting DXF or {&lt;u0&gt; shapefile} formats for analyzing the maps; * appropriate 3D viewer for models exported in other than default format; * any SQL database client to process exported database.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193314Z" creationid="Алексей" creationdate="20170909T162406Z">
-        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D просмотрщик для моделей, экспортированных в фор\-мате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130027Z" creationid="Алексей" creationdate="20170909T162406Z">
+        <seg>* любой просмотрщик PDF или SVG для просмотра 2D-карт; * любые GIS поддерживающие DXF или {&lt;u0&gt; shapefile} форматы для анализа карт; * соответствующий 3D просмотрщик для моделей, экспортированных в формате отличном от стандартного; * любой клиент базы данных SQL для обработки экспортированной базы данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1084,8 +1084,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u6&gt; ghostscript} if you want to create calibrated images from georeferenced PDF maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193402Z" creationid="Алексей" creationdate="20170909T161921Z">
-        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с гео\-при\-вя\-зан\-ными PDF-картами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125928Z" creationid="Алексей" creationdate="20170909T161921Z">
+        <seg>* {&lt;u6&gt; ghostscript}, если вы хотите создавать калиброванные изображения с геопривязанными PDF-картами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,8 +4098,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Default settings should work fine for users using just latin characters&lt;u0&gt;In the PDF map Therion renders most of the accented characters as a combination of accent and a base character.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193246Z" creationid="Алексей" creationdate="20170909T181551Z">
-        <seg>Настройки по умол\-ча\-нию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как со\-че\-та\-ние акцента и базового символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130106Z" creationid="Алексей" creationdate="20170909T181551Z">
+        <seg>Настройки по умолчанию должны работать отлично для пользователей использующих только латинские символы &lt;u0&gt; На PDF-картах Therion отображает большинство акцентированных символов как сочетание акцента и базового символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,8 +4586,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For displaying of maps and models you may use any of the following programs:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170337Z" creationid="Алексей" creationdate="20170909T162123Z">
-        <seg>Для отображения карт и моделей вы можете использовать любую из сле\-дую\-щих программ:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125949Z" creationid="Алексей" creationdate="20170909T162123Z">
+        <seg>Для отображения карт и моделей вы можете использовать любую из следующих программ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5733,8 +5733,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Installation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162531Z" creationid="Алексей" creationdate="20170909T162414Z">
-        <seg>Инсталяция.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130034Z" creationid="Алексей" creationdate="20170909T162414Z">
+        <seg>Инсталляция.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8365,8 +8365,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180658Z" creationid="Алексей" creationdate="20170909T180456Z">
-        <seg>Исходники --- главный дистрибутив Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130045Z" creationid="Алексей" creationdate="20170909T180456Z">
+        <seg>Исходники -- главный дистрибутив Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9931,8 +9931,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Windows installer includes all required packages with the exception of {ghostscript}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170252Z" creationid="Алексей" creationdate="20170909T162009Z">
-        <seg>Установщик для Windows включает все необходимые пакеты, за ис\-клю\-че\-нием {ghostscript}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125941Z" creationid="Алексей" creationdate="20170909T162009Z">
+        <seg>Установщик для Windows включает все необходимые пакеты, за исключением {ghostscript}.</seg>
       </tuv>
     </tu>
     <tu>
