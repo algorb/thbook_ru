@@ -102,11 +102,10 @@ Underfull \hbox (badness 2435) in paragraph at lines 43--44
 .etc.
 
 
-Overfull \hbox (9.16756pt too wide) in paragraph at lines 49--50
- [][]\tt Все данные привязываются к положениям пикетов съемки. Если координаты|
+Underfull \hbox (badness 1478) in paragraph at lines 49--50
+ [][]\tt Все данные привязываются к положениям пикетов съемки. Если
 
-
-\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+\hbox(8.04599+2.412)x452.96786, glue set 2.45699
 .\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
@@ -117,6 +116,18 @@ Overfull \hbox (9.16756pt too wide) in paragraph at lines 49--50
 ..\glue 4.31999 plus 2.592 minus 1.032
 .\tt В
 .\tt с
+.etc.
+
+
+Overfull \hbox (1.29391pt too wide) in paragraph at lines 49--50
+ \tt все связанные данные перемещаются соответственно, поэтому карта всегда|
+
+\hbox(5.676+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt в
+.\tt с
+.\tt е
+.\glue 4.31999 plus 2.592 minus 1.032
 .etc.
 
 
@@ -2161,7 +2172,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (78 pages, 769120 bytes).
+Output written on thbook.pdf (78 pages, 769139 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
