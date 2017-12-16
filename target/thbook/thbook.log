@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 DEC 2017 00:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 DEC 2017 00:10
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -136,28 +136,10 @@ Underfull \hbox (badness 6236) in paragraph at lines 55--56
 .etc.
 
 [6]
-Overfull \hbox (62.6259pt too wide) in paragraph at lines 65--65
- [][]\it ghostscript\tt , если вы хотите создавать калиброванные изображения с 
-геопривязанными|
+Underfull \hbox (badness 5592) in paragraph at lines 67--68
+[]\tt Установщик для Win-dows включает все необходимые пакеты, за
 
-\hbox(8.11198+2.754)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
-.\it g
-.\it h
-.etc.
-
-
-Overfull \hbox (3.40596pt too wide) in paragraph at lines 67--68
-[]\tt Установщик для Win-dows включает все необходимые пакеты, за исключением|
-
-\hbox(8.04599+1.836)x452.96786, glue set - 1.0
+\hbox(8.04599+1.836)x452.96786, glue set 3.82527
 .\hbox(0.0+0.0)x0.0
 .\tt У
 .\kern-1.296
@@ -166,34 +148,16 @@ Overfull \hbox (3.40596pt too wide) in paragraph at lines 67--68
 .etc.
 
 
-Overfull \hbox (15.31949pt too wide) in paragraph at lines 69--69
-[]\tt Для отображения карт и моделей вы можете использовать любую из следующих|
+Overfull \hbox (21.1699pt too wide) in paragraph at lines 67--68
+\tt исключением ghostscript. Прочтите \it Приложение\tt , если вы хотите скомпи
+лировать|
 
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\tt Д
-.\tt л
-.\tt я
-.\glue 4.31999 plus 2.592 minus 1.032
-.etc.
-
-
-Overfull \hbox (18.40497pt too wide) in paragraph at lines 71--71
- [][]\tt соответствующий 3D просмотрщик для моделей, экспортированных в формате
-|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\glue(\leftskip) 12.0
-.\hbox(0.0+0.0)x0.0
-.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\mathon
-..\sy 
-..\mathoff
-..\glue 4.31999 plus 2.592 minus 1.032
+\hbox(8.11198+2.69398)x452.96786, glue set - 1.0
+.\tt и
+.\kern-0.12001
 .\tt с
-.\tt о
+.\tt к
+.\tt л
 .etc.
 
 
@@ -2098,7 +2062,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (78 pages, 769073 bytes).
+Output written on thbook.pdf (78 pages, 769045 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
