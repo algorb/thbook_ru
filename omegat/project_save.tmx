@@ -763,8 +763,8 @@
       <tuv lang="EN-US">
         <seg>* in {&lt;u0&gt; shapefile} export they are written directly to the associated dbf file, * in maps generated using &lt;u1&gt;&lt;u3&gt;(PDF, SVG) the attributes are written in the &lt;u2&gt;&lt;u4&gt;source file as strings (named like |ATTR_&lt;name&gt;|) and can be evaluated and used by user in symbols definition macros.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091040Z" creationid="Алексей" creationdate="20171216T090717Z">
-        <seg>* при экспорте в {&lt;u0&gt; shapefile} они записываются непосредственно в файл dbf; * в картах, сгенерированных с использованием &lt;u1&gt;&lt;u3&gt;(PDF, SVG) атрибуты записываются в исходный файл &lt;u2&gt;&lt;u4&gt;как строки (именуемые |ATTR_&lt;имя&gt;|) и могут быть оценены и использованы пользователем в макросах определения символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091647Z" creationid="Алексей" creationdate="20171216T090717Z">
+        <seg>* при экспорте в {&lt;u0&gt; shapefile} они записываются непосредственно в файл dbf; * в картах, сгенерированных с использованием &lt;u1&gt;&lt;u3&gt;(PDF, SVG)\break атрибуты записываются в исходный файл &lt;u2&gt;&lt;u4&gt;как строки\break (именуемые |ATTR_&lt;имя&gt;|) и могут быть оценены и использованы\break пользователем в макросах определения символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,8 +4514,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For objects created with ``multi line'' commands is syntax following</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090134Z" creationid="Алексей" creationdate="20171216T090112Z">
-        <seg>Для объектов, созданных с помощью команд ``multi line'' используется синтаксис:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091307Z" creationid="Алексей" creationdate="20171216T090112Z">
+        <seg>Для объектов, созданных с помощью команд ``multi line'' используется\break синтаксис:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6521,8 +6521,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Objects {&lt;u0&gt; survey}, {&lt;u1&gt; centreline}, {&lt;u2&gt; scrap}, {&lt;u3&gt; point}, {&lt;u4&gt; line}, {&lt;u5&gt; area}, {&lt;u6&gt; map} and {&lt;u7&gt; surface} can contain user-defined attributes in a form |-attr &lt;name&gt; &lt;value&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090529Z" creationid="Алексей" creationdate="20171216T090433Z">
-        <seg>Объекты {&lt;u0&gt; survey}, {&lt;u1&gt; centreline}, {&lt;u2&gt; scrap}, {&lt;u3&gt; point}, {&lt;u4&gt; line}, {&lt;u5&gt; area}, {&lt;u6&gt; map} and {&lt;u7&gt; surface} могут содержать пользовательские атрибуты в форме |-attr &lt;имя&gt; &lt;значение&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091450Z" creationid="Алексей" creationdate="20171216T090433Z">
+        <seg>Объекты {&lt;u0&gt; survey}, {&lt;u1&gt; centreline}, {&lt;u2&gt; scrap}, {&lt;u3&gt; point}, {&lt;u4&gt; line}, {&lt;u5&gt; area}, {&lt;u6&gt; map} и {&lt;u7&gt; surface} могут\break содержать пользовательские атрибуты в форме |-attr &lt;имя&gt; &lt;значение&gt;|.\break </seg>
       </tuv>
     </tu>
     <tu>
@@ -7660,8 +7660,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The custom attributes are used in map export depending on output format:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090705Z" creationid="Алексей" creationdate="20171216T090705Z">
-        <seg>Пользовательские атрибуты используются при экспорте карты в зависимости от формата вывода:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091531Z" creationid="Алексей" creationdate="20171216T090705Z">
+        <seg>Пользовательские атрибуты используются при экспорте карты в\break зависимости от формата вывода:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7820,8 +7820,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The id stands for object identifier (the id of an object you want to revise must always be specified).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090403Z" creationid="Алексей" creationdate="20171216T090403Z">
-        <seg>Id означает идентификатор объекта (всегда должен указываться идентификатор объекта, который вы хотите изменить).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091334Z" creationid="Алексей" creationdate="20171216T090403Z">
+        <seg>Id означает идентификатор объекта (всегда должен указываться\break идентификатор объекта, который вы хотите изменить).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8879,8 +8879,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This command is used to set or change properties of an already existing object.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090002Z" creationid="Алексей" creationdate="20171216T090002Z">
-        <seg>Эта команда используется для установки или изменения свойств уже существующего объекта.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091228Z" creationid="Алексей" creationdate="20171216T090002Z">
+        <seg>Эта команда используется для установки или изменения свойств уже\break существующего объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9812,8 +9812,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You can test presence of such a variable using |if known ATTR_&lt;name&gt;: ... fi|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091122Z" creationid="Алексей" creationdate="20171216T091053Z">
-        <seg>Вы можете проверить наличие такой переменной, используя |if known ATTR_&lt;имя&gt;: ... fi|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091826Z" creationid="Алексей" creationdate="20171216T091053Z">
+        <seg>Вы можете проверить наличие такой переменной, используя:\break |if known ATTR_&lt;имя&gt;: ... fi|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11722,8 +11722,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;name&gt;| may contain alphanumeric characters, |&lt;value&gt;| is a string.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090646Z" creationid="Алексей" creationdate="20171216T090535Z">
-        <seg>|&lt;имя&gt;| может содержать буквенно-цифровые символы, |&lt;значение&gt;| -- строку.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091509Z" creationid="Алексей" creationdate="20171216T090535Z">
+        <seg>|&lt;Имя&gt;| может содержать буквенно-цифровые символы, |&lt;значение&gt;| -- строку.</seg>
       </tuv>
     </tu>
     <tu>
