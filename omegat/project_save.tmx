@@ -7052,6 +7052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See |sd| option description for |centreline| command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085624Z" creationid="Алексей" creationdate="20171216T085526Z">
+        <seg>Смотрите опцию |sd| в описании команды |centreline|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sep: Therion compiles first real and complex map of a cave.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152734Z" creationid="Алексей" creationdate="20171028T152734Z">
@@ -8797,6 +8805,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173413Z" creationid="Алексей" creationdate="20171026T173413Z">
         <seg>Эта глава чрезвычайно полезна, если вас не устраивает предопределенный макет символов карты и ее предоставление, и вы хотите адаптировать их к вашим желаниям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command is used to store predefined precisions of centreline data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085516Z" creationid="Алексей" creationdate="20171216T085516Z">
+        <seg>Эта команда используется для сохранения предопределенных точных данных нитки хода.</seg>
       </tuv>
     </tu>
     <tu>
