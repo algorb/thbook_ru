@@ -355,8 +355,8 @@
       <tuv lang="EN-US">
         <seg>* 3D model is generated from 2D maps to get a realistic 3D model without entering too much data</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163226Z" creationid="Алексей" creationdate="20170909T160319Z">
-        <seg>* 3D-модель создается из 2D-карт, чтобы получить реалистичную трех\-мер\-ную модель не вводя слишком много данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125746Z" creationid="Алексей" creationdate="20170909T160319Z">
+        <seg>* 3D-модель создается из 2D-карт, чтобы получить реалистичную трехмерную модель не вводя слишком много данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -627,8 +627,8 @@
       <tuv lang="EN-US">
         <seg>* Therion is not dependent on particular operating system, character encoding or input files editor; input files will remain human readable</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163258Z" creationid="Алексей" creationdate="20170909T155957Z">
-        <seg>* Therion не зависит от конкретной операционной системы, кодировки сим\-во\-лов или редактора входных файлов; входные файлы останутся чита\-бель\-ными для человека.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125740Z" creationid="Алексей" creationdate="20170909T155957Z">
+        <seg>* Therion не зависит от конкретной операционной системы, кодировки символов или редактора входных файлов; входные файлы останутся читабельными для человека.</seg>
       </tuv>
     </tu>
     <tu>
@@ -651,8 +651,8 @@
       <tuv lang="EN-US">
         <seg>* archive survey data on computer in a form as close to the original notes and sketches as possible and retrieve them in a flexible and efficient way; * draw a nice up-to-date plan or elevation map; * create a realistic 3D model of the cave.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T125550Z" creationid="Алексей" creationdate="20170909T095850Z">
-        <seg>* архивировать данные съемки на компьютере в форме, максимально приб\-лиженной к оригинальным записям и зарисовкам, и обрабатывать их удоб\-ным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125433Z" creationid="Алексей" creationdate="20170909T095850Z">
+        <seg>* архивировать данные съемки на компьютере в форме, максимально\break приближенной к оригинальным записям и зарисовкам, и обрабатывать их удобным и эффективным способом; * рисовать красивые современные планы и разрезы; * создавать реалистичные 3D-модели пещер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3297,8 +3297,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>After processing in TJIKPR, the new loops influenced the position of the old surveys; most survey stations now had a slightly different position from before due to the changed error distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T173721Z" creationid="Алексей" creationdate="20170909T145735Z">
-        <seg>После обработки данных в TJIKPR, новые кольца пов\-лия\-ли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125520Z" creationid="Алексей" creationdate="20170909T145735Z">
+        <seg>После обработки данных в TJIKPR, новые кольца повлияли на положение старых станций, большинство станций уже имели иную позицию из-за разброса невязки колец.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5195,8 +5195,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If the coordinates of survey stations are changed in the process of loop closure, then all relevant data is moved correspondingly, so the map is always up-to-date.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T163148Z" creationid="Алексей" creationdate="20170909T155342Z">
-        <seg>Если коор\-ди\-наты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125731Z" creationid="Алексей" creationdate="20170909T155342Z">
+        <seg>Если координаты станций съемки изменяются в процессе закрытия колец, то все связанные данные перемещаются соответственно, поэтому карта всегда актуальна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5549,8 +5549,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In 1999 we begun to think about creating own program for map drawing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143708Z" creationid="Алексей" creationdate="20170909T142536Z">
-        <seg>В 1999 году мы начали думать о создании собственной программы для рисо\-ва\-ния карт.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125536Z" creationid="Алексей" creationdate="20170909T142536Z">
+        <seg>В 1999 году мы начали думать о создании собственной программы для рисования карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5969,8 +5969,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It may look quite complicated, but this approach has a lot of advantages:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152335Z" creationid="Алексей" creationdate="20170909T151938Z">
-        <seg>Это может выглядеть довольно сложно, но этот подход имеет много пре\-и\-му\-ществ:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125657Z" creationid="Алексей" creationdate="20170909T151938Z">
+        <seg>Это может выглядеть довольно сложно, но этот подход имеет много преимуществ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7506,8 +7506,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>So we could either draw the whole Atlas again, or accept that the location of some places was not accurate---in the case of loops with a length of approximately 1 km there were sometimes errors of about 10 m---and try to distort the new passages to fit to old ones.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193716Z" creationid="Алексей" creationdate="20170909T150257Z">
-        <seg>Таким образом мы могли бы пе\-ре\-ри\-со\-вы\-вать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно (в случае колец с длиной около 1 км ошибки достигали 10 м) и пытаться подогнать новые хода к старым съемкам.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125531Z" creationid="Алексей" creationdate="20170909T150257Z">
+        <seg>Таким образом мы могли бы перерисовывать весь Атлас снова, или принять, что местоположение некоторых новых мест на карте было изображено не точно (в случае колец с длиной около 1 км ошибки достигали 10 м) и пытаться подогнать новые хода к старым съемкам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,8 +7546,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Some computer programs existed which displayed survey shots and stations after loop closure and error elimination.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131945Z" creationid="Алексей" creationdate="20170909T131726Z">
-        <seg>Имелось несколько компьютерных программ, которые строили нитку хода после зак\-рытия колец и разброса ошибки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125455Z" creationid="Алексей" creationdate="20170909T131726Z">
+        <seg>Имелось несколько компьютерных программ, которые строили нитку хода после закрытия колец и разброса ошибки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7964,8 +7964,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The data files specify only what is where, not what it looks like.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T162738Z" creationid="Алексей" creationdate="20170909T154657Z">
-        <seg>В файлах данных ука\-зы\-ва\-ется только то, что есть, а не то, на что это похоже.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125705Z" creationid="Алексей" creationdate="20170909T154657Z">
+        <seg>В файлах данных указывается только то, что есть, а не то, на что это похоже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8727,8 +8727,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>There was &lt;u0&gt;, a high level programming language for vector graphics description, Survex for excellent processing of survey shots, and &lt;u2&gt;&lt;u3&gt;for typesetting the results.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T143816Z" creationid="Алексей" creationdate="20170909T142824Z">
-        <seg>Это был &lt;u0&gt; --- язык программирования высо\-ко\-го уровня для описания векторной графики, Survex --- отличная программа для обработки нитки хода, и &lt;u2&gt;&lt;u3&gt; --- для верстки результатов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125611Z" creationid="Алексей" creationdate="20170909T142824Z">
+        <seg>Это был &lt;u0&gt; -- язык программирования высокого уровня для описания векторной графики, Survex -- отличная программа для обработки нитки хода, и &lt;u2&gt;&lt;u3&gt; -- для верстки результатов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8791,8 +8791,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion is a command-line application.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T150903Z" creationid="Алексей" creationdate="20170909T150903Z">
-        <seg>Therion --- приложение для командной строки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125622Z" creationid="Алексей" creationdate="20170909T150903Z">
+        <seg>Therion -- приложение для командной строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9361,8 +9361,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This makes it possible to change map symbols used without changing the input data, or merge more maps created by different persons in different styles into one map with unified map symbols set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T170616Z" creationid="Алексей" creationdate="20170909T155111Z">
-        <seg>Это позволяет изменять символы карты, используемые без изменения\breakвходных данных, или объединить большие карты, созданные разными лю\-дьми в разных стилях, в одну карту с едиными символами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125720Z" creationid="Алексей" creationdate="20170909T155111Z">
+        <seg>Это позволяет изменять символы карты, используемые без изменения входных данных, или объединить большие карты, созданные разными людьми в разных стилях, в одну карту с едиными символами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9465,8 +9465,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Thus there is a special GUI for Therion called XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142544Z" creationid="Алексей" creationdate="20170909T151755Z">
-        <seg>Поэтому существует специальный графический интерфейс для Therion, на\-зы\-вае\-мый XTherion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125648Z" creationid="Алексей" creationdate="20170909T151755Z">
+        <seg>Поэтому существует специальный графический интерфейс для Therion, называемый XTherion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10020,8 +10020,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>XTherion works as an advanced text editor, map editor (where maps are drawn fully interactively) and compiler (which runs Therion on the data).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152252Z" creationid="Алексей" creationdate="20170909T151920Z">
-        <seg>XTherion работает как расширенный текстовый ре\-дак\-тор, редактор карт (где карты рисуются в полностью интерактивном режиме) и компилятор (который запускает Therion).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125652Z" creationid="Алексей" creationdate="20170909T151920Z">
+        <seg>XTherion работает как расширенный текстовый редактор, редактор карт (где карты рисуются в полностью интерактивном режиме) и компилятор (который запускает Therion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10940,8 +10940,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>where {&lt;u0&gt; point} is a keyword for point symbol followed by its coordinates and a symbol type specification.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T152124Z" creationid="Алексей" creationdate="20170909T151555Z">
-        <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его коор\-ди\-на\-ты и специфический тип символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125636Z" creationid="Алексей" creationdate="20170909T151555Z">
+        <seg>где  {&lt;u0&gt; point} --- комманда для символа точки, за которым следуют его координаты и специфический тип символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11741,8 +11741,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125125Z" creationid="Алексей" creationdate="20170909T142237Z">
-        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---{\font\tt=fhar6a at 8px \tt предполагаемая фраза над входом}} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; {\font\tt=fhar6a at 8px \tt Академию Платона}, {&lt;u17&gt; 4} {\font\tt=fhar6a at 8px \tt век до н.э.}}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125309Z" creationid="Алексей" creationdate="20170909T142237Z">
+        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; --- {\font\tt=fhar6a at 8px \tt предполагаемая фраза над входом}} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; {\font\tt=fhar6a at 8px \tt в Академию Платона}, {&lt;u17&gt; 4} {\font\tt=fhar6a at 8px \tt век до н.э.}}</seg>
       </tuv>
     </tu>
     <tu>
