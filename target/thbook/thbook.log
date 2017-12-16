@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 DEC 2017 00:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 DEC 2017 00:15
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -189,18 +189,6 @@ Overfull \hbox (56.60796pt too wide) in paragraph at lines 85--85
 .\rm к
 .\rm ц
 .\rm е
-.etc.
-
-
-Overfull \hbox (10.92749pt too wide) in paragraph at lines 85--86
-\tt умолчанию должны работать отлично для пользователей использующих только|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\tt у
-.\tt м
-.\tt о
-.\kern-0.24
-.\tt л
 .etc.
 
 
@@ -2048,7 +2036,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (78 pages, 769025 bytes).
+Output written on thbook.pdf (78 pages, 769003 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
