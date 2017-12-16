@@ -2727,6 +2727,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>: |grade &lt;id&gt; ... [&lt;quantity list&gt; &lt;value&gt; &lt;units&gt;] ... endgrade|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085744Z" creationid="Алексей" creationdate="20171216T085700Z">
+        <seg>|grade &lt;id&gt;
+	...
+	[&lt;quantity list&gt; &lt;value&gt; &lt;units&gt;]
+	...
+endgrade|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;110 &lt;u2&gt;{Warning: skipping the case studies -- PDF version}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091028Z" creationid="Алексей" creationdate="20171028T091028Z">
@@ -4480,6 +4492,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174438Z" creationid="Алексей" creationdate="20170912T174438Z">
         <seg>Для большинства меню и кнопок в строке состояния есть короткое описание, поэтому нетрудно догадаться о значении каждого из них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For objects created with ``multi line'' commands is syntax following</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090134Z" creationid="Алексей" creationdate="20171216T090112Z">
+        <seg>Для объектов, созданных с помощью команд ``multi line'' используется синтаксис:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8111,6 +8131,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The syntax of this command for object created with ``single line'' command is</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090041Z" creationid="Алексей" creationdate="20171216T090011Z">
+        <seg>Синтаксис этой команды для объекта, созданного с помощью команды ``single line'':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transformation consists of the following steps: &lt;u0&gt; * Linear transformation (shifting, scaling and rotation) which `best' fits stations drawn in the scrap to real ones.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010252Z" creationid="Алексей" creationdate="20170921T003830Z">
@@ -8809,10 +8837,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This command is used to set or change properties of an already existing object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090002Z" creationid="Алексей" creationdate="20171216T090002Z">
+        <seg>Эта команда используется для установки или изменения свойств уже существующего объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command is used to store predefined precisions of centreline data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085516Z" creationid="Алексей" creationdate="20171216T085516Z">
-        <seg>Эта команда используется для сохранения предопределенных точных данных нитки хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085847Z" creationid="Алексей" creationdate="20171216T085516Z">
+        <seg>Эта команда используется для сохранения предопределенных точных\break данных нитки хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10034,6 +10070,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T023430Z" creationid="Алексей" creationdate="20170923T023430Z">
         <seg>`point'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>`revise'.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085916Z" creationid="Алексей" creationdate="20171216T085916Z">
+        <seg>`revise'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12383,6 +12427,27 @@ endmap|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031415Z" creationid="Алексей" creationdate="20170923T023515Z">
         <seg>|point &lt;x&gt; &lt;y&gt; &lt;тип&gt; [ОПЦИИ]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|revise id [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endrevise|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090208Z" creationid="Алексей" creationdate="20171216T090136Z">
+        <seg>|revise id [-option1 value1 -option2 value2 ...]
+	...
+	optionX valueX
+	data
+	...
+endrevise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|revise id [-option1 value1 -option2 value2 ...]|</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090052Z" creationid="Алексей" creationdate="20171216T090052Z">
+        <seg>|revise id [-option1 value1 -option2 value2 ...]|</seg>
       </tuv>
     </tu>
     <tu>
