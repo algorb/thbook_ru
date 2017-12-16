@@ -571,8 +571,8 @@
       <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193010Z" creationid="Алексей" creationdate="20170909T140929Z">
-        <seg>Откройте файл `thconfig' из каталога примеров данных в окне `therion компилятор'. * Нажмите `F9' или `Компилировать' в меню для запуска Therion'а --- вы получите несколько сообщений от Therion'а, &lt;u1&gt; &lt;u2&gt;и &lt;u3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131328Z" creationid="Алексей" creationdate="20170909T140929Z">
+        <seg>Откройте файл `thconfig' из каталога примеров данных в окне `therion компилятор'. * Нажмите `F9' или `Компилировать' в меню для запуска Therion'а -- вы получите несколько сообщений от Therion'а, &lt;u1&gt; &lt;u2&gt;и &lt;u3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8607,8 +8607,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>There are a few rules about how such a file should look:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205031Z" creationid="Алексей" creationdate="20170909T204302Z">
-        <seg>Существует нес\-колько правил о том, как должен выглядеть такой файл:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131352Z" creationid="Алексей" creationdate="20170909T204302Z">
+        <seg>Существует несколько правил о том, как должен выглядеть такой файл:</seg>
       </tuv>
     </tu>
     <tu>
