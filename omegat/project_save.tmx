@@ -11868,8 +11868,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u2&gt;[100mm]{agrippa.jpg&lt;/i0&gt;} &lt;u3&gt;-20mm &lt;u5&gt;&lt;u6&gt;10pt&lt;u7&gt;105mm&lt;u8&gt;0mm&lt;u9&gt;1.05cm Only for you, children of doctrine and learning, have we written this work.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204023Z" creationid="Алексей" creationdate="20170909T204023Z">
-        <seg>{&lt;u2&gt;[100mm]{agrippa.jpg&lt;/i0&gt;} &lt;u3&gt;-20mm &lt;u5&gt;&lt;u6&gt;10pt&lt;u7&gt;105mm&lt;u8&gt;0mm&lt;u9&gt;1.05cm Only for you, children of doctrine and learning, have we written this work.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T115825Z" creationid="Алексей" creationdate="20170909T204023Z">
+        <seg>{&lt;u2&gt;[100mm]{agrippa.jpg&lt;/i0&gt;} &lt;u3&gt;-20mm &lt;u5&gt;&lt;u6&gt;10pt&lt;u7&gt;105mm&lt;u8&gt;0mm&lt;u9&gt;1.05cm Только для вас, детей\break доктрины и обучения, мы написали эту работу.</seg>
       </tuv>
     </tu>
     <tu>
