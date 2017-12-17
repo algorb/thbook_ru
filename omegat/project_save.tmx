@@ -419,8 +419,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.4}multiline comments inside |comment| ... |endcomment| block are allowed in data and configuration files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131631Z" creationid="Алексей" creationdate="20170909T210939Z">
-        <seg>* &lt;u0&gt;{5.4}Многострочные комментарии внутри |comment| ... |endcomment| блока разрешены в файлах данных и конфигурационных файлах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125851Z" creationid="Алексей" creationdate="20170909T210939Z">
+        <seg>* &lt;u0&gt;{5.4}Многострочные комментарии внутри |comment|\ ...\ |endcomment| блока\break разрешены в файлах данных и конфигурационных файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -547,8 +547,8 @@
       <tuv lang="EN-US">
         <seg>* Multi-line commands begin similarly to one line commands, but continue on subsequent lines until explicit command termination.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131501Z" creationid="Алексей" creationdate="20170909T205554Z">
-        <seg>* Многострочные команды начинаются аналогично однострочным, но продолжаются на последующих строках до явного завершения команды.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125535Z" creationid="Алексей" creationdate="20170909T205554Z">
+        <seg>* Многострочные команды начинаются аналогично однострочным, но\break продолжаются на последующих строках до явного завершения команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -715,8 +715,8 @@
       <tuv lang="EN-US">
         <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131618Z" creationid="Алексей" creationdate="20170909T210736Z">
-        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается продолженной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125736Z" creationid="Алексей" creationdate="20170909T210736Z">
+        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается\break продолженной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4320,8 +4320,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Examine this book, ponder the meaning we have dispersed in various places and gathered again; what we have concealed in one place we have disclosed in another, that it may be understood by your wisdom.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; ---Henricus C. Agrippa ab Nettesheym, &lt;u13&gt; 1533} }</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204059Z" creationid="Алексей" creationdate="20170909T204059Z">
-        <seg>Examine this book, ponder the meaning we have dispersed in various places and gathered again; what we have concealed in one place we have disclosed in another, that it may be understood by your wisdom.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; ---Henricus C. Agrippa ab Nettesheym, &lt;u13&gt; 1533} }</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125339Z" creationid="Алексей" creationdate="20170909T204059Z">
+        <seg>Изучите эту книгу, подумайте о том, что мы рассеяли в разных местах и собрались\break снова; что мы скрывали в одном месте, которое мы раскрыли в\break другом, что оно может быть\break понято вашей мудростью.&lt;u10&gt; &lt;u4&gt;-10pt &lt;u1&gt;{&lt;u11&gt;&lt;u12&gt; -- {\font\tt=fhar6a at 8px \tt Хенрикус С. Агриппа Ноттенсгеймский,} &lt;u13&gt; 1533} }</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,8 +7054,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Quotes are used for strings; brackets for numerical values and keywords.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131610Z" creationid="Алексей" creationdate="20170909T210630Z">
-        <seg>Кавычки используются для строк; скобки для числовых значений и ключевых слов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125719Z" creationid="Алексей" creationdate="20170909T210630Z">
+        <seg>Кавычки\break используются для строк; скобки для числовых значений и ключевых слов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7566,8 +7566,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Sometimes options have no or multiple values.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131451Z" creationid="Алексей" creationdate="20170909T205337Z">
-        <seg>Иногда параметров нет или может быть несколько значений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125548Z" creationid="Алексей" creationdate="20170909T205337Z">
+        <seg>Иногда параметров нет или может быть несколько\break значений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8417,8 +8417,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The syntax is</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131513Z" creationid="Алексей" creationdate="20170909T205734Z">
-        <seg>Синтаксис</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125713Z" creationid="Алексей" creationdate="20170909T205734Z">
+        <seg>Синтаксис:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8594,8 +8594,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>There are a few rules about how such a file should look:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131352Z" creationid="Алексей" creationdate="20170909T204302Z">
-        <seg>Существует несколько правил о том, как должен выглядеть такой файл:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125414Z" creationid="Алексей" creationdate="20170909T204302Z">
+        <seg>Существует\break несколько правил о том, как должен выглядеть такой файл:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8994,8 +8994,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These lines may contain either data or options, which are applied to subsequent data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131508Z" creationid="Алексей" creationdate="20170909T205617Z">
-        <seg>Эти строки могут содержать либо данные, либо параметры, которые применяются к последующим данным.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125603Z" creationid="Алексей" creationdate="20170909T205617Z">
+        <seg>Эти строки могут содержать либо данные, либо параметры, которые\break применяются к последующим данным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10958,8 +10958,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>with three obligatory arguments and one optional option/value pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131447Z" creationid="Алексей" creationdate="20170909T205258Z">
-        <seg>с тремя обязательными аргументами и одной дополнительной парой опция/значение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125529Z" creationid="Алексей" creationdate="20170909T205258Z">
+        <seg>с тремя обязательными аргументами и одной дополнительной парой\break опция/значение.</seg>
       </tuv>
     </tu>
     <tu>
