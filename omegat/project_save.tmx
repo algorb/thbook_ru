@@ -1020,8 +1020,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; keyword} = a sequence of |A-Z|, |a-z|, |0-9| and |_-/| characters (not starting with `|-|').</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123617Z" creationid="Алексей" creationdate="20170910T123617Z">
-        <seg>* {&lt;u0&gt; keyword} = последовательность |A-Z|, |a-z|, |0-9| и |_-/| символов (не начинающиеся с `|-|').</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T171140Z" creationid="Алексей" creationdate="20170910T123617Z">
+        <seg>* {&lt;u0&gt; keyword} = последовательность |A-Z|, |a-z|, |0-9| и |_-/| символов (не\break начинающиеся с `|-|').</seg>
       </tuv>
     </tu>
     <tu>
