@@ -2044,8 +2044,8 @@
       <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131957Z" creationid="Алексей" creationdate="20170910T132120Z">
-        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172544Z" creationid="Алексей" creationdate="20170910T132120Z">
+        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах\break (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,8 +5386,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you do not specify any |cs| in your dataset, it is assumed you are working in |local| coordinate system, and no conversions are done.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131438Z" creationid="Алексей" creationdate="20170910T131438Z">
-        <seg>Если вы не указали какой-либо |cs| в вашем наборе данных, то предполагается, что вы работаете в |local| системе координат, и никакие преобразования не выполняются.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172456Z" creationid="Алексей" creationdate="20170910T131438Z">
+        <seg>Если вы не указали какой-либо |cs| в вашем наборе данных, то\break предполагается, что вы работаете в |local| системе координат, и никакие преобразования не выполняются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5842,8 +5842,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132149Z" creationid="Алексей" creationdate="20170910T134329Z">
-        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из поддерживаемых геодезических систем координат, и никакое склонение не определяется пользователем.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172723Z" creationid="Алексей" creationdate="20170910T134329Z">
+        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из\break поддерживаемых геодезических систем координат, и никакое склонение не определяется пользователем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8754,8 +8754,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion contains built-in IGRF&lt;u0&gt;See &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020&lt;u2&gt;{5.4}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132133Z" creationid="Алексей" creationdate="20170910T134252Z">
-        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] --- модель геомагнитного поля Земли, действительная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172719Z" creationid="Алексей" creationdate="20170910T134252Z">
+        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] -- модель геомагнитного поля Земли, действительная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
       </tuv>
     </tu>
     <tu>
