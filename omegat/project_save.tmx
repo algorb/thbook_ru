@@ -8786,7 +8786,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion is a tool for cave surveying.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T131039Z" creationid="Алексей" creationdate="20170909T094641Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070339Z" creationid="Алексей" creationdate="20170909T094641Z">
         <seg>Therion это программа для создания карт пещер.</seg>
       </tuv>
     </tu>
@@ -9106,8 +9106,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This allows the use of non-ASCII characters in input files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132307Z" creationid="Алексей" creationdate="20170910T172105Z">
-        <seg>Это позволяет использовать символы не ASCII во входных файлах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070732Z" creationid="Алексей" creationdate="20170910T172105Z">
+        <seg>Это позволяет использовать\breakсимволы не ASCII во входных файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10825,8 +10825,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>sets the encoding of input file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T162411Z" creationid="Алексей" creationdate="20170910T162411Z">
-        <seg>устанавливает кодировку входного файла.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070713Z" creationid="Алексей" creationdate="20170910T162411Z">
+        <seg>Устанавливает кодировку входного файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11727,8 +11727,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070208Z" creationid="Алексей" creationdate="20170909T142237Z">
-        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; Пусть НЕ ВХОДИТ НИКТО, НЕ ЗНАЮЩИЙ ГЕОМЕТРИИ LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; --- {\font\tt=fhar6a at 8px \tt предполагаемая фраза над входом}} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; {\font\tt=fhar6a at 8px \tt в Академию Платона}, {&lt;u17&gt; 4} {\font\tt=fhar6a at 8px \tt век до н.э.}}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070413Z" creationid="Алексей" creationdate="20170909T142237Z">
+        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; ПУСТЬ НЕ ВХОДИТ НИКТО, НЕ ЗНАЮЩИЙ ГЕОМЕТРИИ&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; --- {\font\tt=fhar6a at 8px \tt предполагаемая фраза над входом}} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; {\font\tt=fhar6a at 8px \tt в Академию Платона}, {&lt;u17&gt; 4} {\font\tt=fhar6a at 8px \tt век до н.э.}}</seg>
       </tuv>
     </tu>
     <tu>
