@@ -1708,8 +1708,8 @@
       <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = fix station coordinates (with specified errors---only the units transformation, not calibration, is applied to them).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135953Z" creationid="Алексей" creationdate="20170920T054204Z">
-        <seg>* |cs &lt;система координат&gt;| = система координат для станций с фиксированными координатами. * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = фиксировать координаты станции (с указанными ошибками -- к ним применяется только преобразование единиц, а не калибровка).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140507Z" creationid="Алексей" creationdate="20170920T054204Z">
+        <seg>* |cs &lt;система координат&gt;| = система координат для станций с\break фиксированными координатами. * |fix &lt;станция&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = фиксировать координаты станции (с указанными ошибками -- к ним применяется только преобразование единиц, а не калибровка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1812,8 +1812,8 @@
       <tuv lang="EN-US">
         <seg>* |equate &lt;station list&gt;| = set points that are equivalent * |data &lt;style&gt; &lt;readings order&gt;| = set data style (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) and readings order.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T054700Z" creationid="Алексей" creationdate="20170920T054530Z">
-        <seg>* |equate &lt;список станций&gt;| = эквивалентность заданных точек. * |data &lt;стиль&gt; &lt;порядок считывания&gt;| = установить стиль данных (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) и порядок считывания.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140551Z" creationid="Алексей" creationdate="20170920T054530Z">
+        <seg>* |equate &lt;список станций&gt;| = эквивалентность заданных точек. * |data &lt;стиль&gt; &lt;порядок считывания&gt;| = установить стиль данных (normal, topofil, diving, cartesian, cylpolar, dimensions, nosurvey) и порядок\break считывания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1980,8 +1980,8 @@
       <tuv lang="EN-US">
         <seg>* |group| * |endgroup| = |group/endgroup| pair enables the user to make temporary changes in almost any setting (calibrate, units, sd, data, flags...) * |walls &lt;auto/on/off&gt;| = turn on/off passage shape generation from LRUD data for subsequent shots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140121Z" creationid="Алексей" creationdate="20170920T063533Z">
-        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...). * |walls &lt;auto/on/off&gt;| =включение/выключение генерации формы хода из данных LRUD для последующих замеров.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140751Z" creationid="Алексей" creationdate="20170920T063533Z">
+        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать\break временные изменения практически в любых настройках (калибровка,\break единицы, sd, данные, флаги...). * |walls &lt;auto/on/off&gt;| =включение/выключение генерации формы хода из данных LRUD для последующих замеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2356,8 +2356,8 @@
       <tuv lang="EN-US">
         <seg>* |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current centreline.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071207Z" creationid="Алексей" creationdate="20170920T071101Z">
-        <seg>* |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет данный префикс/суффикс для всех станций съемки в текущей нитки хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T141023Z" creationid="Алексей" creationdate="20170920T071101Z">
+        <seg>* |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет данный префикс/\breakсуффикс для всех станций съемки в текущей нитки хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4416,8 +4416,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135943Z" creationid="Алексей" creationdate="20170920T052831Z">
-        <seg>Исследовательские длины являются частью статистики съемки/пещеры, отображаемой отдельно.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140254Z" creationid="Алексей" creationdate="20170920T052831Z">
+        <seg>Исследовательские длины являются частью\break статистики съемки/пещеры, отображаемой отдельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4664,8 +4664,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For interleaved data both newline and direction keywords are supported.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140107Z" creationid="Алексей" creationdate="20170920T062540Z">
-        <seg>Для разноуровневых данных поддерживаются ключевые слова новой строки и направления.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140636Z" creationid="Алексей" creationdate="20170920T062540Z">
+        <seg>Для разноуровневых данных поддерживаются ключевые слова новой\break строки и направления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5128,8 +5128,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If passeges are horizontal (|inclination &lt; vthreshold|), LR is perpendicular to the shot and UD is vertical.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140142Z" creationid="Алексей" creationdate="20170920T064254Z">
-        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикулярным к замеру, а UD вертикальными.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140833Z" creationid="Алексей" creationdate="20170920T064254Z">
+        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается\break перпендикулярным к замеру, а UD вертикальными.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5642,8 +5642,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In the case of vertical shots, UD is interpreted as north-south dimension from the station to allow tube-like modelling of verticals.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140146Z" creationid="Алексей" creationdate="20170920T064546Z">
-        <seg>В случае вертикальных замеров UD интерпретируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140853Z" creationid="Алексей" creationdate="20170920T064546Z">
+        <seg>В случае вертикальных замеров UD интерпретируется как измерение с севера на юг от станции, чтобы\break построить вертикальные участки модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6221,8 +6221,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Just add |explored &lt;explored-length&gt;| to the station flags.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053016Z" creationid="Алексей" creationdate="20170920T052642Z">
-        <seg>Просто добавьте флаг |explored &lt;исследовательская-длинна&gt;| для станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140412Z" creationid="Алексей" creationdate="20170920T052642Z">
+        <seg>Просто добавьте флаг |explored &lt;исследовательская длинна&gt;| для станции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10077,8 +10077,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You can also specify custom attributes to the station using |attr| flag followed by attribute name and value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135931Z" creationid="Алексей" creationdate="20170920T052135Z">
-        <seg>Вы также можете указать пользовательские атрибуты для станции, используя флаг |attr|, за которым следуют имя и значение атрибута.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140341Z" creationid="Алексей" creationdate="20170920T052135Z">
+        <seg>Вы также можете указать пользовательские атрибуты для станции,\break используя флаг |attr|, за которым следуют имя и значение атрибута.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -12601,8 +12601,8 @@ source test</seg>
       <tuv lang="EN-US">
         <seg>|hide| = do not show specified station (shot) in extended elevation</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071709Z" creationid="Алексей" creationdate="20170920T070842Z">
-        <seg>|hide| = не показывает указанную станцию (замер) в развертке;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140957Z" creationid="Алексей" creationdate="20170920T070842Z">
+        <seg>|hide| = не показывает указанную станцию (замер) в развертке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12814,8 +12814,8 @@ endmap|</seg>
       <tuv lang="EN-US">
         <seg>|normal/reverse| = extend given and following stations to the same/reverse direction as previous station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140158Z" creationid="Алексей" creationdate="20170920T070006Z">
-        <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/обратном направлении по отношению к предыдущей станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140924Z" creationid="Алексей" creationdate="20170920T070006Z">
+        <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/\breakобратном направлении по отношению к предыдущей станции.</seg>
       </tuv>
     </tu>
     <tu>
