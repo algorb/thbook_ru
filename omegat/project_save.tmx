@@ -11727,8 +11727,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; ---alleged inscription over the entrance} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; of Plato's Academy, {&lt;u17&gt; 4}th century BC} }</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125309Z" creationid="Алексей" creationdate="20170909T142237Z">
-        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; --- {\font\tt=fhar6a at 8px \tt предполагаемая фраза над входом}} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; {\font\tt=fhar6a at 8px \tt в Академию Платона}, {&lt;u17&gt; 4} {\font\tt=fhar6a at 8px \tt век до н.э.}}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070208Z" creationid="Алексей" creationdate="20170909T142237Z">
+        <seg>{&lt;u0&gt;=12pt &lt;u1&gt;1=&lt;i0&gt;&lt;u4&gt; Пусть НЕ ВХОДИТ НИКТО, НЕ ЗНАЮЩИЙ ГЕОМЕТРИИ LET NO ONE IGNORANT OF GEOMETRY ENTER HERE&lt;/i0&gt; &lt;u5&gt;1 &lt;u6&gt;4pt &lt;u7&gt;{&lt;u8&gt;[&lt;u9&gt;1]{ageom.pdf}&lt;u12&gt;} &lt;u2&gt; to &lt;u10&gt;1{&lt;u13&gt;&lt;u15&gt; --- {\font\tt=fhar6a at 8px \tt предполагаемая фраза над входом}} &lt;u3&gt; to &lt;u11&gt;1{&lt;u14&gt;&lt;u16&gt; {\font\tt=fhar6a at 8px \tt в Академию Платона}, {&lt;u17&gt; 4} {\font\tt=fhar6a at 8px \tt век до н.э.}}</seg>
       </tuv>
     </tu>
     <tu>
