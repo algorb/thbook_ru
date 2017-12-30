@@ -1572,8 +1572,8 @@
       <tuv lang="EN-US">
         <seg>* |break| = can be used with interleaved data to separate two traverses * |mark [&lt;station list&gt;] &lt;type&gt;| = set the type of named stations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T074029Z" creationid="Алексей" creationdate="20170920T045610Z">
-        <seg>* |break| = может использоваться между данными, чтобы отделить два пересечения. * |mark [&lt;список станций&gt;] &lt;тип&gt;| = установить тип именованных станций.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135604Z" creationid="Алексей" creationdate="20170920T045610Z">
+        <seg>* |break| = может использоваться между данными, чтобы отделить два\break пересечения. * |mark [&lt;список станций&gt;] &lt;тип&gt;| = установить тип именованных станций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1708,8 +1708,8 @@
       <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = coordinate system for stations with fixed coordinates * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = fix station coordinates (with specified errors---only the units transformation, not calibration, is applied to them).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T055101Z" creationid="Алексей" creationdate="20170920T054204Z">
-        <seg>* |cs &lt;система координат&gt;| = система координат для станций с фиксированными координатами. * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = фиксировать координаты станции (с указанными ошибками -- к ним применяется только преобразо\-вание единиц, а не калибровка).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135953Z" creationid="Алексей" creationdate="20170920T054204Z">
+        <seg>* |cs &lt;система координат&gt;| = система координат для станций с фиксированными координатами. * |fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]| = фиксировать координаты станции (с указанными ошибками -- к ним применяется только преобразование единиц, а не калибровка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1876,8 +1876,8 @@
       <tuv lang="EN-US">
         <seg>* |flags &lt;shot flags&gt;| = set flags for following shots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050249Z" creationid="Алексей" creationdate="20170920T050224Z">
-        <seg>* |flags &lt;флаги замеров&gt;| = установить флаги для следующих замеров.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135702Z" creationid="Алексей" creationdate="20170920T050224Z">
+        <seg>* |flags &lt;флаги замеров&gt;| = установить флаги для следующих замеров.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -1980,8 +1980,8 @@
       <tuv lang="EN-US">
         <seg>* |group| * |endgroup| = |group/endgroup| pair enables the user to make temporary changes in almost any setting (calibrate, units, sd, data, flags...) * |walls &lt;auto/on/off&gt;| = turn on/off passage shape generation from LRUD data for subsequent shots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065433Z" creationid="Алексей" creationdate="20170920T063533Z">
-        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...). * |walls &lt;auto/on/off&gt;| =включение/выключение генерации формы хода из дан\-ных LRUD для последующих замеров.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140121Z" creationid="Алексей" creationdate="20170920T063533Z">
+        <seg>* |group| * |endgroup| = |group/endgroup| пара позволяет пользователю делать временные изменения практически в любых настройках (калибровка, единицы, sd, данные, флаги...). * |walls &lt;auto/on/off&gt;| =включение/выключение генерации формы хода из данных LRUD для последующих замеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,8 +2524,8 @@
       <tuv lang="EN-US">
         <seg>* |vthreshold &lt;number&gt; &lt;units&gt;| = threshold for interpreting LRUD readings as left-right-front-back reading perpendicular to the shot.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065548Z" creationid="Алексей" creationdate="20170920T064054Z">
-        <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации пока\-заний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140134Z" creationid="Алексей" creationdate="20170920T064054Z">
+        <seg>* |vthreshold &lt;число&gt; &lt;единицы&gt;| = пороговое значение для интерпретации показаний LRUD как показания лево-право-верх-низ, перпендикулярное замеру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3416,8 +3416,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Also |not| is allowed before a flag, to remove previously added flag.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053618Z" creationid="Алексей" creationdate="20170920T052023Z">
-        <seg>Также приставка |not| может быть использована перед флагом, чтобы уда\-лить ранее добавленный флаг.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135926Z" creationid="Алексей" creationdate="20170920T052023Z">
+        <seg>Также приставка |not| может быть использована перед флагом, чтобы удалить ранее добавленный флаг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4416,8 +4416,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053755Z" creationid="Алексей" creationdate="20170920T052831Z">
-        <seg>Исследовательские длины являются частью статистики съем\-ки/пещеры, отображаемой отдельно.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135943Z" creationid="Алексей" creationdate="20170920T052831Z">
+        <seg>Исследовательские длины являются частью статистики съемки/пещеры, отображаемой отдельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4664,8 +4664,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For interleaved data both newline and direction keywords are supported.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T064743Z" creationid="Алексей" creationdate="20170920T062540Z">
-        <seg>Для разноуровневых данных поддерживаются ключевые слова новой стро\-ки и направления.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140107Z" creationid="Алексей" creationdate="20170920T062540Z">
+        <seg>Для разноуровневых данных поддерживаются ключевые слова новой строки и направления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5128,8 +5128,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If passeges are horizontal (|inclination &lt; vthreshold|), LR is perpendicular to the shot and UD is vertical.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065631Z" creationid="Алексей" creationdate="20170920T064254Z">
-        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикуляр\-ным к замеру, а UD вертикальными.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140142Z" creationid="Алексей" creationdate="20170920T064254Z">
+        <seg>Если ходы горизонтальны (|наклон &lt; vthreshold|), LR считается перпендикулярным к замеру, а UD вертикальными.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5160,8 +5160,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If set |auto|, passage is generated only if there is no scrap referencing given centreline.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065506Z" creationid="Алексей" creationdate="20170920T063932Z">
-        <seg>Если установлен |auto|, то ход генери\-руется только в том случае, если отсутствует скрап содержащий данную нитку хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140124Z" creationid="Алексей" creationdate="20170920T063932Z">
+        <seg>Если установлен |auto|, то ход генерируется только в том случае, если отсутствует скрап содержащий данную нитку хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,8 +5338,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If there is no station list, all subsequent stations are marked.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045904Z" creationid="Алексей" creationdate="20170920T045904Z">
-        <seg>Если список станций отсутствует, все последующие станции будут отмечены соответствующим типом.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135641Z" creationid="Алексей" creationdate="20170920T045904Z">
+        <seg>Если список станций отсутствует, все последующие станции будут отмечены\break соответствующим типом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5498,8 +5498,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If |""| is specified as a comment, it is ignored.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053154Z" creationid="Алексей" creationdate="20170920T051446Z">
-        <seg>Если в качестве комментария указан |""|, то он игнорируется.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135742Z" creationid="Алексей" creationdate="20170920T051446Z">
+        <seg>Если в качестве комментария указан |""|, то он\break игнорируется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5642,8 +5642,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In the case of vertical shots, UD is interpreted as north-south dimension from the station to allow tube-like modelling of verticals.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T065752Z" creationid="Алексей" creationdate="20170920T064546Z">
-        <seg>В случае вертикальных замеров UD интерпре\-тируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140146Z" creationid="Алексей" creationdate="20170920T064546Z">
+        <seg>В случае вертикальных замеров UD интерпретируется как измерение с севера на юг от станции, чтобы построить вертикальные участки модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7086,8 +7086,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Reading is one of the following keywords: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;dimension may be specified as a pair |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, meaning the size at the beginning and end of the shot], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T055348Z" creationid="Алексей" creationdate="20170920T054632Z">
-        <seg>Считывание может принимать одно из следующих ключевых слов: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradi\-ent, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;Размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера.], down/floor, left, right, ignore, ignoreall.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140056Z" creationid="Алексей" creationdate="20170920T054632Z">
+        <seg>Считывание может принимать одно из следующих ключевых слов: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;Размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера.], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7678,9 +7678,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Supported flags: |entrance|, |continuation|, |air-draught[:winter/summer]|, |sink|, |spring|, |doline|, |dig|, &lt;u0&gt;{5.3}|arch|, |overhang|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053523Z" creationid="Алексей" creationdate="20170920T051457Z">
-        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught
-[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135905Z" creationid="Алексей" creationdate="20170920T051457Z">
+        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring|\break (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10078,8 +10077,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You can also specify custom attributes to the station using |attr| flag followed by attribute name and value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T053648Z" creationid="Алексей" creationdate="20170920T052135Z">
-        <seg>Вы также можете указать пользовательские атрибуты для станции, исполь\-зуя флаг |attr|, за которым следуют имя и значение атрибута.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135931Z" creationid="Алексей" creationdate="20170920T052135Z">
+        <seg>Вы также можете указать пользовательские атрибуты для станции, используя флаг |attr|, за которым следуют имя и значение атрибута.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12815,8 +12814,8 @@ endmap|</seg>
       <tuv lang="EN-US">
         <seg>|normal/reverse| = extend given and following stations to the same/reverse direction as previous station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071513Z" creationid="Алексей" creationdate="20170920T070006Z">
-        <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/обрат\-ном направлении по отношению к предыдущей станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140158Z" creationid="Алексей" creationdate="20170920T070006Z">
+        <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/обратном направлении по отношению к предыдущей станции.</seg>
       </tuv>
     </tu>
     <tu>
