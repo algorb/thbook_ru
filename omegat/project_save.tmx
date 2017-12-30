@@ -1580,8 +1580,8 @@
       <tuv lang="EN-US">
         <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]| = set the instrument calibration.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114346Z" creationid="Алексей" creationdate="20170920T044827Z">
-        <seg>* |calibrate &lt;параметр&gt; &lt;ошибка&gt; [&lt;масштаб&gt;]| = установка калибровки прибора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135457Z" creationid="Алексей" creationdate="20170920T044827Z">
+        <seg>* |calibrate &lt;параметр&gt; &lt;ошибка&gt; [&lt;масштаб&gt;]| = установка калибровки\break прибора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8208,8 +8208,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The measured value is calculated using the following formula: $measured&lt;u4&gt;value = (read&lt;u5&gt;value - zero&lt;u6&gt;error) &lt;u7&gt; scale$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114433Z" creationid="Алексей" creationdate="20170920T045035Z">
-        <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - ошибка) &lt;u7&gt; масштаб$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135523Z" creationid="Алексей" creationdate="20170920T045035Z">
+        <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - ошибка) &lt;u7&gt; масштаб$.\break</seg>
       </tuv>
     </tu>
     <tu>
