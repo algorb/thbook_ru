@@ -1580,8 +1580,8 @@
       <tuv lang="EN-US">
         <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]| = set the instrument calibration.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T045239Z" creationid="Алексей" creationdate="20170920T044827Z">
-        <seg>* |calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;масштаб&gt;]| = установка калибровки прибора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114346Z" creationid="Алексей" creationdate="20170920T044827Z">
+        <seg>* |calibrate &lt;параметр&gt; &lt;ошибка&gt; [&lt;масштаб&gt;]| = установка калибровки прибора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2268,8 +2268,8 @@
       <tuv lang="EN-US">
         <seg>* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073219Z" creationid="Алексей" creationdate="20170912T170635Z">
-        <seg>* |sd &lt;числовое значение&gt; &lt;значение&gt; &lt;единицы&gt;| = задает стандартное\break отклонение для данных измерений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114156Z" creationid="Алексей" creationdate="20170912T170635Z">
+        <seg>* |sd &lt;параметр&gt; &lt;значение&gt; &lt;единицы&gt;| = задает стандартное\break отклонение для данных измерений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,8 +2500,8 @@
       <tuv lang="EN-US">
         <seg>* |units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt;| = set the units for given measurements (same quantities as for sd).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T074349Z" creationid="Алексей" creationdate="20170920T044709Z">
-        <seg>* |units &lt;числовое значение&gt; [&lt;фактор&gt;] &lt;единицы&gt;| = установка единиц для данных измерений (так же как и для sd).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114324Z" creationid="Алексей" creationdate="20170920T044709Z">
+        <seg>* |units &lt;параметр&gt; [&lt;фактор&gt;] &lt;единицы&gt;| = установка единиц для данных измерений (так же как и для sd).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,8 +7840,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The Quantity list can contain the following keywords: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073257Z" creationid="Алексей" creationdate="20170912T170857Z">
-        <seg>|&lt;Числовое значение&gt;| может\break содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114248Z" creationid="Алексей" creationdate="20170912T170857Z">
+        <seg>|&lt;Параметр&gt;| может содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8208,8 +8208,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The measured value is calculated using the following formula: $measured&lt;u4&gt;value = (read&lt;u5&gt;value - zero&lt;u6&gt;error) &lt;u7&gt; scale$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T074022Z" creationid="Алексей" creationdate="20170920T045035Z">
-        <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - zero&lt;u6&gt;error) &lt;u7&gt; масштаб$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114433Z" creationid="Алексей" creationdate="20170920T045035Z">
+        <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - ошибка) &lt;u7&gt; масштаб$.</seg>
       </tuv>
     </tu>
     <tu>
