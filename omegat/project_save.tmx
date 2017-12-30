@@ -1212,8 +1212,8 @@
       <tuv lang="EN-US">
         <seg>* |&lt;encoding-name&gt;| = to see a list of all the supported encoding names, run Therion with |--print-encodings| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132325Z" creationid="Алексей" creationdate="20170910T172204Z">
-        <seg>* |&lt;encoding-name&gt;| = чтобы увидеть список всех поддерживаемых имен кодировок, запустите Therion с опцией |--print-encodings|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070820Z" creationid="Алексей" creationdate="20170910T172204Z">
+        <seg>* |&lt;имя кодировки&gt;| = чтобы увидеть список всех поддерживаемых имен кодировок, запустите Therion с опцией |--print-encodings|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1804,8 +1804,8 @@
       <tuv lang="EN-US">
         <seg>* |entrance &lt;station-name&gt;| = specifies the main entrance to the cave represented by this survey.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160051Z" creationid="Алексей" creationdate="20170911T155944Z">
-        <seg>* |entrance &lt;имя-станции&gt;| = указывает главный вход в пещеру, представленный в этом survey.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071342Z" creationid="Алексей" creationdate="20170911T155944Z">
+        <seg>* |entrance &lt;имя-станции&gt;| = указывает главный вход в пещеру,\break представленный в этом survey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1948,8 +1948,8 @@
       <tuv lang="EN-US">
         <seg>* |grid-angle &lt;value&gt; &lt;units&gt;| = specifies the magnetic grid angle (declination against grid north).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040638Z" creationid="Алексей" creationdate="20170920T040638Z">
-        <seg>* |grid-angle &lt;значение&gt; &lt;единицы&gt;| = задает угол магнитной сетки (склонение от направления на север).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073019Z" creationid="Алексей" creationdate="20170920T040638Z">
+        <seg>* |grid-angle &lt;значение&gt; &lt;единицы&gt;| = задает угол магнитной сетки\break (склонение от направления на север).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2004,8 +2004,8 @@
       <tuv lang="EN-US">
         <seg>* |id &lt;ext_keyword&gt;| = id of the object * |author &lt;date&gt; &lt;person&gt;| = author of the data and its creation date * |copyright &lt;date&gt; &lt;string&gt;| = copyright date and name * |title &lt;string&gt;| = description of the object</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T163945Z" creationid="Алексей" creationdate="20170912T163557Z">
-        <seg>* |id &lt;ext_keyword&gt;| = id объекта * |author &lt;дата&gt; &lt;персона&gt;| = автор данных и дата их создания * |copyright &lt;дата&gt; &lt;строка&gt;| = дата и имя авторского права * |title &lt;строка&gt;| = описание объекта</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071639Z" creationid="Алексей" creationdate="20170912T163557Z">
+        <seg>* |id &lt;идентификатор&gt;| = идентификатор объекта. * |author &lt;дата&gt; &lt;персона&gt;| = автор данных и дата их создания. * |copyright &lt;дата&gt; &lt;строка&gt;| = дата и имя авторского права. * |title &lt;строка&gt;| = описание объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2020,8 +2020,8 @@
       <tuv lang="EN-US">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = description of the instrument that was used to survey the given quantities (same keywords as team person's role) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T035946Z" creationid="Алексей" creationdate="20170912T165244Z">
-        <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = описание инструмента, который исполь\-зо\-вался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072757Z" creationid="Алексей" creationdate="20170912T165244Z">
+        <seg>* |instrument &lt;список&gt; &lt;описание&gt;| = описание инструмента, который\break использовался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;что&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе\break интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2132,8 +2132,8 @@
       <tuv lang="EN-US">
         <seg>* |namespace &lt;on/off&gt;| = specify whether survey creates namespace (|on| by default) * |declination &lt;specification&gt;| = set the default declination for all data objects in this survey (which can be overridden by declination definitions in subsurveys).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132451Z" creationid="Алексей" creationdate="20170911T154601Z">
-        <seg>* |namespace &lt;on/off&gt;| = указывает, создавать ли survey пространство имен (|on| по умолчанию). * |declination &lt;specification&gt;| = устанавливает склонение по умолчанию для всех объектов данных в этом survey (которые могут быть переопределены новым склонением в suburveys).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071212Z" creationid="Алексей" creationdate="20170911T154601Z">
+        <seg>* |namespace &lt;on/off&gt;| = указывает, создавать ли survey пространство имен (|on| по умолчанию). * |declination &lt;спецификация&gt;| = устанавливает склонение по умолчанию для всех объектов данных в этом survey (которые могут быть переопределены новым склонением в suburveys).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2268,8 +2268,8 @@
       <tuv lang="EN-US">
         <seg>* |sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt;| = sets the standard deviation for the given measurements.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170742Z" creationid="Алексей" creationdate="20170912T170635Z">
-        <seg>* |sd &lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;| = задает стандартное отклонение для данных измерений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073219Z" creationid="Алексей" creationdate="20170912T170635Z">
+        <seg>* |sd &lt;числовое значение&gt; &lt;значение&gt; &lt;единицы&gt;| = задает стандартное\break отклонение для данных измерений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4648,8 +4648,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For greatest portability use relative paths and Unix slashes `|/|', not Windows backslashes `|&lt;u0&gt;', as directory separators.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132352Z" creationid="Алексей" creationdate="20170911T151041Z">
-        <seg>Для максимальной портабельности используйте относительные пути, а для разделения каталогов используйте характерный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;'. </seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070940Z" creationid="Алексей" creationdate="20170911T151041Z">
+        <seg>Для максимальной портабельности\break используйте относительные пути, а для разделения каталогов используйте характерный для Unix `|/|', а не обратный слеш используемый в Windows `|&lt;u0&gt;'. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4992,7 +4992,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If multiple dates are specified, a time interval is created.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T164105Z" creationid="Алексей" creationdate="20170912T164105Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072021Z" creationid="Алексей" creationdate="20170912T164105Z">
         <seg>Если указано несколько дат, создается временной интервал.</seg>
       </tuv>
     </tu>
@@ -5008,8 +5008,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If no declination is specified and some geodetic coordinate system is defined, the declination is automatically computed using built-in geomagnetic model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132516Z" creationid="Алексей" creationdate="20170911T155806Z">
-        <seg>Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с использованием встроенной геомагнитной модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071250Z" creationid="Алексей" creationdate="20170911T155806Z">
+        <seg>Если не определено склонение и определена какая-либо геодезическая система координат, склонение автоматически вычисляется с\break использованием встроенной геомагнитной модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6581,8 +6581,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>N.B.: The declination is positive when the magnetic north is east of true north.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132521Z" creationid="Алексей" creationdate="20170911T155831Z">
-        <seg>Обратите внимание: склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071315Z" creationid="Алексей" creationdate="20170911T155831Z">
+        <seg>Обратите внимание: склонение положительно, когда магнитный север\break находится к востоку от истинного севера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,8 +7294,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>See declination option of survey command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170510Z" creationid="Алексей" creationdate="20170912T170510Z">
-        <seg>См. опцию declination команды survey.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072956Z" creationid="Алексей" creationdate="20170912T170510Z">
+        <seg>Смотрите опцию declination команды survey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,8 +7840,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The Quantity list can contain the following keywords: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T170857Z" creationid="Алексей" creationdate="20170912T170857Z">
-        <seg>Quantity list может содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073257Z" creationid="Алексей" creationdate="20170912T170857Z">
+        <seg>|&lt;Числовое значение&gt;| может\break содержать следующие значения: length, tape, bearing, compass, gradient, clino, counter, depth, x, y, z, position, easting, dx, northing, dy, altitude, dz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,6 +8010,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174554Z" creationid="Алексей" creationdate="20170922T173025Z">
         <seg>Поддерживаются следую\-щие типы проекций:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072353Z" creationid="Алексей" creationdate="20171230T072226Z">
+        <seg>Поддерживаются следующие\break зарезервированные слова: station, length, tape, [back]compass,\break [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8425,8 +8433,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The syntax is borrowed from Survex with minor modifications; the Survex manual may be useful as an additional reference for the user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132601Z" creationid="Алексей" creationdate="20170912T004849Z">
-        <seg>Синтаксис заимствован из Survex с небольшими изменениями; руководство Survex может быть полезно в качестве дополнительной справки для использования.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071417Z" creationid="Алексей" creationdate="20170912T004849Z">
+        <seg>Синтаксис заимствован из Survex с небольшими изменениями; руководство Survex может быть полезно в\break качестве дополнительной справки для использования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,8 +8562,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The |&lt;specification&gt;| has three forms:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155200Z" creationid="Алексей" creationdate="20170911T155155Z">
-        <seg>The |&lt;specification&gt;| имеет три формы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071205Z" creationid="Алексей" creationdate="20170911T155155Z">
+        <seg>The |&lt;спецификация&gt;| имеет три формы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10542,8 +10550,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>`|infer equates on|' will case program to interpret shots with 0 length as equate commands (which means that no tape corrections are applied) * |declination &lt;value&gt; &lt;units&gt;| = sets the declination for subsequent shots $$true&lt;u2&gt;bearing = measured&lt;u3&gt;bearing + declination.$$ The declination is positive when the magnetic north is east of true north.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T040051Z" creationid="Алексей" creationdate="20170920T035706Z">
-        <seg>`|infer equates on|' программа будет интерпретировать замеры с длиной 0 в качестве команды equate (что означает, что не применяются никакие корректировки длины). * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$истинный&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение$$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072924Z" creationid="Алексей" creationdate="20170920T035706Z">
+        <seg>`|infer|\break|equates on|' программа будет интерпретировать замеры с длиной 0 в\break качестве команды equate (что означает, что не применяются никакие\break корректировки длины). * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$истинный&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение$$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10676,8 +10684,8 @@ export map -layout l1|</seg>
       <tuv lang="EN-US">
         <seg>inserts the contents of a file in place of the command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T150541Z" creationid="Алексей" creationdate="20170911T150541Z">
-        <seg>вставляет содержимое файла на место команды.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070900Z" creationid="Алексей" creationdate="20170911T150541Z">
+        <seg>Вставляет содержимое файла на место команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12367,16 +12375,16 @@ endpattern;</seg>
       <tuv lang="EN-US">
         <seg>|centreline [OPTIONS] date &lt;date&gt; team &lt;person&gt; [&lt;roles&gt;] explo-date &lt;date&gt; explo-team &lt;person&gt; instrument &lt;quantity list&gt; &lt;description&gt; calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;] units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt; sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt; grade &lt;grade list&gt; declination &lt;value&gt; &lt;units&gt; grid-angle &lt;value&gt; &lt;units&gt; infer &lt;what&gt; &lt;on/off&gt; mark &lt;type&gt; flags &lt;shot flags&gt; station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;] cs &lt;coordinate system&gt; fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]] equate &lt;station list&gt; data &lt;style&gt; &lt;readings order&gt; break group endgroup walls &lt;auto/on/off&gt; vthreshold &lt;number&gt; &lt;units&gt; extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]] station-names &lt;prefix&gt; &lt;suffix&gt; ... [SURVEY DATA] ... endcentreline|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T165616Z" creationid="Алексей" creationdate="20170912T005309Z">
-        <seg>|centreline [OPTIONS]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073839Z" creationid="Алексей" creationdate="20170912T005309Z">
+        <seg>|centreline [ОПЦИИ]
 	date &lt;дата&gt;
 	team &lt;персона&gt; [&lt;роли&gt;]
 	explo-date &lt;дата&gt;
 	explo-team &lt;персона&gt;
-	instrument &lt;quantity list&gt; &lt;описание&gt;
+	instrument &lt;прибор&gt; &lt;описание&gt;
 	calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;]
 	units &lt;quantity list&gt; [&lt;factor&gt;] &lt;единицы&gt;
-	sd &lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;
+	sd &lt;числовое значение&gt; &lt;значение&gt; &lt;единицы&gt;
 	grade &lt;grade list&gt;
 	declination &lt;значение&gt; &lt;единицы&gt;
 	grid-angle &lt;значение&gt; &lt;единицы&gt;
@@ -12527,8 +12535,8 @@ initsymbol("p_entrance_UIS");|</seg>
       <tuv lang="EN-US">
         <seg>|encoding &lt;encoding-name&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T172132Z" creationid="Алексей" creationdate="20170910T172132Z">
-        <seg>|encoding &lt;encoding-name&gt;|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070811Z" creationid="Алексей" creationdate="20170910T172132Z">
+        <seg>|encoding &lt;имя кодировки&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12634,8 +12642,8 @@ source test</seg>
       <tuv lang="EN-US">
         <seg>|input &lt;file-name&gt;|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151046Z" creationid="Алексей" creationdate="20170911T151046Z">
-        <seg>|input &lt;file-name&gt;|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071007Z" creationid="Алексей" creationdate="20170911T151046Z">
+        <seg>|input &lt;имя файла&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13011,8 +13019,8 @@ endsurface|</seg>
       <tuv lang="EN-US">
         <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T160817Z" creationid="Алексей" creationdate="20170910T050707Z">
-        <seg>|survey &lt;id&gt; [OPTIONS]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071110Z" creationid="Алексей" creationdate="20170910T050707Z">
+        <seg>|survey &lt;id&gt; [ОПЦИИ]
 	... другие объекты ...
 endsurvey [&lt;id&gt;]|</seg>
       </tuv>
@@ -13170,6 +13178,28 @@ endsurvey [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">thbook/ch02.tex</prop>
+      <prop type="prev">* |date &lt;date&gt;| = survey date.</prop>
+      <prop type="next">* |explo-date &lt;date&gt;| = discovery date.</prop>
+      <tuv lang="EN-US">
+        <seg>If multiple dates are specified, a time interval is created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072110Z" creationid="Алексей" creationdate="20171230T072110Z">
+        <seg>Если указано несколько дат, создается\break временной интервал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">thbook/ch02.tex</prop>
+      <prop type="prev">* |explo-date &lt;date&gt;| = discovery date.</prop>
+      <prop type="next">* |team &lt;person&gt; [&lt;roles&gt;]| = a survey team member.</prop>
+      <tuv lang="EN-US">
+        <seg>If multiple dates are specified, a time interval is created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072127Z" creationid="Алексей" creationdate="20171230T072127Z">
+        <seg>Если указано несколько дат,\break создается временной интервал.</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">thbook/ch02.tex</prop>
       <prop type="prev">The following subtypes are supported for given types:</prop>
