@@ -3176,8 +3176,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Actually, only a subset of the Therion commands are used in the Map editor: multi-line |scrap ... endscrap| commands which may contain |point|, |line| and |area| commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145256Z" creationid="Алексей" creationdate="20170913T145208Z">
-        <seg>На самом деле в редакторе карт исполь\-зу\-ются только несколько команд Therion'а: многострочная команда |scrap ... endscrap| может содержать команды |point|, |line| и |area|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092708Z" creationid="Алексей" creationdate="20170913T145208Z">
+        <seg>На самом деле в редакторе карт используются только несколько команд Therion'а: многострочная команда |scrap ... endscrap| может содержать команды |point|, |line| и |area|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4536,8 +4536,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For better performance on slower computers, it's possible to temporarily unload a currently unused image from memory by unchecking its {&lt;u5&gt; Visibility} check-box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142946Z" creationid="Алексей" creationdate="20170913T140751Z">
-        <seg>Для повышения про\-из\-во\-ди\-тель\-ности на более медленных компьютерах можно временно вы\-гру\-зить неиспользуемое изображение из памяти, сняв флажок {&lt;u5&gt; показать}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092624Z" creationid="Алексей" creationdate="20170913T140751Z">
+        <seg>Для повышения производительности на более медленных компьютерах можно временно выгрузить неиспользуемое изображение из памяти, сняв флажок {&lt;u5&gt; показать}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6101,8 +6101,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It's important to remember, that you're actually creating a text file which should conform to the syntax described in the chapter {&lt;u1&gt; Data format}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144720Z" creationid="Алексей" creationdate="20170913T143732Z">
-        <seg>Важно помнить, что вы на самом деле создаете текстовый файл, который должен соответствовать синтаксису, опи\-сан\-ному в главе {&lt;u1&gt; Формат данных}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092652Z" creationid="Алексей" creationdate="20170913T143732Z">
+        <seg>Важно помнить, что вы на самом деле создаете текстовый файл, который должен соответствовать синтаксису, описанному в главе {&lt;u1&gt; Формат данных}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6133,8 +6133,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It's possible to open an existing file without loading of background images using {&lt;u6&gt; Open XP} menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142810Z" creationid="Алексей" creationdate="20170913T140839Z">
-        <seg>Можно открыть существующий файл без загрузки фоновых изображений с по\-мощью меню {&lt;u6&gt; Открыть (без картинок)}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092632Z" creationid="Алексей" creationdate="20170913T140839Z">
+        <seg>Можно открыть существующий файл без загрузки фоновых изображений с помощью меню {&lt;u6&gt; Открыть (без картинок)}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6797,8 +6797,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Only the command (|scrap|, |point|, |line|, |text|---why text see below) and its type (for |point| and |line|) or ID (for |scrap|) are shown.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145840Z" creationid="Алексей" creationdate="20170913T145840Z">
-        <seg>Показаваются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092746Z" creationid="Алексей" creationdate="20170913T145840Z">
+        <seg>Показываются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).
 </seg>
       </tuv>
     </tu>
@@ -8335,9 +8335,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The size and zoom setting of the {&lt;u0&gt; drawing area} is adjusted in the corresponding menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144601Z" creationid="Алексей" creationdate="20170913T143513Z">
-        <seg>Размер и масштабирование {&lt;u0&gt; области рисования} настраивается в соот\-вет\-ству\-ющем меню.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092641Z" creationid="Алексей" creationdate="20170913T143513Z">
+        <seg>Размер и масштабирование {&lt;u0&gt; области рисования} настраивается в соответствующем меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9201,9 +9200,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This corresponds with a section of hand-drawn map, which is built up from points, lines and filled areas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144843Z" creationid="Алексей" creationdate="20170913T144042Z">
-        <seg>Это соответствует этапу ручного рисованния карты, которая стро\-ится из точек, линий и заполненных областей.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092720Z" creationid="Алексей" creationdate="20170913T144042Z">
+        <seg>Это соответствует этапу ручного рисования карты, которая строится из точек, линий и заполненных областей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9322,9 +9320,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This line is hidden by XTherion and may be accessed only indirectly using the right-hand menu.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T180716Z" creationid="Алексей" creationdate="20170912T175154Z">
-        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.]
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092434Z" creationid="Алексей" creationdate="20170912T175154Z">
+        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -9539,8 +9536,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Unfortunately, as a limitation of Tcl/Tk language, only GIF, PNM and PPM (plus PNG and JPEG if you installed tkImg extension) images are supported.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142559Z" creationid="Алексей" creationdate="20170913T140239Z">
-        <seg>К сожалению, из-за ограничений языка Tcl/Tk, под\-дер\-жи\-ва\-ются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092543Z" creationid="Алексей" creationdate="20170913T140239Z">
+        <seg>К сожалению, из-за ограничений языка Tcl/Tk, поддерживаются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9715,9 +9712,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Visually there is no difference between a helictite and a text label---both are rendered as simple dots.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T180825Z" creationid="Алексей" creationdate="20170912T175913Z">
-        <seg>Визуально нет ника\-кой разницы между геликтитом и текстовой меткой -- оба они отображаются как простые точки.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092506Z" creationid="Алексей" creationdate="20170912T175913Z">
+        <seg>Визуально нет никакой разницы между геликтитом и текстовой меткой -- оба они отображаются как простые точки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11779,8 +11775,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u1&gt; Auto adjust} calculates optimal size of the working area according to the sizes and positions of loaded background images.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144625Z" creationid="Алексей" creationdate="20170913T143524Z">
-        <seg>{&lt;u1&gt; Авто} вычисляет оптимальный размер рабочей области в соот\-вет\-ствии с размерами и позициями загруженных фоновых изображений.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092647Z" creationid="Алексей" creationdate="20170913T143524Z">
+        <seg>{&lt;u1&gt; Авто} вычисляет оптимальный размер рабочей области в соответствии с размерами и позициями загруженных фоновых изображений.</seg>
       </tuv>
     </tu>
     <tu>
