@@ -835,9 +835,8 @@
       <tuv lang="EN-US">
         <seg>* press {&lt;u0&gt; Scale} button in the {&lt;u1&gt; Scraps} menu and click on two different places on the image where the endpoints of calibration arrow should be, or * move mouse pointer to desired position, read pointer coordinates from the status bar and enter these coordinates into {&lt;u2&gt; picture scale points} boxes in the {&lt;u3&gt; Scraps} control.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174613Z" creationid="Алексей" creationdate="20170913T171459Z">
-        <seg>* нажать кнопку {&lt;u0&gt; Масштаб} в меню {&lt;u1&gt; Скрап} и щелкнуть два разных места на изображении, где должны быть конечные точки калибровочной стрелки, или * переместить указатель мыши в нужную позицию, прочитать координаты указателя и ввести эти координаты в {&lt;u2&gt; масштабирующие точки для кар\-тинки} в меню {&lt;u3&gt; Скрап}.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092948Z" creationid="Алексей" creationdate="20170913T171459Z">
+        <seg>* нажать кнопку {&lt;u0&gt; Масштаб} в меню {&lt;u1&gt; Скрап} и щелкнуть два разных места на изображении, где должны быть конечные точки калибровочной стрелки, или * переместить указатель мыши в нужную позицию, прочитать координаты указателя и ввести эти координаты в {&lt;u2&gt; масштабирующие точки для картинки} в меню {&lt;u3&gt; Скрап}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2975,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>&lt;u1&gt;In the case of survey stations, XTherion automatically increases the station number for the next symbol inserted.] It is a good idea to start with drawing all survey stations (don't forget to give them names according to real names in the centreline command), than all passage walls followed by all other point symbols, lines and areas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T175059Z" creationid="Алексей" creationdate="20170913T172446Z">
-        <seg>&lt;u1&gt;В случае станций съемки XTherion автоматически увеличивает номер станции для сле\-дую\-щего вставленного символа.] Рекомендуется начать с рисования всех станций съемки (не забудьте дать им имена (номера) в соответствии с настоящими именами в команде centreline), далее все хода, за которыми следуют все остальные точечные символы, линии и области.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093013Z" creationid="Алексей" creationdate="20170913T172446Z">
+        <seg>&lt;u1&gt;В случае станций съемки XTherion автоматически увеличивает номер станции для следующего вставленного символа.] Рекомендуется начать с рисования всех станций съемки (не забудьте дать им имена (номера) в соответствии с настоящими именами в команде centreline), далее все хода, за которыми следуют все остальные точечные символы, линии и области.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,8 +3127,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>A shortcut for all this is Ctrl-p.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150522Z" creationid="Алексей" creationdate="20170913T150522Z">
-        <seg>Сочетание клавишь для этого -- Ctrl-p.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092817Z" creationid="Алексей" creationdate="20170913T150522Z">
+        <seg>Сочетание клавиш для этого -- Ctrl-p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3568,8 +3567,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>As with scrap insertion, go to the {&lt;u1&gt; File commands} menu, click on the {&lt;u2&gt; Action} submenu and select {&lt;u3&gt; Insert point}; than press newly renamed {&lt;u4&gt; Insert point} button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151954Z" creationid="Алексей" creationdate="20170913T150358Z">
-        <seg>Как и в случае встав\-ки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать кнопку с изменившимся наз\-ва\-нием на {&lt;u4&gt; Вставить точку}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092807Z" creationid="Алексей" creationdate="20170913T150358Z">
+        <seg>Как и в случае вставки скрапа, перейдите в меню {&lt;u1&gt; Команды в файле}, нажмите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить точку}; затем нажать кнопку с изменившимся названием на {&lt;u4&gt; Вставить точку}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,8 +3831,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Click on {&lt;u1&gt; Insert area} and then click on the lines surrounding the desired area.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173503Z" creationid="Алексей" creationdate="20170913T165434Z">
-        <seg>Нажмите {&lt;u1&gt; Вставить об\-ласть}, а затем щелкните строки окружающие нужную область.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092904Z" creationid="Алексей" creationdate="20170913T165434Z">
+        <seg>Нажмите {&lt;u1&gt; Вставить область}, а затем щелкните строки окружающие нужную область.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4688,8 +4687,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For modifying previously-created commands, there are additional menus---e.g. {&lt;u0&gt; Scrap control} for the |scrap| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151717Z" creationid="Алексей" creationdate="20170913T150046Z">
-        <seg>Для изменения ранее созданных команд есть дополнительные меню -- напри\-мер {&lt;u0&gt; Скрап} для команды |scrap|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092800Z" creationid="Алексей" creationdate="20170913T150046Z">
+        <seg>Для изменения ранее созданных команд есть дополнительные меню -- например {&lt;u0&gt; Скрап} для команды |scrap|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5201,9 +5200,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If the map in PDF format has been converted to raster using external program, convertor uses raster image {&lt;u0&gt; and} pdf map with the same base name located in the same directory to calculate the calibration data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020328Z" creationid="Алексей" creationdate="20170914T014943Z">
-        <seg>Если карта в формате PDF была преобразована в растровое изо\-бра\-же\-ние с использованием внешней программы, конвертер использует растровое изо\-бра\-же\-ние {&lt;u0&gt; и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093040Z" creationid="Алексей" creationdate="20170914T014943Z">
+        <seg>Если карта в формате PDF была преобразована в растровое изображение с использованием внешней программы, конвертер использует растровое изображение {&lt;u0&gt; и} pdf-карту с тем же базовым именем, расположенным в том же каталоге, для вычисления калибровочных данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,8 +5376,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you draw some scraps with |none| projection, it's necessary to {&lt;u0&gt; calibrate} the drawing area.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174216Z" creationid="Алексей" creationdate="20170913T170926Z">
-        <seg>Если вы нарисуете несколько скрапов с |none| проекцией, необходимо {&lt;u0&gt; отка\-либ\-ро\-вать} область рисования.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092931Z" creationid="Алексей" creationdate="20170913T170926Z">
+        <seg>Если вы нарисуете несколько скрапов с |none| проекцией, необходимо {&lt;u0&gt; откалибровать} область рисования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,8 +5648,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In the {&lt;u0&gt; selection mode} you can select existing line or point objects and set their attributes in the corresponding menus, move them, or delete them (Ctrl-d or {&lt;u1&gt; Action button} in {&lt;u2&gt; File commands menu} after setting {&lt;u3&gt; Action} to {&lt;u4&gt; Delete}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174800Z" creationid="Алексей" creationdate="20170913T171949Z">
-        <seg>В {&lt;u0&gt; режиме выбора} вы можете выбрать существующие линейные или точеч\-ные объекты и установить их атрибуты в соответствующих меню, пере\-мес\-тить их или удалить их (Ctrl-d или {&lt;u1&gt; Кнопка действия} в меню {&lt;u2&gt; Команды в файле} после установки {&lt;u3&gt; Действие} на {&lt;u4&gt; Удалить}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092956Z" creationid="Алексей" creationdate="20170913T171949Z">
+        <seg>В {&lt;u0&gt; режиме выбора} вы можете выбрать существующие линейные или точечные объекты и установить их атрибуты в соответствующих меню, пере\-мес\-тить их или удалить их (Ctrl-d или {&lt;u1&gt; Кнопка действия} в меню {&lt;u2&gt; Команды в файле} после установки {&lt;u3&gt; Действие} на {&lt;u4&gt; Удалить}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5923,9 +5921,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It may be an area definition or whatever you want, such as a comment beginning with a `|&lt;u8&gt;|' character.] command, the contents of which (entered in the {&lt;u5&gt; Text editor} menu of the Map editor) is usual |area ... endarea| multi-line command (see the chapter {&lt;u6&gt; Data format}.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174142Z" creationid="Алексей" creationdate="20170913T170647Z">
-        <seg>Это может быть определение области или что угодно, например комментарий, начинающийся с символа `|&lt;u8&gt;|'.], содержимое которого (вве\-ден\-ное в меню {&lt;u5&gt; Редактор} в редакторе карты) обычно многострочная команда |area ... endarea| (см. раздел {&lt;u6&gt; Формат данных}.)
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092923Z" creationid="Алексей" creationdate="20170913T170647Z">
+        <seg>Это может быть определение области или что угодно, например комментарий, начинающийся с символа `|&lt;u8&gt;|'.], содержимое которого (введенное в меню {&lt;u5&gt; Редактор} в редакторе карты) обычно многострочная команда |area ... endarea| (см. раздел {&lt;u6&gt; Формат данных}.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6605,8 +6602,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Newly created point, line and text objects are added before the currently marked line in the outline.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T152137Z" creationid="Алексей" creationdate="20170913T151307Z">
-        <seg>Вновь созданные точечные, линейные и текстовые объ\-екты добавляются перед текущей выделенной строкой.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092827Z" creationid="Алексей" creationdate="20170913T151307Z">
+        <seg>Вновь созданные точечные, линейные и текстовые объекты добавляются перед текущей выделенной строкой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6797,9 +6794,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Only the command (|scrap|, |point|, |line|, |text|---why text see below) and its type (for |point| and |line|) or ID (for |scrap|) are shown.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092746Z" creationid="Алексей" creationdate="20170913T145840Z">
-        <seg>Показываются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092752Z" creationid="Алексей" creationdate="20170913T145840Z">
+        <seg>Показываются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7863,8 +7859,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The check-box {&lt;u2&gt; reverse} is important: Therion requires oriented curves and it is not unusual that you begin to draw from the wrong end.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173316Z" creationid="Алексей" creationdate="20170913T165011Z">
-        <seg>Важным является чек-бокс {&lt;u2&gt; обратная}: Therion требует ори\-ен\-ти\-ро\-ван\-ных кривых, и нет ничего необычного в том, что вы начинаете рисовать с неправильного конца.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092851Z" creationid="Алексей" creationdate="20170913T165011Z">
+        <seg>Важным является чек-бокс {&lt;u2&gt; обратная}: Therion требует ориентированных кривых, и нет ничего необычного в том, что вы начинаете рисовать с неправильного конца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8055,8 +8051,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The full contents of any command is displayed in the {&lt;u0&gt; Command preview} menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151643Z" creationid="Алексей" creationdate="20170913T145927Z">
-        <seg>Полное содержимое любой команды отображается в меню {&lt;u0&gt; Просмотр коман\-ды}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092754Z" creationid="Алексей" creationdate="20170913T145927Z">
+        <seg>Полное содержимое любой команды отображается в меню {&lt;u0&gt; Просмотр команды}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8527,9 +8523,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The {&lt;u3&gt; Line point control} menu enables you to adjust the attributes of any selected point on the line, such as the curve being smooth at this point (which is on by default), or the presence of neighbouring control points (`|&lt;&lt;|' and `|&gt;&gt;|' check-boxes).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173404Z" creationid="Алексей" creationdate="20170913T165237Z">
-        <seg>Меню {&lt;u3&gt; Точка линии} позволяет вам отрегулировать атрибуты любой выбранной точки на линии, например, сглаживание кривой в этой точке (которая включена по умолчанию) или наличие соседних кон\-троль\-ных точек (`|&lt;&lt;|' и `|&gt;&gt;|').
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092900Z" creationid="Алексей" creationdate="20170913T165237Z">
+        <seg>Меню {&lt;u3&gt; Точка линии} позволяет вам отрегулировать атрибуты любой выбранной точки на линии, например, сглаживание кривой в этой точке (которая включена по умолчанию) или наличие соседних контрольных точек (`|&lt;&lt;|' и `|&gt;&gt;|').</seg>
       </tuv>
     </tu>
     <tu>
@@ -8680,8 +8675,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>There is a {&lt;u0&gt; Search and select} menu which makes it easy to switch between objects and visualize things you can't see at the first look at the picture.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174828Z" creationid="Алексей" creationdate="20170913T172103Z">
-        <seg>Существует меню {&lt;u0&gt; Поиск и выделение}, которое позволяет легко переклю\-чаться между объектами и показывать элементы, которые вы не видите при взгляде на изображение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093003Z" creationid="Алексей" creationdate="20170913T172103Z">
+        <seg>Существует меню {&lt;u0&gt; Поиск и выделение}, которое позволяет легко переключаться между объектами и показывать элементы, которые вы не видите при взгляде на изображение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9040,8 +9035,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>They are automatically inserted in the {&lt;u2&gt; Area control} and named (if not already named).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173559Z" creationid="Алексей" creationdate="20170913T165812Z">
-        <seg>Они авто\-ма\-ти\-чески вставляются в {&lt;u2&gt; Область} и называются (если они еще не названы).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092911Z" creationid="Алексей" creationdate="20170913T165812Z">
+        <seg>Они автоматически вставляются в {&lt;u2&gt; Область} и называются (если они еще не названы).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11065,9 +11060,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; Help/Calibrate bitmap} produces OziExplorer-compatible MAP file based on georeferencig data included in a PDF map&lt;u2&gt;Calibration information for nine distinct points is present if centreline contains station(s) fixed using geodetic coordinate system(s)].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020121Z" creationid="Алексей" creationdate="20170914T014854Z">
-        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат.].
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093025Z" creationid="Алексей" creationdate="20170914T014854Z">
+        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,8 +11212,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Drawing lines} is similar to drawing in other vector editing programs, which work with B&lt;u1&gt;ezier curves.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T173031Z" creationid="Алексей" creationdate="20170913T164412Z">
-        <seg>{&lt;u0&gt; Рисование линий} аналогично рисованию в других программах редактирова\-ния векторной графики, которые работают с кривыми Безье.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092839Z" creationid="Алексей" creationdate="20170913T164412Z">
+        <seg>{&lt;u0&gt; Рисование линий} аналогично рисованию в других программах редактирования векторной графики, которые работают с кривыми Безье.</seg>
       </tuv>
     </tu>
     <tu>
