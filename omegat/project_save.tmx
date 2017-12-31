@@ -1636,8 +1636,8 @@
       <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.&lt;u7&gt;Example: if you specify |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T050018Z" creationid="Алексей" creationdate="20170924T044440Z">
-        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.]. * |id &lt;идентификатор&gt;| = идентификатор символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091615Z" creationid="Алексей" creationdate="20170924T044440Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в\break соответствии с правилами для указанного |&lt;типа символа&gt;|&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.]. * |id &lt;идентификатор&gt;| = идентификатор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1732,8 +1732,8 @@
       <tuv lang="EN-US">
         <seg>* |dist &lt;distance&gt;| = valid for extra points, specifies the distance to the nearest station (or station specified using |-from| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045804Z" creationid="Алексей" creationdate="20170924T044017Z">
-        <seg>* |dist &lt;дистанция&gt;| = применяется для дополнительных точек, указывает рас\-стояние до ближайшей станции (или станции, указанной с помощью опции |-from|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091534Z" creationid="Алексей" creationdate="20170924T044017Z">
+        <seg>* |dist &lt;дистанция&gt;| = применяется для дополнительных точек, указывает расстояние до ближайшей станции (или станции, указанной с помощью опции |-from|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,8 +1900,8 @@
       <tuv lang="EN-US">
         <seg>* |from &lt;station&gt;| = valid for extra points, specifies reference station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090403Z" creationid="Алексей" creationdate="20170924T044320Z">
-        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает опорную станцию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091555Z" creationid="Алексей" creationdate="20170924T044320Z">
+        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает\break опорную станцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,8 +2436,8 @@
       <tuv lang="EN-US">
         <seg>* |text| = text of the label, remark or continuation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090440Z" creationid="Алексей" creationdate="20170924T051753Z">
-        <seg>* |text| = текст label (метки), remark (примечания) или continuation (продолжения).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091642Z" creationid="Алексей" creationdate="20170924T051753Z">
+        <seg>* |text| = текст label (метки), remark (примечания) или continuation\break (продолжения).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,8 +5290,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If there is no gradient specification, behaviour is symbol-set dependent (e.g. no tick in UIS, tick in the middle in SKBB).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091025Z" creationid="Алексей" creationdate="20171104T053828Z">
-        <seg>Если спецификация градиента отсутствует, то\break поведение зависит от набора символов (например, без галочки в UIS, галочка посередине в SKBB).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092249Z" creationid="Алексей" creationdate="20171104T053828Z">
+        <seg>Если спецификация градиента отсутствует, то\break поведение зависит от набора символов (например, без галочки в UIS,\break галочка посередине в SKBB).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6109,8 +6109,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It's necessary to specify |l-size| in at least one point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T070202Z" creationid="Алексей" creationdate="20170924T070202Z">
-        <seg>Необходимо указать |l-size| по меньшей мере для одной точки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092023Z" creationid="Алексей" creationdate="20170924T070202Z">
+        <seg>Необходимо указать\break |l-size| по меньшей мере для одной точки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8015,8 +8015,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The following subtypes for given types are supported:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T090135Z" creationid="Алексей" creationdate="20170923T090135Z">
-        <seg>Поддерживаются следующие подтипы для заданных типов:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091449Z" creationid="Алексей" creationdate="20170923T090135Z">
+        <seg>Поддерживаются\break следующие подтипы для заданных типов:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8031,8 +8031,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The following values are accepted: center, c, top, t, bottom, b, left, l, right, r, top-left, tl, top-right, tr, bottom-left, bl, bottom-right, br.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040455Z" creationid="Алексей" creationdate="20170924T040441Z">
-        <seg>Принимает следующие значения: center, c, top, t, bottom, b, left, l, right, r, top-left, tl, top-right, tr, bottom-left, bl, bottom-right, br.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091510Z" creationid="Алексей" creationdate="20170924T040441Z">
+        <seg>Принимает следующие\break значения: center, c, top, t, bottom, b, left, l, right, r, top-left, tl, top-right, tr, bottom-left, bl, bottom-right, br.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,8 +8287,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The result is horizontal/vertical line segment).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091001Z" creationid="Алексей" creationdate="20171104T052713Z">
-        <seg>Результат -- горизонтальный/вертикальный сегмент линии).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092219Z" creationid="Алексей" creationdate="20171104T052713Z">
+        <seg>Результат --\break горизонтальный/вертикальный сегмент линии).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8360,16 +8360,16 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |border:invisible|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090916Z" creationid="Алексей" creationdate="20170924T113944Z">
-        <seg>Подтип может быть указан также непосредственно в |&lt;типе&gt;| с использованием `|:|' в качестве разделителя&lt;u0&gt;Например, |border:invisible|.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092127Z" creationid="Алексей" creationdate="20170924T113944Z">
+        <seg>Подтип может быть указан также непосредственно в |&lt;типе&gt;| с\break использованием `|:|' в качестве разделителя&lt;u0&gt;Например, |border:invisible|.].</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |station:fixed|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090233Z" creationid="Алексей" creationdate="20170923T091817Z">
-        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использованием `|:|' в качестве разделителя&lt;u0&gt;Например, |station:fixed|.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091433Z" creationid="Алексей" creationdate="20170923T091817Z">
+        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с\break использованием `|:|' в качестве разделителя&lt;u0&gt;Например, |station:fixed|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,8 +11454,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; altitude:} the value specified is the altitude difference from the nearest station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090556Z" creationid="Алексей" creationdate="20170924T063346Z">
-        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой разницу высот по сравнению с ближайшей станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091837Z" creationid="Алексей" creationdate="20170924T063346Z">
+        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой\break разницу высот по сравнению с ближайшей станции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11526,8 +11526,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; dimensions:} |-value [&lt;above&gt; &lt;below&gt; [&lt;units&gt;]]| specifies passage dimensions a­bo­ve/below centerline plane used in 3D model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090601Z" creationid="Алексей" creationdate="20170924T063656Z">
-        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091853Z" creationid="Алексей" creationdate="20170924T063656Z">
+        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]|\break определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11542,8 +11542,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; height:} according to the sign of the value (positive, negative or unsigned), this type of symbol represents chimney height, pit depth or step height in general.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090520Z" creationid="Алексей" creationdate="20170924T053140Z">
-        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091732Z" creationid="Алексей" creationdate="20170924T053140Z">
+        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа\break представляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11598,8 +11598,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; others:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Always use |spring| and |sink| symbols with a |water-flow| arrow.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option], |map-connection|&lt;u3&gt;Virtual point, used to indicate connection between shifted maps (extended elevation, map offset).], |extra|&lt;u4&gt;Additional morphing point.], |u|&lt;u5&gt;For user defined point symbols.].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090159Z" creationid="Алексей" creationdate="20170923T030441Z">
-        <seg>{&lt;u0&gt; другие:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Всегда используйте символы |spring| и |sink| со стрелкой |water-flow|.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option.], |map-connection|&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт (разрез-развертка, смещение карты).], |extra|&lt;u4&gt;Точка морфинга.], |u|&lt;u5&gt;Пользовательские точечные символы.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091358Z" creationid="Алексей" creationdate="20170923T030441Z">
+        <seg>{&lt;u0&gt; другие:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Всегда используйте символы |spring| и |sink| со стрелкой |water-flow|.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option.], |map-connection|&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт\break (разрез-развертка, смещение карты).], |extra|&lt;u4&gt;Точка морфинга.], |u|&lt;u5&gt;Пользовательские точечные символы.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -11614,8 +11614,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; passage ends:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030436Z" creationid="Алексей" creationdate="20170923T030418Z">
-        <seg>{&lt;u0&gt; окончание ходов:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091319Z" creationid="Алексей" creationdate="20170923T030418Z">
+        <seg>{&lt;u0&gt; окончание ходов:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|,\break |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11630,8 +11630,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; passage-height:} the following four forms of value are supported: |+&lt;number&gt;| (the height of the ceiling), |-&lt;number&gt;| (the depth of the floor or water depth), |&lt;number&gt;| (the distance between floor and ceiling) and |[+&lt;number&gt; -&lt;number&gt;]| (the distance to ceiling and distance to floor).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063331Z" creationid="Алексей" creationdate="20170924T062915Z">
-        <seg>{&lt;u0&gt; passage-height (высота хода):} поддерживаются следующие четыре формы значения: |+&lt;число&gt;| (высота потолка), |-&lt;число&gt;| (глубина этажа или глубина воды), |&lt;число&gt;| (расстояние между потолком и полом) и |[+&lt;число&gt; -&lt;число&gt;]| (расстояние до потолка и расстояние до пола).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091810Z" creationid="Алексей" creationdate="20170924T062915Z">
+        <seg>{&lt;u0&gt; passage-height (высота хода):} поддерживаются следующие четыре формы значения: |+&lt;число&gt;| (высота потолка), |-&lt;число&gt;| (глубина этажа или\break глубина воды), |&lt;число&gt;| (расстояние между потолком и полом) и |[+&lt;число&gt; -&lt;число&gt;]| (расстояние до потолка и расстояние до пола).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12059,8 +12059,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;center&gt;|/|&lt;centre&gt;|, |&lt;left&gt;|, |&lt;right&gt;| = line alignment for multi-line labels.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T052137Z" creationid="Алексей" creationdate="20170924T052108Z">
-        <seg>|&lt;center&gt;|/|&lt;centre&gt;|, |&lt;left&gt;|, |&lt;right&gt;| = выравнивание строк для многострочных меток.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091702Z" creationid="Алексей" creationdate="20170924T052108Z">
+        <seg>|&lt;center&gt;|/|&lt;centre&gt;|, |&lt;left&gt;|, |&lt;right&gt;| = выравнивание строк для\break многострочных меток.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13192,8 +13192,8 @@ endsurvey [&lt;id&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>The following subtypes are supported for given types:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090756Z" creationid="Алексей" creationdate="20171231T090756Z">
-        <seg>Для данных типов поддерживаются следующие подтипы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092054Z" creationid="Алексей" creationdate="20171231T090756Z">
+        <seg>Для данных типов\break поддерживаются следующие подтипы:</seg>
       </tuv>
     </tu>
     <tu>
