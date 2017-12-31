@@ -451,16 +451,16 @@
       <tuv lang="EN-US">
         <seg>* Crtl+L = insert new line and enter an `insert line point' mode * LeftClick = insert line point (without control points) * Ctrl+LeftClick = insert line point very close to existing point (normally it's inserted right above closest existing point) * LeftClick + drag = insert line point (with control points) * hold Ctrl while dragging = fix the distance of previous control point * LeftClick + drag on the control point = move its position * RightClick on one of the previous points = selects the previous point while in insert mode (useful if you want to change also the direction of previous control point) * Esc or LeftClick on the last point = end the line insertion * LeftClick on the first line point = close the line and end line insertion</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T032624Z" creationid="Алексей" creationdate="20170920T023515Z">
-        <seg>* Crtl+L = вставить новую линию и войти в режим `вставка точек линии'; * щелчек левой кнопкой мыши = вставить точку линии (без контрольных точек) * Ctrl+щелчек левой кнопкой мыши = вставить точку линии очень близко к существующей точке (обычно она вставляется на ближайшую существую\-щую точку); * щелчек левой кнопкой мыши+тянуть = вставить точку линии (с контроль\-ными точками); * удерживать Ctrl при перемещении = изменить расстояние предыдущей контрольной точки; * щелчек левой кнопкой мыши+переместить контрольную точку = перемес\-тить ее положение; * щелчек правой кнопкой мыши на одной из предыдущих точек = выбирает предыдущую точку в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки); * Esc или щелчек левой кнопкой мыши на последней точке = завершение вставки линии; * щелчек левой кнопкой мыши на первой точке линии = замкнуть линию и завершить вставку линии.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093226Z" creationid="Алексей" creationdate="20170920T023515Z">
+        <seg>* Crtl+L = вставить новую линию и войти в режим `вставка точек линии'; * щелчок левой кнопкой мыши = вставить точку линии (без контрольных точек) * Ctrl+щелчок левой кнопкой мыши = вставить точку линии очень близко к существующей точке (обычно она вставляется на ближайшую существующую точку); * щелчок левой кнопкой мыши+тянуть = вставить точку линии (с контрольными точками); * удерживать Ctrl при перемещении = изменить расстояние предыдущей контрольной точки; * щелчок левой кнопкой мыши+переместить контрольную точку = переместить ее положение; * щелчок правой кнопкой мыши на одной из предыдущих точек = выбирает предыдущую точку в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки); * Esc или щелчок левой кнопкой мыши на последней точке = завершение вставки линии; * щелчок левой кнопкой мыши на первой точке линии = замкнуть линию и завершить вставку линии.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* Ctrl+P = switch to `insert point' mode * LeftClick = insert point at given position * Ctrl+LeftClick = insert point very close to existing point (normally it will be inserted right above the closest point) * Esc = escape from the `inset point' mode</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T033020Z" creationid="Алексей" creationdate="20170920T025228Z">
-        <seg>* Ctrl+P = переход в режим `вставки точки'; * щелчок левой кнопкой мыши = вставка точки в заданной позицию; * Ctrl+щелчок левой кнопкой мыши = вставка точки очень близко к сущест\-вующей точке (обычно она будет вставлена на ближайшую точку); * Esc = выход из режим `вставки точки'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093307Z" creationid="Алексей" creationdate="20170920T025228Z">
+        <seg>* Ctrl+P = переход в режим `вставки точки'; * щелчок левой кнопкой мыши = вставка точки в заданной позицию; * Ctrl+щелчок левой кнопкой мыши = вставка точки очень близко к существующей точке (обычно она будет вставлена на ближайшую точку); * Esc = выход из режим `вставки точки'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -523,8 +523,8 @@
       <tuv lang="EN-US">
         <seg>* LeftClick + drag = move line point * Ctrl+LeftClick + drag = move line point close to the existing point (normally it is moved right above closest existing point) * LeftClick on control point + drag = move control point</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T032813Z" creationid="Алексей" creationdate="20170920T024454Z">
-        <seg>* щелчок левой кнопкой мыши+перемещение = перемещение точки линии; * Ctrl+щелчок левой кнопкой мыши+перемещение = перемещение точки линии близко к существующей точке (обычно она перемещается на бли\-жайшую существующую точку); * щелчок левой кнопкой мыши на контрольной точке+перемещение = пере\-местить контрольную точку.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093240Z" creationid="Алексей" creationdate="20170920T024454Z">
+        <seg>* щелчок левой кнопкой мыши+перемещение = перемещение точки линии; * Ctrl+щелчок левой кнопкой мыши+перемещение = перемещение точки линии близко к существующей точке (обычно она перемещается на ближайшую существующую точку); * щелчок левой кнопкой мыши на контрольной точке+перемещение = переместить контрольную точку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,8 +867,8 @@
       <tuv lang="EN-US">
         <seg>* select area you want to edit * pres `Insert' in the {&lt;u0&gt; Area control} to insert other border lines at current cursor position * pres `Insert ID' to insert border with given ID at current cursor position * pres `Delete' to remove selected area border line</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T033203Z" creationid="Алексей" creationdate="20170920T030148Z">
-        <seg>* выберите область, которую вы хотите отредактировать; * нажмите `Вставить' в {&lt;u0&gt; Область}, чтобы вставить другие границы в текущую позицию курсора; * нажмите `Вставить по ID', чтобы вставить границу с заданным ID в теку\-щую позицию курсора; * нажмите `Delete', чтобы удалить выбранную границу области.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093317Z" creationid="Алексей" creationdate="20170920T030148Z">
+        <seg>* выберите область, которую вы хотите отредактировать; * нажмите `Вставить' в {&lt;u0&gt; Область}, чтобы вставить другие границы в текущую позицию курсора; * нажмите `Вставить по ID', чтобы вставить границу с заданным ID в текущую позицию курсора; * нажмите `Delete', чтобы удалить выбранную границу области.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,8 +3431,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Although everything (well, almost everything) about Therion input files has been explained, this chapter offers some additional tips and hints.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T180326Z" creationid="Алексей" creationdate="20170914T174830Z">
-        <seg>Несмотря на то, что все (ну, почти все) о входных файлах Therion'а было сказано, в этой главе приведены некоторые дополнительные советы и под\-сказки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093325Z" creationid="Алексей" creationdate="20170914T174830Z">
+        <seg>Несмотря на то, что все (ну, почти все) о входных файлах Therion'а было сказано, в этой главе приведены некоторые дополнительные советы и подсказки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5151,8 +5151,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If the PDF file is used directly, you have to set DPI and output format before automatic conversion&lt;u0&gt;|ghostscript| and |convert| should be installed on your system.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020600Z" creationid="Алексей" creationdate="20170914T015103Z">
-        <seg>Если используется непосредственно файл PDF, то вам необходимо уста\-но\-вить DPI и формат вывода перед автоматическим преобразованием &lt;u0&gt;|Ghostscript| и |convert| должны быть установлены в вашей системе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093047Z" creationid="Алексей" creationdate="20170914T015103Z">
+        <seg>Если используется непосредственно файл PDF, то вам необходимо установить DPI и формат вывода перед автоматическим преобразованием &lt;u0&gt;|Ghostscript| и |convert| должны быть установлены в вашей системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5167,9 +5167,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If the cave is larger than a few meters it's a good idea to split data in more files and separate centreline data from map data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175025Z" creationid="Алексей" creationdate="20170914T175025Z">
-        <seg>Если пещера больше нескольких метров, неплохо было бы разделить данные в большем количестве файлов и отделить данные нитки хода от данных карты.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093331Z" creationid="Алексей" creationdate="20170914T175025Z">
+        <seg>Если пещера больше нескольких метров, неплохо было бы разделить данные в большем количестве файлов и отделить данные нитки хода от данных карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,8 +6209,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Keyboard and mouse shortcuts in the Map editor.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015902Z" creationid="Алексей" creationdate="20170914T015902Z">
-        <seg>Сочитания клавишь и мыши в редакторе карт.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093125Z" creationid="Алексей" creationdate="20170914T015902Z">
+        <seg>Сочетания клавиш и мыши в редакторе карт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7963,8 +7962,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The drawing is just displayed on the background like scanned bitmaps and should be digitized manually.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020926Z" creationid="Алексей" creationdate="20170914T015816Z">
-        <seg>Рисунок просто отображается на фоне как сканированное растровое изобра\-жение, и должен быть оцифрован вручную.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093113Z" creationid="Алексей" creationdate="20170914T015816Z">
+        <seg>Рисунок просто отображается на фоне как сканированное растровое изображение, и должен быть оцифрован вручную.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9459,8 +9458,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To create a unique namespace the |centreline| command is enclosed in |survey| ... |endsurvey| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181017Z" creationid="Алексей" creationdate="20170914T181005Z">
-        <seg>Чтобы создать уникальное пространство имен команда |centreline| заключена в команду |syrvey| ... |endsurvey|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093340Z" creationid="Алексей" creationdate="20170914T181005Z">
+        <seg>Чтобы создать уникальное пространство имен команда |centreline| заключена в команду |survey| ... |endsurvey|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11068,8 +11067,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; PocketTopo data} exported in Therion format&lt;u2&gt;This is a special text format which needs to be imported using XTherion and can not be processed by Therion directly.] from PocketTopo application can be imported in text editor as well as in map editor ({&lt;u3&gt; File $&lt;u5&gt;$ Import $&lt;u6&gt;$ PocketTopo therion export} and {&lt;u4&gt; Backgroud Images $&lt;u7&gt;$ Insert $&lt;u8&gt;$ PocketTopo therion export}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T020741Z" creationid="Алексей" creationdate="20170914T015621Z">
-        <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редак\-торе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изоб\-ра\-же\-ния $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093104Z" creationid="Алексей" creationdate="20170914T015621Z">
+        <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в редакторе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изображения $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11380,8 +11379,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Splitting line}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T024815Z" creationid="Алексей" creationdate="20170920T024804Z">
-        <seg>{&lt;u0&gt; Раздиление линии}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093255Z" creationid="Алексей" creationdate="20170920T024804Z">
+        <seg>{&lt;u0&gt; Разделение линии}</seg>
       </tuv>
     </tu>
     <tu>
