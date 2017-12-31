@@ -4600,8 +4600,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For each scrap (with the exception of scraps in `none' projection) at least one station with station reference (|-name| option) has to be specified.], |section|&lt;u2&gt;|section| is an anchor for placing the cross-section at this point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T024749Z" creationid="Алексей" creationdate="20170923T024749Z">
-        <seg>Для каждого скрапа (за исключением скрапов с проекцией `none') должна быть указана хотя бы одна станция с опцией |-name|.], |section|&lt;u2&gt;|section| является местом для размещения поперечного сечения в этой точке.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091206Z" creationid="Алексей" creationdate="20170923T024749Z">
+        <seg>Для каждого скрапа (за исключением скрапов с проекцией `none') должна быть указана хотя бы одна станция с опцией |-name|.], |section|&lt;u2&gt;|Section| является местом для размещения поперечного сечения в этой точке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,8 +7919,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The cross section must be in the separate scrap with `none' projection specified.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085829Z" creationid="Алексей" creationdate="20170923T024857Z">
-        <seg>Поперечное сечение должно быть в отдельном скрапе с проекцией `none'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091211Z" creationid="Алексей" creationdate="20170923T024857Z">
+        <seg>Поперечное сечение должно быть в\break отдельном скрапе с проекцией `none'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10792,8 +10792,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>scrap</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031412Z" creationid="Алексей" creationdate="20170923T023547Z">
-        <seg>scrap</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091113Z" creationid="Алексей" creationdate="20170923T023547Z">
+        <seg>|	|scrap</seg>
       </tuv>
     </tu>
     <tu>
