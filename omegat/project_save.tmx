@@ -137,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>(A) * |title-pages &lt;on/off&gt;| = turn on/off title pages before each atlas chapter (A; default: |off|) * |nav-factor &lt;factor&gt;| = set atlas navigator zoom factor (A; default: |30|) * |nav-size &lt;x-size&gt; &lt;y-size&gt;| = set number of atlas pages in both directions of navigator (A; default: |2 2|) * |transparency &lt;on/off&gt;| = set transparency for the passages (underlying passages are also visible) (M, A; default: |on|) * |opacity &lt;value&gt;| = set opacity value (used if |transparency| is |on|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T193526Z" creationid="Алексей" creationdate="20171021T193446Z">
-        <seg>(A). * |title-pages &lt;on/off&gt;| = включение/выключение титульных страниц перед каждой главой атласа (A; по умолчанию: |off|). * |nav-factor &lt;фактор&gt;| = установить коэффициент масштабирования навига\-тора атласа (A; по умолчанию: |30|). * |nav-size &lt;x-размер&gt; &lt;y-размер&gt;| = установить количество страниц атласа в обоих направлениях навигатора (A; по умолчанию: |2 2|). * |transparency &lt;on/off&gt;| = установить прозрачность для ходов (отображаются только видимые ходы) (M, A; по умолчанию: |on|). * |opacity &lt;значение&gt; | = установить значение непрозрачности (используется, если |transparent| установлен в |on|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205447Z" creationid="Алексей" creationdate="20171021T193446Z">
+        <seg>(A). * |title-pages &lt;on/off&gt;| = включение/выключение титульных страниц перед каждой главой атласа (A; по умолчанию: |off|). * |nav-factor &lt;фактор&gt;| = установить коэффициент масштабирования\break навигатора атласа (A; по умолчанию: |30|). * |nav-size &lt;x-размер&gt; &lt;y-размер&gt;| = установить количество страниц атласа в обоих направлениях навигатора (A; по умолчанию: |2 2|). * |transparency &lt;on/off&gt;| = установить прозрачность для ходов (отображаются только видимые ходы) (M, A; по умолчанию: |on|). * |opacity &lt;значение&gt; | = установить значение непрозрачности (используется, если |transparent| установлен в |on|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,8 +225,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |0 0|) * |own-pages &lt;number&gt;| = set number of own pages added before the first page of automatically generated pages in atlas mode (currently required for correct page numbering) (A; default: |0|) * |page-grid &lt;on/off&gt;| = show pages key plan (M; default: |off|)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035921Z" creationid="Алексей" creationdate="20171022T035044Z">
-        <seg>(M, A; по умолчанию: |0 0|). * |own-pages &lt;число&gt; | = установить количество собственных страниц, добав\-ленных до первой страницы автоматически созданных страниц в режиме атласа (в настоящее время требуется для правильной нумерации страниц) (A; по умолчанию: |0|). * |page-grid &lt;on/off&gt; | = show pages key plan (M; по умолчанию: |off|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205845Z" creationid="Алексей" creationdate="20171022T035044Z">
+        <seg>(M, A; по умолчанию: |0 0|). * |own-pages &lt;число&gt; | = установить количество собственных страниц,\break добавленных до первой страницы автоматически созданных страниц в режиме атласа (в настоящее время требуется для правильной нумерации страниц) (A; по умолчанию: |0|). * |page-grid &lt;on/off&gt; | = show pages key plan (M; по умолчанию: |off|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -241,8 +241,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |70|) * |surface-opacity &lt;value&gt;| = set the surface bitmap opacity (used if |transparency| is |on|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035132Z" creationid="Алексей" creationdate="20171022T033544Z">
-        <seg>(M, A; по умолчанию: |70|). * |surface-opacity &lt;значение&gt;| = установить прозрачность растровой поверх\-ности (используется, если |transparent| установлен в |on|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205522Z" creationid="Алексей" creationdate="20171022T033544Z">
+        <seg>(M, A; по умолчанию: |70|). * |surface-opacity &lt;значение&gt;| = установить прозрачность растровой\break поверхности (используется, если |transparent| установлен в |on|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,8 +257,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |layers &lt;on/off&gt;| = enable/disable PDF 1.5 layers (M, A; default: |on|) * |grid &lt;off/bottom/top&gt;| = enable/disable grid (optionally coordinates' values may be also displayed) (M, A; default: |off|) * |cs &lt;coordinate system&gt;| = coordinate system for |origin| and |grid-origin| * |north &lt;true/grid&gt;| = specify default orientation of the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035348Z" creationid="Алексей" creationdate="20171022T034105Z">
-        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по умолча\-нию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут\break также отображаться значения координат) (M, A; по умолчанию: |off|). * |cs &lt;система координат&gt;| = система координат для |origin| и |grid-origin|. * |north &lt;true/grid&gt;| = указать ориентацию карты по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205549Z" creationid="Алексей" creationdate="20171022T034105Z">
+        <seg>(M, A; по умолчанию: |off|). * |layers &lt;on/off&gt;| = включение/отключение слоев PDF 1.5 (M, A; по\break умолчанию: |on|). * |grid &lt;off/bottom/top&gt;| = отображать/скрыть сетку (опционально могут\break также отображаться значения координат) (M, A; по умолчанию: |off|). * |cs &lt;система координат&gt;| = система координат для |origin| и |grid-origin|. * |north &lt;true/grid&gt;| = указать ориентацию карты по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,16 +281,16 @@
       <tuv lang="EN-US">
         <seg>(M; default: off) * |map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt;| = include image specified by |&lt;filename&gt;| into map at location specified by |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042151Z" creationid="Алексей" creationdate="20171022T040926Z">
-        <seg>(M; по умолчанию: |off|). * |map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;имя файла&gt;| = вклю\-чить изображение, указанное в |&lt;имя файла&gt;| на карту в месте, указанном |&lt;x&gt; &lt;y&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210304Z" creationid="Алексей" creationdate="20171022T040926Z">
+        <seg>(M; по\break умолчанию: |off|). * |map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;имя файла&gt;| =\break включить изображение, указанное в |&lt;имя файла&gt;| на карту в месте,\break указанном |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(M; default: |0 100 nw|) * |map-header-bg &lt;on/off&gt;| = when on, background of map header is filled with background color (e.g. to hide map grid).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042111Z" creationid="Алексей" creationdate="20171022T040806Z">
-        <seg>(M; по умолчанию: |0 100 nw|). * |map-header-bg &lt;on/off&gt;| = когда включено, фон заголовка карты заполня\-ется цветом фона (например, для скрытия сетки).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210212Z" creationid="Алексей" creationdate="20171022T040806Z">
+        <seg>(M; по умолчанию: |0 100 nw|). * |map-header-bg &lt;on/off&gt;| = когда включено, фон заголовка карты\break заполняется цветом фона (например, для скрытия сетки).</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,8 +387,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = exports raw list of caves when set |off|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080038Z" creationid="Алексей" creationdate="20171022T075100Z">
-        <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = экспортирует необработанный список пещер при уста\-новке |off|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211559Z" creationid="Алексей" creationdate="20171022T075100Z">
+        <seg>* &lt;u0&gt;{5.3}|surveys (on)/off| = экспортирует необработанный список пещер при\break установке |off|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -411,8 +411,8 @@
       <tuv lang="EN-US">
         <seg>* &lt;u0&gt;{5.4.1}|min-symbol-scale &lt;scale&gt;| = define minimal |&lt;scale&gt;|, from which points and lines are displayed on the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T183053Z" creationid="Алексей" creationdate="20171021T182700Z">
-        <seg>* &lt;u0&gt;{5.4.1}|min-symbol-scale &lt;масштаб&gt;| = определить минимальный |&lt;масштаб&gt;|, при кото\-ром точечные и линейные символы отображаются на карте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205210Z" creationid="Алексей" creationdate="20171021T182700Z">
+        <seg>* &lt;u0&gt;{5.4.1}|min-symbol-scale &lt;масштаб&gt;| = определить минимальный |&lt;масштаб&gt;|, при котором точечные и линейные символы отображаются на карте.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -1075,8 +1075,8 @@
       <tuv lang="EN-US">
         <seg>* |--print-encodings| = Print a list of all supported input encodings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113629Z" creationid="Алексей" creationdate="20171022T112116Z">
-        <seg>* |--print-encodings| = выводит список всех поддерживаемых входных кодиро\-вок.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212101Z" creationid="Алексей" creationdate="20171022T112116Z">
+        <seg>* |--print-encodings| = выводит список всех поддерживаемых входных\break кодировок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1747,8 +1747,8 @@
       <tuv lang="EN-US">
         <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| and * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = &lt;u0&gt;&lt;u1&gt; selects which features to export, if the format supports it.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072407Z" creationid="Алексей" creationdate="20171022T072056Z">
-        <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| и * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = выбирает, какие функции экспортировать, если формат поддерживает его.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210852Z" creationid="Алексей" creationdate="20171022T072056Z">
+        <seg>* |enable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| и * |disable &lt;walls/[cave/surface-]centerline/splay-shots/surface/all&gt;| = выбирает, какие функции экспортировать, если формат поддерживает его.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,8 +1875,8 @@
       <tuv lang="EN-US">
         <seg>* |format/fmt &lt;format&gt;| = set continuation output format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075702Z" creationid="Алексей" creationdate="20171022T074241Z">
-        <seg>* |format/fmt &lt;формат&gt;| = установить формат списка возможных продолже\-ний (перспектив).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211455Z" creationid="Алексей" creationdate="20171022T074241Z">
+        <seg>* |format/fmt &lt;формат&gt;| = установить формат списка возможных\break продолжений (перспектив).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1947,8 +1947,8 @@
       <tuv lang="EN-US">
         <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt;| = set coordinates of grid origin (M, A) * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;| = set grid size in real units (M, A; default is equal to scalebar size) * |grid-coords &lt;off/border/all&gt;| = specify where to label grid with coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035618Z" creationid="Алексей" creationdate="20171022T034555Z">
-        <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt; | = заданные координаты начала сетки (M, A). * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = задать размер сетки в реальных едини\-цах (M, A, по умолчанию равен размеру шкалы). * |grid-coords &lt;off/border/all&gt;| = указать, где маркировать сетку координа\-тами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205817Z" creationid="Алексей" creationdate="20171022T034555Z">
+        <seg>* |grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;единицы&gt; | = заданные координаты начала сетки (M, A). * |grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = задать размер сетки в реальных\break единицах (M, A, по умолчанию равен размеру шкалы). * |grid-coords &lt;off/border/all&gt;| = указать, где маркировать сетку\break координатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,8 +2059,8 @@
       <tuv lang="EN-US">
         <seg>* |location &lt;on/(off)&gt;| = set whether to export coordinates of cave entrances in the table.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075938Z" creationid="Алексей" creationdate="20171022T075027Z">
-        <seg>* |location &lt;on/(off)&gt;| = указать, следует ли экспортировать координаты вхо\-дов пещеры в таблицу.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211538Z" creationid="Алексей" creationdate="20171022T075027Z">
+        <seg>* |location &lt;on/(off)&gt;| = указать, следует ли экспортировать координаты\break входов пещеры в таблицу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2075,8 +2075,8 @@
       <tuv lang="EN-US">
         <seg>* |map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = print map header at location specified by |&lt;x&gt; &lt;y&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041917Z" creationid="Алексей" creationdate="20171022T040149Z">
-        <seg>|map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = напечатать заго\-ловок карты в месте, указанном координатами |&lt;x&gt; &lt;y&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210027Z" creationid="Алексей" creationdate="20171022T040149Z">
+        <seg>* |map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt;| = напечатать\break заголовок карты в месте, указанном координатами |&lt;x&gt; &lt;y&gt;|.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -2187,8 +2187,8 @@
       <tuv lang="EN-US">
         <seg>* |projection &lt;id&gt;| = unique identifier that specifies the map projection type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075552Z" creationid="Алексей" creationdate="20171022T073636Z">
-        <seg>* |projection &lt;id&gt;| = уникальный идентификатор, который задает тип проек\-ции карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211306Z" creationid="Алексей" creationdate="20171022T073636Z">
+        <seg>* |projection &lt;id&gt;| = уникальный идентификатор, который задает тип\break проекции карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2379,8 +2379,8 @@
       <tuv lang="EN-US">
         <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = don't display particular symbol or group of symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185332Z" creationid="Алексей" creationdate="20171021T185332Z">
-        <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = не отобра\-жать конкретный символ или группу символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205013Z" creationid="Алексей" creationdate="20171021T185332Z">
+        <seg>* |symbol-hide &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = не\break отображать конкретный символ или группу символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,8 +2515,8 @@
       <tuv lang="EN-US">
         <seg>* |wall-source &lt;maps/centerline/all&gt;| = set source data for passage wall modeling.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072510Z" creationid="Алексей" creationdate="20171022T072148Z">
-        <seg>* |wall-source &lt;maps/centerline/all&gt;| = установить исходные данные для моде\-лирования стен хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210955Z" creationid="Алексей" creationdate="20171022T072148Z">
+        <seg>* |wall-source &lt;maps/centerline/all&gt;| = установить исходные данные для\break моделирования стен хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3167,8 +3167,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135443Z" creationid="Алексей" creationdate="20171022T131610Z">
-        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{d_x^2+d_y^2+d_z^2}$, где $d_x$ разность между одина\-ковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212249Z" creationid="Алексей" creationdate="20171022T131610Z">
+        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{d_x^2+d_y^2+d_z^2}$, где $d_x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3615,8 +3615,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Available languages are listed on the copyright page.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042543Z" creationid="Алексей" creationdate="20171022T041826Z">
-        <seg>Доступные языки перечис\-лены на странице авторских прав.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210337Z" creationid="Алексей" creationdate="20171022T041826Z">
+        <seg>Доступные языки\break перечислены на странице авторских прав.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,8 +3671,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Besides the messages from Therion and other programs used, the log file contains information about computed values of magnetic declination and meridian convergence, loop errors and scrap distortions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T132232Z" creationid="Алексей" creationdate="20171022T131553Z">
-        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного скло\-нения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212236Z" creationid="Алексей" creationdate="20171022T131553Z">
+        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного склонения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,8 +3783,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>By default, true (astronomical) north is used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035428Z" creationid="Алексей" creationdate="20171022T034311Z">
-        <seg>По умолча\-нию используется истинный (астрономический) север.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205715Z" creationid="Алексей" creationdate="20171022T034311Z">
+        <seg>По\break умолчанию используется истинный (астрономический) север.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3967,8 +3967,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Currently the following output formats are supported: |html| (default), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;For cave-list and continuation-list.] and |dbf|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T075801Z" creationid="Алексей" creationdate="20171022T074452Z">
-        <seg>В настоящее время поддерживаются следующие фор\-маты вывода: |html| (по умолчанию), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;Для списка пещер и списка продолжений (перспектив).] и |dbf|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211510Z" creationid="Алексей" creationdate="20171022T074452Z">
+        <seg>В настоящее время поддерживаются\break следующие форматы вывода: |html| (по умолчанию), |txt|, &lt;u0&gt;{5.4}|kml|&lt;u1&gt;Для списка пещер и списка продолжений (перспектив).] и |dbf|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3983,8 +3983,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Currently |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG embedded in XHTML file which contains also legend], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073343Z" creationid="Алексей" creationdate="20171022T072603Z">
-        <seg>В данный момент под\-держиваются форматы |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211013Z" creationid="Алексей" creationdate="20171022T072603Z">
+        <seg>В данный момент\break поддерживаются форматы |pdf|, |svg|, |xhtml|&lt;u0&gt;SVG, встроенный в XHTML-файл, который также содержит легенду.], |survex|, |dxf|, |esri|&lt;u1&gt;ESRI shapefiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4151,8 +4151,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>E.g. for |min-symbol-scale M|, no points or lines scaled |S| and |XS| will be shown on the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T185700Z" creationid="Алексей" creationdate="20171021T183142Z">
-        <seg>Напри\-мер, при опции |min-symbol-scale M| никакие точечные или линейные сим\-волы при масштабе |S| и |XS| не будут показаны на карте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205112Z" creationid="Алексей" creationdate="20171021T183142Z">
+        <seg>Например, при опции |min-symbol-scale M| никакие точечные или линейные сим\-волы при масштабе |S| и |XS| не будут показаны на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,8 +4207,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each of them may apply to line label according to its |-size| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190601Z" creationid="Алексей" creationdate="20171021T190323Z">
-        <seg>Каждый из этих размеров может приме\-няться к строковому текстовому символу в соответствии с ее опцией |-size|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205237Z" creationid="Алексей" creationdate="20171021T190323Z">
+        <seg>Каждый из этих размеров может\break применяться к строковому текстовому символу в соответствии с ее опцией |-size|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4695,8 +4695,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For more details see the {&lt;u0&gt; Initialization} section in the {&lt;u1&gt; Appendix}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113652Z" creationid="Алексей" creationdate="20171022T112318Z">
-        <seg>Более под\-робную информацию смотрите в разделе {&lt;u0&gt; Инициализация} в {&lt;u1&gt; Приложении}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212120Z" creationid="Алексей" creationdate="20171022T112318Z">
+        <seg>Более\break подробную информацию смотрите в разделе {&lt;u0&gt; Инициализация} в {&lt;u1&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4775,8 +4775,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For |map-bg|, you can use |transparent| to omit page background completely.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054904Z" creationid="Алексей" creationdate="20171022T053729Z">
-        <seg>Для |map-bg| вы можете использовать |transparent| чтобы полностью исклю\-чить фон страницы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210404Z" creationid="Алексей" creationdate="20171022T053729Z">
+        <seg>Для |map-bg| вы можете использовать |transparent| чтобы полностью\break исключить фон страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5015,8 +5015,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If no file name is given the prefix ``|cave.|'' is used with an extension corresponding to output format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072309Z" creationid="Алексей" creationdate="20171022T071612Z">
-        <seg>Если имя файла не задано, префикс ``|cave.|'' используется с расширением, соответствующим выход\-ному формату.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210702Z" creationid="Алексей" creationdate="20171022T071612Z">
+        <seg>Если имя файла не задано, префикс ``|cave.|'' используется с расширением, соответствующим\break выходному формату.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5079,8 +5079,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If not specified, it will be computed from |size| and |overlap| (A; default: |21 29.7 20 28.7 0.5 0.5 cm|) * |page-numbers &lt;on/off&gt;| = turn on/off page numbering (A; default: |true|) * |exclude-pages &lt;on/off&gt; &lt;list&gt;| = exclude specified pages from cave atlas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192838Z" creationid="Алексей" creationdate="20171021T191833Z">
-        <seg>Если не указано, то размеры будут вычислены из |size| и |overlap| (A; по умолчанию: |21 29,7 20 28,7 0,5 0,5 см|). * |page-numbers &lt;on/off&gt;| = включить/выключить нумерацию страниц (A; по умолчанию: |on|). * |exclude-pages &lt;on/off&gt; &lt;список&gt;| = исключить указанные страницы из ат\-ласа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205411Z" creationid="Алексей" creationdate="20171021T191833Z">
+        <seg>Если не указано, то размеры будут вычислены из |size| и |overlap| (A; по умолчанию: |21 29,7 20 28,7 0,5 0,5 см|). * |page-numbers &lt;on/off&gt;| = включить/выключить нумерацию страниц (A; по умолчанию: |on|). * |exclude-pages &lt;on/off&gt; &lt;список&gt;| = исключить указанные страницы из\break атласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,8 +5343,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If there is no |thconfig| file (e.g. current directory is not a data directory), Therion exits with an error message.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T081446Z" creationid="Алексей" creationdate="20171022T081224Z">
-        <seg>Если не существует файла |thconfig| (например, текущий каталог не является каталогом данных), тогда Therion выдаст сообщение об ошибке.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212000Z" creationid="Алексей" creationdate="20171022T081224Z">
+        <seg>Если не существует файла |thconfig| (например, текущий каталог не является каталогом\break данных), тогда Therion выдаст сообщение об ошибке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,8 +5495,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If |scrap-names| is specified, scrap names are shown for each scrap, |station-names| displays name of each survey station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054301Z" creationid="Алексей" creationdate="20171022T054301Z">
-        <seg>Если |scrap-names| указано, имена скрапов отображаются для каждого скрапа, |station-names| отображает имя каждой станции съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210445Z" creationid="Алексей" creationdate="20171022T054301Z">
+        <seg>Если |scrap-names| указано, имена скрапов отображаются для каждого\break скрапа, |station-names| отображает имя каждой станции съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5551,8 +5551,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In atlas mode some additional information is put on each page: page number, map name, and page label.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174358Z" creationid="Алексей" creationdate="20171024T172825Z">
-        <seg>В режиме атласа на каждую страницу помещается дополнительная информа\-ция: номер страницы, название карты и метка страницы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212440Z" creationid="Алексей" creationdate="20171024T172825Z">
+        <seg>В режиме атласа на каждую страницу помещается дополнительная информация: номер страницы, название карты и метка страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5567,8 +5567,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In map mode applies iff |page-grid| is |on| (M, A; default: |18 22.2 cm|) * |overlap &lt;value&gt; &lt;units&gt;| = set overlap size in paper units in the atlas mode or map margin in the map mode (M, A; default: |1 cm|) * |page-setup &lt;dimensions&gt; &lt;units&gt;| = set page dimensions in this order: paper-width, paper-height, page-width, page-height, left-margin and top-margin.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T192745Z" creationid="Алексей" creationdate="20171021T191631Z">
-        <seg>Применяется в режиме карты, если |page-grid| установлен в |on| (M, A; по умолчанию: |18 22,2 см|). * |overlap &lt;значение&gt; &lt;единицы&gt;| = установить размер перекрытия в едини\-цах в режиме атласа или поля карты в режиме карты (M, A; по умолчанию: |1 см|). * |page-setup &lt;размеры&gt; &lt;единицы&gt;| = установить размеры страницы в таком порядке: ширина бумаги, высота бумаги, ширина страницы, высота стра\-ницы, левое поле и верхнее поле.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205338Z" creationid="Алексей" creationdate="20171021T191631Z">
+        <seg>Применяется в режиме карты, если |page-grid| установлен в |on| (M, A; по умолчанию: |18 22,2 см|). * |overlap &lt;значение&gt; &lt;единицы&gt;| = установить размер перекрытия в\break единицах в режиме атласа или поля карты в режиме карты (M, A; по умолчанию: |1 см|). * |page-setup &lt;размеры&gt; &lt;единицы&gt;| = установить размеры страницы в таком порядке: ширина бумаги, высота бумаги, ширина страницы, высота\break страницы, левое поле и верхнее поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5831,16 +5831,16 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is fully customizable (see the chapter {&lt;u0&gt; Changing layout} for details).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T042016Z" creationid="Алексей" creationdate="20171022T040314Z">
-        <seg>Он пол\-ностью настраивается (подробнее смотрите главу {&lt;u0&gt;Изменение макета}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205638Z" creationid="Алексей" creationdate="20171022T040314Z">
+        <seg>Он полностью настраивается (подробнее смотрите главу {&lt;u0&gt;Изменение макета}).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It is ignored when used with local coordinate system.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T034325Z" creationid="Алексей" creationdate="20171022T034325Z">
-        <seg>Он игнорируется при использовании с локальной системой координат.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205732Z" creationid="Алексей" creationdate="20171022T034325Z">
+        <seg>Он\break игнорируется при использовании с локальной системой координат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,8 +6040,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It will print only warning and error messages to STDERR.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113600Z" creationid="Алексей" creationdate="20171022T112106Z">
-        <seg>Он будет печатать только предуп\-реждения и сообщения об ошибках в STDERR.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212043Z" creationid="Алексей" creationdate="20171022T112106Z">
+        <seg>Он будет печатать только\break предупреждения и сообщения об ошибках в STDERR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6360,8 +6360,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Lower-left corner of the map is |0 0|, upper-right corner is |100 100|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T040553Z" creationid="Алексей" creationdate="20171022T040553Z">
-        <seg>Нижний левый угол карты равен |0 0|, верхний правый угол |100 100|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210052Z" creationid="Алексей" creationdate="20171022T040553Z">
+        <seg>Нижний левый угол карты равен |0 0|, верхний правый угол |100 100|.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,8 +6456,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Maps produced in DXF, ESRI or KML formats may be further processed in appropriate software.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174753Z" creationid="Алексей" creationdate="20171024T173513Z">
-        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть дополни\-тельно обработаны в соответствующем программном обеспечении.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212512Z" creationid="Алексей" creationdate="20171024T173513Z">
+        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть дополнительно обработаны в соответствующем программном обеспечении.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,8 +6504,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>May be combined with |symbol-show|.(M, A) * |symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt;| = display particular symbol or group of symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T143126Z" creationid="Алексей" creationdate="20171021T141854Z">
-        <seg>Может комбинироваться с |symbol-show|. (M, A). * |symbol-show &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = отображать определен\-ный символ или группу символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205056Z" creationid="Алексей" creationdate="20171021T141854Z">
+        <seg>Может комбинироваться с |symbol-show|. (M, A). * |symbol-show &lt;point/line/area/group/special&gt; &lt;тип символа&gt;| = отображать определенный символ или группу символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6648,8 +6648,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Normally therion writes all the messages into a therion.log file in the current directory.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113513Z" creationid="Алексей" creationdate="20171022T111710Z">
-        <seg>Обычно Therion записывает все сообще\-ния в файл therion.log в текущем каталоге.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212022Z" creationid="Алексей" creationdate="20171022T111710Z">
+        <seg>Обычно Therion записывает все\break сообщения в файл therion.log в текущем каталоге.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,8 +6728,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Now, after mastering data and configuration files, we're ready to run Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080654Z" creationid="Алексей" creationdate="20171022T080525Z">
-        <seg>Теперь, после освоения данных и файлов конфигурации, мы готовы запус\-тить Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211641Z" creationid="Алексей" creationdate="20171022T080525Z">
+        <seg>Теперь, после освоения данных и файлов конфигурации, мы готовы\break запустить Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,8 +6984,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Predefined map header contains some basic information about cave: name, scale, north arrow, list of surveyors etc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T041945Z" creationid="Алексей" creationdate="20171022T040247Z">
-        <seg>Предопределен\-ный заголовок карты содержит некоторую базовую информацию о пещере: имя, масштаб, направление на север, список съемщиков и т.д.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205957Z" creationid="Алексей" creationdate="20171022T040247Z">
+        <seg>Предопределенный заголовок карты содержит некоторую базовую\break информацию о пещере: имя, масштаб, направление на север, список\break съемщиков и т.д.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7192,8 +7192,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Scrap distortion is calculated using the distortion measure defined for all pairs of points (point symbols, points and control points of line symbols) in the scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135556Z" creationid="Алексей" creationdate="20171022T131952Z">
-        <seg>Искажение скрапа вычисляется с использованием меры искажения, опреде\-ленной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212253Z" creationid="Алексей" creationdate="20171022T131952Z">
+        <seg>Искажение скрапа вычисляется с использованием меры искажения, определенной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7320,8 +7320,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>See the description of |scrap| command for details.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T055020Z" creationid="Алексей" creationdate="20171022T054043Z">
-        <seg>Смотрите описание |scrap| для подробнос\-тей.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210423Z" creationid="Алексей" creationdate="20171022T054043Z">
+        <seg>Смотрите описание |scrap| для\break подробностей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7680,8 +7680,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Surface is currently exported in |therion| format only.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T072435Z" creationid="Алексей" creationdate="20171022T072142Z">
-        <seg>Поверх\-ность в настоящее время экспортируется только в формате |therion|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210825Z" creationid="Алексей" creationdate="20171022T072142Z">
+        <seg>Поверхность в настоящее время экспортируется только в формате |therion|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8168,16 +8168,16 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The maximal and average scrap distortions are calculated as a maximum or average of such measures applied to all pairs of points.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135706Z" creationid="Алексей" creationdate="20171022T132150Z">
-        <seg>Максимальные и средние искажения скрапа вычисляются как макси\-мальные или средние значения таких мер, применяемых ко всем парам точек.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212320Z" creationid="Алексей" creationdate="20171022T132150Z">
+        <seg>Максимальные и средние искажения скрапа вычисляются как максимальные или средние значения таких мер, применяемых ко всем парам точек.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The measure is calculated as $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, where $d_b$ is the distance of points before warping and $d_a$ is the distance of points after warping.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135648Z" creationid="Алексей" creationdate="20171022T132000Z">
-        <seg>Мера рассчитывается как $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, где $d_b$ -- это расстояние до деформирования, а $d_a$ -- расстояние до точек после деформиро\-вания.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212305Z" creationid="Алексей" creationdate="20171022T132000Z">
+        <seg>Мера рассчитывается как $&lt;u0&gt;&lt;u1&gt; d_a-d_b&lt;u3&gt;&lt;u2&gt;&lt;u4&gt; d_b$, где $d_b$ -- это расстояние до деформирования, а $d_a$ -- расстояние до точек после деформирования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,8 +9576,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Use with caution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113746Z" creationid="Алексей" creationdate="20171022T112753Z">
-        <seg>Используйте с осто\-рожностью.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212141Z" creationid="Алексей" creationdate="20171022T112753Z">
+        <seg>Используйте с\break осторожностью.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9969,8 +9969,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>XTherion makes it easier to run Therion especially on systems without a command line prompt.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114444Z" creationid="Алексей" creationdate="20171022T113854Z">
-        <seg>XTherion упрощает запуск Therion'а, особенно в системах без вывода команд\-ной строки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212206Z" creationid="Алексей" creationdate="20171022T113854Z">
+        <seg>XTherion упрощает запуск Therion'а, особенно в системах без вывода\break командной строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10033,8 +10033,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>XVI images may be used in xtherion to draw in-scale maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073504Z" creationid="Алексей" creationdate="20171022T073004Z">
-        <seg>Изображения XVI могут использоваться для рисова\-ния карт в масштабе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211210Z" creationid="Алексей" creationdate="20171022T073004Z">
+        <seg>Изображения XVI могут использоваться для\break рисования карт в масштабе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11073,8 +11073,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{5.4} This option can be used to reduce size of sketch bitmap images in maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T061306Z" creationid="Алексей" creationdate="20171022T060504Z">
-        <seg>{5.4} Этот параметр можно использовать для уменьшения размера растровых изо\-бражений эскиза на картах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210556Z" creationid="Алексей" creationdate="20171022T060504Z">
+        <seg>{5.4} Этот параметр можно использовать для уменьшения размера растровых\break изображений эскиза на картах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12046,8 +12046,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;cfg-file&gt;| Therion takes only one optional argument: the name of a configuration file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T081315Z" creationid="Алексей" creationdate="20171022T080857Z">
-        <seg>|&lt;конфигурационный файл&gt;| = Therion принимает только один необязатель\-ный аргумент: имя конфигурационного файла.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211907Z" creationid="Алексей" creationdate="20171022T080857Z">
+        <seg>|&lt;конфигурационный файл&gt;| = Therion принимает только один\break необязательный аргумент: имя конфигурационного файла.</seg>
       </tuv>
     </tu>
     <tu>
