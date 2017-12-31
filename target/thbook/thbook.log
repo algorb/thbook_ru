@@ -714,7 +714,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 305--305
 .etc.
 
 [19]
-Overfull \hbox (18.07162pt too wide) in paragraph at lines 324--325
+Overfull \hbox (18.07162pt too wide) in paragraph at lines 325--326
  [][][]\tt projection <спецификация>[] $\mit .$ \tt указывает проекцию чертежа.
  Каждая проекция|
 
@@ -732,7 +732,7 @@ Overfull \hbox (18.07162pt too wide) in paragraph at lines 324--325
 .etc.
 
 
-Overfull \hbox (2.96356pt too wide) in paragraph at lines 324--325
+Overfull \hbox (2.96356pt too wide) in paragraph at lines 325--326
  \tt Индекс может быть любым ключевым словом. Поддерживаются следующие|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
@@ -744,7 +744,7 @@ Overfull \hbox (2.96356pt too wide) in paragraph at lines 324--325
 .etc.
 
 
-Overfull \hbox (20.88759pt too wide) in paragraph at lines 334--335
+Overfull \hbox (20.88759pt too wide) in paragraph at lines 335--336
  [][][]\tt scale <спецификация>[] $\mit .$ \tt используется для предварительног
 о масштабирования|
 
@@ -762,7 +762,7 @@ Overfull \hbox (20.88759pt too wide) in paragraph at lines 334--335
 .etc.
 
 
-Overfull \hbox (16.03157pt too wide) in paragraph at lines 334--335
+Overfull \hbox (16.03157pt too wide) in paragraph at lines 335--336
  \tt (преобразования координат пикселей в метры) данных скрапа. Если проекция|
 
 \hbox(8.04599+2.69398)x452.96786, glue set - 1.0
@@ -774,7 +774,7 @@ Overfull \hbox (16.03157pt too wide) in paragraph at lines 334--335
 .etc.
 
 
-Overfull \hbox (3.96996pt too wide) in paragraph at lines 342--342
+Overfull \hbox (3.96996pt too wide) in paragraph at lines 343--343
  [][][]\tt stations <список имен станций> [] $\mit .$ \tt станции, которые вы х
 отите использовать|
 
@@ -792,7 +792,7 @@ Overfull \hbox (3.96996pt too wide) in paragraph at lines 342--342
 .etc.
 
 [20]
-Overfull \hbox (35.68349pt too wide) in paragraph at lines 342--342
+Overfull \hbox (35.68349pt too wide) in paragraph at lines 343--343
  [][][]\tt flip (none)/horizontal/vertical[] $\mit .$ \tt зеркально отображает 
 скрап после трансформации|
 
@@ -810,7 +810,7 @@ Overfull \hbox (35.68349pt too wide) in paragraph at lines 342--342
 .etc.
 
 [21]
-Overfull \hbox (20.39317pt too wide) in paragraph at lines 374--375
+Overfull \hbox (20.39317pt too wide) in paragraph at lines 375--376
  []\it окончание ходов: []\tt con-tin-u-a-tion[], []narrow-end[], []low-end[], 
 []flowstone-choke[], []breakdown-|
 
@@ -823,7 +823,7 @@ Overfull \hbox (20.39317pt too wide) in paragraph at lines 374--375
 .etc.
 
 
-Overfull \hbox (13.96758pt too wide) in paragraph at lines 382--383
+Overfull \hbox (13.96758pt too wide) in paragraph at lines 383--384
  [][][]\tt subtype <подтип>[] $\mit .$ \tt определяет подтип объекта. Поддержив
 аются следующие|
 
@@ -841,7 +841,7 @@ Overfull \hbox (13.96758pt too wide) in paragraph at lines 382--383
 .etc.
 
 
-Overfull \hbox (1.43962pt too wide) in paragraph at lines 394--394
+Overfull \hbox (1.43962pt too wide) in paragraph at lines 395--395
  [][][]\tt align[] $\mit .$ \tt выравнивание символа или текста. Принимает след
 ующие значения:|
 
@@ -859,7 +859,7 @@ Overfull \hbox (1.43962pt too wide) in paragraph at lines 394--394
 .etc.
 
 [22]
-Overfull \hbox (23.6235pt too wide) in paragraph at lines 394--394
+Overfull \hbox (23.6235pt too wide) in paragraph at lines 395--395
  []\tt symbol-hide[] и []symbol-show[] в lay-out) символ будет скрыт/показан в 
 соответствии|
 
@@ -872,7 +872,7 @@ Overfull \hbox (23.6235pt too wide) in paragraph at lines 394--394
 .etc.
 
 
-Overfull \hbox (5.89247pt too wide) in paragraph at lines 402--403
+Overfull \hbox (5.89247pt too wide) in paragraph at lines 403--404
  []\tt <center>[]/[]<centre>[], []<left>[], []<right>[] $\mit .$ \tt выравниван
 ие строк для многострочных|
 
@@ -885,7 +885,7 @@ Overfull \hbox (5.89247pt too wide) in paragraph at lines 402--403
 .etc.
 
 
-Overfull \hbox (7.198pt too wide) in paragraph at lines 416--417
+Overfull \hbox (7.198pt too wide) in paragraph at lines 417--418
  \tt значения: []+<число>[] (высота потолка), []-<число>[] (глубина этажа или г
 лубина|
 
@@ -898,7 +898,7 @@ Overfull \hbox (7.198pt too wide) in paragraph at lines 416--417
 .etc.
 
 
-Overfull \hbox (11.92601pt too wide) in paragraph at lines 416--417
+Overfull \hbox (11.92601pt too wide) in paragraph at lines 417--418
  \tt воды), []<число>[] (расстояние между потолком и полом) и [][+<число> -<чис
 ло>][]|
 
@@ -911,7 +911,7 @@ Overfull \hbox (11.92601pt too wide) in paragraph at lines 416--417
 .etc.
 
 [23]
-Overfull \hbox (11.82771pt too wide) in paragraph at lines 420--420
+Overfull \hbox (11.82771pt too wide) in paragraph at lines 421--421
  []\it dimensions (размеры хода): []\tt -value [<выше> <ниже> [<единицы>]][] оп
 ределяет|
 
@@ -924,7 +924,7 @@ Overfull \hbox (11.82771pt too wide) in paragraph at lines 420--420
 .etc.
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 451--452
+Underfull \hbox (badness 1253) in paragraph at lines 452--453
  []\it заливка ходов: []\tt flow-stone[] (натечный каскад), []moon-milk[] (монд
 мильх),
 
@@ -937,7 +937,7 @@ Underfull \hbox (badness 1253) in paragraph at lines 451--452
 .etc.
 
 [MP to PDF] (mp/xsect.1) [24]
-Underfull \hbox (badness 1210) in paragraph at lines 461--462
+Underfull \hbox (badness 1210) in paragraph at lines 462--463
  \tt точкам), []pre-sumed[] (предполагаемая), []pit[] (стены колодца)$[]$, []fl
 ow-stone[]
 
@@ -950,7 +950,7 @@ ow-stone[]
 .etc.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
  []\it border (граница): []\tt vis-i-ble[] (видимая) (по умолчанию), []in-vis-i
 -ble[]
 
@@ -963,7 +963,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 463--464
 .etc.
 
 
-Underfull \hbox (badness 5217) in paragraph at lines 467--468
+Underfull \hbox (badness 5217) in paragraph at lines 468--469
  []\it survey (нитка хода): []\tt cave[] (пещерная) (по умолчанию), []sur-face[
 ]
 
@@ -976,7 +976,7 @@ Underfull \hbox (badness 5217) in paragraph at lines 467--468
 .etc.
 
 [25]
-Underfull \hbox (badness 4217) in paragraph at lines 473--473
+Underfull \hbox (badness 4217) in paragraph at lines 474--474
  \tt выровнена по горизонтали/вертикали с предыдущей точкой (или
 
 \hbox(8.328+2.85599)x452.96786, glue set 3.48332
@@ -988,7 +988,7 @@ Underfull \hbox (badness 4217) in paragraph at lines 473--473
 .etc.
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 473--473
+Underfull \hbox (badness 3158) in paragraph at lines 474--474
  \tt следующей точкой, если нет предыдущей точки). Результат --
 
 \hbox(8.04599+2.85599)x452.96786, glue set 3.16235
@@ -1000,7 +1000,7 @@ Underfull \hbox (badness 3158) in paragraph at lines 473--473
 .etc.
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 473--474
+Underfull \hbox (badness 2020) in paragraph at lines 474--475
  []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
  в
 
@@ -1013,7 +1013,7 @@ Underfull \hbox (badness 2020) in paragraph at lines 473--474
 .etc.
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 477--477
+Underfull \hbox (badness 1635) in paragraph at lines 478--478
  \tt ближайшая станция не будет принята во внимание; вместо этого
 
 \hbox(8.04599+2.85599)x452.96786, glue set 2.53996
@@ -1025,7 +1025,7 @@ Underfull \hbox (badness 1635) in paragraph at lines 477--477
 .etc.
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 477--477
+Underfull \hbox (badness 1715) in paragraph at lines 478--478
  \tt контурной линии. Если спецификация градиента отсутствует, то
 
 \hbox(8.04599+2.85599)x452.96786, glue set 2.57933
@@ -1037,7 +1037,7 @@ Underfull \hbox (badness 1715) in paragraph at lines 477--477
 .etc.
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 487--488
+Underfull \hbox (badness 1400) in paragraph at lines 488--489
 \tt каждая пара последовательных линий должны пересекаться. Чтобы
 
 \hbox(8.04599+2.412)x452.96786, glue set 2.41168
@@ -1049,7 +1049,7 @@ Underfull \hbox (badness 1400) in paragraph at lines 487--488
 .etc.
 
 [26]
-Underfull \hbox (badness 2020) in paragraph at lines 510--510
+Underfull \hbox (badness 2020) in paragraph at lines 511--511
  []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
  в
 
@@ -1062,7 +1062,7 @@ Underfull \hbox (badness 2020) in paragraph at lines 510--510
 .etc.
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 536--537
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
  \tt линии, необязательно сопровождаемый меткой символа линии
 
 \hbox(8.04599+2.412)x452.96786, glue set 5.16965
@@ -1074,7 +1074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 536--537
 .etc.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--537
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
  []\tt <идентификатор>:<метка>[] (например, []po-dangl_l31@podangl:mark1[]).
 
 \hbox(8.706+2.69398)x452.96786, glue set 7.37584
@@ -1086,7 +1086,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 536--537
 .etc.
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 542--542
+Underfull \hbox (badness 1237) in paragraph at lines 543--543
  [][][]\tt count <N>[] (при использовании со скрапами) $\mit .$ \tt The-rion по
 пытается
 
@@ -1104,7 +1104,7 @@ Underfull \hbox (badness 1237) in paragraph at lines 542--542
 .etc.
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 583--583
+Underfull \hbox (badness 10000) in paragraph at lines 584--584
  []\tt <название карты> [<смещение X> <смещение Y> <единиц>][]
 
 \hbox(8.04599+2.69398)x452.96786, glue set 4.97482
@@ -1116,7 +1116,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 583--583
 .etc.
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 587--587
+Underfull \hbox (badness 4467) in paragraph at lines 588--588
  [][][]\tt colo[u]r <цвет>[] $\mit .$ \tt установить цвет карты; эта опция отме
 няет
 
@@ -1134,7 +1134,7 @@ Underfull \hbox (badness 4467) in paragraph at lines 587--587
 .etc.
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 597--598
+Underfull \hbox (badness 1092) in paragraph at lines 598--599
 []\tt Спецификация поверхности (рельефа). Его можно отобразить двумя
 
 \hbox(8.04599+2.85599)x452.96786, glue set 2.21896
@@ -1146,7 +1146,7 @@ Underfull \hbox (badness 1092) in paragraph at lines 597--598
 .etc.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
  [][][]\tt grid-flip (none)/vertical/horizontal[] $\mit .$ \tt полезно, если ва
 ша сетка
 
@@ -1164,7 +1164,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 636--637
 .etc.
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 644--645
+Underfull \hbox (badness 2181) in paragraph at lines 645--646
 []\tt Считывает данные съемки в разных форматах (в настоящее время
 
 \hbox(8.04599+2.69398)x452.96786, glue set 2.79477
@@ -1176,7 +1176,7 @@ Underfull \hbox (badness 2181) in paragraph at lines 644--645
 .etc.
 
 [30]
-Underfull \hbox (badness 7064) in paragraph at lines 662--662
+Underfull \hbox (badness 7064) in paragraph at lines 663--663
  [][][]\tt cs <система координат>[] $\mit .$ \tt система координат для станций 
 с
 
@@ -1194,7 +1194,7 @@ Underfull \hbox (badness 7064) in paragraph at lines 662--662
 .etc.
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 662--662
+Underfull \hbox (badness 1009) in paragraph at lines 663--663
  \tt файле смещаются от координат в нижнем регистре к координатам
 
 \hbox(8.04599+2.412)x452.96786, glue set 2.16283
@@ -1206,7 +1206,7 @@ Underfull \hbox (badness 1009) in paragraph at lines 662--662
 .etc.
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 668--669
+Underfull \hbox (badness 1721) in paragraph at lines 669--670
 []\tt Эта команда используется для сохранения предопределенных точных
 
 \hbox(8.04599+2.85599)x452.96786, glue set 2.58516
@@ -1218,7 +1218,7 @@ Underfull \hbox (badness 1721) in paragraph at lines 668--669
 .etc.
 
 [31]
-Underfull \hbox (badness 5607) in paragraph at lines 707--707
+Underfull \hbox (badness 5607) in paragraph at lines 708--708
  []\tt Id означает идентификатор объекта (всегда должен указываться
 
 \hbox(8.04599+2.85599)x452.96786, glue set 3.82976
@@ -1230,7 +1230,7 @@ Underfull \hbox (badness 5607) in paragraph at lines 707--707
 .etc.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 713--713
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
 []\tt Пользовательские атрибуты используются при экспорте карты в
 
 \hbox(8.04599+2.85599)x452.96786, glue set 4.47638
@@ -1242,7 +1242,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 713--713
 .etc.
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 715--716
+Underfull \hbox (badness 3271) in paragraph at lines 716--717
  \tt атрибуты записываются в исходный файл \manfnt META\tt -\manfnt POST \tt ка
 к строки
 
@@ -1255,7 +1255,7 @@ Underfull \hbox (badness 3271) in paragraph at lines 715--716
 .etc.
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 715--716
+Underfull \hbox (badness 2237) in paragraph at lines 716--717
  \tt (именуемые []ATTR_<имя>[]) и могут быть оценены и использованы
 
 \hbox(8.04599+2.85599)x452.96786, glue set 2.81836
@@ -1267,7 +1267,7 @@ Underfull \hbox (badness 2237) in paragraph at lines 715--716
 .etc.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 717--718
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
  []\tt Вы можете проверить наличие такой переменной, используя:
 
 \hbox(8.04599+2.85599)x452.96786, glue set 4.83806
@@ -1895,7 +1895,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (78 pages, 768364 bytes).
+Output written on thbook.pdf (78 pages, 768360 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
