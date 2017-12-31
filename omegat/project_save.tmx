@@ -4248,8 +4248,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each scrap has its own local cartesian coordinate system, which usually corresponds with the millimeter paper (if you measure the coordinates of map symbols by hand) or pixels of the scanned image (if you use XTherion).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010010Z" creationid="Алексей" creationdate="20170921T003206Z">
-        <seg>У каждого скрапа есть своя собственная локальная декартова система коор\-динат, которая обычно соответствует миллиметровой бумаге (если Вы опре\-деляете координаты символов карты вручную) или пикселям отсканирован\-ного изображения (если Вы используете XTherion).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084251Z" creationid="Алексей" creationdate="20170921T003206Z">
+        <seg>У каждого скрапа есть своя собственная локальная декартова система координат, которая обычно соответствует миллиметровой бумаге (если Вы определяете координаты символов карты вручную) или пикселям отсканированного изображения (если Вы используете XTherion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6789,8 +6789,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>On the other hand smaller scraps will probably be less distorted by map warping algorithms than larger scraps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T005115Z" creationid="Алексей" creationdate="20170920T173329Z">
-        <seg>С другой стороны, маленькие скрапы, вероятно, будут менее искажены алгорит\-мами преобразования карт, чем более крупные скрапы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084144Z" creationid="Алексей" creationdate="20170920T173329Z">
+        <seg>С другой стороны, маленькие скрапы, вероятно, будут менее искажены алгоритмами преобразования карт, чем более крупные скрапы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,8 +7198,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Scrap border consists of lines with the |-outline out| or |-outline in| options (passage walls have |-outline out| by default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T002839Z" creationid="Алексей" creationdate="20170921T002839Z">
-        <seg>Граница скрапа состоит из линий с опцией |-outline| или |-outline in| (стены хода по умалчанию имеют опцию |-outline out|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084213Z" creationid="Алексей" creationdate="20170921T002839Z">
+        <seg>Граница скрапа состоит из линий с опцией |-outline| или |-outline in| (стены хода по умолчанию имеют опцию |-outline out|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9683,8 +9683,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Using too large scraps may exhaust &lt;u2&gt;'s memory if passage fills are frequently used and the map editor in XTherion is much less responsive when editing huge scraps.] Each scrap is processed separately by &lt;u3&gt;; scraps which are too large may exceed &lt;u4&gt;'s memory and cause errors.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T005654Z" creationid="Алексей" creationdate="20170921T002352Z">
-        <seg>Слишком большие скрапы могут исчерпать память &lt;u2&gt;, если часто используются заливки хода. Кроме того, редактор карт в XTherion'е медленнее реагирует при редактировании больших скрапов.] Каждый скрап обраба\-тывается отдельно &lt;u3&gt;; слишком большие скрапы могут превысить размер памяти &lt;u4&gt;\ и вызвать ошибки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084152Z" creationid="Алексей" creationdate="20170921T002352Z">
+        <seg>Слишком большие скрапы могут исчерпать память &lt;u2&gt;, если часто используются заливки хода. Кроме того, редактор карт в XTherion'е медленнее реагирует при редактировании больших скрапов.] Каждый скрап обрабатывается отдельно &lt;u3&gt;; слишком большие скрапы могут превысить размер памяти &lt;u4&gt;\ и вызвать ошибки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11819,8 +11819,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u1&gt; When deciding about scrap size please take into account the following:} Using small scraps may take more time for cartographer to optimize scrap joins.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T005047Z" creationid="Алексей" creationdate="20170920T073519Z">
-        <seg>{При определении размера скрапа учитывайте следующее:} Использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их объедине\-ния.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084140Z" creationid="Алексей" creationdate="20170920T073519Z">
+        <seg>{При определении размера скрапа учитывайте следующее:} Использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их объединения.</seg>
       </tuv>
     </tu>
     <tu>
