@@ -217,8 +217,8 @@
       <tuv lang="EN-US">
         <seg>(M, A) * |rotate &lt;value&gt;| = rotates the map (M, A; default: |0|) * |units &lt;metric/imperial&gt;| = set output units (M, A; default: |metric|) * |symbol-set &lt;symbol-set&gt;| = use |symbol-set| for all map symbols, if available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142305Z" creationid="Алексей" creationdate="20171021T121720Z">
-        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142330Z" creationid="Алексей" creationdate="20171021T121720Z">
+        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по\break умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,8 +939,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;symbol-set&gt;| = display a particular symbol in the given symbol-set.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184910Z" creationid="Алексей" creationdate="20171021T125245Z">
-        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор|\break |символов&gt;| = отобра\-жение определенного символа в заданном наборе сим\-волов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142556Z" creationid="Алексей" creationdate="20171021T125245Z">
+        <seg>* {&lt;u0&gt; 0cm minus 4pt |symbol-assign &lt;point/line/area/group/special&gt; &lt;тип символа&gt; &lt;набор|\break |символов&gt;| = отображение определенного символа в заданном наборе\break символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3639,8 +3639,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Be aware, that symbol set name is case sensitive.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T122516Z" creationid="Алексей" creationdate="20171021T122001Z">
-        <seg>Помните, что имя набора символов чувстви\-тельно к регистру.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142309Z" creationid="Алексей" creationdate="20171021T122001Z">
+        <seg>Помните, что имя набора символов чувствительно к регистру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4815,8 +4815,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Group may be one of the following: all, centerline, sections, &lt;u0&gt;{5.3}water, speleothems, passage-fills, &lt;u1&gt;{5.4}ice, sediments, equipment.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T131037Z" creationid="Алексей" creationdate="20171021T130234Z">
-        <seg>Группа (group) может быть одной из следующих: all (все), centerline (нитка хода), sections (сечения), &lt;u0&gt;{5.3}water (вода), speleothems (спелеотемы), passage-fills (рельеф хода), &lt;u1&gt;{5.4} ice (лед), sediments (отложения), equipment (оборудова\-ние).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142508Z" creationid="Алексей" creationdate="20171021T130234Z">
+        <seg>Группа (group) может быть одной из следующих: all (все), centerline (нитка хода), sections (сечения), &lt;u0&gt;{5.3}water (вода), speleothems (спелеотемы), passage-fills (рельеф хода), &lt;u1&gt;{5.4} ice (лед), sediments (отложения), equipment\break (оборудование).</seg>
       </tuv>
     </tu>
     <tu>
