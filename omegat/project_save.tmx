@@ -3167,8 +3167,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Absolute loop error is $&lt;u0&gt;{&lt;u1&gt; x^2+&lt;u2&gt; y^2+&lt;u3&gt; z^2}$, where $&lt;u4&gt; x$ is the difference between the identical start and end points of the loop before the error distribution measured along the $x$ coordinate axis; similarly for $y$ and $z$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212249Z" creationid="Алексей" creationdate="20171022T131610Z">
-        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{d_x^2+d_y^2+d_z^2}$, где $d_x$ разность между одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212633Z" creationid="Алексей" creationdate="20171022T131610Z">
+        <seg>Абсолютная ошибка кольца равна $&lt;u0&gt;{d_x^2+d_y^2+d_z^2}$, где $d_x$ разность между\break одинаковыми начальными и конечными точками кольца до распределения ошибок, измеренная вдоль оси координат $x$; аналогично для $y$ и $z$.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,8 +3671,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Besides the messages from Therion and other programs used, the log file contains information about computed values of magnetic declination and meridian convergence, loop errors and scrap distortions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212236Z" creationid="Алексей" creationdate="20171022T131553Z">
-        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного склонения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212604Z" creationid="Алексей" creationdate="20171022T131553Z">
+        <seg>Помимо сообщений от Therion'а и других используемых программ, файл журнала содержит информацию о вычисленных значениях магнитного\break склонения и конвергенции меридиана, ошибок колец и искажений скрапов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5551,8 +5551,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In atlas mode some additional information is put on each page: page number, map name, and page label.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212440Z" creationid="Алексей" creationdate="20171024T172825Z">
-        <seg>В режиме атласа на каждую страницу помещается дополнительная информация: номер страницы, название карты и метка страницы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212823Z" creationid="Алексей" creationdate="20171024T172825Z">
+        <seg>В режиме атласа на каждую страницу помещается дополнительная\break информация: номер страницы, название карты и метка страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6016,8 +6016,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It supports e.g. high-resolution rendering to file and stereo view using 3D-glasses.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T175128Z" creationid="Алексей" creationdate="20171024T174035Z">
-        <seg>Он поддерживает, например, рендеринг с высоким разрешением и стерео-прос\-мотр с помощью 3D-очков.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T213003Z" creationid="Алексей" creationdate="20171024T174035Z">
+        <seg>Он поддерживает, например, рендеринг с высоким разрешением и\break стерео-просмотр с помощью 3D-очков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,8 +6456,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Maps produced in DXF, ESRI or KML formats may be further processed in appropriate software.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212512Z" creationid="Алексей" creationdate="20171024T173513Z">
-        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть дополнительно обработаны в соответствующем программном обеспечении.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212851Z" creationid="Алексей" creationdate="20171024T173513Z">
+        <seg>Карты, созданные в форматах DXF, ESRI или KML, могут быть\break дополнительно обработаны в соответствующем программном обеспечении.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Percentual loop error is calculated as {&lt;u5&gt; absolute error / loop length}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T135530Z" creationid="Алексей" creationdate="20171022T131815Z">
-        <seg>Процентная погрешность кольца вычисляется как {&lt;u5&gt; абсолютная ошибка / длину кольца}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212659Z" creationid="Алексей" creationdate="20171022T131815Z">
+        <seg>Процентная погрешность кольца вычисляется как {&lt;u5&gt; абсолютная ошибка/\breakдлину кольца}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7192,8 +7192,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Scrap distortion is calculated using the distortion measure defined for all pairs of points (point symbols, points and control points of line symbols) in the scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212253Z" creationid="Алексей" creationdate="20171022T131952Z">
-        <seg>Искажение скрапа вычисляется с использованием меры искажения, определенной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212716Z" creationid="Алексей" creationdate="20171022T131952Z">
+        <seg>Искажение скрапа вычисляется с использованием меры искажения,\break определенной для всех пар точек (точечные символы, точки и контрольные точки линейных символов) в скрапе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,16 +8992,16 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These maps do not contain visualized map symbols</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T174836Z" creationid="Алексей" creationdate="20171024T173536Z">
-        <seg>Эти\break карты не содержат визуализированных символов карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212910Z" creationid="Алексей" creationdate="20171024T173536Z">
+        <seg>Эти карты не содержат визуализированных символов карты.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These may be loaded in appropriate viewing, editing or raytracing programs to be printed or further processed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T175030Z" creationid="Алексей" creationdate="20171024T173802Z">
-        <seg>Они могут быть загружены в соответствующие про\-граммы просмотра, редактирования или трассировки для печати или даль\-нейшей обработки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T212943Z" creationid="Алексей" creationdate="20171024T173802Z">
+        <seg>Они могут быть загружены в соответствующие\break программы просмотра, редактирования или трассировки для печати или дальнейшей обработки.</seg>
       </tuv>
     </tu>
     <tu>
