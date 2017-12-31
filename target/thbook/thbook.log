@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  31 DEC 2017 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  31 DEC 2017 16:48
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -1376,29 +1376,16 @@ Underfull \hbox (badness 2460) in paragraph at lines 772--773
 .etc.
 
 
-Overfull \hbox (31.90744pt too wide) in paragraph at lines 772--773
-\tt рисовать с неправильного конца. Меню \it Точка линии \tt позволяет вам отре
-гулировать|
-
-\hbox(8.11198+2.85599)x452.96786, glue set - 1.0
-.\tt р
-.\kern-0.14401
-.\tt и
-.\kern-0.12001
-.\tt с
-.etc.
-
-
-Overfull \hbox (34.47148pt too wide) in paragraph at lines 772--773
-\tt в этой точке (которая включена по умолчанию) или наличие соседних контрольн
-ых|
+Overfull \hbox (43.59624pt too wide) in paragraph at lines 772--773
+\tt отрегулировать атрибуты любой выбранной точки на линии, например, сглаживан
+ие|
 
 \hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\tt в
-.\glue 4.31999 plus 2.592 minus 1.032
-.\tt э
-.\tt т
 .\tt о
+.\tt т
+.\tt р
+.\tt е
+.\tt г
 .etc.
 
 
@@ -2422,7 +2409,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (78 pages, 768519 bytes).
+Output written on thbook.pdf (78 pages, 768525 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
