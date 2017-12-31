@@ -1844,8 +1844,8 @@
       <tuv lang="EN-US">
         <seg>* |extend [prev[ious] &lt;station&gt;]| = if the point type is station and scrap projection is extended elevation, you can adjust the extension of the centreline using this option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053554Z" creationid="Алексей" creationdate="20170924T050305Z">
-        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это station (станция), а скрап является extended elevation (разрез-разверткой), то вы можете регулиро\-вать развертку нитки хода, используя эту опцию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090429Z" creationid="Алексей" creationdate="20170924T050305Z">
+        <seg>* |extend [prev[ious] &lt;станция&gt;]| = если тип точки -- это station (станция), а скрап является extended elevation (разрез-разверткой), то вы можете регулировать развертку нитки хода, используя эту опцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,8 +1900,8 @@
       <tuv lang="EN-US">
         <seg>* |from &lt;station&gt;| = valid for extra points, specifies reference station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T045844Z" creationid="Алексей" creationdate="20170924T044320Z">
-        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает опор\-ную станцию.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090403Z" creationid="Алексей" creationdate="20170924T044320Z">
+        <seg>* |from &lt;станция&gt;| = применяется для дополнительных точек, указывает опорную станцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8368,8 +8368,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The subtype may be specified also directly in |&lt;type&gt;| specification using `|:|' as a separator.&lt;u0&gt;E.g. |station:fixed|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T092234Z" creationid="Алексей" creationdate="20170923T091817Z">
-        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использова\-нием `|:|' в качестве разделителя&lt;u0&gt;Например, |station:fixed|.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090233Z" creationid="Алексей" creationdate="20170923T091817Z">
+        <seg>Подтип может быть указан также непосредственно в |&lt;type&gt;| с использованием `|:|' в качестве разделителя&lt;u0&gt;Например, |station:fixed|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -11446,8 +11446,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; air-draught:} |winter|, |summer|, |undefined| (default);</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091641Z" creationid="Алексей" creationdate="20170923T091054Z">
-        <seg>{&lt;u0&gt; air-draught (ток воздуха):} |winter| (зимой), |summer| (летом), |undefined| (не опреде\-лено) (по умолчанию);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090216Z" creationid="Алексей" creationdate="20170923T091054Z">
+        <seg>{&lt;u0&gt; air-draught (ток воздуха):} |winter| (зимой), |summer| (летом), |undefined| (не определено) (по умолчанию);</seg>
       </tuv>
     </tu>
     <tu>
