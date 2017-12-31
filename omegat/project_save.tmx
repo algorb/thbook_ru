@@ -2228,8 +2228,8 @@
       <tuv lang="EN-US">
         <seg>* |scale &lt;specification&gt;| = is used to pre-scale (convert coordinates from pixels to meters) the scrap data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175042Z" creationid="Алексей" creationdate="20170922T173742Z">
-        <seg>* |scale &lt;спецификация&gt;| = используется для предварительного масштабирования (преобразования координат пикселей в метры) данных скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085547Z" creationid="Алексей" creationdate="20170922T173742Z">
+        <seg>* |scale &lt;спецификация&gt;| = используется для предварительного\break масштабирования (преобразования координат пикселей в метры) данных скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,8 +2524,8 @@
       <tuv lang="EN-US">
         <seg>* |walls &lt;on/off/auto&gt;| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084545Z" creationid="Алексей" creationdate="20170922T180948Z">
-        <seg>* |walls &lt;on/off/auto&gt;| = указывает, следует ли использовать скрап в создании 3D-модели. * |flip (none)/horizontal/vertical| = зеркально отображает скрап после трансформации масштаба. * |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет префикс/суффикс всем станциям скрапа в текущей съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085756Z" creationid="Алексей" creationdate="20170922T180948Z">
+        <seg>* |walls &lt;on/off/auto&gt;| = указывает, следует ли использовать скрап в создании 3D-модели. * |flip (none)/horizontal/vertical| = зеркально отображает скрап после\break трансформации масштаба. * |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет префикс/суффикс всем станциям скрапа в текущей съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4216,8 +4216,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each projection is identified by a type and optionally by an index in the form |type[:index]|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174445Z" creationid="Алексей" creationdate="20170922T172958Z">
-        <seg>Каждая проекция идентифицируется типом и дополнительно индексом в форме |тип[:индекс]|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085413Z" creationid="Алексей" creationdate="20170922T172958Z">
+        <seg>Каждая\break проекция идентифицируется типом и дополнительно индексом в форме |тип[:индекс]|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4232,8 +4232,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each scrap has its own local cartesian coordinate system, which usually corresponds with the millimeter paper (if you measure the coordinates of map symbols by hand) or pixels of the scanned image (if you use XTherion).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084251Z" creationid="Алексей" creationdate="20170921T003206Z">
-        <seg>У каждого скрапа есть своя собственная локальная декартова система координат, которая обычно соответствует миллиметровой бумаге (если Вы определяете координаты символов карты вручную) или пикселям отсканированного изображения (если Вы используете XTherion).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084930Z" creationid="Алексей" creationdate="20170921T003206Z">
+        <seg>У каждого скрапа есть своя собственная локальная декартова система\break координат, которая обычно соответствует миллиметровой бумаге (если Вы определяете координаты символов карты вручную) или пикселям\break отсканированного изображения (если Вы используете XTherion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5915,8 +5915,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is useful for absolute placing of imported sketches where no survey stations are specified.&lt;u0&gt;If there are some survey stations in the scrap, the |cs| specification is ignored.] * |stations &lt;list of station names&gt;| = stations you want to plot to the scrap, but which are not used for scrap transformation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T181819Z" creationid="Алексей" creationdate="20170922T180726Z">
-        <seg>Это полезно для абсолютного размещения импортированных эскизов, где не указана ни одна станция съемки&lt;u0&gt;Если в скрапе есть несколько станций съемки, |cs| игнорируется.]. * |stations &lt;список имен станций&gt; | = станции, которые вы хотите использовать в скрапе, но которые не используются для его  трансформации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085644Z" creationid="Алексей" creationdate="20170922T180726Z">
+        <seg>Это полезно для абсолютного размещения импортированных эскизов, где не указана ни одна станция съемки&lt;u0&gt;Если в скрапе есть несколько станций съемки, |cs| игнорируется.]. * |stations &lt;список имен станций&gt; | = станции, которые вы хотите\break использовать в скрапе, но которые не используются для его\break трансформации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7991,7 +7991,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The following projection types are supported:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084402Z" creationid="Алексей" creationdate="20170922T173025Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085443Z" creationid="Алексей" creationdate="20170922T173025Z">
         <seg>Поддерживаются следующие типы проекций:</seg>
       </tuv>
     </tu>
@@ -8111,8 +8111,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The index can be any keyword.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T173018Z" creationid="Алексей" creationdate="20170922T173018Z">
-        <seg>Индекс может быть любым ключевым словом.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085446Z" creationid="Алексей" creationdate="20170922T173018Z">
+        <seg>Индекс может быть любым ключевым словом.\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -8456,8 +8456,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The transformation consists of the following steps: &lt;u0&gt; * Linear transformation (shifting, scaling and rotation) which `best' fits stations drawn in the scrap to real ones.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084310Z" creationid="Алексей" creationdate="20170921T003830Z">
-        <seg>Трансформация состоит из следующих шагов: &lt;u0&gt; * линейное преобразование (смещение, масштабирование и вращение), которые 'лучше всего' соответствуют станциям.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085036Z" creationid="Алексей" creationdate="20170921T003830Z">
+        <seg>Трансформация состоит из следующих шагов: &lt;u0&gt; * линейное преобразование (смещение, масштабирование и вращение),\break которые 'лучше всего' соответствуют станциям.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,8 +8753,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion does the transformation from this local coordinate system to the real coordinates using the positions of survey stations, which are specified both in the scrap as point map symbols and in centreline data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084259Z" creationid="Алексей" creationdate="20170921T003436Z">
-        <seg>Therion делает преобразование этой локальной системы координат в реальные координаты, используя позиции станций съемки, которые определены в скрапе как символы точки на карте и определены в нитке хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085010Z" creationid="Алексей" creationdate="20170921T003436Z">
+        <seg>Therion делает преобразование этой локальной системы координат в реальные\break координаты, используя позиции станций съемки, которые определены в\break скрапе как символы точки на карте и определены в нитке хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8993,8 +8993,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These lines shouldn't intersect---otherwise Therion (&lt;u0&gt;) can't determine the interior of the scrap and &lt;u1&gt;&lt;u2&gt;issues a warning message ``|scrap outline intersects itself|''.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T003025Z" creationid="Алексей" creationdate="20170921T003025Z">
-        <seg>Эти линии не должны пересекаться, иначе, Therion (&lt;u0&gt;) не может определить внутреннюю часть скрапа и &lt;u1&gt;&lt;u2&gt;выдает предупреждение ''|scrap outline intersects itself|''.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084854Z" creationid="Алексей" creationdate="20170921T003025Z">
+        <seg>Эти линии не должны\break пересекаться, иначе, Therion (&lt;u0&gt;) не может определить внутреннюю часть скрапа и &lt;u1&gt;&lt;u2&gt;выдает предупреждение ''|scrap outline intersects itself|''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9667,8 +9667,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Using too large scraps may exhaust &lt;u2&gt;'s memory if passage fills are frequently used and the map editor in XTherion is much less responsive when editing huge scraps.] Each scrap is processed separately by &lt;u3&gt;; scraps which are too large may exceed &lt;u4&gt;'s memory and cause errors.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084152Z" creationid="Алексей" creationdate="20170921T002352Z">
-        <seg>Слишком большие скрапы могут исчерпать память &lt;u2&gt;, если часто используются заливки хода. Кроме того, редактор карт в XTherion'е медленнее реагирует при редактировании больших скрапов.] Каждый скрап обрабатывается отдельно &lt;u3&gt;; слишком большие скрапы могут превысить размер памяти &lt;u4&gt;\ и вызвать ошибки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084829Z" creationid="Алексей" creationdate="20170921T002352Z">
+        <seg>Слишком большие скрапы могут исчерпать память &lt;u2&gt;, если часто используются заливки хода. Кроме того, редактор карт в XTherion'е медленнее реагирует при редактировании\break больших скрапов.] Каждый скрап\break обрабатывается отдельно &lt;u3&gt;; слишком большие скрапы могут\break превысить размер памяти &lt;u4&gt;\ и вызвать ошибки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10133,8 +10133,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You don't have to specify (draw) them with the |point station| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180755Z" creationid="Алексей" creationdate="20170922T180755Z">
-        <seg>Вам не нужно указывать (рисовать) их с помощью команды |point station|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085706Z" creationid="Алексей" creationdate="20170922T180755Z">
+        <seg>Вам не нужно указывать (рисовать) их с помощью\break команды |point station|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10733,8 +10733,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>none, survey</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154527Z" creationid="Алексей" creationdate="20170911T154527Z">
-        <seg>none, survey</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085334Z" creationid="Алексей" creationdate="20170911T154527Z">
+        <seg>|	|none, survey</seg>
       </tuv>
     </tu>
     <tu>
@@ -11803,8 +11803,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u1&gt; When deciding about scrap size please take into account the following:} Using small scraps may take more time for cartographer to optimize scrap joins.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084140Z" creationid="Алексей" creationdate="20170920T073519Z">
-        <seg>{При определении размера скрапа учитывайте следующее:} Использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их объединения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084815Z" creationid="Алексей" creationdate="20170920T073519Z">
+        <seg>{При определении размера скрапа учитывайте следующее:} Использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их\break объединения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12889,10 +12889,12 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|scrap &lt;id&gt; [OPTIONS] ... point, line and area commands ... endscrap [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171754Z" creationid="Алексей" creationdate="20170922T171448Z">
-        <seg>|scrap &lt;id&gt; [ОПЦИИ]
-						... команды точек, линий и областей ...
-					endscrap [&lt;id&gt;]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085241Z" creationid="Алексей" creationdate="20170922T171448Z">
+        <seg>
+
+|scrap &lt;id&gt; [ОПЦИИ]
+	... команды точек, линий и областей ...
+endscrap [&lt;id&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
