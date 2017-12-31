@@ -553,22 +553,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>* Non-linear transformation of the scrap which (1) moves joined points together, (2) doesn't move survey stations, (3) is continuous.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004519Z" creationid="Алексей" creationdate="20170921T004512Z">
-        <seg>* Non-linear transformation of the scrap which (1) moves joined points together, (2) doesn't move survey stations, (3) is continuous.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004515Z" creationid="Алексей" creationdate="20170921T004311Z">
-        <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131328Z" creationid="Алексей" creationdate="20170909T140929Z">
@@ -2540,8 +2524,8 @@
       <tuv lang="EN-US">
         <seg>* |walls &lt;on/off/auto&gt;| = specify if the scrap should be used in 3D model reconstruction * |flip (none)/horizontal/vertical| = flips the scrap after scale transformation * |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T182040Z" creationid="Алексей" creationdate="20170922T180948Z">
-        <seg>* |walls &lt;on/off/auto&gt;| = указывает, следует ли использовать скрап в создании 3D-модели. * |flip (none)/horizontal/vertical| = зеркально отображает скрап после трансформа\-ции масштаба. * |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет префикс/суффикс всем стан\-циям скрапа в текущей съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084545Z" creationid="Алексей" creationdate="20170922T180948Z">
+        <seg>* |walls &lt;on/off/auto&gt;| = указывает, следует ли использовать скрап в создании 3D-модели. * |flip (none)/horizontal/vertical| = зеркально отображает скрап после трансформации масштаба. * |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет префикс/суффикс всем станциям скрапа в текущей съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,8 +5120,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If scrap projection is none, this is the only transformation that is done with coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175155Z" creationid="Алексей" creationdate="20170922T173906Z">
-        <seg>Если проек\-ция скрапа установлена в none, то это единственное преобразование, кото\-рое выполняется с координатами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084446Z" creationid="Алексей" creationdate="20170922T173906Z">
+        <seg>Если проекция скрапа установлена в none, то это единственное преобразование, которое выполняется с координатами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8007,8 +7991,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The following projection types are supported:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174554Z" creationid="Алексей" creationdate="20170922T173025Z">
-        <seg>Поддерживаются следую\-щие типы проекций:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084402Z" creationid="Алексей" creationdate="20170922T173025Z">
+        <seg>Поддерживаются следующие типы проекций:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,8 +8456,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The transformation consists of the following steps: &lt;u0&gt; * Linear transformation (shifting, scaling and rotation) which `best' fits stations drawn in the scrap to real ones.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010252Z" creationid="Алексей" creationdate="20170921T003830Z">
-        <seg>Трансформация состоит из следующих шагов: &lt;u0&gt; * линейное преобразование (смещение, масштабирование и вращение), кото\-рые 'лучше всего' соответствуют станциям.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084310Z" creationid="Алексей" creationdate="20170921T003830Z">
+        <seg>Трансформация состоит из следующих шагов: &lt;u0&gt; * линейное преобразование (смещение, масштабирование и вращение), которые 'лучше всего' соответствуют станциям.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,8 +8753,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion does the transformation from this local coordinate system to the real coordinates using the positions of survey stations, which are specified both in the scrap as point map symbols and in centreline data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T010106Z" creationid="Алексей" creationdate="20170921T003436Z">
-        <seg>Therion делает преобра\-зование этой локальной системы координат в реальные координаты, исполь\-зуя позиции станций съемки, которые определены в скрапе как символы точки на карте и определены в нитке хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084259Z" creationid="Алексей" creationdate="20170921T003436Z">
+        <seg>Therion делает преобразование этой локальной системы координат в реальные координаты, используя позиции станций съемки, которые определены в скрапе как символы точки на карте и определены в нитке хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12269,8 +12253,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|[&lt;num1&gt; &lt;num2&gt; &lt;length units&gt;]| = |&lt;num1&gt;| drawing units corresponds to |&lt;num2&gt; &lt;length units&gt;| in reality.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T175936Z" creationid="Алексей" creationdate="20170922T174053Z">
-        <seg>|[&lt;число1&gt; &lt;число2&gt; &lt;единица длины&gt;]| = |&lt;число1&gt;| чертежных единиц соответ\-ствует |&lt;число2&gt; &lt;единиц длины&gt;| в действительности.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084454Z" creationid="Алексей" creationdate="20170922T174053Z">
+        <seg>|[&lt;число1&gt; &lt;число2&gt; &lt;единица длины&gt;]| = |&lt;число1&gt;| чертежных единиц соответствует |&lt;число2&gt; &lt;единиц длины&gt;| в действительности.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12526,8 +12510,8 @@ initsymbol("p_entrance_UIS");|</seg>
       <tuv lang="EN-US">
         <seg>|elevation| = orthogonal projection (a.k.a.&lt;u0&gt;projected profile) which optionally takes a view direction as an argument (e.g. |[elevation 10]| or |[elevation 10 deg]|).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T174842Z" creationid="Алексей" creationdate="20170922T173246Z">
-        <seg>|elevation| = ортогональная проекция (проецируемый профиль a.k.a.), кото\-рая опционально принимает в качестве аргумента азимут сечения (напри\-мер, |[elevation 10]| или |[elevation 10 deg]|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084429Z" creationid="Алексей" creationdate="20170922T173246Z">
+        <seg>|elevation| = ортогональная проекция (проецируемый профиль a.k.a.), которая опционально принимает в качестве аргумента азимут сечения (например, |[elevation 10]| или |[elevation 10 deg]|).</seg>
       </tuv>
     </tu>
     <tu>
