@@ -217,8 +217,8 @@
       <tuv lang="EN-US">
         <seg>(M, A) * |rotate &lt;value&gt;| = rotates the map (M, A; default: |0|) * |units &lt;metric/imperial&gt;| = set output units (M, A; default: |metric|) * |symbol-set &lt;symbol-set&gt;| = use |symbol-set| for all map symbols, if available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T184334Z" creationid="Алексей" creationdate="20171021T121720Z">
-        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по умолча\-нию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142305Z" creationid="Алексей" creationdate="20171021T121720Z">
+        <seg>(M, A). * |rotate &lt;значение&gt;| = вращает карту (M, A; по умолчанию: |0|). * |units &lt;metric/imperial&gt;| = установить единицы измерения (M, A; по умолчанию: |metric|). * |symbol-set &lt;набор символов&gt;| = использование |набора символов| для всех символов карты, если они доступны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1651,8 +1651,8 @@
       <tuv lang="EN-US">
         <seg>* |copy &lt;source layout id&gt;| = set properties here that are not modified based on the given source layout.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T121027Z" creationid="Алексей" creationdate="20171021T115208Z">
-        <seg>* |copy &lt;id исходного макета&gt;| = устанавливаются свойства макета, которые бе\-рутся из данных исходного макета.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142300Z" creationid="Алексей" creationdate="20171021T115208Z">
+        <seg>* |copy &lt;id исходного макета&gt;| = устанавливаются свойства макета, которые берутся из данных исходного макета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2531,7 +2531,7 @@
       <tuv lang="EN-US">
         <seg>*map area is filled with |color map-bg| *surface bitmaps are displayed if |surface| is set |bottom| *FOR each scrap: outline is filled white *grid is displayed if |grid| is set |bottom| *preview below&lt;u3&gt;As specified using the |preview| option in the |map| command] is filled with |color preview-below| *FOR each level&lt;u4&gt;Level is a collection of scraps not separated by a |break| in the |map| command]: BEGIN of transparency FOR each scrap: outline is filled with |color map-fg| FOR each scrap: |area| symbols are filled and clipped to scrap boundary END of transparency BEGIN of clipping by text labels (for all labels in this and upper levels) FOR each scrap: draw all symbols to be clipped (with the exception of |line survey|) ordered from bottom to top draw |line survey| symbols clip to scrap boundary FOR each scrap: draw all symbols not to be clipped (with the exception of |point station| and all labels) ordered from bottom to top draw |point station| symbols END of clipping by text labels FOR each scrap: draw all (point and line) labels (including |wall-altitude|) *preview above is drawn with |color preview-above| *surface bitmaps are displayed if |surface| is set |top| *grid is displayed if |grid| is set |top|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T100652Z" creationid="Алексей" creationdate="20170919T153939Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141258Z" creationid="Алексей" creationdate="20170919T153939Z">
         <seg>* область карты заполняется |color map-bg|; * растровые изображения поверхности отображаются, если |surface|\break установлен в |bottom|; * ДЛЯ каждого скрапа: абрисы заполняются белым; * рисуется сетка если |grid| установлен в |bottom|; * анонс внизу &lt;u3&gt;Согласно спецификации опции |preview| в команде |map|.] заполняется |color preview-below|; * ДЛЯ каждого уровня&lt;u4&gt;Уровень -- это коллекция скрапов не разделенная |break| в команде |map|.]:
       НАЧАЛО отсечения
            ДЛЯ каждого скрапа: абрис заполняется |color map-fg|
@@ -2552,7 +2552,7 @@
                  рисуются |point station| символы
       КОНЕЦ отсечения текстовых меток
       ДЛЯ каждого скрапа: рисуются все (точечные и линейные) текстовые
-         метки (в том числе |wall-altitude|); * анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface| установлен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
+         метки (в том числе |wall-altitude|); * анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface|\break установлен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,8 +3375,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Allows to execute system commands during therion compilation.&lt;u1&gt;E.g. to open or refresh external PDF viewer.] Normally Therion waits until the subprocess is finished.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053427Z" creationid="Алексей" creationdate="20171021T053114Z">
-        <seg>Позволяет выполнять системные команды во время компиляции&lt;u1&gt;Например, чтобы открыть или обновить внешний просмоторщик PDF.]. Обычно Therion ожидает завершения подпроцесса.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141405Z" creationid="Алексей" creationdate="20171021T053114Z">
+        <seg>Позволяет выполнять системные команды во время компиляции&lt;u1&gt;Например, чтобы открыть или обновить внешний просмотрщик PDF.]. Обычно Therion ожидает завершения подпроцесса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3743,8 +3743,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>By default 0 is used; if `basic' is specified, expansion is done up to the basic maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T061710Z" creationid="Алексей" creationdate="20171021T061202Z">
-        <seg>По умолчанию используется 0; если указано `basic', расширение выполня\-ется до основных карт (т.е. все).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141845Z" creationid="Алексей" creationdate="20171021T061202Z">
+        <seg>По умолчанию используется 0; если указано `basic', расширение выполняется до основных карт (т.е. все).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3759,8 +3759,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>By default, all survey objects are selected.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T060310Z" creationid="Алексей" creationdate="20171021T055904Z">
-        <seg>По умолчанию выбира\-ются все объекты съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141803Z" creationid="Алексей" creationdate="20171021T055904Z">
+        <seg>По умолчанию\break выбираются все объекты съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4679,8 +4679,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For list of therion texts and available translations, see |thlang/texts.txt| file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T140339Z" creationid="Алексей" creationdate="20171021T111534Z">
-        <seg>Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141938Z" creationid="Алексей" creationdate="20171021T111534Z">
+        <seg>Список текстов и\break доступных переводов смотрите в файле |thlang/texts.txt|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5047,8 +5047,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If no |cs| is defined in the configuration file, the first |cs| therion encounters in the data files is used as an output |cs|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054228Z" creationid="Алексей" creationdate="20171021T054102Z">
-        <seg>Если |cs| не определяется в файле конфигурации, то будет использован первый |cs| в файлах данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141604Z" creationid="Алексей" creationdate="20171021T054102Z">
+        <seg>Если |cs| не определяется в файле конфигурации, то будет использован\break первый |cs| в файлах данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5431,8 +5431,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you want to continue compilation without break, use |&lt;command&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T053344Z" creationid="Алексей" creationdate="20171021T053159Z">
-        <seg>Если вы хотите продолжить ком\-пиляцию без ожидания, используйте команду |&lt;command&gt;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141445Z" creationid="Алексей" creationdate="20171021T053159Z">
+        <seg>Если вы хотите продолжить\break компиляцию без ожидания, используйте команду |&lt;command&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5855,8 +5855,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is not possible to specify more coordinate systems for different outputs (the last occurence of |cs| is used for all output files).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T054635Z" creationid="Алексей" creationdate="20171021T054049Z">
-        <seg>Невозможно указать несколько систем координат для разных выходных данных (послед\-нее указание |cs| используется для всех выходных файлов).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141616Z" creationid="Алексей" creationdate="20171021T054049Z">
+        <seg>Невозможно указать несколько систем координат для разных выходных данных\break (последнее указание |cs| используется для всех выходных файлов).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,9 +5903,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is read like any other therion file (i.e. one command per line; empty lines or lines starting with `|#|' are ignored; lines ended with a backslash continue on the next line.) A list of currently supported commands follow.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052417Z" creationid="Алексей" creationdate="20171021T052305Z">
-        <seg>Он обрабатывается как любой другой файл (т.е. одна команда на строку, пустые строки или строки, начинающиеся с `|#|', игнори\-руются; строки, заканчивающиеся на обратную косую черту, продолжаются в следующей строке.) Ниже список поддерживаемых в данный момент команд.
-</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141522Z" creationid="Алексей" creationdate="20171021T052305Z">
+        <seg>Он обрабатывается как любой другой файл (т.е. одна команда на строку, пустые строки или строки, начинающиеся с `|#|',\break игнорируются; строки, заканчивающиеся на обратную косую черту,\break продолжаются в следующей строке.) Ниже список поддерживаемых в\break данный момент команд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7449,8 +7448,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Settings which apply to atlas mode are marked `A'; map mode `M'.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T114305Z" creationid="Алексей" creationdate="20171021T114010Z">
-        <seg>Настройки, применяемые к режиму атласа, отме\-чены `A'; к режиму карт -- `M'.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T142001Z" creationid="Алексей" creationdate="20171021T114010Z">
+        <seg>Настройки, применяемые к режиму атласа,\break отмечены `A'; к режиму карт -- `M'.</seg>
       </tuv>
     </tu>
     <tu>
