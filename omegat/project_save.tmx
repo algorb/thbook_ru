@@ -129,8 +129,8 @@
       <tuv lang="EN-US">
         <seg>(3) Ordering: Each symbol belongs to one of the following groups which are drawn consecutively:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T152546Z" creationid="Алексей" creationdate="20170919T152546Z">
-        <seg>Упорядочевание: каждый символ относится к одной из следующих групп, которые последовательно выводятся:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093633Z" creationid="Алексей" creationdate="20170919T152546Z">
+        <seg>Упорядочивание: каждый символ относится к одной из следующих групп, которые последовательно выводятся:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2531,8 +2531,8 @@
       <tuv lang="EN-US">
         <seg>*map area is filled with |color map-bg| *surface bitmaps are displayed if |surface| is set |bottom| *FOR each scrap: outline is filled white *grid is displayed if |grid| is set |bottom| *preview below&lt;u3&gt;As specified using the |preview| option in the |map| command] is filled with |color preview-below| *FOR each level&lt;u4&gt;Level is a collection of scraps not separated by a |break| in the |map| command]: BEGIN of transparency FOR each scrap: outline is filled with |color map-fg| FOR each scrap: |area| symbols are filled and clipped to scrap boundary END of transparency BEGIN of clipping by text labels (for all labels in this and upper levels) FOR each scrap: draw all symbols to be clipped (with the exception of |line survey|) ordered from bottom to top draw |line survey| symbols clip to scrap boundary FOR each scrap: draw all symbols not to be clipped (with the exception of |point station| and all labels) ordered from bottom to top draw |point station| symbols END of clipping by text labels FOR each scrap: draw all (point and line) labels (including |wall-altitude|) *preview above is drawn with |color preview-above| *surface bitmaps are displayed if |surface| is set |top| *grid is displayed if |grid| is set |top|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T015853Z" creationid="Алексей" creationdate="20170919T153939Z">
-        <seg>* область карты заполняется |color map-bg|; * растровые изображения поверхности отображаются, если |surface| установ\-лен в |bottom|; * ДЛЯ каждого скрапа: абрисы заполняются белым; * рисуется сетка если |grid| установлен в |bottom|; * анонс внизу &lt;u3&gt;Согласно спецификации опции |preview| в команде |map|.] заполняется |color preview-below|; * ДЛЯ каждого уровня&lt;u4&gt;Уровень -- это коллекция скрапов не разделенная |break| в команде |map|.]:
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093732Z" creationid="Алексей" creationdate="20170919T153939Z">
+        <seg>* область карты заполняется |color map-bg|; * растровые изображения поверхности отображаются, если |surface| установлен в |bottom|; * ДЛЯ каждого скрапа: абрисы заполняются белым; * рисуется сетка если |grid| установлен в |bottom|; * анонс внизу &lt;u3&gt;Согласно спецификации опции |preview| в команде |map|.] заполняется |color preview-below|; * ДЛЯ каждого уровня&lt;u4&gt;Уровень -- это коллекция скрапов не разделенная |break| в команде |map|.]:
       НАЧАЛО отсечения
            ДЛЯ каждого скрапа: абрис заполняется |color map-fg|
            ДЛЯ каждого скрапа: символы |области| заполняются и отсекаются
@@ -2541,18 +2541,17 @@
       НАЧАЛО отсечения текстовых меток (для всех текстовых меток на
       этом и верхних уровнях)
             ДЛЯ каждого скрапа:
-                  рисуются все символы прошедшие отсечение (за исключе-
-                     нием |line survey|), упорядочиваются снизу вверх
+                  рисуются все символы прошедшие отсечение (за исключением |line survey|), упорядочиваются снизу вверх
                   рисуются |line survey| символы
                   отсекаются границы скрапов
             ДЛЯ каждого скрапа:
-                  рисуются все неотсеченные символы (за исключением
-                     |point station| и всех текстовых меток), упорядочеваются
+                  рисуются все не отсеченные символы (за исключением
+                     |point station| и всех текстовых меток), упорядочиваются
                      снизу вверх
                   рисуются |point station| символы
       КОНЕЦ отсечения текстовых меток
       ДЛЯ каждого скрапа: рисуются все (точечные и линейные) текстовые
-         метки (в том числе |wall-altitude|); * анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface| установ\-лен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
+         метки (в том числе |wall-altitude|); * анонс рисуется поверх с |color preview-above|; * растровые изображения поверхности отображаются если |surface| установлен в |top|; * сетка отображается если |grid| установлен в |top|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3335,8 +3334,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>All other symbols are not clipped by the scrap boundary.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T145341Z" creationid="Алексей" creationdate="20170919T144741Z">
-        <seg>Все остальные символы не под\-ре\-за\-ются границей скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093603Z" creationid="Алексей" creationdate="20170919T144741Z">
+        <seg>Все остальные символы не подрезаются границей скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4727,8 +4726,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For really large caves it's possible to build a hierarchical structure of directories.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183443Z" creationid="Алексей" creationdate="20170914T181334Z">
-        <seg>Для действительно больших пещер можно построить иерархическую струк\-туру каталогов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093349Z" creationid="Алексей" creationdate="20170914T181334Z">
+        <seg>Для действительно больших пещер можно построить иерархическую структуру каталогов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7233,8 +7232,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Scraps in general are independent on centreline hierarchy so try to forget the survey hierarchy when drawing maps and choose best scrap joins.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T183734Z" creationid="Алексей" creationdate="20170914T182039Z">
-        <seg>Скрапы в целом независимы от иерархии нитки хода, поэтому старайтесь не привязываться к съемке когда рисуете карты и вы\-би\-ра\-ете лучшие объединения скрапов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093403Z" creationid="Алексей" creationdate="20170914T182039Z">
+        <seg>Скрапы в целом независимы от иерархии нитки хода, поэтому старайтесь не привязываться к съемке когда рисуете карты и выбираете лучшие объединения скрапов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8082,8 +8081,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The height and depth of the passage are computed from |passage-height| and |dimensions| point map symbols.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T011442Z" creationid="Алексей" creationdate="20170919T011355Z">
-        <seg>Высота и глубина хода вычис\-ля\-ются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093534Z" creationid="Алексей" creationdate="20170919T011355Z">
+        <seg>Высота и глубина хода вычисляются по символьным точкам |высота хода| (|passage-height|) и |размер хода| (|dimensions|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9490,8 +9489,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To keep data well organized, we have some naming conventions: in the file |foo.th2| all scraps are named |foo_si|, where |i| is |1|, |2| an so on.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T010356Z" creationid="Алексей" creationdate="20170919T005148Z">
-        <seg>Чтобы данные были хорошо организованы, мы приняли несколько соглашений об именах файлов: в файле |foo.th2| все скрапы име\-ну\-ются |foo_si|, где |i| -- |1|, |2| и так далее.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093502Z" creationid="Алексей" creationdate="20170919T005148Z">
+        <seg>Чтобы данные были хорошо организованы, мы приняли несколько соглашений об именах файлов: в файле |foo.th2| все скрапы именуются |foo_si|, где |i| -- |1|, |2| и так далее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,14 +9743,6 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>We usually insert maps in the last-but-one level in survey hierarchy.&lt;u0&gt;Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T182225Z" creationid="Алексей" creationdate="20170914T182225Z">
-        <seg>We usually insert maps in the last-but-one level in survey hierarchy.&lt;u0&gt;Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>We usually use one |*.th| file containing centreline per survey trip.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T175249Z" creationid="Алексей" creationdate="20170914T175249Z">
@@ -9866,8 +9857,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>While exporting the map, Therion has to determine three attributes for each point, line or area symbol: visibility, clipping and ordering.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T144824Z" creationid="Алексей" creationdate="20170919T142922Z">
-        <seg>При экспорте карты Therion должен определить три атрибута для каждого из символов -- точки, линии или области: видимость, подрезание и упо\-ря\-до\-че\-ние.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093547Z" creationid="Алексей" creationdate="20170919T142922Z">
+        <seg>При экспорте карты Therion должен определить три атрибута для каждого из символов -- точки, линии или области: видимость, подрезание и упорядочение.</seg>
       </tuv>
     </tu>
     <tu>
