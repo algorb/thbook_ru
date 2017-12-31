@@ -2244,8 +2244,8 @@
       <tuv lang="EN-US">
         <seg>* |scrap &lt;reference&gt;| = if the point type is section, this is a reference to a cross-section scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053631Z" creationid="Алексей" creationdate="20170924T050819Z">
-        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это section (сечение), то эта сноска ссыла\-ется на скрап поперечного сечения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090432Z" creationid="Алексей" creationdate="20170924T050819Z">
+        <seg>* |scrap &lt;сноска&gt;| = если тип точки -- это section (сечение), то эта сноска ссылается на скрап поперечного сечения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,8 +2436,8 @@
       <tuv lang="EN-US">
         <seg>* |text| = text of the label, remark or continuation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053723Z" creationid="Алексей" creationdate="20170924T051753Z">
-        <seg>* |text| = текст label (метки), remark (примечания) или continuation (продолже\-ния).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090440Z" creationid="Алексей" creationdate="20170924T051753Z">
+        <seg>* |text| = текст label (метки), remark (примечания) или continuation (продолжения).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5941,8 +5941,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It may contain following formatting keywords:&lt;u0&gt;For SVG output, only |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| and |&lt;lang:XX&gt;| keywords are taken into account; all others are silently ignored.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053923Z" creationid="Алексей" creationdate="20170924T051852Z">
-        <seg>Он может содержать следующие зарезервированные слова для фор\-матирования&lt;u0&gt;Для вывода SVG учитываются только зарезервированные слова |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| и |&lt;lang:XX&gt;|; все остальные игнорируются.]:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090451Z" creationid="Алексей" creationdate="20170924T051852Z">
+        <seg>Он может содержать следующие зарезервированные слова для форматирования&lt;u0&gt;Для вывода SVG учитываются только зарезервированные слова |&lt;br&gt;|, |&lt;thsp&gt;|, |&lt;it&gt;|, |&lt;bf&gt;|, |&lt;rm&gt;| и |&lt;lang:XX&gt;|; все остальные игнорируются.]:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8231,8 +8231,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The numeric value can be optionally followed by `|?|', if the value is presumed and units can be added (e.g. |-value [40?</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064012Z" creationid="Алексей" creationdate="20170924T053341Z">
-        <seg>Числовое значение может сопровождаться необязательным символом `|?|', чтобы доба\-вить единицы измерения (напри\-мер |-value [40?</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090526Z" creationid="Алексей" creationdate="20170924T053341Z">
+        <seg>Числовое значение может сопровождаться необязательным символом `|?|', чтобы добавить единицы измерения (например |-value [40?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,8 +11454,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; altitude:} the value specified is the altitude difference from the nearest station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064103Z" creationid="Алексей" creationdate="20170924T063346Z">
-        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой раз\-ницу высот по сравнению с ближайшей станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090556Z" creationid="Алексей" creationdate="20170924T063346Z">
+        <seg>{&lt;u0&gt; altitude (высотная отметка):} указанное значение представляет собой разницу высот по сравнению с ближайшей станции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11526,8 +11526,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; dimensions:} |-value [&lt;above&gt; &lt;below&gt; [&lt;units&gt;]]| specifies passage dimensions a­bo­ve/below centerline plane used in 3D model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064146Z" creationid="Алексей" creationdate="20170924T063656Z">
-        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-мо\-дели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090601Z" creationid="Алексей" creationdate="20170924T063656Z">
+        <seg>{&lt;u0&gt; dimensions (размеры хода):} |-value [&lt;выше&gt; &lt;ниже&gt; [&lt;единицы&gt;]]| определяет размеры ходов выше/ниже плоскости нитки хода, используется в 3D-модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11542,8 +11542,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; height:} according to the sign of the value (positive, negative or unsigned), this type of symbol represents chimney height, pit depth or step height in general.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063949Z" creationid="Алексей" creationdate="20170924T053140Z">
-        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа предста\-вляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090520Z" creationid="Алексей" creationdate="20170924T053140Z">
+        <seg>{&lt;u0&gt; height (высота уступа/камина/колодца):} в зависимости от знака значения (положительный, отрицательный или без знака), этот тип символа представляет собой высоту трубы, глубину колодца или высоту уступа.</seg>
       </tuv>
     </tu>
     <tu>
