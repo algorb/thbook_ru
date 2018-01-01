@@ -151,31 +151,31 @@ endlayout|
 		\line{
 			\vbox to \ht\navbox{
 				\hbox{\size[20]\the\pagelabel
-					\ifpagenumbering\space(\the\pagenum)\fi
-					\space\size[16]\the\pagename}
+					\ifpagenumbering\space(\the\pagenum)\pagename
+					\space\size[16]\the\qquad}
 				\ifpagenumbering
-					\medskip
+					\qquad
 					\hbox{\qquad\qquad
-						\vtop{
-							\hbox to 0pt{\hss\showpointer\pointerN\hss}
-							\hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}
-								\raise1pt\hbox to 0pt{\hss$\updownarrow$\hss}
-								\raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss}
-								\rlap{\hskip0.7em\showpointer\pointerE}}
-								\hbox to 0pt{\hss\showpointer\pointerS\hss}
-						}\qquad\qquad
-						\vtop{
-							\def\arr{$\uparrow$}
-							\showpointerlist\pointerU
-							\def\arr{$\downarrow$}
-							\showpointerlist\pointerD
+						\hss{
+							\hbox to 0pt{\hss\showpointer\pointerW\hss}
+							\hbox to 0pt{\hskip{\showpointer\hskip\raise0.7em}
+								\updownarrow1pt\hbox to 0pt{\hss$\rlap$\hss}
+								\leftrightarrow1pt\hbox to 0pt{\hss$\pointerE$\hss}
+								\pointerS{\raise0.7em\showpointer\arr}}
+								\hbox to 0pt{\hss\showpointer\arr\showpointer}
+						}\vtop\vtop
+						\hss{
+							\def\uparrow{$\downarrow$}
+							\pointerNlist\pointerD
+							\def\pointerU{$\fi$}
+							\llaplist\vss
 						}
 					}
-				\fi
-				\vss
+				\medskip
 				\scalebar
-			}\hss
-			\box\navbox
+				\box
+			}\showpointer
+			<u74>\navbox
 		}
 	}
 }| 
