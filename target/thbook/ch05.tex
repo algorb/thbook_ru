@@ -145,22 +145,12 @@ endlayout|
 
 Более продвинутым является определение по умолчанию макроса |\dopage|: 
 
-|\def\dopage{ \vbox{\centerline{\framed{\mapbox}} \bigskip
-
-%
-\line{ \vbox to \ht\navbox{ \hbox{\size[20]\the\pagelabel \ifpagenumbering\space(\the\pagenum)\fi \space\size[16]\the\pagename} \ifpagenumbering
-
-%
-\medskip
-
-\hbox{\qquad\qquad \vtop{ \hbox to 0pt{\hss\showpointer\pointerN\hss} \hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em} \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss} \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss} \rlap{\hskip0.7em\showpointer\pointerE}} \hbox to 0pt{\hss\showpointer\pointerS\hss} }\qquad\qquad \vtop{ \def\arr{$\uparrow$} \showpointerlist\pointerU \def\arr{$\downarrow$} \showpointerlist\pointerD } } \fi
-
-%%%%
-\vss
-
-\scalebar
-
-}\hss \box\navbox } } }| 
+|\def\dopage{
+	\vbox{\centerline{\framed{\mapbox}}
+		\bigskip
+		\line{
+			\vbox to \ht\navbox{
+				\hbox{\size[20]\the\pagelabel- \ifpagenumbering\space(\the\pagenum)\fi- \space\size[16]\the\pagename}- \ifpagenumbering- \medskip- \hbox{\qquad\qquad- \vtop{- \hbox to 0pt{\hss\showpointer\pointerN\hss}- \hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}- \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss}- \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss}- \rlap{\hskip0.7em\showpointer\pointerE}}- \hbox to 0pt{\hss\showpointer\pointerS\hss}- }\qquad\qquad- \vtop{- \def\arr{$\uparrow$}- \showpointerlist\pointerU- \def\arr{$\downarrow$}- \showpointerlist\pointerD- }- }- \fi- \vss- \scalebar- }\hss- \box\navbox- }- }- }|- 
 
 Используя другие plain макросы \TeX\ или примитивы \TeX, можно добавить другие функции, например другой макет для нечетных и четных страниц, заголовки и колонтитулы или добавить логотип на каждую страницу. 
 
