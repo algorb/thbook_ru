@@ -12166,6 +12166,47 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|&lt;u0&gt;&lt;u3&gt;{- &lt;i0&gt;&lt;u5&gt;{&lt;u6&gt;{&lt;u7&gt;&lt;/i0&gt;}- &lt;u8&gt;- &lt;u9&gt;{- &lt;u4&gt; to &lt;u10&gt;&lt;u11&gt;{- &lt;i1&gt;&lt;u18&gt;[20]&lt;u20&gt;&lt;u23&gt;- &lt;u24&gt;&lt;u26&gt;(&lt;u21&gt;&lt;u28&gt;)&lt;u29&gt;- &lt;u27&gt;&lt;u19&gt;[16]&lt;u22&gt;&lt;u31&gt;&lt;/i1&gt;- &lt;u25&gt;- &lt;u32&gt;- &lt;i2&gt;&lt;u33&gt;&lt;u34&gt;- &lt;u37&gt;{- &lt;u13&gt; to 0pt{&lt;u39&gt;&lt;u48&gt;&lt;u54&gt;&lt;u40&gt;&lt;/i2&gt;- &lt;u14&gt; to 0pt{&lt;u55&gt;{&lt;u49&gt;&lt;u56&gt;&lt;u57&gt;0.7em}- &lt;u59&gt;1pt&lt;u15&gt; to 0pt{&lt;u41&gt;$&lt;u61&gt;$&lt;u42&gt;}- &lt;u60&gt;1pt&lt;u16&gt; to 0pt{&lt;u43&gt;$&lt;u62&gt;$&lt;u44&gt;}- &lt;u63&gt;{&lt;u58&gt;0.7em&lt;u50&gt;&lt;u64&gt;}}- &lt;u17&gt; to 0pt{&lt;u45&gt;&lt;u51&gt;&lt;u65&gt;&lt;u46&gt;}- }&lt;u35&gt;&lt;u36&gt;- &lt;u38&gt;{- &lt;u1&gt;&lt;u66&gt;{$&lt;u68&gt;$}- &lt;u52&gt;list&lt;u69&gt;- &lt;u2&gt;&lt;u67&gt;{$&lt;u70&gt;$}- &lt;u53&gt;list&lt;u71&gt;- }- }- &lt;u30&gt;- &lt;u72&gt;- &lt;u73&gt;- }&lt;u47&gt;- &lt;u74&gt;&lt;u12&gt;- }- }- }|-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T143539Z" creationid="Алексей" creationdate="20180101T142527Z">
+        <seg>|&lt;u0&gt;&lt;u3&gt;{
+	&lt;i0&gt;&lt;u5&gt;{&lt;u6&gt;{&lt;u7&gt;&lt;/i0&gt;}
+		&lt;u8&gt;
+		&lt;u9&gt;{
+			&lt;u4&gt; to &lt;u10&gt;&lt;u11&gt;{
+				&lt;i1&gt;&lt;u18&gt;[20]&lt;u20&gt;&lt;u23&gt;
+					&lt;u24&gt;&lt;u26&gt;(&lt;u21&gt;&lt;u28&gt;)&lt;u29&gt;
+					&lt;u27&gt;&lt;u19&gt;[16]&lt;u22&gt;&lt;u31&gt;&lt;/i1&gt;
+				&lt;u25&gt;
+					&lt;u32&gt;
+					&lt;i2&gt;&lt;u33&gt;&lt;u34&gt;
+						&lt;u37&gt;{
+							&lt;u13&gt; to 0pt{&lt;u39&gt;&lt;u48&gt;&lt;u54&gt;&lt;u40&gt;&lt;/i2&gt;
+							&lt;u14&gt; to 0pt{&lt;u55&gt;{&lt;u49&gt;&lt;u56&gt;&lt;u57&gt;0.7em}
+								&lt;u59&gt;1pt&lt;u15&gt; to 0pt{&lt;u41&gt;$&lt;u61&gt;$&lt;u42&gt;}
+								&lt;u60&gt;1pt&lt;u16&gt; to 0pt{&lt;u43&gt;$&lt;u62&gt;$&lt;u44&gt;}
+								&lt;u63&gt;{&lt;u58&gt;0.7em&lt;u50&gt;&lt;u64&gt;}}
+								&lt;u17&gt; to 0pt{&lt;u45&gt;&lt;u51&gt;&lt;u65&gt;&lt;u46&gt;}
+						}&lt;u35&gt;&lt;u36&gt;
+						&lt;u38&gt;{
+							&lt;u1&gt;&lt;u66&gt;{$&lt;u68&gt;$}
+							&lt;u52&gt;list&lt;u69&gt;
+							&lt;u2&gt;&lt;u67&gt;{$&lt;u70&gt;$}
+							&lt;u53&gt;list&lt;u71&gt;
+						}
+					}
+				&lt;u30&gt;
+				&lt;u72&gt;
+				&lt;u73&gt;
+			}&lt;u47&gt;
+			&lt;u74&gt;&lt;u12&gt;
+		}
+	}
+}|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|&lt;u0&gt;|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T175129Z" creationid="Алексей" creationdate="20171026T175129Z">
