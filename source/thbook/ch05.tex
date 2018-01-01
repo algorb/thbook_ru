@@ -203,10 +203,10 @@ before the first map page.
 
 More advanced is the default definition of the |\dopage| macro:
 
-|\def\dopage{%
+|\def\dopage{
  \vbox{\centerline{\framed{\mapbox}}
   \bigskip
-  \line{%
+  \line{
     \vbox to \ht\navbox{
       \hbox{\size[20]\the\pagelabel
         \ifpagenumbering\space(\the\pagenum)\fi
@@ -214,11 +214,11 @@ More advanced is the default definition of the |\dopage| macro:
       \ifpagenumbering
         \medskip
         \hbox{\qquad\qquad
-          \vtop{%
+          \vtop{
             \hbox to 0pt{\hss\showpointer\pointerN\hss}
-            \hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}%
-              \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss}%
-              \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss}%
+            \hbox to 0pt{\llap{\showpointer\pointerW\hskip0.7em}
+              \raise1pt\hbox to 0pt{\hss$\updownarrow$\hss}
+              \raise1pt\hbox to 0pt{\hss$\leftrightarrow$\hss}
               \rlap{\hskip0.7em\showpointer\pointerE}}
               \hbox to 0pt{\hss\showpointer\pointerS\hss}
           }\qquad\qquad
