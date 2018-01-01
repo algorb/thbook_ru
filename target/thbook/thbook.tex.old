@@ -56,16 +56,15 @@
 \input etc/verbatim
 %\input etc/path.sty
 
-\font\rm=fhar6a at 12pt
-\font\it=fhari6a at 12pt
+\font\rm=cmr12
+\font\it=cmti12
 \font\mit=cmmi10 at 12pt
-\font\bf=fhab6a at 12pt
-\font\tt=fhar6a at 12pt
-\font\tenrm=fhar6a at 10pt
+\font\bf=cmbx12
+\font\tt=cmtt12
+\font\tenrm=cmr10
 \font\sy=cmsy10 at 12pt
 \font\eightrm=cmr8
-\font\eightit=fhari6a at 9pt
-\font\my=cmr12 at 14pt
+\font\eightit=cmti8
 \font\eightmit=cmmi8
 \font\tenitbx=cmbxti10
 
@@ -76,8 +75,8 @@
 
 \font\manfnt=logo10 at 12pt
 
-\font\chap=fhab6a at 16pt
-\font\subchap=fhab6a at 13pt
+\font\chap=cmssdc10 at 16pt
+\font\subchap=cmssdc10 at 12pt
 
 \def\MP{{\manfnt META}\-{\manfnt POST}}    
 
@@ -189,44 +188,31 @@
 \def\list{\penalty50\bgroup\itemize}
 \def\endlist{\par\egroup\penalty-50}
 
-\def\syntax{\par{\it Синтаксис:} }
+\def\syntax{\par{\it Syntax:} }
 \def\endsyntax{}
 
-\def\context{\par{\it Контекст:} }
+\def\context{\par{\it Context:} }
 \def\endcontext{}
 
-\def\description{\par{\it Описание: } }
+\def\description{\par{\it Description:} }
 \def\enddescription{}
 
-\def\arguments{\penalty-40\par{\it Аргументы:}\bgroup\nobreak\itemize}
+\def\arguments{\penalty-40\par{\it Arguments:}\bgroup\nobreak\itemize}
 \def\endarguments{\par\egroup}
 
-\def\options{\penalty-40\par{\it Опции:}\bgroup\nobreak\itemize}
+\def\options{\penalty-40\par{\it Options:}\bgroup\nobreak\itemize}
 \def\endoptions{\par\egroup}
 
-\def\comopt{\penalty-40\par{\it Опции командной строки:}\bgroup\nobreak\itemize}
+\def\comopt{\penalty-40\par{\it Command-like options:}\bgroup\nobreak\itemize}
 \def\endcomopt{\par\egroup}
 
-\def\example{\penalty-40\par{\it Пример:} }
+\def\example{\penalty-40\par{\it Example:} }
 \def\endexample{}
 
-\def\notes{\par{\it Специальные пояснения:} }
+\def\notes{\par{\it Special notes:} }
 \def\endnotes{}
 
-\def\www{\@getoptionalarg\@www}
-\def\@www#1{\ifx\pdfoutput\undefined
-    \ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi
-  \else    \pdfstartlink attr {/Border [0 0 0]} user{%
-      /Subtype /Link
-      /A << 
-        /Type /Action 
-        /S /URI 
-        /URI (#1) 
-        >>}%
-    \green\ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi\POPcolor
-    \pdfendlink
-  \fi}
-
+\def\www{\@getoptionalarg\@www}\def\@www#1{\ifx\pdfoutput\undefined\ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi\else\pdfstartlink attr {/Border [0 0 0]} user{/Subtype /Link /A << /Type /Action /S /URI /URI (#1) >>}\green\ifx\@optionalarg\empty{\tt#1}\else\@optionalarg\fi\POPcolor\pdfendlink\fi}
 
 \def\twotonum#1.#2 {\numexpr(#1*1000000+#2*1000)}
 \def\threetonum#1.#2.#3 {\numexpr(#1*1000000+#2*1000+#3)}
