@@ -579,8 +579,8 @@
       <tuv lang="EN-US">
         <seg>* Run XTherion (under Unix and MacOS X by typing `xtherion' in the command line, under Windows there is a shortcut in the {&lt;u0&gt; Start} menu).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192843Z" creationid="Алексей" creationdate="20170909T132610Z">
-        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке `xtherion', под Windows ярлык в меню {&lt;u0&gt; Старт}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T071904Z" creationid="Алексей" creationdate="20170909T132610Z">
+        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке\break `xtherion', под Windows ярлык в меню {&lt;u0&gt; Старт}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,8 +1483,8 @@
       <tuv lang="EN-US">
         <seg>* |UTM1| -- |UTM60| = Universal Transverse Mercator in northern hemisphere and given zone, WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T131948Z" creationid="Алексей" creationdate="20170910T131703Z">
-        <seg>* |UTM1| -- |UTM60| = Универсальная поперечная проекция Меркатора (Universal Transverse Mercator) в северном полушарии и заданной зоне, WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072018Z" creationid="Алексей" creationdate="20170910T131703Z">
+        <seg>* |UTM1| -- |UTM60| = Универсальная поперечная проекция Меркатора\break (Universal Transverse Mercator) в северном полушарии и заданной зоне, WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,8 +2003,8 @@
       <tuv lang="EN-US">
         <seg>* |instrument &lt;quantity list&gt; &lt;description&gt;| = description of the instrument that was used to survey the given quantities (same keywords as team person's role) * |infer &lt;what&gt; &lt;on/off&gt;| = `|infer plumbs on|' tells the program to interpret gradients $&lt;u0&gt;90 ^&lt;u1&gt;$ as UP/DOWN (this means no clino corrections are applied).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T073913Z" creationid="Алексей" creationdate="20170912T165244Z">
-        <seg>* |instrument &lt;инструмент&gt; &lt;описание&gt;| = описание инструмента, который\break использовался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;что&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе\break интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072522Z" creationid="Алексей" creationdate="20170912T165244Z">
+        <seg>* |instrument &lt;инструмент&gt; &lt;описание&gt;| = описание инструмента, который\break использовался для определения количественных данных (те же значения, что и роль человека в команде). * |infer &lt;что&gt; &lt;on/off&gt;| = `|infer plumbs on|' говорит программе\break интерпретировать угол наклона $&lt;u0&gt;90 ^&lt;u1&gt;$ как UP/DOWN (это означает, что угол наклона не будет изменяться при раскидывании невязки).\break</seg>
       </tuv>
     </tu>
     <tu>
@@ -2027,8 +2027,8 @@
       <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172544Z" creationid="Алексей" creationdate="20170910T132120Z">
-        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота (E положительная, W отрицательная) в заданном порядке в градусах\break (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072051Z" creationid="Алексей" creationdate="20170910T132120Z">
+        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота\break (E положительная, W отрицательная) в заданном порядке в градусах\break (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,8 +2339,8 @@
       <tuv lang="EN-US">
         <seg>* |station-names &lt;prefix&gt; &lt;suffix&gt;| = adds given prefix/suffix to all survey stations in the current centreline.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T141023Z" creationid="Алексей" creationdate="20170920T071101Z">
-        <seg>* |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет данный префикс/\breakсуффикс для всех станций съемки в текущей нитки хода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T073259Z" creationid="Алексей" creationdate="20170920T071101Z">
+        <seg>* |station-names &lt;префикс&gt; &lt;суффикс&gt;| = добавляет данный\break префикс/суффикс для всех станций съемки в текущей нитки хода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3255,8 +3255,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>After finishing a huge 166-page Atlas of the Cave of Dead Bats in early 1997, we soon had a problem: we found new passages connecting between known passages and surveyed them.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T145528Z" creationid="Алексей" creationdate="20170909T145528Z">
-        <seg>После окончания огромного 166-страничного Атласа пещер мертвых летучих мышей в начале 1997 года у нас вскоре возникла проблема: мы нашли новые ходы, соединения между известными ходами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T071737Z" creationid="Алексей" creationdate="20170909T145528Z">
+        <seg>После окончания огромного\break 166-страничного Атласа пещер мертвых летучих мышей в начале 1997 года у нас вскоре возникла проблема: мы нашли новые ходы, соединения между известными ходами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,8 +3887,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Context {&lt;u3&gt; all} means that the command may be used anywhere.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T173215Z" creationid="Алексей" creationdate="20170910T150212Z">
-        <seg>Контекст {&lt;u3&gt; all} означает, что команда может\break использоваться в любом месте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072138Z" creationid="Алексей" creationdate="20170910T150212Z">
+        <seg>Контекст {&lt;u3&gt; all} означает, что команда может использоваться в любом месте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5391,8 +5391,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you specify |cs| anywhere in the data, you have to specify it for all location data (|fix|, |origin| in |layout| etc.).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131921Z" creationid="Алексей" creationdate="20170910T131549Z">
-        <seg>Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и |layout| и т.д.).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072000Z" creationid="Алексей" creationdate="20170910T131549Z">
+        <seg>Если вы укажете |cs| в любом месте данных, то вы должны указать его для всех данных местоположения (|fix|, |origin| и\break |layout| и т.д.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,8 +5960,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It processes input files, which are---including 2D maps---in text format, and creates files with 2D maps or 3D model as the output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T142556Z" creationid="Алексей" creationdate="20170909T151053Z">
-        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D-карты, и создает файлы с 2D-картами или 3D-моделью в качестве вывода.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T071804Z" creationid="Алексей" creationdate="20170909T151053Z">
+        <seg>Он обрабатывает входные файлы в текстовом формате, в том числе 2D-карты, и создает файлы с\break 2D-картами или 3D-моделью в качестве вывода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7064,8 +7064,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Reading is one of the following keywords: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;dimension may be specified as a pair |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, meaning the size at the beginning and end of the shot], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140056Z" creationid="Алексей" creationdate="20170920T054632Z">
-        <seg>Считывание может принимать одно из следующих ключевых слов: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;Размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера.], down/floor, left, right, ignore, ignoreall.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T073129Z" creationid="Алексей" creationdate="20170920T054632Z">
+        <seg>Считывание может принимать одно из следующих ключевых слов: station, from, to, tape/length, [back]compass/[back]bearing,\break [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;Размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера.], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7272,8 +7272,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>See declination option of survey command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072956Z" creationid="Алексей" creationdate="20170912T170510Z">
-        <seg>Смотрите опцию declination команды survey.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072659Z" creationid="Алексей" creationdate="20170912T170510Z">
+        <seg>Смотрите опцию\break declination команды survey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,8 +7656,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Supported flags: |entrance|, |continuation|, |air-draught[:winter/summer]|, |sink|, |spring|, |doline|, |dig|, &lt;u0&gt;{5.3}|arch|, |overhang|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135905Z" creationid="Алексей" creationdate="20170920T051457Z">
-        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение), |air-draught[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring|\break (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T073017Z" creationid="Алексей" creationdate="20170920T051457Z">
+        <seg>Поддерживаемые флаги: |entrance| (вход), |continuation| (продолжение),\break |air-draught[:winter/summer]| (ток воздуха:зима/лето), |sink| (понор), |spring| (источник), |doline| (карстовая воронка), |dig| (раскоп), &lt;u0&gt;{5.3}|arch| (свод), |overhang| (нависание потолка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8184,7 +8184,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The measured value is calculated using the following formula: $measured&lt;u4&gt;value = (read&lt;u5&gt;value - zero&lt;u6&gt;error) &lt;u7&gt; scale$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135523Z" creationid="Алексей" creationdate="20170920T045035Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072843Z" creationid="Алексей" creationdate="20170920T045035Z">
         <seg>Измеренное значение рассчитывается по следующей формуле: $измеренное&lt;u4&gt;значение = (прочитанное&lt;u5&gt;значение - ошибка) &lt;u7&gt; масштаб$.\break</seg>
       </tuv>
     </tu>
@@ -8368,8 +8368,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The supported flags are: |surface| (for surface measurements), |duplicate| (for duplicated surveys), |splay| (for short side legs that are hidden in maps and models by default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T074100Z" creationid="Алексей" creationdate="20170920T050425Z">
-        <seg>Поддерживаемые флаги: |surface| (для измерений на поверхности), |duplicate| (для дублированных съемок), |splay| (для коротких боковых замеров, которые по умолчанию скрыты на картах и моделях).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072934Z" creationid="Алексей" creationdate="20170920T050425Z">
+        <seg>Поддерживаемые флаги: |surface| (для измерений на поверхности),\break |duplicate| (для дублированных съемок), |splay| (для коротких боковых\break замеров, которые по умолчанию скрыты на картах и моделях).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8504,8 +8504,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The {&lt;u1&gt; survey} context means that the command must be enclosed by |survey ... endsurvey| pair.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T173150Z" creationid="Алексей" creationdate="20170910T150037Z">
-        <seg>Контекст {&lt;u1&gt; survey} означает, что команда должна быть заключена в пару |survey ... endsurvey|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072135Z" creationid="Алексей" creationdate="20170910T150037Z">
+        <seg>Контекст {&lt;u1&gt; survey} означает, что команда должна быть заключена в пару\break |survey ... endsurvey|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,8 +8960,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>These are excluded from length calculations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T050443Z" creationid="Алексей" creationdate="20170920T050443Z">
-        <seg>Они исключаются из расчетов длины.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072950Z" creationid="Алексей" creationdate="20170920T050443Z">
+        <seg>Они\break исключаются из расчетов длины.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10145,8 +10145,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You may create these files in an arbitrary plain text editor like {&lt;u0&gt; ed} or {&lt;u1&gt; vi}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151216Z" creationid="Алексей" creationdate="20170909T151216Z">
-        <seg>Вы можете создавать эти файлы в любом текстовом редакторе, например  {&lt;u0&gt; ed} или {&lt;u1&gt; vi}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T071818Z" creationid="Алексей" creationdate="20170909T151216Z">
+        <seg>Вы можете создавать эти файлы в любом текстовом редакторе, например\break {&lt;u0&gt; ed} или {&lt;u1&gt; vi}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10513,16 +10513,16 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>`|infer equates on|' will case program to interpret shots with 0 length as equate commands (which means that no tape corrections are applied) * |declination &lt;value&gt; &lt;units&gt;| = sets the declination for subsequent shots $$true&lt;u2&gt;bearing = measured&lt;u3&gt;bearing + declination.$$ The declination is positive when the magnetic north is east of true north.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072924Z" creationid="Алексей" creationdate="20170920T035706Z">
-        <seg>`|infer|\break|equates on|' программа будет интерпретировать замеры с длиной 0 в\break качестве команды equate (что означает, что не применяются никакие\break корректировки длины). * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$истинный&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение$$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072517Z" creationid="Алексей" creationdate="20170920T035706Z">
+        <seg>`|infer equates on|' программа будет интерпретировать замеры с длиной 0 в\break качестве команды equate (что означает, что не применяются никакие\break корректировки длины). * |declination &lt;значение&gt; &lt;единицы&gt;| = задает склонение для последующих замеров $$истинный&lt;u2&gt;азимут = измеренный&lt;u3&gt;азимут + склонение$$ Склонение положительно, когда магнитный север находится к востоку от истинного севера.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>all</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T151102Z" creationid="Алексей" creationdate="20170911T151102Z">
-        <seg>all</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072240Z" creationid="Алексей" creationdate="20170911T151102Z">
+        <seg>|	|all</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,8 +12094,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|.&lt;u0&gt;Note: it's not possible to reference any object from the higher-level surveys.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T154054Z" creationid="Алексей" creationdate="20170911T154006Z">
-        <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|.&lt;u0&gt;Примечание: невозможно связать любой объект с survey более высокого уровня.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072336Z" creationid="Алексей" creationdate="20170911T154006Z">
+        <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|&lt;u0&gt;Примечание: невозможно связать любой объект с survey более высокого уровня.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -12777,8 +12777,8 @@ endmap|</seg>
       <tuv lang="EN-US">
         <seg>|normal/reverse| = extend given and following stations to the same/reverse direction as previous station.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140924Z" creationid="Алексей" creationdate="20170920T070006Z">
-        <seg>|normal/reverse| = развернуть данную и следующие станции в таком же/\breakобратном направлении по отношению к предыдущей станции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T073226Z" creationid="Алексей" creationdate="20170920T070006Z">
+        <seg>|normal/reverse| = развернуть данную и следующие станции\break в таком же/обратном направлении по отношению к предыдущей станции.</seg>
       </tuv>
     </tu>
     <tu>
