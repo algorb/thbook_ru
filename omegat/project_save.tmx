@@ -5399,8 +5399,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you want to add some unsupported encodings, read the chapter {&lt;u0&gt; Compilation / Hacker's guide}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075141Z" creationid="Алексей" creationdate="20171028T143344Z">
-        <seg>Если вы хотите добавить некоторые неподдерживаемые кодировки,\break прочитайте главу {&lt;u0&gt; Компиляция / Руководство хакера};</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T071502Z" creationid="Алексей" creationdate="20171028T143344Z">
+        <seg>Если вы хотите добавить некоторые не поддерживаемые кодировки,\break прочитайте главу {&lt;u0&gt; Компиляция / Руководство хакера};</seg>
       </tuv>
     </tu>
     <tu>
