@@ -11705,8 +11705,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;0pt &lt;u4&gt;&lt;u6&gt;=cmssdc10 at 36pt &lt;u5&gt;&lt;u8&gt;=cmssdc10 at 24pt &lt;u11&gt;{&lt;u7&gt; The Therion Book&lt;u14&gt;0pt} &lt;u2&gt;365pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt}</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T102818Z" creationid="Алексей" creationdate="20171216T102207Z">
-        <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;20pt &lt;u4&gt;&lt;u6&gt;=fhab6a at 36pt &lt;u5&gt;&lt;u8&gt;=fhab6a at 24pt &lt;u11&gt;{&lt;u7&gt; Руководство по Therion'у&lt;u14&gt;0pt} &lt;u2&gt;310pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt;1&lt;u16&gt;0pt}</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T103513Z" creationid="Алексей" creationdate="20171216T102207Z">
+        <seg>{&lt;u0&gt;={} &lt;i0&gt;&lt;/i0&gt; &lt;u1&gt;20pt &lt;u4&gt;&lt;u6&gt;=fhab6a at 36pt &lt;u5&gt;&lt;u8&gt;=fhab6a at 24pt &lt;u11&gt;{&lt;u7&gt; Руководство по Therion'у&lt;u14&gt;0pt} &lt;u2&gt;310pt &lt;u12&gt;{&lt;u9&gt; Stacho Mudr&lt;u17&gt;ak&lt;u15&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt; Martin Budaj&lt;u16&gt;0pt} &lt;u3&gt;20pt &lt;u13&gt;{&lt;u10&gt;{\font\tt=\fhar6a at 18px \tt Перевод Горбенко Алексей}&lt;u16&gt;0pt}</seg>
       </tuv>
     </tu>
     <tu>
