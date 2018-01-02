@@ -579,8 +579,8 @@
       <tuv lang="EN-US">
         <seg>* Run XTherion (under Unix and MacOS X by typing `xtherion' in the command line, under Windows there is a shortcut in the {&lt;u0&gt; Start} menu).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T071904Z" creationid="Алексей" creationdate="20170909T132610Z">
-        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке\break `xtherion', под Windows ярлык в меню {&lt;u0&gt; Старт}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110928Z" creationid="Алексей" creationdate="20170909T132610Z">
+        <seg>* Запустите XTherion (под Unix и MacOS X введя в командной строке\break `xtherion', под Windows ярлык в меню {&lt;u0&gt; Пуск}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4767,8 +4767,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For working with Therion it is enough to know that you have to create input data (best done with XTherion), run Therion, and display output files (3D model, map, log file) in the appropriate program.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171859Z" creationid="Алексей" creationdate="20170909T185502Z">
-        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion), запускать Therion и отображать выходные файлы (3D-модель, карта, лог-файл) в соответствующей\break программе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110555Z" creationid="Алексей" creationdate="20170909T185502Z">
+        <seg>Для работы с Therion'ом достаточно знать, что вам нужно создавать входные данные (лучше всего делать это в XTherion'е), запускать Therion и\break отображать выходные файлы (3D-модель, карта, лог-файл) в\break соответствующей программе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5719,8 +5719,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Instructions on how to do this are in the {&lt;u0&gt; Appendix}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130253Z" creationid="Алексей" creationdate="20170909T181915Z">
-        <seg>Инструкции о том, как это сделать, приведены в {&lt;u0&gt; Приложении}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110410Z" creationid="Алексей" creationdate="20170909T181915Z">
+        <seg>Инструкции о том, как это сделать приведены в {&lt;u0&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5791,8 +5791,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It installs all the required stuff and creates shortcuts to XTherion and Therion Book.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180915Z" creationid="Алексей" creationdate="20170909T180915Z">
-        <seg>Он устанавливает все необходимые материалы и создает ярлыки для XTherion и Therion Book.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110249Z" creationid="Алексей" creationdate="20170909T180915Z">
+        <seg>Он устанавливает все необходимые материалы и создает ярлыки для XTherion'а и Therion Book.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,8 +5863,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is only required for XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T161416Z" creationid="Алексей" creationdate="20170909T161416Z">
-        <seg>Это требуется только для XTherion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110000Z" creationid="Алексей" creationdate="20170909T161416Z">
+        <seg>Это требуется только для XTherion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5952,8 +5952,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It needs to be compiled and installed according to instructions in the {&lt;u0&gt; Appendix}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T180532Z" creationid="Алексей" creationdate="20170909T180532Z">
-        <seg>Его необходимо скомпилировать и установить в соответствии с инструкциями в {&lt;u0&gt; Приложении}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110211Z" creationid="Алексей" creationdate="20170909T180532Z">
+        <seg>Его необходимо\break скомпилировать и установить в соответствии с инструкциями в {&lt;u0&gt; Приложении}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6520,8 +6520,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Meaning of colors:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T185800Z" creationid="Алексей" creationdate="20170909T185800Z">
-        <seg>Значение цветов:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110650Z" creationid="Алексей" creationdate="20170909T185800Z">
+        <seg>Значения цветов:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8336,8 +8336,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The source code is a primary Therion distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T130045Z" creationid="Алексей" creationdate="20170909T180456Z">
-        <seg>Исходники -- главный дистрибутив Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180102T110153Z" creationid="Алексей" creationdate="20170909T180456Z">
+        <seg>Исходники -- главный дистрибутив Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
