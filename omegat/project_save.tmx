@@ -699,8 +699,8 @@
       <tuv lang="EN-US">
         <seg>* each line ending with a backslash (|&lt;u0&gt;) is considered to continue on the next line, as if there was neither line-break nor backlash.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T125736Z" creationid="Алексей" creationdate="20170909T210736Z">
-        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается\break продолженной на следующей строке, как будто не было ни разрыва строки, ни зазора.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053526Z" creationid="Алексей" creationdate="20170909T210736Z">
+        <seg>* Каждая строка, заканчивающаяся обратным слэшем (|&lt;u0&gt;), считается\break продолженной на следующей строке, как будто не было ни разрыва строки, ни пробела.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1003,8 +1003,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; keyword} = a sequence of |A-Z|, |a-z|, |0-9| and |_-/| characters (not starting with `|-|').</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T171140Z" creationid="Алексей" creationdate="20170910T123617Z">
-        <seg>* {&lt;u0&gt; keyword} = последовательность |A-Z|, |a-z|, |0-9| и |_-/| символов (не\break начинающиеся с `|-|').</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053724Z" creationid="Алексей" creationdate="20170910T123617Z">
+        <seg>* {&lt;u0&gt; ключевые слова} = последовательность |A-Z|, |a-z|, |0-9| и |_-/| символов (не начинающиеся с `|-|').</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,8 +1027,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u1&gt; ext&lt;u6&gt;keyword} = keyword that can also contain |+*.,'| characters, but not on the first position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123737Z" creationid="Алексей" creationdate="20170910T123623Z">
-        <seg>* {&lt;u1&gt; ext&lt;u6&gt;keyword} = слово, которое также может содержать |+*.,'| символы, но не в первой позиции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053855Z" creationid="Алексей" creationdate="20170910T123623Z">
+        <seg>* {&lt;u1&gt; вн&lt;u6&gt;ключевые слова} = слово, которое также может содержать |+*.,'| символы, но не в первой позиции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8208,8 +8208,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The next line (``|smooth off|'') specifies an option which applies to subsequent data (i.e. not for the whole line, unlike the option |-id| in the first line) and the last line contains some more data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T210343Z" creationid="Алексей" creationdate="20170909T210343Z">
-        <seg>Следующая строка (``|smooth off|'') указывает параметр, который применяется к последующим данным (т.е. не для всей строки, в отличие от опции |-id| в первой строке), и последняя строка содержит еще несколько данных.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053352Z" creationid="Алексей" creationdate="20170909T210343Z">
+        <seg>Следующая строка (``|smooth off|'') указывает параметр, который применяется к последующим данным (т.е. не для всей линии, в отличие от опции |-id| в первой строке), и последняя строка содержит еще несколько данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,11 +12469,11 @@ endcentreline|</seg>
       <tuv lang="EN-US">
         <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endcommand|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220025Z" creationid="Алексей" creationdate="20170909T215825Z">
-        <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053212Z" creationid="Алексей" creationdate="20170909T215825Z">
+        <seg>|command арг1 ... аргN [-опция1 значение1 -опция2 значение2 ...]
 	...
-	optionX valueX
-	data
+	опцияX значениеX
+	данные
 	...
 endcommand|</seg>
       </tuv>
