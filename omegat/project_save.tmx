@@ -10888,9 +10888,9 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>where {&lt;u0&gt; arg1 ... argN} are obligatory arguments, and pairs {&lt;u1&gt; -option value} are options, which you may freely omit.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114807Z" creationid="Алексей" creationdate="20170909T204602Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T052740Z" creationid="Алексей" creationdate="20170909T204602Z">
         <seg>
-где {&lt;u0&gt; arg1 ... argN} являются обязательными аргументами, а пары {&lt;u1&gt; -option value} являются параметрами, которые вы можете свободно пропустить.</seg>
+где {&lt;u0&gt; арг1 ... аргN} являются обязательными аргументами, а пары {&lt;u1&gt; -опция значение} являются параметрами, которые вы можете опустить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12482,8 +12482,8 @@ endcommand|</seg>
       <tuv lang="EN-US">
         <seg>|command arg1 ... argN [-option1 value1 -option2 value2 ...]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T052452Z" creationid="Алексей" creationdate="20170910T114758Z">
-        <seg>|command аргумент1 ... аргументN [-опция1 значение1 -опция2 значение2 ...]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T052722Z" creationid="Алексей" creationdate="20170910T114758Z">
+        <seg>|command арг1 ... аргN [-опция1 значение1 -опция2 значение2 ...]|</seg>
       </tuv>
     </tu>
     <tu>
