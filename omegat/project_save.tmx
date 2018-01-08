@@ -3471,8 +3471,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Angle units supported: degree[s], minute[s] (also deg, min), grad[s], mil[s], percent[age] (clino only).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054852Z" creationid="Алексей" creationdate="20170910T124919Z">
-        <seg>Поддерживаемые угловые единицы:  degree[s] (градусы), minute[s] (минуты) (можно сокращать deg, min), grad[s] (грады), mil[s] (мили), percent[age] (проценты, только для угла наклона).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055203Z" creationid="Алексей" creationdate="20170910T124919Z">
+        <seg>Поддерживаемые угловые единицы:  degree[s] (градусы), minute[s] (минуты) (можно сокращать deg, min), grad[s] (грады), mil[s] (тысячная), percent[age] (проценты, только для угла наклона).</seg>
       </tuv>
     </tu>
     <tu>
