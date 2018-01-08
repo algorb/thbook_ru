@@ -1427,7 +1427,7 @@
       <tuv lang="EN-US">
         <seg>* |EPSG:&lt;number&gt;| = Most of EPSG coordinate systems.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055641Z" creationid="Алексей" creationdate="20170910T132347Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055829Z" creationid="Алексей" creationdate="20170910T132347Z">
         <seg>* |EPSG:&lt;число&gt;| =Большинство систем координат EPSG.</seg>
       </tuv>
     </tu>
@@ -1443,8 +1443,8 @@
       <tuv lang="EN-US">
         <seg>* |JTSK03|, |iJTSK03| = new S-JTSK realisation introduced in Slovakia in 2011.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T132708Z" creationid="Алексей" creationdate="20170910T132655Z">
-        <seg>* |JTSK03|, |iJTSK03| = новая реализация S-JTSK, введенная в Словакии в 2011 году.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055838Z" creationid="Алексей" creationdate="20170910T132655Z">
+        <seg>* |JTSK03|, |iJTSK03| = Новая реализация S-JTSK, введенная в Словакии в 2011 году.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1459,8 +1459,8 @@
       <tuv lang="EN-US">
         <seg>* |OSGB:&lt;H, N, O, S or T&gt;&lt;A-Z except I&gt;| = British Ordnance Survey National Grid.&lt;u0&gt;{5.4} * |S-MERC| = the spherical Mercator projection, as used by various online mapping sites.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132110Z" creationid="Алексей" creationdate="20170910T132720Z">
-        <seg>* |OSGB:&lt;H, N, O, S или T&gt;&lt;A-Z исключая I&gt;| = Британская Национальная Сеть.&lt;u0&gt;{5.4} * |S-MERC| = сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055843Z" creationid="Алексей" creationdate="20170910T132720Z">
+        <seg>* |OSGB:&lt;H, N, O, S или T&gt;&lt;A-Z исключая I&gt;| = Британская Национальная Сеть.&lt;u0&gt;{5.4} * |S-MERC| = Сферическая проекция Меркатора, используемая различными сайтами онлайн-сопоставления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,8 +1475,8 @@
       <tuv lang="EN-US">
         <seg>* |UTM1N| -- |UTM60N| = same as |UTM1| -- |UTM60| * |UTM1S| -- |UTM60S| = UTM in southern hemisphere, WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055558Z" creationid="Алексей" creationdate="20170910T132016Z">
-        <seg>* |UTM1N| -- |UTM60N| = то же, что и |UTM1| -- |UTM60|. * |UTM1S| -- |UTM60S| = UTM в южном полушарии, WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055815Z" creationid="Алексей" creationdate="20170910T132016Z">
+        <seg>* |UTM1N| -- |UTM60N| = То же, что и |UTM1| -- |UTM60|. * |UTM1S| -- |UTM60S| = UTM в южном полушарии, WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2027,8 +2027,8 @@
       <tuv lang="EN-US">
         <seg>* |lat-long|, |long-lat| = latitude (N positive, S negative) and longitude (E positive, W negative) in given order in degrees ($deg[{:}min[{:}sec]]$ allowed), WGS84 datum.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072051Z" creationid="Алексей" creationdate="20170910T132120Z">
-        <seg>* |lat-long|, |long-lat| = широта (N положительная, S отрицательная) и долгота\break (E положительная, W отрицательная) в заданном порядке в градусах\break (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055822Z" creationid="Алексей" creationdate="20170910T132120Z">
+        <seg>* |lat-long|, |long-lat| = Широта (N положительная, S отрицательная) и долгота\break (E положительная, W отрицательная) в заданном порядке в градусах\break (разрешено $deg[{:}min[{:}sec]]$), WGS84.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3383,8 +3383,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Almost every coordinate system used worldwide has its own EPSG number.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132008Z" creationid="Алексей" creationdate="20170910T132409Z">
-        <seg>Почти каждая система координат, используемая во всем мире, имеет собственный номер EPSG.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060106Z" creationid="Алексей" creationdate="20170910T132409Z">
+        <seg>Почти каждая\break система координат, используемая во всем мире, имеет собственный\break номер EPSG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,8 +4199,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each of the following sections describes one Therion command using the following structure:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172949Z" creationid="Алексей" creationdate="20170910T145836Z">
-        <seg>В каждом из следующих разделов описывается одна команда Therion,\break использующая следующую структуру:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060603Z" creationid="Алексей" creationdate="20170910T145836Z">
+        <seg>В каждом из следующих разделов описывается одна команда Therion'а,\break использующая следующую структуру:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5823,8 +5823,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is automatically used if the cave is located in space using any of supported geodetic coordinate systems and no declination is specified by user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172723Z" creationid="Алексей" creationdate="20170910T134329Z">
-        <seg>Он автоматически используется, если пещера находится в пространстве с использованием любой из\break поддерживаемых геодезических систем координат, и никакое склонение не определяется пользователем.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060442Z" creationid="Алексей" creationdate="20170910T134329Z">
+        <seg>Она автоматически используется, если пещера находится в пространстве с использованием любой из\break поддерживаемых геодезических систем координат, и никакое\break склонение не определяется пользователем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7648,8 +7648,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Studying the example files distributed with Therion will help you understand.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132207Z" creationid="Алексей" creationdate="20170910T145728Z">
-        <seg>Изучение примеров файлов, распространяемых вместе с Therion, поможет вам понять основы.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060535Z" creationid="Алексей" creationdate="20170910T145728Z">
+        <seg>Изучение примеров файлов, распространяемых вместе с Therion'ом, поможет вам понять основы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7888,8 +7888,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The computed declination is listed in the LOG file for information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132158Z" creationid="Алексей" creationdate="20170910T134345Z">
-        <seg>Вычисленное склонение указано в файле LOG для информации.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060437Z" creationid="Алексей" creationdate="20170910T134345Z">
+        <seg>Вычисленное склонение указано для информации в файле LOG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,8 +8736,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion contains built-in IGRF&lt;u0&gt;See &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] Earth geomagnetic field model valid for period 1900--2020&lt;u2&gt;{5.4}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171217T172719Z" creationid="Алексей" creationdate="20170910T134252Z">
-        <seg>Therion содержит встроенный IGRF&lt;u0&gt;См. &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] -- модель геомагнитного поля Земли, действительная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060309Z" creationid="Алексей" creationdate="20170910T134252Z">
+        <seg>Therion содержит встроенный IGRF&lt;u0&gt;Смотрите &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] -- модель геомагнитного поля Земли, действительная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9480,8 +9480,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To find number of your system, see |extern/proj4/nad/epsg| file in the therion source distribution.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T133629Z" creationid="Алексей" creationdate="20170910T132459Z">
-        <seg>Чтобы найти номер вашей системы, см. |extern/proj4/nad/epsg| файл в дистрибутиве исходников.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060123Z" creationid="Алексей" creationdate="20170910T132459Z">
+        <seg>Чтобы найти номер вашей системы, смотрите файл\break |extern/proj4/nad/epsg| в дистрибутиве исходников.</seg>
       </tuv>
     </tu>
     <tu>
