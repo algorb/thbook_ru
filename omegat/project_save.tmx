@@ -1003,8 +1003,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; keyword} = a sequence of |A-Z|, |a-z|, |0-9| and |_-/| characters (not starting with `|-|').</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053724Z" creationid="Алексей" creationdate="20170910T123617Z">
-        <seg>* {&lt;u0&gt; ключевые слова} = последовательность |A-Z|, |a-z|, |0-9| и |_-/| символов (не начинающиеся с `|-|').</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054012Z" creationid="Алексей" creationdate="20170910T123617Z">
+        <seg>* {&lt;u0&gt; ключевое слово} = последовательность |A-Z|, |a-z|, |0-9| и |_-/| символов (не\break начинающиеся с `|-|').</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,40 +1027,40 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u1&gt; ext&lt;u6&gt;keyword} = keyword that can also contain |+*.,'| characters, but not on the first position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053855Z" creationid="Алексей" creationdate="20170910T123623Z">
-        <seg>* {&lt;u1&gt; вн&lt;u6&gt;ключевые слова} = слово, которое также может содержать |+*.,'| символы, но не в первой позиции.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T053952Z" creationid="Алексей" creationdate="20170910T123623Z">
+        <seg>* {&lt;u1&gt; внешнее ключевое слово} = слово, которое также может содержать |+*.,'| символы, но не в первой позиции.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* {&lt;u2&gt; date} = a date (or a time interval) specification in a format&lt;u7&gt;&lt;u8&gt; |YYYY.MM.DD@HH:MM:SS.SS - YYYY.MM.DD@HH:MM:SS.SS| or `|-|' to leave a date unspecified.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T123934Z" creationid="Алексей" creationdate="20170910T123819Z">
-        <seg>* {&lt;u2&gt; date} = спецификация даты (или временного интервала) в формате &lt;u7&gt;&lt;u8&gt; |YYYY.MM.DD@HH:MM:SS.SS - YYYY.MM.DD@HH:MM:SS.SS| или `|-|' чтобы указать неопределенную дату.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054020Z" creationid="Алексей" creationdate="20170910T123819Z">
+        <seg>* {&lt;u2&gt; дата} = спецификация даты (или временного интервала) в формате &lt;u7&gt;&lt;u8&gt; |YYYY.MM.DD@HH:MM:SS.SS - YYYY.MM.DD@HH:MM:SS.SS| или `|-|' чтобы указать неопределенную дату.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* {&lt;u3&gt; person} = a person's first name and surname separated by whitespace characters.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124022Z" creationid="Алексей" creationdate="20170910T124000Z">
-        <seg>* {&lt;u3&gt; person} = имя и фамилия человека, разделенные пробельными символами.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054028Z" creationid="Алексей" creationdate="20170910T124000Z">
+        <seg>* {&lt;u3&gt;  персона} = имя и фамилия человека, разделенные пробельными символами.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* {&lt;u4&gt; string} = a sequence of any characters.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124144Z" creationid="Алексей" creationdate="20170910T124139Z">
-        <seg>* {&lt;u4&gt; string} = последовательность любых символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054036Z" creationid="Алексей" creationdate="20170910T124139Z">
+        <seg>* {&lt;u4&gt; строка} = последовательность любых символов.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>* {&lt;u5&gt; units} = length units supported: meter[s], centimeter[s], inch[es], feet[s], yard[s] (also m, cm, in, ft, yd).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124924Z" creationid="Алексей" creationdate="20170910T124554Z">
-        <seg>* {&lt;u5&gt; units} = поддерживаемые единицы длины: meter[s], centimeter[s], inch[es], feet[s], yard[s] (можно сокращать m, cm, in, ft, yd).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054410Z" creationid="Алексей" creationdate="20170910T124554Z">
+        <seg>* {&lt;u5&gt; единицы} = поддерживаемые единицы длины: meter[s] (метры), centimeter[s] (сантиметры), inch[es] (дюймы), feet[s] (футы), yard[s] (ярды) (можно сокращать m, cm, in, ft, yd).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5575,8 +5575,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In multilingual strings only the text between |&lt;lang:XX&gt;| (where |XX| is the language selected in initialization or configuration file) and the next |&lt;lang:YY&gt;| tag is displayed on the output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T124400Z" creationid="Алексей" creationdate="20170910T124400Z">
-        <seg>В многоязычных строках только текст между |&lt;lang:XX&gt;| (где |XX| - это язык, выбранный в файле инициализации или конфигурации) и следующим тегом |&lt;lang:YY&gt;| отображается на выходе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T054204Z" creationid="Алексей" creationdate="20170910T124400Z">
+        <seg>В многоязычных строках только текст между |&lt;lang:XX&gt;| (где |XX| -- это язык, выбранный в файле инициализации или конфигурации) и следующим тегом |&lt;lang:YY&gt;| отображается на выходе.</seg>
       </tuv>
     </tu>
     <tu>
