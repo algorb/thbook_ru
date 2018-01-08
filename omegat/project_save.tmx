@@ -2567,8 +2567,8 @@
       <tuv lang="EN-US">
         <seg>*|&lt;id&gt;| = survey identifier</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T050908Z" creationid="Алексей" creationdate="20170910T050819Z">
-        <seg>* |&lt;id&gt;| = идентификатор</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101736Z" creationid="Алексей" creationdate="20170910T050819Z">
+        <seg>* |&lt;идентификатор&gt;| = идентификатор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4239,8 +4239,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each survey has its own namespace specified by its |&lt;id&gt;| argument.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153719Z" creationid="Алексей" creationdate="20170911T153638Z">
-        <seg>Каждый survey имеет собственное пространство имен, указанное его |&lt;id&gt;| аргументом.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101052Z" creationid="Алексей" creationdate="20170911T153638Z">
+        <seg>Каждый survey имеет собственное пространство имен, указанный его\break аргументом |&lt;идентификатор&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6736,8 +6736,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Objects (like survey stations or scraps; see below) which belong to a subsurvey of the current survey are referenced as</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153903Z" creationid="Алексей" creationdate="20170911T153903Z">
-        <seg>Объекты (например станции или скрапы, см. ниже), которые относятся к subsurvey текущего survey, записываются как</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101133Z" creationid="Алексей" creationdate="20170911T153903Z">
+        <seg>Объекты (например станции или скрапы, смотрите ниже), которые относятся к subsurvey текущего survey,\break записываются как</seg>
       </tuv>
     </tu>
     <tu>
@@ -8536,8 +8536,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The |&lt;specification&gt;| has three forms:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071205Z" creationid="Алексей" creationdate="20170911T155155Z">
-        <seg>The |&lt;спецификация&gt;| имеет три формы:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101903Z" creationid="Алексей" creationdate="20170911T155155Z">
+        <seg>|&lt;Спецификация&gt;| имеет три формы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,16 +12094,17 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|.&lt;u0&gt;Note: it's not possible to reference any object from the higher-level surveys.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T072336Z" creationid="Алексей" creationdate="20170911T154006Z">
-        <seg>|&lt;object-id&gt;@&lt;subsubsurvey-id&gt;.&lt;subsurvey-id&gt;|&lt;u0&gt;Примечание: невозможно связать любой объект с survey более высокого уровня.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101614Z" creationid="Алексей" creationdate="20170911T154006Z">
+        <seg>|&lt;идентификатор объекта&gt;@&lt;идентификатор subsubsurvey&gt;.
+&lt;идентификатор subsurvey&gt;|&lt;u0&gt;Примечание: невозможно связать любой объект с survey более высокого уровня.].</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>|&lt;object-id&gt;@&lt;subsurvey-id&gt;|,</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153912Z" creationid="Алексей" creationdate="20170911T153912Z">
-        <seg>|&lt;object-id&gt;@&lt;subsurvey-id&gt;|,</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101251Z" creationid="Алексей" creationdate="20170911T153912Z">
+        <seg>|&lt;идентификатор объекта&gt;@&lt;идентификатор subsurvey&gt;|,</seg>
       </tuv>
     </tu>
     <tu>
@@ -12298,8 +12299,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|[&lt;date1&gt; &lt;value1&gt; [&lt;date2&gt; &lt;value2&gt; ... ] &lt;units&gt;]| will set declination for several dates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155637Z" creationid="Алексей" creationdate="20170911T155637Z">
-        <seg>|[&lt;дата1&gt; &lt;начение1&gt; [&lt;дата2&gt; &lt;значение2&gt; ... ] &lt;единицы&gt;]| установит склонение для нескольких дат.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T102016Z" creationid="Алексей" creationdate="20170911T155637Z">
+        <seg>|[&lt;дата1&gt; &lt;значение1&gt; [&lt;дата2&gt; &lt;значение2&gt; ... ] &lt;единицы&gt;]| установит склонение для нескольких дат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12330,8 +12331,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|[&lt;value&gt; &lt;units&gt;]| will set a single value (also for undated surveys).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155447Z" creationid="Алексей" creationdate="20170911T155447Z">
-        <seg>|[&lt;значение&gt; &lt;единицы&gt;]| установит одно значение (также для undated survey).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101953Z" creationid="Алексей" creationdate="20170911T155447Z">
+        <seg>|[&lt;значение&gt; &lt;единицы&gt;]| установит одно значение (также для пустого survey).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13065,10 +13066,10 @@ endsurface|</seg>
       <tuv lang="EN-US">
         <seg>|survey &lt;id&gt; [OPTIONS] ... other therion objects ... endsurvey [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071110Z" creationid="Алексей" creationdate="20170910T050707Z">
-        <seg>|survey &lt;id&gt; [ОПЦИИ]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T101713Z" creationid="Алексей" creationdate="20170910T050707Z">
+        <seg>|survey &lt;идентификатор&gt; [ОПЦИИ]
 	... другие объекты ...
-endsurvey [&lt;id&gt;]|</seg>
+endsurvey [&lt;идентификатор&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
