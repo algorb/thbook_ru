@@ -7992,8 +7992,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The following role keywords are supported: station, length, tape, [back]compass, [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T072353Z" creationid="Алексей" creationdate="20171230T072226Z">
-        <seg>Поддерживаются следующие\break зарезервированные слова: station, length, tape, [back]compass,\break [back]bearing, [back]clino, [back]gradient, counter, depth, station, position, notes, pictures, pics, instruments (insts), assistant (dog).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T091041Z" creationid="Алексей" creationdate="20171230T072226Z">
+        <seg>Поддерживаются следующие\break зарезервированные слова: station (расстановка пикетов), length (измерение расстояния), tape (рулетка), [back]compass (компас), [back]bearing (азимут), [back]clino (угол наклона), [back]gradient (уклон), counter (счетчик), depth (глубина), position (позиция), notes (записи), pictures (изображения), pics (изображения), instruments (insts) (инструменты), assistant (dog) (помощник).</seg>
       </tuv>
     </tu>
     <tu>
