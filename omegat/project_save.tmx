@@ -9480,8 +9480,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To display altitude on the passage wall, use |altitude| option for any line point of the passage wall], |height|&lt;u2&gt;Height of formations inside of the passage (like pit etc.); see below for details.], |passage-height|&lt;u3&gt;Height of the passage; see below for details.], |station-name|&lt;u4&gt;If no text is specified, the name of the nearest station is used.], &lt;u5&gt;-100 |date|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085849Z" creationid="Алексей" creationdate="20170923T025606Z">
-        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода.], |height|&lt;u2&gt;Высота внутри хода (например, яма и т.д.); смотрите ниже подробнее.], |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.], |station-name|&lt;u4&gt;Если текст не указан, используется имя ближайшей станции.], &lt;u5&gt;-100 |date|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T132154Z" creationid="Алексей" creationdate="20170923T025606Z">
+        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода.], |height|&lt;u2&gt;Высота внутри хода (например, яма и т.д.); смотрите ниже подробнее.],\break |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.], |station-name|&lt;u4&gt;Если текст не указан, используется имя ближайшей станции.] (имя станции), &lt;u5&gt;-100 |date|;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11545,8 +11545,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; labels:} |label|, |remark|, |altitude|&lt;u1&gt;General altitude label.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T031603Z" creationid="Алексей" creationdate="20170923T025128Z">
-        <seg>{&lt;u0&gt; метки:} |label|, |remark|, |altitude|&lt;u1&gt;Знак общей высоты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T131904Z" creationid="Алексей" creationdate="20170923T025128Z">
+        <seg>{&lt;u0&gt; метки:} |label| (текстовая метка), |remark| (заметка), |altitude|&lt;u1&gt;Знак общей высоты.</seg>
       </tuv>
     </tu>
     <tu>
