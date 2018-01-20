@@ -553,6 +553,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094625Z" creationid="Алексей" creationdate="20180120T094625Z">
+        <seg>Нелинейное преобразование скрапа состоит из перемещения станций съемки в правильное положение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Open the file `thconfig' from the sample data directory in the `Compiler' window of XTherion * Press `F9' or `compile' in the menu to run Therion on the data---you'll get some messages from Therion, &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T131328Z" creationid="Алексей" creationdate="20170909T140929Z">
@@ -4127,8 +4135,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Displayed blue in the |debug| mode.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004353Z" creationid="Алексей" creationdate="20170921T004353Z">
-        <seg>Отображается синим в режиме |debug|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094316Z" creationid="Алексей" creationdate="20170921T004353Z">
+        <seg>Отображается синим цветом в режиме |debug|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4935,8 +4943,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Ideally, a scrap contains about 100 m of the cave.&lt;u0&gt;If necessary, scraps may be much smaller---just to display a few meters of the cave.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004859Z" creationid="Алексей" creationdate="20170920T073410Z">
-        <seg>В идеале скрап содержит около 100 м пещеры.&lt;u0&gt;Если необходимо, скрапы могут быть намного меньше, несколько метров пещеры.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T093712Z" creationid="Алексей" creationdate="20170920T073410Z">
+        <seg>В идеале скрап содержит около 100 м пещеры&lt;u0&gt;Если необходимо, скрапы могут быть намного меньше, несколько метров пещеры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7176,8 +7184,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Scrap border consists of lines with the |-outline out| or |-outline in| options (passage walls have |-outline out| by default).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084213Z" creationid="Алексей" creationdate="20170921T002839Z">
-        <seg>Граница скрапа состоит из линий с опцией |-outline| или |-outline in| (стены хода по умолчанию имеют опцию |-outline out|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T093921Z" creationid="Алексей" creationdate="20170921T002839Z">
+        <seg>Граница скрапа состоит из линий с опцией |-outline out| или |-outline in| (стены хода по умолчанию имеют опцию |-outline out|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8264,8 +8272,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The result is displayed red if |debug| option of the |layout| command is set |on|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004036Z" creationid="Алексей" creationdate="20170921T004036Z">
-        <seg>Результат отображается красный, если опция |debug| в команде |layout| установлена в |on|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094205Z" creationid="Алексей" creationdate="20170921T004036Z">
+        <seg>Результат отображается красным цветом, если опция |debug| в команде |layout| установлена в |on|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9656,8 +9664,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Using too large scraps may exhaust &lt;u2&gt;'s memory if passage fills are frequently used and the map editor in XTherion is much less responsive when editing huge scraps.] Each scrap is processed separately by &lt;u3&gt;; scraps which are too large may exceed &lt;u4&gt;'s memory and cause errors.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084829Z" creationid="Алексей" creationdate="20170921T002352Z">
-        <seg>Слишком большие скрапы могут исчерпать память &lt;u2&gt;, если часто используются заливки хода. Кроме того, редактор карт в XTherion'е медленнее реагирует при редактировании\break больших скрапов.] Каждый скрап\break обрабатывается отдельно &lt;u3&gt;; слишком большие скрапы могут\break превысить размер памяти &lt;u4&gt;\ и вызвать ошибки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T093808Z" creationid="Алексей" creationdate="20170921T002352Z">
+        <seg>Слишком большие скрапы могут исчерпать память &lt;u2&gt;, если часто используются заливки хода. Кроме того, редактор карт в XTherion'е медленнее реагирует при редактировании\break больших скрапов.]. Каждый скрап\break обрабатывается отдельно &lt;u3&gt;; слишком большие скрапы могут\break превысить размер памяти &lt;u4&gt;\ и вызвать ошибки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12420,7 +12428,7 @@ endpattern;</seg>
       <tuv lang="EN-US">
         <seg>|centreline [OPTIONS] date &lt;date&gt; team &lt;person&gt; [&lt;roles&gt;] explo-date &lt;date&gt; explo-team &lt;person&gt; instrument &lt;quantity list&gt; &lt;description&gt; calibrate &lt;quantity list&gt; &lt;zero error&gt; [&lt;scale&gt;] units &lt;quantity list&gt; [&lt;factor&gt;] &lt;units&gt; sd &lt;quantity list&gt; &lt;value&gt; &lt;units&gt; grade &lt;grade list&gt; declination &lt;value&gt; &lt;units&gt; grid-angle &lt;value&gt; &lt;units&gt; infer &lt;what&gt; &lt;on/off&gt; mark &lt;type&gt; flags &lt;shot flags&gt; station &lt;station&gt; &lt;comment&gt; [&lt;flags&gt;] cs &lt;coordinate system&gt; fix &lt;station&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]] equate &lt;station list&gt; data &lt;style&gt; &lt;readings order&gt; break group endgroup walls &lt;auto/on/off&gt; vthreshold &lt;number&gt; &lt;units&gt; extend &lt;spec&gt; [&lt;station&gt; [&lt;station&gt;]] station-names &lt;prefix&gt; &lt;suffix&gt; ... [SURVEY DATA] ... endcentreline|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T114119Z" creationid="Алексей" creationdate="20170912T005309Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T093607Z" creationid="Алексей" creationdate="20170912T005309Z">
         <seg>|centreline [ОПЦИИ]
 	date &lt;дата&gt;
 	team &lt;персона&gt; [&lt;роли&gt;]
@@ -12433,14 +12441,14 @@ endpattern;</seg>
 	grade &lt;grade list&gt;
 	declination &lt;значение&gt; &lt;единицы&gt;
 	grid-angle &lt;значение&gt; &lt;единицы&gt;
-	infer &lt;what&gt; &lt;on/off&gt;
+	infer &lt;что&gt; &lt;on/off&gt;
 	mark &lt;тип&gt;
-	flags &lt;shot flags&gt;
-	station &lt;станция&gt; &lt;комментарий&gt; [&lt;flags&gt;]
+	flags &lt;флаги замеров&gt;
+	station &lt;станция&gt; &lt;комментарий&gt; [&lt;флаги&gt;]
 	cs &lt;система координат&gt;
 	fix &lt;станция&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;std x&gt; &lt;std y&gt; &lt;std z&gt;]]
-	equate &lt;station list&gt;
-	data &lt;стиль&gt; &lt;readings order&gt;
+	equate &lt;список станций&gt;
+	data &lt;стиль&gt; &lt;порядок считывания&gt;
 	break
 	group
 	endgroup
