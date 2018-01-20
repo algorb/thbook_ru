@@ -12323,8 +12323,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|[&lt;num1&gt; ... &lt;num8&gt; [&lt;length units&gt;]]| = this is the most general format, where you specify, in order, the $x$ and $y$ coordinates of two points in the scrap and two points in reality.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T180035Z" creationid="Алексей" creationdate="20170922T174106Z">
-        <seg>|[&lt;число1&gt; ... &lt;число8&gt; [&lt;единица длины&gt;]]| = это самый общий формат, где вы указываете по порядку координаты $x$ и $y$ двух точек в скрапе и две точки в действительности.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T131218Z" creationid="Алексей" creationdate="20170922T174106Z">
+        <seg>|[&lt;число1&gt; ... &lt;число8&gt; [&lt;единица длины&gt;]]| = это самый общий формат, где вы указываете по порядку координаты $x$ и $y$ двух точек в скрапе и две точки в реальности.</seg>
       </tuv>
     </tu>
     <tu>
