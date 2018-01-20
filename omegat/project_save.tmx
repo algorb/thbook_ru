@@ -563,8 +563,8 @@
       <tuv lang="EN-US">
         <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094739Z" creationid="Алексей" creationdate="20180120T094625Z">
-        <seg>* Нелинейное преобразование скрапа состоит из перемещения станций съемки в правильное положение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T095013Z" creationid="Алексей" creationdate="20180120T094625Z">
+        <seg>* Нелинейное преобразование скрапа состоит из перемещения станций\break съемки в правильное положение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2575,8 +2575,8 @@
       <tuv lang="EN-US">
         <seg>*|&lt;id&gt;| = scrap identifier</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170922T171847Z" creationid="Алексей" creationdate="20170922T171819Z">
-        <seg>*|&lt;id&gt;| = идентификатор скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T095308Z" creationid="Алексей" creationdate="20170922T171819Z">
+        <seg>*|&lt;идентификатор&gt;| = идентификатор скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,8 +11798,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u1&gt; When deciding about scrap size please take into account the following:} Using small scraps may take more time for cartographer to optimize scrap joins.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T084815Z" creationid="Алексей" creationdate="20170920T073519Z">
-        <seg>{При определении размера скрапа учитывайте следующее:} Использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их\break объединения.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T095111Z" creationid="Алексей" creationdate="20170920T073519Z">
+        <seg>{При определении размера скрапа учитывайте следующее:} использование небольших скрапов может потребовать больше времени для их обрисовки и для оптимизации их\break объединения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12967,12 +12967,12 @@ end of file|</seg>
       <tuv lang="EN-US">
         <seg>|scrap &lt;id&gt; [OPTIONS] ... point, line and area commands ... endscrap [&lt;id&gt;]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T085241Z" creationid="Алексей" creationdate="20170922T171448Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T095459Z" creationid="Алексей" creationdate="20170922T171448Z">
         <seg>
 
-|scrap &lt;id&gt; [ОПЦИИ]
+|scrap &lt;идентификатор&gt; [ОПЦИИ]
 	... команды точек, линий и областей ...
-endscrap [&lt;id&gt;]|</seg>
+endscrap [&lt;идентификатор&gt;]|</seg>
       </tuv>
     </tu>
     <tu>
