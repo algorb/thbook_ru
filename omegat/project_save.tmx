@@ -7064,8 +7064,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Reading is one of the following keywords: station, from, to, tape/length, [back]compass/[back]bearing, [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;dimension may be specified as a pair |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, meaning the size at the beginning and end of the shot], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T073129Z" creationid="Алексей" creationdate="20170920T054632Z">
-        <seg>Считывание может принимать одно из следующих ключевых слов: station, from, to, tape/length, [back]compass/[back]bearing,\break [back]clino/&lt;u0&gt;0[back]gradient, depth, fromdepth, todepth, depthchange, counter, fromcount, tocount, northing, easting, altitude, up/ceiling&lt;u1&gt;Размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера.], down/floor, left, right, ignore, ignoreall.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T092614Z" creationid="Алексей" creationdate="20170920T054632Z">
+        <seg>Считывание может принимать одно из следующих ключевых слов: station (станция), from (начальная станция), to (конечная станция), tape/length (длина), [back]compass/[back]bearing (азимут), [back]clino/&lt;u0&gt;0[back]gradient (угол наклона), depth (глубина), fromdepth (от глубины), todepth (до глубины), depthchange (изменение глубины), counter (счетчик), fromcount (от счетчика), tocount (к счетчику), northing (север), easting (восток), altitude (высота над уровнем моря), up/ceiling (высота потолка)&lt;u1&gt;Размер может быть задан как пара |[&lt;from&gt; &lt;to&gt;&lt;u2&gt;"5D|, что означает размер в начале и в конце замера.], down/floor, left, right, ignore, ignoreall.</seg>
       </tuv>
     </tu>
     <tu>
