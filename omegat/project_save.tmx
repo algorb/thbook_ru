@@ -553,10 +553,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Non-linear transformation of the scrap which (1) moves joined points together, (2) doesn't move survey stations, (3) is continuous.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094917Z" creationid="Алексей" creationdate="20180120T094734Z">
+        <seg>* Нелинейное преобразование скрапа, которое состоит из (1) перемещения соединенных вместе точек, (2) не перемещает станции съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Non-linear transformation of the scrap which (1) moves survey stations to their correct position, (2) is continuous.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094625Z" creationid="Алексей" creationdate="20180120T094625Z">
-        <seg>Нелинейное преобразование скрапа состоит из перемещения станций съемки в правильное положение.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T094739Z" creationid="Алексей" creationdate="20180120T094625Z">
+        <seg>* Нелинейное преобразование скрапа состоит из перемещения станций съемки в правильное положение.</seg>
       </tuv>
     </tu>
     <tu>
