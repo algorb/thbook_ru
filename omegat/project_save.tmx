@@ -7304,8 +7304,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>See the chapter {&lt;u1&gt; How the map is put together}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T132906Z" creationid="Алексей" creationdate="20170923T025906Z">
-        <seg>Смотрите главу {Как карта собирается в единое целое}.]{&lt;u1&gt;:} |bedrock| (почва), |sand| (песок), |raft| (нанос), |clay| (глина), |pebbles| (галька), |debris| (щебень), |blocks| (глыбы), |water| (вода), |ice| (лед), |guano| (гуано), |snow| (снег);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T133814Z" creationid="Алексей" creationdate="20170923T025906Z">
+        <seg>Смотрите главу {Как карта собирается в единое целое}.]{&lt;u1&gt;:} |bedrock| (коренная порода), |sand| (песок), |raft| (нанос), |clay| (глина), |pebbles| (галька), |debris| (щебень), |blocks| (навал глыб), |water| (вода), |ice| (лед), |guano| (гуано), |snow| (снег);</seg>
       </tuv>
     </tu>
     <tu>
