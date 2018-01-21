@@ -4397,6 +4397,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples: the lower side of a pitch, higher side of a chimney and interior of a passage are on the left side of pitch, chimney or wall symbols, respectively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T051702Z" creationid="Алексей" creationdate="20180121T051702Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples: |+4|, |[+4 m]|, |[fix 1510 m]|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053310Z" creationid="Алексей" creationdate="20171104T053303Z">
@@ -8080,8 +8088,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The general rule is that the free space is on the left, rock on the right.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064756Z" creationid="Алексей" creationdate="20170924T064557Z">
-        <seg>Главное правило заключается в том, что свободное пространство хода находится слева, а порода справа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T051601Z" creationid="Алексей" creationdate="20170924T064557Z">
+        <seg>Главное правило заключается в том, что свободное пространство хода находится слева по ходу линии (галочка направлена в эту сторону), а порода справа.</seg>
       </tuv>
     </tu>
     <tu>
