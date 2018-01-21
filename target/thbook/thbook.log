@@ -1,0 +1,3081 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 JAN 2018 11:38
+entering extended mode
+**./thbook.tex
+(thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
+") (etc/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count26
+\scratchdimen=\dimen16
+\scratchdimen=\dimen17
+\scratchdimen=\dimen18
+\scratchdimen=\dimen19
+\scratchdimen=\dimen20
+\scratchdimen=\dimen21
+\scratchcounter=\count27
+\scratchtoks=\toks12
+\scratchtoks=\toks13
+\scratchtoks=\toks14
+\scratchtoks=\toks15
+\scratchtoks=\toks16
+\scratchtoks=\toks17
+\scratchtoks=\toks18
+\scratchtoks=\toks19
+\scratchtoks=\toks20
+\scratchtoks=\toks21
+\scratchskip=\skip18
+\scratchskip=\skip19
+\scratchskip=\skip20
+\scratchskip=\skip21
+\scratchmuskip=\muskip10
+\scratchmuskip=\muskip11
+\scratchmuskip=\muskip12
+\scratchmuskip=\muskip13
+\scratchmuskip=\muskip14
+\scratchmuskip=\muskip15
+\scratchmuskip=\muskip16
+\scratchmuskip=\muskip17
+\scratchmuskip=\muskip18
+\scratchmuskip=\muskip19
+\scratchmuskip=\muskip20
+\scratchmuskip=\muskip21
+\scratchbox=\box16
+\scratchread=\read0
+\scratchwrite=\write0
+\zeropoint=\dimen22
+\onepoint=\dimen23
+\onebasepoint=\dimen24
+\minusone=\count28
+\thousandpoint=\dimen25
+\onerealpoint=\dimen26
+\emptytoks=\toks22
+\nextbox=\box17
+\nextdepth=\dimen27
+\everyline=\toks23
+\!!counta=\count29
+\!!countb=\count30
+\recursecounter=\count31
+) (etc/supp-pdf.tex
+loading : Context Support Macros / PDF
+\scratchcounter=\count32
+\scratchdimen=\dimen28
+\scratchbox=\box18
+\nofMPsegments=\count33
+\nofMParguments=\count34
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count35
+\MPscratchDim=\dimen29
+\MPnumerator=\count36
+\everyMPtoPDFconversion=\toks25
+) (etc/optarg.tex) (etc/verbatim.tex)
+\footnum=\count37
+ (ch00.tex [1{C:/Users/РђР»РµРєСЃРµР№/AppData/Local/MiKTeX/2.9/pdftex/config/pd
+ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3]) [4]
+\openout1 = `etc/contents.tex'.
+
+) (ch01.tex [5 <./pic/ageom.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\tt называемый XThe-rion. XThe-rion работает как расширенный
+
+\hbox(8.04599+2.412)x452.96786, glue set 5.36003
+.\tt н
+.\tt а
+.\tt з
+.\tt ы
+.\tt в
+.etc.
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 43--44
+ [][]\tt Строгое разделение данных и визуализации. В файлах данных
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.90091
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt С
+.\tt т
+.etc.
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 49--50
+ [][]\tt Все данные привязываются к положениям пикетов съемки. Если
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.45699
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt В
+.\tt с
+.etc.
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 55--56
+ [][]\tt 3D-модель создается из 2D-карт, чтобы получить реалистичную
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.96843
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt 3
+.\tt D
+.etc.
+
+[6]
+Underfull \hbox (badness 5592) in paragraph at lines 67--68
+[]\tt Установщик для Win-dows включает все необходимые пакеты, за
+
+\hbox(8.04599+1.836)x452.96786, glue set 3.82527
+.\hbox(0.0+0.0)x0.0
+.\tt У
+.\kern-1.296
+.\tt с
+.\tt т
+.etc.
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 67--68
+\tt исключением ghostscript. Прочтите \it Приложение\tt , если вы хотите
+
+\hbox(8.11198+2.69398)x452.96786, glue set 3.35599
+.\tt и
+.\kern-0.12001
+.\tt с
+.\tt к
+.\tt л
+.etc.
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 77--78
+[]\tt Исходники -- главный дистрибутив The-rion'а. Его необходимо
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.23227
+.\hbox(0.0+0.0)x0.0
+.\tt И
+.\tt с
+.\tt х
+.\kern-0.24
+.etc.
+
+[7]
+Underfull \hbox (badness 1097) in paragraph at lines 91--92
+[]\tt Итак, теперь ясно, что нужно The-rion'у, давайте посмотрим как он
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.22383
+.\hbox(0.0+0.0)x0.0
+.\tt И
+.\tt т
+.\tt а
+.\tt к
+.etc.
+
+[MP to PDF] (mp/schema.1)
+Underfull \hbox (badness 2096) in paragraph at lines 97--98
+\tt из файлов скрыто от пользователя, и все необходимые программы
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.76003
+.\tt и
+.\tt з
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt ф
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 99--100
+\tt данные (лучше всего делать это в XThe-rion'е), запускать The-rion и
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.48868
+.\tt д
+.\tt а
+.\tt н
+.\tt н
+.\tt ы
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+\tt отображать выходные файлы (3D-модель, карта, лог-файл) в
+
+\hbox(8.04599+2.69398)x452.96786, glue set 5.69186
+.\tt о
+.\tt т
+.\tt о
+.\tt б
+.\kern-0.12001
+.etc.
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 107--108
+\tt Затем он преобразует все другие данные (например 2D-карты) в
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.40184
+.\tt З
+.\tt а
+.\tt т
+.\tt е
+.\tt м
+.etc.
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 107--108
+\tt 2D-карт в формате \manfnt META\tt -\manfnt POST\tt . \manfnt META\tt -\manf
+nt POST \tt дает фактическую форму
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.77371
+.\tt 2
+.\tt D
+.\tt -
+.\discretionary
+.\tt к
+.etc.
+
+[8]) (ch02.tex [9]
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\eightit Только для вас, детей 
+
+\hbox(6.08398+2.06549)x452.96786, glue set 4.62772
+.\hbox(0.0+0.0)x29.87547
+.\eightit Т
+.\eightit о
+.\kern-0.27
+.\eightit л
+.etc.
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 3--3
+\eightit в разных местах и собрались 
+
+\hbox(6.08398+1.881)x452.96786, glue set 3.39037
+.\eightit в
+.\glue 3.15 plus 1.89 minus 0.756
+.\eightit р
+.\eightit а
+.\eightit з
+.etc.
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 3--3
+\eightit месте, которое мы раскрыли в 
+
+\hbox(4.3785+1.881)x452.96786, glue set 2.29683
+.\eightit м
+.\eightit е
+.\eightit с
+.\eightit т
+.\eightit е
+.etc.
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 3--3
+\eightit другом, что оно может быть 
+
+\hbox(6.08398+2.06549)x452.96786, glue set 3.05424
+.\eightit д
+.\eightit р
+.\eightit у
+.\eightit г
+.\eightit о
+.etc.
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 24--25
+ [][]\tt Многострочные команды начинаются аналогично однострочным, но
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.7781
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt М
+.\tt н
+.etc.
+
+[10 <./pic/agrippa.jpg>]
+Underfull \hbox (badness 2221) in paragraph at lines 46--47
+ [][]\tt Каждая строка, заканчивающаяся обратным слэшем ([]\[]), считается
+
+\hbox(8.328+2.69398)x452.96786, glue set 2.81436
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt К
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 50--51
+ [][]\tt Многострочные комментарии внутри []com-ment[] ... []end-com-ment[] бло
+ка
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.56279
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt М
+.\tt н
+.etc.
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 60--60
+ [][]\it единицы $\mit .$ \tt поддерживаемые единицы длины: me-ter[s] (метры),
+
+\hbox(8.04599+2.754)x452.96786, glue set 4.06572
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\it е
+.\it д
+.etc.
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 60--60
+ \tt (грады), mil[s] (тысячные), per-cent[age] (проценты, только для угла
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.28757
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt г
+.\tt р
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 66--67
+[]\tt Если вы не указали какой-либо []cs[] в вашем наборе данных, то
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.26079
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+[11]
+Underfull \hbox (badness 1661) in paragraph at lines 74--74
+ [][][]\tt UTM1[] -- []UTM60[] $\mit .$ \tt Универсальная поперечная проекция М
+еркатора
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.55382
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt U
+.etc.
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 74--74
+ \tt номер EPSG. Чтобы найти номер вашей системы, смотрите файл
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.69325
+.\glue(\leftskip) 12.0
+.\tt н
+.\kern-0.14401
+.\tt о
+.\kern-0.12001
+.etc.
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 81--82
+\tt если пещера находится в пространстве с использованием любой из
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.62291
+.\tt е
+.\tt с
+.\kern0.168
+.\tt л
+.\tt и
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+\tt поддерживаемых геодезических систем координат, и никакое
+
+\hbox(5.676+2.412)x452.96786, glue set 6.51797
+.\tt п
+.\kern-0.12001
+.\tt о
+.\kern-0.48001
+.\tt д
+.etc.
+
+[12]
+Underfull \hbox (badness 4556) in paragraph at lines 149--150
+\tt смотрите ниже), которые относятся к sub-sur-vey текущего sur-vey,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.57433
+.\tt с
+.\tt м
+.\tt о
+.\tt т
+.\tt р
+.etc.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+ \tt система координат, склонение автоматически вычисляется с
+
+\hbox(5.676+2.412)x452.96786, glue set 6.1132
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt и
+.\kern-0.12001
+.\tt с
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+ [][][]\tt entrance <имя-станции>[] $\mit .$ \tt указывает главный вход в пещер
+у,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.42947
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt e
+.etc.
+
+[14]
+Underfull \hbox (badness 1147) in paragraph at lines 245--245
+ \tt в настоящее время не используется). Поддерживаются следующие
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.25832
+.\glue(\leftskip) 12.0
+.\tt в
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt н
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+ \tt (изображения), in-stru-ments (in-sts) (инструменты), as-sis-tant (dog)
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.7722
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt и
+.\tt з
+.\tt о
+.etc.
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+ [][][]\tt infer <что> <on/off>[] $\mit .$ \tt `[]in-fer plumbs on[]' говорит п
+рограмме
+
+\hbox(8.328+2.412)x452.96786, glue set 4.49153
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt i
+.etc.
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 245--245
+ \tt угол наклона не будет изменяться при раскидывании невязки).
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.71123
+.\glue(\leftskip) 12.0
+.\tt у
+.\tt г
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 245--245
+ [][][]\tt grid-angle <значение> <единицы>[] $\mit .$ \tt задает угол магнитной
+ сетки
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.90434
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt g
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+ [][][]\tt sd <параметр> <значение> <единицы>[] $\mit .$ \tt задает стандартное
+
+
+\hbox(8.04599+2.412)x452.96786, glue set 5.10985
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 245--245
+ \tt отклонение для данных измерений. []<Параметр>[] может содержать
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.23633
+.\glue(\leftskip) 12.0
+.\tt о
+.\tt т
+.\tt к
+.\tt л
+.etc.
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 245--245
+ \tt наклона съемки (смотрите команду grade). Все ранее заданные
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.86594
+.\glue(\leftskip) 12.0
+.\tt н
+.\tt а
+.\tt к
+.\tt л
+.etc.
+
+[16]
+Underfull \hbox (badness 5036) in paragraph at lines 245--245
+ \tt станций отсутствует, все последующие станции будут отмечены
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.69583
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt т
+.\tt а
+.\tt н
+.etc.
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 245--246
+ \tt Поддерживаемые флаги: []sur-face[] (для измерений на поверхности),
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.87788
+.\glue(\leftskip) 12.0
+.\tt П
+.\tt о
+.\kern-0.48001
+.\tt д
+.etc.
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 255--256
+ []\tt Вы также можете указать пользовательские атрибуты для станции,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.26744
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\tt ы
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 257--258
+ \tt длинна>[] для станции. Исследовательские длины являются частью
+
+\hbox(8.04599+1.836)x452.96786, glue set 2.32256
+.\glue(\leftskip) 12.0
+.\tt д
+.\tt л
+.\tt и
+.\tt н
+.etc.
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 259--259
+ [][][]\tt cs <система координат>[] $\mit .$ \tt система координат для станций 
+с
+
+\hbox(8.04599+2.412)x452.96786, glue set 4.1368
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 259--260
+ \tt topofil, div-ing, carte-sian, cylpo-lar, di-men-sions, no-sur-vey) и поряд
+ок
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.68877
+.\glue(\leftskip) 12.0
+.\tt t
+.\tt o
+.\tt p
+.\tt o
+.etc.
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 259--260
+ \tt слов: sta-tion (станция), from (начальная станция), to (конечная
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.3526
+.\glue(\leftskip) 12.0
+.\tt с
+.\kern0.168
+.\tt л
+.\kern-0.432
+.etc.
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 259--260
+ \tt станция), tape/length (длина), [back]compass/[back]bearing (азимут),
+
+\hbox(8.328+2.85599)x452.96786, glue set 3.55388
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt т
+.\tt а
+.\tt н
+.etc.
+
+[17]
+Underfull \hbox (badness 5787) in paragraph at lines 267--267
+ [][][]\tt endgroup[] $\mit .$ []\tt group/endgroup[] пара позволяет пользовате
+лю делать
+
+\hbox(8.328+2.69398)x452.96786, glue set 3.86989
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt e
+.etc.
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 269--270
+ []\tt Если ходы горизонтальны ([]наклон < vthresh-old[]), LR считается
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.98546
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+ []\tt normal/reverse[] $\mit .$ \tt развернуть данную и следующие станции
+
+\hbox(8.328+2.85599)x452.96786, glue set 5.99951
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt n
+.\tt o
+.\tt r
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+ [][][]\tt station-names <префикс> <суффикс>[] $\mit .$ \tt добавляет данный
+
+\hbox(8.04599+2.85599)x452.96786, glue set 7.71515
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+[18]
+Underfull \hbox (badness 1596) in paragraph at lines 298--298
+ \rm может потребовать больше времени для их обрисовки и для оптимизации их
+
+\hbox(6.70499+2.01)x452.96786, glue set 2.51985
+.\glue(\leftskip) 18.0
+.\rm м
+.\rm о
+.\kern-0.22002
+.\rm ж
+.etc.
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 298--299
+\tt обрабатывается отдельно \manfnt META\tt -\manfnt POST\tt ; слишком большие 
+скрапы могут
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.45572
+.\tt о
+.\tt б
+.\kern-0.12001
+.\tt р
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 304--305
+\tt определяете координаты символов карты вручную) или пикселям
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.14998
+.\tt о
+.\kern-0.12001
+.\tt п
+.\tt р
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 306--306
+ [][]\tt линейное преобразование (смещение, масштабирование и вращение),
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.17758
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt л
+.\tt и
+.etc.
+
+[19]
+Underfull \hbox (badness 6944) in paragraph at lines 326--327
+ []\tt тип[:индекс][]. Индекс может быть любым ключевым словом.
+
+\hbox(8.04599+2.69398)x452.96786, glue set 4.11423
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt т
+.\tt и
+.\tt п
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+ [][][]\tt scale <спецификация>[] $\mit .$ \tt используется для предварительног
+о
+
+\hbox(8.04599+2.85599)x452.96786, glue set 6.31886
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 344--344
+ [][][]\tt stations <список имен станций> [] $\mit .$ \tt станции, которые вы х
+отите
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.80899
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 344--344
+ \tt использовать в скрапе, но которые не используются для его
+
+\hbox(5.676+2.85599)x452.96786, glue set 3.96375
+.\glue(\leftskip) 12.0
+.\tt и
+.\kern-0.12001
+.\tt с
+.\tt п
+.etc.
+
+[20]
+Underfull \hbox (badness 4144) in paragraph at lines 344--344
+ [][][]\tt flip (none)/horizontal/vertical[] $\mit .$ \tt зеркально отображает 
+скрап после
+
+\hbox(8.328+2.69398)x452.96786, glue set 3.46326
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt  (ligature fl)
+.etc.
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 368--369
+ \tt отметка), []height[]$[]$ (высота уступа/камина/колодца), []passage-height[
+]$[]$
+
+\hbox(8.86581+2.85599)x452.96786, glue set 3.68243
+.\glue(\leftskip) 12.0
+.\tt о
+.\tt т
+.\tt м
+.\kern-0.14401
+.etc.
+
+[21]
+Underfull \hbox (badness 1924) in paragraph at lines 372--373
+ []\it спелео-формы: []\tt flow-stone[] (натечный каскад), []moon-milk[] (мондм
+ильх),
+
+\hbox(8.11198+2.69398)x452.96786, glue set 2.68102
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it с
+.\it п
+.\it е
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+ []\tt stalactite[] (сталактиты), []sta-lag-mite[] (сталагмиты), []pil-lar[] (к
+олонны,
+
+\hbox(8.04599+2.69398)x452.96786, glue set 4.88416
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt t
+.\tt a
+.etc.
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 372--373
+ \tt (сталактиты-соломины), []crys-tal[] (кристаллы), []wall-calcite[] (настенн
+ый
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.6722
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt с
+.\tt т
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 374--375
+ []\it оборудование: []\tt an-chor[] (ИТО), []rope[] (веревка), []fixed-ladder[
+] (жесткая
+
+\hbox(8.11198+2.754)x452.96786, glue set 2.86998
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it о
+.\it б
+.\it о
+.etc.
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 376--377
+ []\tt narrow-end[] (вертикальная узость), []low-end[] (горизонтальная узость),
+
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.09998
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt n
+.\tt a
+.\tt r
+.etc.
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 378--379
+ []\it другие: []\tt dig[] (раскоп), []archeo-material[] (археологическая наход
+ка),
+
+\hbox(8.04599+2.754)x452.96786, glue set 4.1314
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it д
+.\it р
+.\it у
+.etc.
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 378--379
+ \tt (понор), []ice-stalactite[] (ледяной сталактит), []ice-stalagmite[] (ледян
+ой
+
+\hbox(8.04599+2.69398)x452.96786, glue set 4.21245
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt п
+.\kern-0.12001
+.\tt о
+.etc.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 384--385
+ [][][]\tt subtype <подтип>[] $\mit .$ \tt определяет подтип объекта. Поддержив
+аются
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.3891
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 386--387
+ []\it station (станция)$[]$: []\tt tem-po-rary[] (временная) (по умолчанию), [
+]painted[]
+
+\hbox(8.86581+2.85599)x452.96786, glue set 2.57843
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it s
+.\it t
+.\it a
+.etc.
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 392--393
+ []\tt Подтип может быть указан также непосредственно в []<type>[] с
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.42036
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt П
+.\tt о
+.\kern-0.48001
+.etc.
+
+[22]
+Underfull \hbox (badness 1092) in paragraph at lines 396--396
+ [][][]\tt align[] $\mit .$ \tt выравнивание символа или текста. Принимает след
+ующие
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.2219
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt a
+.etc.
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 396--396
+ []\tt symbol-hide[] и []symbol-show[] в lay-out) символ будет скрыт/показан в
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.34338
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 400--401
+ [][][]\tt text[] $\mit .$ \tt текст la-bel (метки), re-mark (примечания) или c
+on-tin-u-a-tion
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.12816
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt t
+.etc.
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+ []\tt <center>[]/[]<centre>[], []<left>[], []<right>[] $\mit .$ \tt выравниван
+ие строк для
+
+\hbox(8.328+2.69398)x452.96786, glue set 4.84998
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt <
+.\tt c
+.\tt e
+.etc.
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 416--417
+ \tt (положительный, отрицательный или без знака), этот тип символа
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.42493
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt п
+.\kern-0.12001
+.\tt о
+.etc.
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 422--422
+ []\it dimensions (размеры хода): []\tt -value [<выше> <ниже> [<единицы>]][]
+
+\hbox(8.11198+2.754)x452.96786, glue set 2.8509
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it d
+.\it i
+.\it m
+.etc.
+
+[24]
+Underfull \hbox (badness 1253) in paragraph at lines 453--454
+ []\it заливка ходов: []\tt flow-stone[] (натечный каскад), []moon-milk[] (монд
+мильх),
+
+\hbox(8.04599+2.754)x452.96786, glue set 2.32396
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it з
+.\it а
+.\it л
+.etc.
+
+[MP to PDF] (mp/xsect.1)
+Underfull \hbox (badness 1210) in paragraph at lines 463--464
+ \tt точкам), []pre-sumed[] (предполагаемая), []pit[] (стены колодца)$[]$, []fl
+ow-stone[]
+
+\hbox(8.86581+2.69398)x452.96786, glue set 2.29723
+.\glue(\leftskip) 12.0
+.\tt т
+.\tt о
+.\kern-0.12001
+.\tt ч
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+ []\it border (граница): []\tt vis-i-ble[] (видимая) (по умолчанию), []in-vis-i
+-ble[]
+
+\hbox(8.11198+2.85599)x452.96786, glue set 4.84319
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it b
+.\it o
+.\it r
+.etc.
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 469--470
+ []\it survey (нитка хода): []\tt cave[] (пещерная) (по умолчанию), []sur-face[
+]
+
+\hbox(8.11198+2.85599)x452.96786, glue set 3.74033
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it s
+.\it u
+.\it r
+.etc.
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 471--472
+ []\tt Подтип может быть указан также непосредственно в []<типе>[] с
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.30173
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt П
+.\tt о
+.\kern-0.48001
+.etc.
+
+[25]
+Underfull \hbox (badness 4217) in paragraph at lines 475--475
+ \tt выровнена по горизонтали/вертикали с предыдущей точкой (или
+
+\hbox(8.328+2.85599)x452.96786, glue set 3.48332
+.\glue(\leftskip) 12.0
+.\tt в
+.\tt ы
+.\tt р
+.\tt о
+.etc.
+
+
+Underfull \hbox (badness 3158) in paragraph at lines 475--475
+ \tt следующей точкой, если нет предыдущей точки). Результат --
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.16235
+.\glue(\leftskip) 12.0
+.\tt с
+.\kern0.168
+.\tt л
+.\kern-0.384
+.etc.
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 475--476
+ []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
+ в
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.72578
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 479--479
+ \tt ближайшая станция не будет принята во внимание; вместо этого
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.53996
+.\glue(\leftskip) 12.0
+.\tt б
+.\kern-0.192
+.\tt л
+.\tt и
+.etc.
+
+[26]
+Underfull \hbox (badness 1715) in paragraph at lines 479--479
+ \tt контурной линии. Если спецификация градиента отсутствует, то
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.57933
+.\glue(\leftskip) 12.0
+.\tt к
+.\kern-0.24
+.\tt о
+.\kern-0.12001
+.etc.
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 489--490
+\tt каждая пара последовательных линий должны пересекаться. Чтобы
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.41168
+.\tt к
+.\kern-0.192
+.\tt а
+.\tt ж
+.\tt д
+.etc.
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 512--512
+ []\tt symbol-hide[] и []symbol-show[] команды []lay-out[]) будет скрыт/показан
+ в
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.72578
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.\tt y
+.\tt m
+.etc.
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+ \tt линии, необязательно сопровождаемый меткой символа линии
+
+\hbox(8.04599+2.412)x452.96786, glue set 5.16965
+.\glue(\leftskip) 12.0
+.\tt л
+.\tt и
+.\tt н
+.\tt и
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+ []\tt <идентификатор>:<метка>[] (например, []po-dangl_l31@podangl:mark1[]).
+
+\hbox(8.706+2.69398)x452.96786, glue set 7.37584
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt <
+.\tt и
+.\tt д
+.etc.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 544--544
+ [][][]\tt count <N>[] (при использовании со скрапами) $\mit .$ \tt The-rion по
+пытается
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.3133
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
+ []\tt <название карты> [<смещение X> <смещение Y> <единиц>][]
+
+\hbox(8.04599+2.69398)x452.96786, glue set 4.97482
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt <
+.\tt н
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 589--589
+ [][][]\tt colo[u]r <цвет>[] $\mit .$ \tt установить цвет карты; эта опция отме
+няет
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.55031
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+[29]
+Underfull \hbox (badness 1092) in paragraph at lines 599--600
+[]\tt Спецификация поверхности (рельефа). Его можно отобразить двумя
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.21896
+.\hbox(0.0+0.0)x0.0
+.\tt С
+.\tt п
+.\tt е
+.\tt ц
+.etc.
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
+ [][][]\tt grid-flip (none)/vertical/horizontal[] $\mit .$ \tt полезно, если ва
+ша сетка
+
+\hbox(8.328+2.69398)x452.96786, glue set 5.19731
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt g
+.etc.
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 646--647
+[]\tt Считывает данные съемки в разных форматах (в настоящее время
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.79477
+.\hbox(0.0+0.0)x0.0
+.\tt С
+.\tt ч
+.\tt и
+.\tt т
+.etc.
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 664--664
+ [][][]\tt cs <система координат>[] $\mit .$ \tt система координат для станций 
+с
+
+\hbox(8.04599+2.412)x452.96786, glue set 4.1368
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 664--664
+ \tt файле смещаются от координат в нижнем регистре к координатам
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.16283
+.\glue(\leftskip) 12.0
+.\tt ф
+.\tt а
+.\tt й
+.\tt л
+.etc.
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 670--671
+[]\tt Эта команда используется для сохранения предопределенных точных
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.58516
+.\hbox(0.0+0.0)x0.0
+.\tt Э
+.\tt т
+.\tt а
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[31]
+Underfull \hbox (badness 5607) in paragraph at lines 709--709
+ []\tt Id означает идентификатор объекта (всегда должен указываться
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.82976
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt I
+.\tt d
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--715
+[]\tt Пользовательские атрибуты используются при экспорте карты в
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.47638
+.\hbox(0.0+0.0)x0.0
+.\tt П
+.\tt о
+.\kern-0.24
+.\tt л
+.etc.
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 717--718
+ \tt атрибуты записываются в исходный файл \manfnt META\tt -\manfnt POST \tt ка
+к строки
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.19948
+.\glue(\leftskip) 12.0
+.\tt а
+.\tt т
+.\tt р
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 717--718
+ \tt (именуемые []ATTR_<имя>[]) и могут быть оценены и использованы
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.81836
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt и
+.\tt м
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+ []\tt Вы можете проверить наличие такой переменной, используя:
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.83806
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\tt ы
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[32]
+Underfull \hbox (badness 1337) in paragraph at lines 743--744
+\tt никакой разницы между геликтитом и текстовой меткой -- оба они
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.37674
+.\tt н
+.\tt и
+.\tt к
+.\kern-0.192
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 745--746
+[][]\it Упражнение: \tt Найдите две существенные причины, почему карта,
+
+\hbox(8.11198+2.85599)x452.96786, glue set 3.51173
+.\hbox(0.0+0.0)x0.0
+.\hbox(0.0+0.0)x0.0, glue set - 28.31999fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\hbox(0.0+0.0)x0.0
+...\hbox(0.0+0.0)x0.0, shifted -10.0 []
+..\glue 4.31999 plus 2.592 minus 1.032
+..\glue 24.0
+.\it У
+.\kern-0.72002
+.\it п
+.etc.
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+[]\tt Размер и масштабирование \bf области рисования \tt настраивается в
+
+\hbox(8.094+2.412)x452.96786, glue set 4.97781
+.\hbox(0.0+0.0)x0.0
+.\tt Р
+.\tt а
+.\tt з
+.\tt м
+.etc.
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 763--764
+[]\tt Полное содержимое любой команды отображается в меню \it Просмотр
+
+\hbox(8.11198+2.508)x452.96786, glue set 2.34416
+.\hbox(0.0+0.0)x0.0
+.\tt П
+.\tt о
+.\kern-0.24
+.\tt л
+.etc.
+
+[34]
+Underfull \hbox (badness 4886) in paragraph at lines 767--768
+\it Действие \tt и выберите \it Вставить точку\tt ; затем нажать кнопку с
+
+\hbox(8.11198+2.85599)x452.96786, glue set 3.65813
+.\it Д
+.\it е
+.\it й
+.\it с
+.\it т
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 771--772
+[]\bf Рисование линий \tt аналогично рисованию в других программах
+
+\hbox(8.094+2.85599)x452.96786, glue set 5.2972
+.\hbox(0.0+0.0)x0.0
+.\bf Р
+.\bf и
+.\kern-0.192
+.\bf с
+.etc.
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 773--774
+\tt или имя. Важным является чек-бокс \it обратная\tt : The-rion требует
+
+\hbox(8.11198+2.85599)x452.96786, glue set 2.91081
+.\tt и
+.\tt л
+.\tt и
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt и
+.etc.
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 775--776
+\tt которого (введенное в меню \it Редактор \tt в редакторе карты) обычно
+
+\hbox(8.11198+2.754)x452.96786, glue set 2.97592
+.\tt к
+.\kern-0.24
+.\tt о
+.\tt т
+.\tt о
+.etc.
+
+[35]
+Underfull \hbox (badness 1215) in paragraph at lines 782--782
+ \tt указателя и ввести эти координаты в \it масштабирующие точки для
+
+\hbox(8.11198+2.85599)x452.96786, glue set 2.29974
+.\glue(\leftskip) 12.0
+.\tt у
+.\tt к
+.\kern-0.192
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 786--787
+[]\tt В \bf режиме выбора \tt вы можете выбрать существующие линейные или
+
+\hbox(8.094+2.85599)x452.96786, glue set 2.33994
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\glue 4.31999 plus 2.592 minus 1.032
+.\bf р
+.\bf е
+.etc.
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 789--790
+[]\tt Существует меню \it Поиск и выделение\tt , которое позволяет легко
+
+\hbox(8.11198+2.85599)x452.96786, glue set 4.30077
+.\hbox(0.0+0.0)x0.0
+.\tt С
+.\tt у
+.\tt щ
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--800
+[]\tt Если карта в формате PDF была преобразована в растровое
+
+\hbox(8.04599+2.412)x452.96786, glue set 4.78265
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 799--800
+\tt растровое изображение \it и \tt pdf-карту с тем же базовым именем,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.9684
+.\tt р
+.\tt а
+.\tt с
+.\tt т
+.\tt р
+.etc.
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 801--802
+[]\tt Если используется непосредственно файл PDF, то вам необходимо
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.28067
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+[36]
+Underfull \hbox (badness 1242) in paragraph at lines 803--804
+\tt Pock-et-Topo можно импортировать в текстовом редакторе, а также в
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.31784
+.\tt P
+.\tt o
+.\tt c
+.\tt k
+.\discretionary
+..\tt -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--819
+ \tt существующей точке (обычно она вставляется на ближайшую
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.6469
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt у
+.\tt щ
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 819--819
+ [][]\tt щелчок левой кнопкой мыши+тянуть $\mit .$ \tt вставить точку линии (с
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.97475
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt щ
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 819--819
+ [][]\tt щелчок левой кнопкой мыши+переместить контрольную точку $\mit .$ 
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.8435
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt щ
+.\kern-0.14401
+.etc.
+
+[37] [38]
+Underfull \hbox (badness 2111) in paragraph at lines 881--882
+[]\tt Для действительно больших пещер можно построить иерархическую
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.7665
+.\hbox(0.0+0.0)x0.0
+.\tt Д
+.\tt л
+.\tt я
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 881--882
+\tt каталога и содержит команды []equate[] для определения связей между
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.31213
+.\tt к
+.\kern-0.192
+.\tt а
+.\tt т
+.\tt а
+.etc.
+
+[39] [40]
+Underfull \hbox (badness 2799) in paragraph at lines 907--908
+\tt символов -- точки, линии или области: видимость, подрезание и
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.03917
+.\tt с
+.\tt и
+.\tt м
+.\tt в
+.\tt о
+.etc.
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 933--933
+ [][] \tt растровые изображения поверхности отображаются, если []sur-face[]
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.21634
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt р
+.etc.
+
+[41]
+Underfull \hbox (badness 4024) in paragraph at lines 953--953
+ [][] \tt растровые изображения поверхности отображаются если []sur-face[]
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.43085
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt р
+.etc.
+
+) (ch03.tex [42]
+Underfull \hbox (badness 2197) in paragraph at lines 11--12
+\tt игнорируются; строки, заканчивающиеся на обратную косую черту,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.80342
+.\tt и
+.\tt г
+.\tt н
+.\kern-0.14401
+.\tt о
+.etc.
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 39--40
+\tt указать несколько систем координат для разных выходных данных
+
+\hbox(5.676+2.85599)x452.96786, glue set 3.04456
+.\tt у
+.\tt к
+.\kern-0.192
+.\tt а
+.\tt з
+.etc.
+
+[43 <./pic/herakl.pdf>]
+Underfull \hbox (badness 1377) in paragraph at lines 81--82
+[]\tt выбирает объекты (съемки и карты) для экспорта. По умолчанию
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.39879
+.\hbox(0.0+0.0)x0.0
+.\tt в
+.\tt ы
+.\tt б
+.\kern-0.168
+.etc.
+
+[44] [45] [46]
+Underfull \hbox (badness 1142) in paragraph at lines 211--211
+ [][][]\tt units <met-ric/imperial>[] $\mit .$ \tt установить единицы измерения
+ (M, A; по
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.25253
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt u
+.etc.
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 215--215
+ [][][]\tt symbol-assign <point/line/area/group/special> <тип символа> <набор[]
+ 
+
+\hbox(8.328+2.85599)x452.96786, glue set 3.28745
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 221--222
+ \tt fills (рельеф хода), ice (лед), sed-i-ments (отложения), equip-ment
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.81743
+.\glue(\leftskip) 12.0
+.\tt  (ligature fi)
+.\tt l
+.\tt l
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+ [][][]\tt symbol-hide <point/line/area/group/special> <тип символа>[] $\mit .$
+ \tt не
+
+\hbox(8.328+2.85599)x452.96786, glue set 4.85497
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+[47]
+Underfull \hbox (badness 3333) in paragraph at lines 235--236
+ \tt котором точечные и линейные символы отображаются на карте.
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.21916
+.\glue(\leftskip) 12.0
+.\tt к
+.\kern-0.24
+.\tt о
+.\tt т
+.etc.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 237--238
+ \tt точечным текстовым символам. Каждый из этих размеров может
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.315
+.\glue(\leftskip) 12.0
+.\tt т
+.\tt о
+.\kern-0.12001
+.\tt ч
+.etc.
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 243--243
+ [][][]\tt overlap <значение> <единицы>[] $\mit .$ \tt установить размер перекр
+ытия в
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.51744
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt o
+.etc.
+
+[48]
+Underfull \hbox (badness 5388) in paragraph at lines 243--243
+ [][][]\tt nav-factor <фактор>[] $\mit .$ \tt установить коэффициент масштабиро
+вания
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.77812
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt n
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+ [][][]\tt surface-opacity <значение>[] $\mit .$ \tt установить прозрачность ра
+стровой
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.37071
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 243--243
+ [][][]\tt layers <on/off>[] $\mit .$ \tt включение/отключение слоев PDF 1.5 (M
+, A; по
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.34767
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt l
+.etc.
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 243--243
+ \tt умолчанию используется истинный (астрономический) север. Он
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.02605
+.\glue(\leftskip) 12.0
+.\tt у
+.\tt м
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+ [][][]\tt grid-coords <off/border/all>[] $\mit .$ \tt указать, где маркировать
+ сетку
+
+\hbox(8.328+2.85599)x452.96786, glue set 4.94843
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt g
+.etc.
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 243--243
+ [][][]\tt own-pages <число> [] $\mit .$ \tt установить количество собственных 
+страниц,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.22842
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt o
+.etc.
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 247--247
+ [][][]\tt map-header <x> <y> <off/n/s/e/w/ne/nw/se/sw/center>[] $\mit .$ \tt н
+апечатать
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.31516
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt m
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+ \tt заголовок карты в месте, указанном координатами []<x> <y>[].
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.38211
+.\glue(\leftskip) 12.0
+.\tt з
+.\tt а
+.\tt г
+.\tt о
+.etc.
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 247--247
+ \tt Предопределенный заголовок карты содержит некоторую базовую
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.67442
+.\glue(\leftskip) 12.0
+.\tt П
+.\kern-0.24
+.\tt р
+.\tt е
+.etc.
+
+[49]
+Underfull \hbox (badness 3861) in paragraph at lines 247--247
+ [][][]\tt map-header-bg <on/off>[] $\mit .$ \tt когда включено, фон заголовка 
+карты
+
+\hbox(8.328+2.69398)x452.96786, glue set 3.38211
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt m
+.etc.
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 247--247
+ \tt заполняется цветом фона (например, для скрытия сетки). (M; по
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.16728
+.\glue(\leftskip) 12.0
+.\tt з
+.\tt а
+.\tt п
+.\kern-0.12001
+.etc.
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 247--247
+ [][][]\tt language <xx[_YY]>[] $\mit .$ \tt установить язык вывода. Доступные 
+языки
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.31963
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt l
+.etc.
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 251--252
+ []\tt Для []map-bg[] вы можете использовать []trans-par-ent[] чтобы полностью
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.76877
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Д
+.\tt л
+.\tt я
+.etc.
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 255--255
+ \tt The-rion искажает данные карты. Смотрите описание []scrap[] для
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.98888
+.\glue(\leftskip) 12.0
+.\tt T
+.\tt h
+.\tt e
+.\discretionary
+..\tt -
+.etc.
+
+[50] [MP to PDF] (mp/page.1) [51]
+Underfull \hbox (badness 2894) in paragraph at lines 342--343
+ \tt префикс ``[]cave.[]'' используется с расширением, соответствующим
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.07176
+.\glue(\leftskip) 12.0
+.\tt п
+.\tt р
+.\tt е
+.\tt ф
+.etc.
+
+[52 <./pic/page.pdf>]
+Underfull \hbox (badness 4886) in paragraph at lines 348--348
+ \tt какие функции экспортировать, если формат поддерживает его.
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.6588
+.\glue(\leftskip) 12.0
+.\tt к
+.\kern-0.192
+.\tt а
+.\tt к
+.etc.
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 348--349
+ [][][]\tt wall-source <maps/centerline/all>[] $\mit .$ \tt установить исходные
+ данные для
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.38763
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt w
+.etc.
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 352--353
+ [][][]\tt projection <id>[] $\mit .$ \tt уникальный идентификатор, который зад
+ает тип
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.60178
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt p
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+ [][][]\tt format/fmt <формат>[] $\mit .$ \tt установить формат списка возможны
+х
+
+\hbox(8.328+2.85599)x452.96786, glue set 4.74411
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt f
+.etc.
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 360--361
+ \tt продолжений (перспектив). В настоящее время поддерживаются
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.27538
+.\glue(\leftskip) 12.0
+.\tt п
+.\tt р
+.\tt о
+.\kern-0.48001
+.etc.
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 368--369
+ [][][]\tt surveys (on)/off[] $\mit .$ \tt экспортирует необработанный список п
+ещер при
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.46123
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt s
+.etc.
+
+[53]
+Underfull \hbox (badness 1107) in paragraph at lines 380--381
+[]\tt Теперь, после освоения данных и файлов конфигурации, мы готовы
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.22896
+.\hbox(0.0+0.0)x0.0
+.\tt Т
+.\kern-0.432
+.\tt е
+.\tt п
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--410
+ []\tt <конфигурационный файл>[] $\mit .$ \tt The-rion принимает только один
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.7333
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt <
+.\tt к
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 410--410
+ \tt файла []thcon-fig[] (например, текущий каталог не является каталогом
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.47406
+.\glue(\leftskip) 12.0
+.\tt ф
+.\tt а
+.\tt й
+.\tt л
+.etc.
+
+[54]
+Underfull \hbox (badness 3861) in paragraph at lines 437--438
+ [][][]\tt --print-encodings[] $\mit .$ \tt выводит список всех поддерживаемых 
+входных
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.38068
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt  (ligature --)
+.etc.
+
+) (ch04.tex [55]
+Underfull \hbox (badness 1048) in paragraph at lines 11--12
+\tt ошибок, измеренная вдоль оси координат $\mit x$\tt ; аналогично для $\mit y
+$ \tt и $\mit z$\tt .
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.19107
+.\tt о
+.\kern-0.12001
+.\tt ш
+.\tt и
+.\tt б
+.etc.
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 13--14
+[]\tt Искажение скрапа вычисляется с использованием меры искажения,
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.29274
+.\hbox(0.0+0.0)x0.0
+.\tt И
+.\tt с
+.\tt к
+.\kern-0.192
+.etc.
+
+[56] [57 <./pic/database.pdf>]
+Underfull \hbox (badness 2635) in paragraph at lines 85--86
+[]\tt В режиме атласа на каждую страницу помещается дополнительная
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.9771
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt р
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 97--98
+[]\tt Карты, созданные в форматах DXF, ESRI или KML, могут быть
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.30084
+.\hbox(0.0+0.0)x0.0
+.\tt К
+.\tt а
+.\kern-0.14401
+.\tt р
+.etc.
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+\tt поддерживает, например, рендеринг с высоким разрешением и
+
+\hbox(5.676+2.412)x452.96786, glue set 4.69115
+.\tt п
+.\kern-0.12001
+.\tt о
+.\kern-0.48001
+.\tt д
+.etc.
+
+) (ch05.tex [59] [60 <./pic/thom.jpg>]
+Underfull \hbox (badness 1546) in paragraph at lines 58--59
+ [][][]\tt \pointerE[], []\point-erW[], []\point-erN[], []\point-erS[] содержат
+ номер страницы
+
+\hbox(8.328+2.412)x452.96786, glue set 2.49222
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt \
+.etc.
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 64--65
+ \tt текущей страницы. Они состоят из одной или нескольких
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.1252
+.\glue(\leftskip) 12.0
+.\tt т
+.\tt е
+.\tt к
+.\tt у
+.etc.
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 82--82
+ [][][]\tt \ifpagenumbering[] $\mit .$ \tt это значение установлено в true или 
+false в
+
+\hbox(8.328+2.85599)x452.96786, glue set 3.02695
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt \
+.etc.
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 84--85
+[]\tt Существуют также некоторые предопределенные макросы, которые
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.58588
+.\hbox(0.0+0.0)x0.0
+.\tt С
+.\tt у
+.\tt щ
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 90--91
+ [][][]\tt \showpointerlist[] с одним из аргументов []\point-erU[] или []\poin-
+t-erD[]
+
+\hbox(8.328+2.85599)x452.96786, glue set 3.73557
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt \
+.etc.
+
+[61]
+Underfull \hbox (badness 7238) in paragraph at lines 92--93
+ \tt форматирования пользовательских данных переопределите макрос
+
+\hbox(8.04599+2.412)x452.96786, glue set 4.16942
+.\glue(\leftskip) 12.0
+.\tt ф
+.\tt о
+.\kern-0.168
+.\tt р
+.etc.
+
+[62] [63]
+Underfull \hbox (badness 2213) in paragraph at lines 193--194
+\tt чтобы получить простой, предварительно отформатированный, вывод
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.81093
+.\tt ч
+.\tt т
+.\tt о
+.\tt б
+.\kern-0.14401
+.etc.
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 199--199
+ \tt переведенными описаниями в указанное количество столбцов (в
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.86217
+.\glue(\leftskip) 12.0
+.\tt п
+.\tt е
+.\kern-0.192
+.\tt р
+.etc.
+
+[64]
+Underfull \hbox (badness 3281) in paragraph at lines 221--222
+[]\tt В режиме карты можно использовать множество предопределенных
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.20245
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt р
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 239--240
+\tt регистра []\leg-end-width[] (его значение по умолчанию задано опцией
+
+\hbox(8.328+2.85599)x452.96786, glue set 3.2939
+.\tt р
+.\tt е
+.\tt г
+.\tt и
+.\kern-0.12001
+.etc.
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 247--248
+[]\tt Можно отобразить всю карту, обрамленную установкой регистра
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.00992
+.\hbox(0.0+0.0)x0.0
+.\tt М
+.\tt о
+.\kern-0.264
+.\tt ж
+.etc.
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 255--256
+[]\tt Команда компоновки The-rion позволяет легко переключаться между
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.08748
+.\hbox(0.0+0.0)x0.0
+.\tt К
+.\tt о
+.\kern-0.12001
+.\tt м
+.etc.
+
+[65]
+Missing character: There is no - in font logo10!
+
+Underfull \hbox (badness 6284) in paragraph at lines 269--270
+\tt Также можно добавлять символы для постоянного использования,
+
+\hbox(8.04599+1.836)x452.96786, glue set 3.97868
+.\tt Т
+.\kern-0.432
+.\tt а
+.\tt к
+.\tt ж
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+\tt наборе `MY' -- []p_waterflow_permanent_MY[]. Стандартное имя для
+
+\hbox(8.04599+2.412)x452.96786, glue set 4.6415
+.\tt н
+.\tt а
+.\tt б
+.\tt о
+.\kern-0.168
+.etc.
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 289--289
+ [][]\tt булевская []ATTR__scrap_centerline[] $\mit .$ \tt установлено в `true'
+ для скрапов
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.16956
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt б
+.\kern-0.36
+.etc.
+
+[66]
+Underfull \hbox (badness 1975) in paragraph at lines 289--289
+ [][]\tt числовая []Grid-Conv[] $\mit .$ \tt конвергенция сетки магнитного мери
+диана в
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.70528
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt ч
+.\tt и
+.etc.
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 293--294
+\tt (масштаб, числовое) и align-ment (выравнивание, пара). Исключения
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.31773
+.\tt (
+.\tt м
+.\tt а
+.\tt с
+.\tt ш
+.etc.
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 301--302
+ [][]\tt устанавливается переменная \it U \tt (пара) символа в $[]$ для
+
+\hbox(12.00008+6.00009)x452.96786, glue set 3.42522
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt у
+.\kern-0.384
+.etc.
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 301--302
+ \tt правильного выравнивания. Аргумент align-ment (выравнивание) \it A
+
+\hbox(8.11198+2.85599)x452.96786, glue set 2.55447
+.\glue(\leftskip) 12.0
+.\tt п
+.\tt р
+.\tt а
+.\tt в
+.etc.
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 307--308
+\tt команд \manfnt META\tt -\manfnt POST []\tt draw[] и []fill[]. Они автоматич
+ески обрабатывают
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.99466
+.\tt к
+.\kern-0.24
+.\tt о
+.\kern-0.12001
+.\tt м
+.etc.
+
+[67]
+Underfull \hbox (badness 1642) in paragraph at lines 320--321
+[]\tt Линейные символы отличаются от точечных символов тем, что нет
+
+\hbox(8.04599+1.49399)x452.96786, glue set 2.54398
+.\hbox(0.0+0.0)x0.0
+.\tt Л
+.\tt и
+.\tt н
+.\kern-0.12001
+.etc.
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 320--321
+\tt абсолютных координатах в качестве первого аргумента. Поэтому
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.09744
+.\tt а
+.\tt б
+.\tt с
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 343--343
+ [][]\tt заполнить единую или рандомизированную сетку во временном
+
+\hbox(5.676+2.85599)x452.96786, glue set 3.8583
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt з
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 343--343
+ \tt символами; закрепите его в соответствии с []path[] и добавьте в
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.22777
+.\glue(\leftskip) 12.0
+.\tt с
+.\tt и
+.\tt м
+.\tt в
+.etc.
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 343--343
+ [][]\tt заполните []path[] с предопределенным шаблоном с использованием
+
+\hbox(8.04599+2.412)x452.96786, glue set 3.5844
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt з
+.\tt а
+.etc.
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 345--346
+[]\tt Шаблоны определяются с использованием того же пользовательского
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.61372
+.\hbox(0.0+0.0)x0.0
+.\tt Ш
+.\tt а
+.\tt б
+.\kern-0.192
+.etc.
+
+[68]) (ch06.tex [69]
+Underfull \hbox (badness 1400) in paragraph at lines 17--18
+ \tt ([][]https://sourceforge.net/projects/tcllib/[][]) и необязательным расшир
+ением
+
+\hbox(8.328+2.844)x452.96786, glue set 2.41107
+.\glue(\leftskip) 12.0
+.\tt (
+.\pdfstartlink(*+*)x* attr{/Border [0 0 0]} action user{/Subtype /Link /A << /T
+ype /Action /S /URI /URI (https://sourceforge.\ETC.}
+.\pdfcolorstack 1 push {0.91 0 0.88 0.12 k}
+.\tt h
+.etc.
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 22--22
+ [][]\tt T[]X дистрибутив с plain форматом T[]X, pdfT[]X, и \manfnt META\tt -\m
+anfnt POST
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.02182
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt T
+.\kern -2.00043
+.etc.
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 30--31
+[]\tt Все программы (за исключением пакетов BWid-get и tkImg) обычно
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.67903
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\tt с
+.\tt е
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 30--31
+\tt содержат GNU make и GCC. Кстати, почему бы не использовать
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.91692
+.\tt с
+.\tt о
+.\kern-0.48001
+.\tt д
+.\kern-0.264
+.etc.
+
+[70]
+Underfull \hbox (badness 5203) in paragraph at lines 58--58
+ [][][]\tt config-linux[], []config-macosx[], []config-win32[] $\mit .$ \tt нас
+троить The-rion для
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.73601
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+ [][][]\tt config-release[], []config-oxygen[], []config-ozone[] $\mit .$ \tt у
+становить уровень
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.78987
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+[71]
+Underfull \hbox (badness 1259) in paragraph at lines 84--85
+[]\tt texenc/encodings[], запустите скрипт Perl []mk-tex-enc.pl[] расположенный
+ в
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.32991
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt t
+.\tt e
+.\tt x
+.\tt e
+.etc.
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 101--101
+ [][][]\tt TEMP[], []TMP[] $\mit .$ \tt системный временный каталог, где The-ri
+on хранит
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.67754
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt T
+.etc.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 101--101
+ \tt идентификатором процесса), если только []tmp-path[] указан в файле
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.56857
+.\glue(\leftskip) 12.0
+.\tt и
+.\tt д
+.\kern-0.264
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 111--111
+ [][]\tt в Win-dows: [].[], []$THE-RION[], []$HOME\.therion[], []<директория ус
+тановки[]
+
+\hbox(9.13799+2.85599)x452.96786, glue set 2.28664
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt в
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[72]
+Underfull \hbox (badness 3724) in paragraph at lines 115--116
+\tt читается как любой другой файл. Пустые строки или строки,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.3423
+.\tt ч
+.\tt и
+.\tt т
+.\tt а
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 121--122
+ []\tt По умолчанию используется []survex[], если он установлен, иначе
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.52739
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt П
+.\tt о
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[73]
+Underfull \hbox (badness 1377) in paragraph at lines 173--174
+ []\tt Работает только в Win-dows. Когда установлено значение []off[] (по
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.3974
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Р
+.\tt а
+.\tt б
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+ \tt умолчанию на выходе. Список текстов и
+
+\hbox(8.04599+2.85599)x452.96786, glue set 11.02737
+.\glue(\leftskip) 12.0
+.\tt у
+.\tt м
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 190--191
+ []\tt Для использования этой команды The-rion требует установки LCDF
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.49364
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Д
+.\tt л
+.\tt я
+.etc.
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 200--201
+ \tt используемые в []pdf-fonts[], преобразуются в шрифты PFB, если они
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.24263
+.\glue(\leftskip) 12.0
+.\tt и
+.\kern-0.12001
+.\tt с
+.\tt п
+.etc.
+
+[74]
+Underfull \hbox (badness 1194) in paragraph at lines 206--207
+ []\tt За кодировкой должны следовать пять спецификаций шрифтов для
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.28728
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt З
+.\tt а
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 220--221
+ \tt полужирных шрифтов и соответствующих шрифтов без засечек и
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.7185
+.\glue(\leftskip) 12.0
+.\tt п
+.\kern-0.12001
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 234--235
+ \tt можете полностью отключить поведение по умолчанию, установив
+
+\hbox(5.676+2.85599)x452.96786, glue set 2.75658
+.\glue(\leftskip) 12.0
+.\tt м
+.\tt о
+.\kern-0.264
+.\tt ж
+.etc.
+
+[75] [76]
+Underfull \hbox (badness 2269) in paragraph at lines 339--340
+ \tt Модель деформации карты существенно отличалась от текущей
+
+\hbox(8.04599+2.85599)x436.96786, glue set 2.8326
+.\glue(\leftskip) 12.0
+.\tt М
+.\tt о
+.\kern-0.48001
+.\tt д
+.etc.
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 339--340
+ \tt (позиции характеристик были относительно конкретного съемного
+
+\hbox(8.04599+2.69398)x436.96786, glue set 2.1593
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt п
+.\kern-0.12001
+.\tt о
+.etc.
+
+[77]
+Underfull \hbox (badness 2478) in paragraph at lines 387--387
+ []\tt Февраль: The-rion 0.5 -- Поддержка морфинга эскизов растровых
+
+\hbox(8.328+2.412)x452.96786, glue set 2.91805
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Ф
+.\tt е
+.\tt в
+.etc.
+
+[78]) (ch07.tex
+\samplepath=\toks26
+ Warning: skipping the case studies) [79] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 3 ({)
+### bottom level{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givb
+c10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb11.pfb): glyph `cyrbreve' undefined
+
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb11.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb12.pfb): glyph `cyrflex' undefined
+
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb12.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb13.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
+Output written on thbook.pdf (79 pages, 770442 bytes).
+PDF statistics:
+ 524 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+
