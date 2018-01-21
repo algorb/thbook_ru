@@ -8112,8 +8112,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The id stands for object identifier (the id of an object you want to revise must always be specified).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T091334Z" creationid="Алексей" creationdate="20171216T090403Z">
-        <seg>Id означает идентификатор объекта (всегда должен указываться\break идентификатор объекта, который вы хотите изменить).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T082003Z" creationid="Алексей" creationdate="20171216T090403Z">
+        <seg>В качестве идентификатора всегда должен указываться идентификатор объекта, который вы хотите изменить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8464,8 +8464,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The syntax of this command for object created with ``single line'' command is</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090041Z" creationid="Алексей" creationdate="20171216T090011Z">
-        <seg>Синтаксис этой команды для объекта, созданного с помощью команды ``single line'':</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081706Z" creationid="Алексей" creationdate="20171216T090011Z">
+        <seg>Синтаксис этой команды для объекта, созданного с помощью команды\break ``single line'':</seg>
       </tuv>
     </tu>
     <tu>
@@ -12944,11 +12944,11 @@ endmap|</seg>
       <tuv lang="EN-US">
         <seg>|revise id [-option1 value1 -option2 value2 ...] ... optionX valueX data ... endrevise|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090208Z" creationid="Алексей" creationdate="20171216T090136Z">
-        <seg>|revise id [-option1 value1 -option2 value2 ...]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081924Z" creationid="Алексей" creationdate="20171216T090136Z">
+        <seg>|revise идентификатор [-опция1 значение1 -опция2 значение2 ...]
 	...
-	optionX valueX
-	data
+	опцияX значениеX
+	данные
 	...
 endrevise|</seg>
       </tuv>
@@ -12957,8 +12957,8 @@ endrevise|</seg>
       <tuv lang="EN-US">
         <seg>|revise id [-option1 value1 -option2 value2 ...]|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T090052Z" creationid="Алексей" creationdate="20171216T090052Z">
-        <seg>|revise id [-option1 value1 -option2 value2 ...]|</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081811Z" creationid="Алексей" creationdate="20171216T090052Z">
+        <seg>|revise идентификатор [-опция1 значение1 -опция2 значение2 ...]|</seg>
       </tuv>
     </tu>
     <tu>
