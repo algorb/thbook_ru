@@ -2991,8 +2991,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>&lt;u1&gt;In the case of survey stations, XTherion automatically increases the station number for the next symbol inserted.] It is a good idea to start with drawing all survey stations (don't forget to give them names according to real names in the centreline command), than all passage walls followed by all other point symbols, lines and areas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T095634Z" creationid="Алексей" creationdate="20170913T172446Z">
-        <seg>&lt;u1&gt;В случае станций съемки XTherion автоматически увеличивает номер станции для\break следующего вставленного символа.] Рекомендуется начать с рисования всех станций съемки (не забудьте дать им имена (номера) в соответствии с настоящими именами в команде centreline), далее все хода, за которыми следуют все остальные точечные символы, линии и области.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T105222Z" creationid="Алексей" creationdate="20170913T172446Z">
+        <seg>&lt;u1&gt;В случае станций съемки XTherion автоматически увеличивает номер станции для\break следующего вставленного символа.]. Рекомендуется начать с рисования всех станций съемки (не забудьте дать им имена (номера) в соответствии с настоящими именами в команде centreline), далее все хода, за которыми следуют все остальные точечные символы, линии и области.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3495,8 +3495,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Any errors are detected only when you process these files with Therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172308Z" creationid="Алексей" creationdate="20170913T172308Z">
-        <seg>Любые ошибки обнаруживаются только при обработке этих файлов с помощью Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T105129Z" creationid="Алексей" creationdate="20170913T172308Z">
+        <seg>Любые ошибки обнаруживаются только при обработке этих файлов с помощью Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4631,8 +4631,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For example, if you enter expression `station' and press {&lt;u1&gt; Show All}, all stations on the picture will become red.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172234Z" creationid="Алексей" creationdate="20170913T172234Z">
-        <seg>Например, если вы введете слово `station' и нажмите {&lt;u1&gt; Показать все}, все станции на экране станут красными.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T105057Z" creationid="Алексей" creationdate="20170913T172234Z">
+        <seg>Например, если вы введете слово\break `station' и нажмите {&lt;u1&gt; Показать все}, все станции на экране станут красными.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5943,8 +5943,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It may be an area definition or whatever you want, such as a comment beginning with a `|&lt;u8&gt;|' character.] command, the contents of which (entered in the {&lt;u5&gt; Text editor} menu of the Map editor) is usual |area ... endarea| multi-line command (see the chapter {&lt;u6&gt; Data format}.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T094944Z" creationid="Алексей" creationdate="20170913T170647Z">
-        <seg>Это может быть определение области или что угодно, например комментарий, начинающийся с символа `|&lt;u8&gt;|'.], содержимое\break которого (введенное в меню {&lt;u5&gt; Редактор} в редакторе карты) обычно\break многострочная команда |area ... endarea| (см. раздел {&lt;u6&gt; Формат данных}.)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T104710Z" creationid="Алексей" creationdate="20170913T170647Z">
+        <seg>Это может быть определение области или что угодно, например комментарий, начинающийся с символа `|&lt;u8&gt;|'.], содержимое\break которого (введенное в меню {&lt;u5&gt; Редактор} в редакторе карты) обычно\break многострочная команда |area ... endarea| (смотрите раздел {&lt;u6&gt; Формат данных}.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6135,8 +6135,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It's only a nickname for a block of an arbitrary text in XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T170230Z" creationid="Алексей" creationdate="20170913T170230Z">
-        <seg>Это всего лишь псевдоним для блока произвольного текста в XTherion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T104741Z" creationid="Алексей" creationdate="20170913T170230Z">
+        <seg>Это всего лишь псевдоним для блока произвольного текста в XTherion'е.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8351,8 +8351,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The scale can be defined only one way in XTherion---using coordinates of two points (specified both in the picture coordinate system and in the `real' coordinate system).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171003Z" creationid="Алексей" creationdate="20170913T171003Z">
-        <seg>Масштаб можно определить только одним способом в XTherion -- используя координаты двух точек (заданных как в системе координат изображения, так и в `реальной' системе координат).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T104849Z" creationid="Алексей" creationdate="20170913T171003Z">
+        <seg>Масштаб можно определить только одним способом в XTherion'е -- используя координаты двух точек (заданных как в системе координат изображения, так и в `реальной' системе координат).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11375,8 +11375,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Options} box preserves the old value and it's enough to change a few characters.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T172548Z" creationid="Алексей" creationdate="20170913T172418Z">
-        <seg>Поле {&lt;u0&gt; Опции} сохраняет старое значение, и достаточно изменить всего несколько символов.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T105217Z" creationid="Алексей" creationdate="20170913T172418Z">
+        <seg>Поле {&lt;u0&gt; Опции} сохраняет старое значение, и достаточно изменить всего несколько символов</seg>
       </tuv>
     </tu>
     <tu>
