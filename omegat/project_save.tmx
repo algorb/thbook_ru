@@ -11657,8 +11657,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; special:} |border|, |arrow|, |section|&lt;u1&gt;Line showing cross-section position.&lt;u5&gt;{5.3}&lt;u6&gt; If both control points (red dots) of a B&lt;u7&gt;ezier curve (grey line) are given then the section line (blue) is drawn up to the perpendicular projection (dotted) of the first control point and from the projection (dotted) of the section control point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T090726Z" creationid="Алексей" creationdate="20170924T110931Z">
-        <seg>{&lt;u0&gt; специальные:} |border| (граница), |arrow| (стрелка), |section| (выносная линия сечения)&lt;u1&gt;Линия показывает положение поперечного сечения.&lt;u5&gt;{5.3}&lt;u6&gt; If both control points (red dots) of a B&lt;u7&gt;ezier curve (grey line) are given then the section line (blue) is drawn up to the perpendicular projection (dotted) of the first control point and from the projection (dotted) of the section control point.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T055956Z" creationid="Алексей" creationdate="20170924T110931Z">
+        <seg>{&lt;u0&gt; специальные:} |border| (граница), |arrow| (стрелка), |section| (выносная линия сечения)&lt;u1&gt;Линия показывает положение поперечного сечения.&lt;u5&gt;{5.3}&lt;u6&gt; Если заданы обе контрольные точки (красные точки) кривой Безье (серая линия), то линия сечения (синяя) отображается до места перпендикуляра проекции (пунктир) первой и второй контрольных точек сечения.</seg>
       </tuv>
     </tu>
     <tu>
