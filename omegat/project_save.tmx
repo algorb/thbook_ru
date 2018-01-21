@@ -7304,8 +7304,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>See the chapter {&lt;u1&gt; How the map is put together}.] |bedrock|, |sand|, |raft|, |clay|, |pebbles|, |debris|, |blocks|, |water|, |ice|, |guano|, |snow|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T133814Z" creationid="Алексей" creationdate="20170923T025906Z">
-        <seg>Смотрите главу {Как карта собирается в единое целое}.]{&lt;u1&gt;:} |bedrock| (коренная порода), |sand| (песок), |raft| (нанос), |clay| (глина), |pebbles| (галька), |debris| (щебень), |blocks| (навал глыб), |water| (вода), |ice| (лед), |guano| (гуано), |snow| (снег);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T134604Z" creationid="Алексей" creationdate="20170923T025906Z">
+        <seg>Смотрите главу {Как карта собирается в единое целое}.]{&lt;u1&gt;:} |bedrock| (коренная порода), |sand| (песок), |raft| (конус), |clay| (глина), |pebbles| (галька), |debris| (щебень), |blocks| (навал глыб), |water| (вода), |ice| (лед), |guano| (гуано), |snow| (снег);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,8 +11657,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; speleothems:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, &lt;u1&gt;{5.4}|clay-tree|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T134533Z" creationid="Алексей" creationdate="20170923T025911Z">
-        <seg>{&lt;u0&gt; спелео-формы:} |flowstone| (натечный каскад), |moonmilk| (мондмильх), |stalactite| (сталактит), |stalagmite| (сталагмит), |pillar| (колонна, сталагнат) , |curtain| (натечный занавес), |helictite| (геликтит), |soda-straw| (сталактиты-соломины), |crystal| (кристалл), |wall-calcite| (настенный кальцит), |popcorn| (коралит), |disk| (диск), |gypsum| (гипс), |gypsum-flower| (гипсовый цветок), |aragonite| (арагонит), |cave-pearl| (пещерный жемчуг), |rimstone-pool| (гуры с водой), |rimstone-dam| (гуры без воды), |anastomosis| (анастомозис), |karren| (карры), |scallop| (фасетки), |flute| (канавки), |raft-cone| (высыпной конус), &lt;u1&gt;{5.4}|clay-tree| (глиняное деревце);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T134902Z" creationid="Алексей" creationdate="20170923T025911Z">
+        <seg>{&lt;u0&gt; спелео-формы:} |flowstone| (натечный каскад), |moonmilk| (мондмильх),\break |stalactite| (сталактиты), |stalagmite| (сталагмиты), |pillar| (колонны, сталагнаты) , |curtain| (натечный занавес), |helictite| (геликтиты), |soda-straw| (сталактиты-соломины), |crystal| (кристаллы), |wall-calcite| (настенный кальцит), |popcorn| (коралиты), |disk| (диск), |gypsum| (гипс), |gypsum-flower| (гипсовые цветы), |aragonite| (арагонит), |cave-pearl| (пещерный жемчуг), |rimstone-pool| (гуры с водой), |rimstone-dam| (гуры без воды), |anastomosis| (анастомозис),\break |karren| (карры), |scallop| (фасетки), |flute| (канавки), |raft-cone| (высыпной\break конус), &lt;u1&gt;{5.4}|clay-tree| (глиняное деревце);</seg>
       </tuv>
     </tu>
     <tu>
