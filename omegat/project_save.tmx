@@ -4199,8 +4199,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each line symbol is oriented and its visualization may depend on its orientation (e.g. pitch edge ticks).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T064613Z" creationid="Алексей" creationdate="20170924T064445Z">
-        <seg>Каждый символ линии ориентирован, и его визуализация может зависеть от его ориентации (например, галочка на границе линии).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T051419Z" creationid="Алексей" creationdate="20170924T064445Z">
+        <seg>Каждый символ линии ориентирован, и его визуализация может зависеть от его ориентации (например, галочка на конце линии).</seg>
       </tuv>
     </tu>
     <tu>
