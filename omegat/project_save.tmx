@@ -11609,8 +11609,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; passage ends:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091319Z" creationid="Алексей" creationdate="20170923T030418Z">
-        <seg>{&lt;u0&gt; окончание ходов:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|,\break |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T040152Z" creationid="Алексей" creationdate="20170923T030418Z">
+        <seg>{&lt;u0&gt; окончание ходов:} |continuation| (продолжение, возможное продолжение), |narrow-end| (вертикальная узость), |low-end| (горизонтальная узость), |flowstone-choke| (блокировано натеками), |breakdown-choke| (блокировано обвалом), &lt;u1&gt;{5.4}|clay-choke| (блокировано глиной), |entrance| (вход);</seg>
       </tuv>
     </tu>
     <tu>
