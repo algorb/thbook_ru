@@ -1643,8 +1643,8 @@
       <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063348Z" creationid="Алексей" creationdate="20171104T052912Z">
-        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| команды |layout|) будет скрыт/показан в\break соответствии с правилами для указанного |&lt;типа символа&gt;|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T061533Z" creationid="Алексей" creationdate="20171104T052912Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| (скрыть символ) и |symbol-show| (отображать символ) команды |layout|) будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2163,8 +2163,8 @@
       <tuv lang="EN-US">
         <seg>* |outline &lt;in/out/none&gt;| = determines whether the line serves as a border line for a scrap.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T185845Z" creationid="Алексей" creationdate="20171103T185829Z">
-        <seg>* |outline &lt;in/out/none&gt;| = определяет, служит ли линия границ для скрапа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T061132Z" creationid="Алексей" creationdate="20171103T185829Z">
+        <seg>* |outline &lt;in/out/none&gt;| = определяет, служит ли линия границей скрапа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,8 +2283,8 @@
       <tuv lang="EN-US">
         <seg>* |size &lt;number&gt;| = line width (left and right sizes are set to one half of this value) * |r-size &lt;number&gt;| = size of the line to the right * |l-size &lt;number&gt;| = same to the left.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T063005Z" creationid="Алексей" creationdate="20171104T052416Z">
-        <seg>* |size &lt;число&gt;| = ширина строки (размеры слева и справа установлены\break половине этого значения). * |r-size &lt;число&gt;| = размер строки справа. * |l-size &lt;число&gt;| = размер строки слева.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T061319Z" creationid="Алексей" creationdate="20171104T052416Z">
+        <seg>* |size &lt;число&gt;| = ширина линии (размеры слева и справа установлены\break половине этого значения). * |r-size &lt;число&gt;| = размер линии справа. * |l-size &lt;число&gt;| = размер линии слева.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7112,8 +7112,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Required for |slope| type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T052435Z" creationid="Алексей" creationdate="20171104T052435Z">
-        <seg>Требуется для типа |slope|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T061340Z" creationid="Алексей" creationdate="20171104T052435Z">
+        <seg>Требуется для типа |slope| (склон).</seg>
       </tuv>
     </tu>
     <tu>
