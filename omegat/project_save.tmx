@@ -1651,8 +1651,8 @@
       <tuv lang="EN-US">
         <seg>* |context &lt;point/line/area&gt; &lt;symbol-type&gt;| = (to be used with |symbol-hide| and |symbol-show| layout options) symbol will be hidden/shown according to rules for specified |&lt;symbol-type&gt;|.&lt;u7&gt;Example: if you specify |-context point air-draught| to a label which displays the observation date, the |symbol-hide point air-draught| command would hide both air-draught arrow and the corresponding label.] * |id &lt;ext_keyword&gt;| = ID of the symbol.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091615Z" creationid="Алексей" creationdate="20170924T044440Z">
-        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| и |symbol-show| в layout) символ будет скрыт/показан в\break соответствии с правилами для указанного |&lt;типа символа&gt;|&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.]. * |id &lt;идентификатор&gt;| = идентификатор символа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T044653Z" creationid="Алексей" creationdate="20170924T044440Z">
+        <seg>* |context &lt;point/line/area&gt; &lt;тип символа&gt;| = (для использования с опциями |symbol-hide| (скрыть символ) и |symbol-show| (отобразить символ) в layout) символ будет скрыт/показан в соответствии с правилами для указанного |&lt;типа символа&gt;|&lt;u7&gt;Пример: если вы укажете |-context point air-draught| текстовую метку, на которой отображается дата наблюдения, команда |symbol-hide point air-draught| скроет стрелку ток воздуха и соответствующую ей текстовую метку.]. * |id &lt;идентификатор&gt;| = идентификатор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1835,8 +1835,8 @@
       <tuv lang="EN-US">
         <seg>* |explored &lt;length&gt;| = if the point type is continuation, you can specify length of passages explored but not surveyed yet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051715Z" creationid="Алексей" creationdate="20170924T051235Z">
-        <seg>* |explored &lt;длина&gt;| = если тип точки -- это continuation (продолжение), то вы можете указать длину ходов, исследованных, но пока не снятых.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T044935Z" creationid="Алексей" creationdate="20170924T051235Z">
+        <seg>* |explored &lt;длина&gt;| = если тип точки -- это continuation (продолжение,\break возможное продолжение), то вы можете указать длину ходов,\break исследованных, но пока не снятых.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,8 +2451,8 @@
       <tuv lang="EN-US">
         <seg>* |text| = text of the label, remark or continuation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T091642Z" creationid="Алексей" creationdate="20170924T051753Z">
-        <seg>* |text| = текст label (метки), remark (примечания) или continuation\break (продолжения).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T045150Z" creationid="Алексей" creationdate="20170924T051753Z">
+        <seg>* |text| = текст label (текстовая метка), remark (замечание) или continuation (продолжение, возможное продолжение).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2507,8 +2507,8 @@
       <tuv lang="EN-US">
         <seg>* |value| = value of height, passage-height or altitude label or point dimensions</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053130Z" creationid="Алексей" creationdate="20170924T052628Z">
-        <seg>* |value| = значение точек height (высота уступа/камина/колодца), passage-height (высота хода), altitude (высотная отметка) или dimensions (размеры хода).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T045328Z" creationid="Алексей" creationdate="20170924T052628Z">
+        <seg>* |value| = значение точек height (высота уступа/камина/колодца),\break passage-height (высота хода), altitude (высотная отметка) или dimensions (размеры хода).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5175,8 +5175,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If the altitude value is prefixed by ``|fix|'' (e.g. |-value [fix 1300]|), this value is used as an absolute altitude.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T063556Z" creationid="Алексей" creationdate="20170924T063453Z">
-        <seg>Если значение altitude (высотная отметка) имеет префикс ``|fix|'' (например |-value [fix 1300]|), то это значение используется как абсолютная высота.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T045458Z" creationid="Алексей" creationdate="20170924T063453Z">
+        <seg>Если значение\break altitude (высотная отметка) имеет префикс ``|fix|'' (например |-value [fix 1300]|), то это значение используется как абсолютная высота.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6584,8 +6584,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Named sizes scale by $&lt;u1&gt; 2$, so that $xs &lt;u2&gt; 0.5$, $s &lt;u3&gt; 0.707$, $m &lt;u4&gt; 1.0$, $l &lt;u5&gt; 1.414$ and $xl &lt;u6&gt; 2.0$.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T041320Z" creationid="Алексей" creationdate="20170924T040658Z">
-        <seg>Именованные масштабы кратны $&lt;u1&gt; 2$, и имеют следующие значения -- $xs &lt;u2&gt; 0.5$, $s &lt;u3&gt; 0.707$, $m &lt;u4&gt; 1.0$, $l &lt;u5&gt; 1.414$ и $xl &lt;u6&gt; 2.0$.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T044159Z" creationid="Алексей" creationdate="20170924T040658Z">
+        <seg>Именованные масштабы кратны $&lt;u1&gt; 2$, и имеют следующие значения: $xs &lt;u2&gt; 0.5$, $s &lt;u3&gt; 0.707$, $m &lt;u4&gt; 1.0$, $l &lt;u5&gt; 1.414$ и $xl &lt;u6&gt; 2.0$.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6656,8 +6656,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Normal is default.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040654Z" creationid="Алексей" creationdate="20170924T040654Z">
-        <seg>По умолчанию normal.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T044127Z" creationid="Алексей" creationdate="20170924T040654Z">
+        <seg>По умолчанию\break normal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9408,8 +9408,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This value is afterwards displayed in survey/cave statistics.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T051740Z" creationid="Алексей" creationdate="20170924T051740Z">
-        <seg>Это значение впоследствии отображается в статистике съемки/пещеры.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T045016Z" creationid="Алексей" creationdate="20170924T051740Z">
+        <seg>Это значение будет отображаться в статистике съемки/пещеры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9480,8 +9480,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To display altitude on the passage wall, use |altitude| option for any line point of the passage wall], |height|&lt;u2&gt;Height of formations inside of the passage (like pit etc.); see below for details.], |passage-height|&lt;u3&gt;Height of the passage; see below for details.], |station-name|&lt;u4&gt;If no text is specified, the name of the nearest station is used.], &lt;u5&gt;-100 |date|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T041708Z" creationid="Алексей" creationdate="20170923T025606Z">
-        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| (высотная отметка) для любой точки линии стены хода.], |height|&lt;u2&gt;Высота внутри хода (например, яма и т.д.); смотрите ниже подробнее.],\break |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.], |station-name|&lt;u4&gt;Если текст не указан, используется имя ближайшей станции.] (имя станции), &lt;u5&gt;-100 |date| (дата);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T042444Z" creationid="Алексей" creationdate="20170923T025606Z">
+        <seg>Чтобы отобразить высоту на стене прохода, используйте опцию |altitude| для любой точки линии стены хода.] (высотная\break отметка), |height|&lt;u2&gt;Высота внутри хода (например, яма и т.д.); смотрите ниже подробнее.] (высота уступа/камина/колодца), |passage-height|&lt;u3&gt;Высота хода; смотрите ниже.]\break (высота хода), |station-name| &lt;u4&gt;Если текст не указан, используется имя ближайшей станции.] (имя станции, номер пикета), &lt;u5&gt;-100 |date| (дата\break наблюдения);</seg>
       </tuv>
     </tu>
     <tu>
@@ -10121,8 +10121,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You cannot specify this option for the following symbols: station, station-name, label, remark, date, altitude, height, passage-height.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T044005Z" creationid="Алексей" creationdate="20170924T043944Z">
-        <seg>Вы не можете указать этот параметр для следующих символов: station, station-name, label, remark, date, altitude, height, passage-height.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T044503Z" creationid="Алексей" creationdate="20170924T043944Z">
+        <seg>Вы не можете указать этот параметр для следующих символов: station (станция), station-name (имя станции, номер пикета), label (текстовая метка), remark (заметка), date (дата наблюдения), altitude (высотная отметка), height\break (высота уступа/камина/колодца), passage-height (высота хода).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11529,8 +11529,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; equipment:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T035923Z" creationid="Алексей" creationdate="20170923T030246Z">
-        <seg>{&lt;u0&gt; оборудование:} |anchor| (ИТО), |rope| (веревка), |fixed-ladder| (жесткая лестница), |rope-ladder| (гибкая лестница), |steps| (ступени), |bridge| (мост), |traverse| (троллей), |camp| (ПБЛ), |no-equipment| (снаряжение отсутствует);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T042904Z" creationid="Алексей" creationdate="20170923T030246Z">
+        <seg>{&lt;u0&gt; оборудование:} |anchor| (ИТО), |rope| (веревка), |fixed-ladder| (жесткая\break лестница), |rope-ladder| (гибкая лестница), |steps| (ступени), |bridge| (мост),\break |traverse| (троллей), |camp| (ПБЛ), |no-equipment| (снаряжение отсутствует);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11593,8 +11593,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; others:} |dig|, |archeo-material|, |paleo-material|, |vegetable-debris|, |root|, |water-flow|, |spring|&lt;u1&gt;Always use |spring| and |sink| symbols with a |water-flow| arrow.], |sink|, &lt;u6&gt;{5.4}|ice-stalactite|, |ice-stalagmite|, |ice-pillar|, |gradient|, |air-draught|&lt;u2&gt;Number of ticks is set according to |-scale| option], |map-connection|&lt;u3&gt;Virtual point, used to indicate connection between shifted maps (extended elevation, map offset).], |extra|&lt;u4&gt;Additional morphing point.], |u|&lt;u5&gt;For user defined point symbols.].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T041111Z" creationid="Алексей" creationdate="20170923T030441Z">
-        <seg>{&lt;u0&gt; другие:} |dig| (раскоп), |archeo-material| (археологическая находка), |paleo-material| (палео-находка), |vegetable-debris| (останки растительности), |root| (корни растений), |water-flow| (водоток), |spring| (источник)&lt;u1&gt;Всегда используйте символы |spring| (источник) и |sink| (понор) со стрелкой |water-flow| (водоток).], |sink| (понор), &lt;u6&gt;{5.4}|ice-stalactite| (ледяной сталактит), |ice-stalagmite| (ледяной сталагмит), |ice-pillar| (ледяная колонна, ледяной сталагнат), |gradient| (уклон хода), |air-draught| (ток воздуха)&lt;u2&gt;Количество штрихов на стрелке устанавливается в зависимости от опции |-scale| (масштаб). Примечание переводчика: по рекомендациям международной системы обозначений должно быть всегда два штриха.], |map-connection| (соединение выносок)&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт\break (разрез-развертка, смещение карты).], |extra|&lt;u4&gt;Точка морфинга.], |u|&lt;u5&gt;Пользовательские точечные символы.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T043518Z" creationid="Алексей" creationdate="20170923T030441Z">
+        <seg>{&lt;u0&gt; другие:} |dig| (раскоп), |archeo-material| (археологическая находка),\break |paleo-material| (палео-находка), |vegetable-debris| (останки растительности), |root| (корни растений), |water-flow| (водоток), |spring| (источник)&lt;u1&gt;Всегда используйте символы |spring| (источник) и |sink| (понор) со стрелкой |water-flow| (водоток).], |sink|\break (понор), &lt;u6&gt;{5.4}|ice-stalactite| (ледяной сталактит), |ice-stalagmite| (ледяной\break сталагмит), |ice-pillar| (ледяная колонна, ледяной сталагнат), |gradient| (уклон хода), |air-draught| (ток воздуха)&lt;u2&gt;Количество штрихов на стрелке устанавливается в зависимости от опции |-scale|\break (масштаб). Примечание переводчика: по рекомендациям международной системы\break обозначений должно быть всегда два штриха.], |map-connection| (соединение выносок\break карт)&lt;u3&gt;Виртуальная точка, используемая для указания соединения между выносками карт\break (разрез-развертка, смещение карты).], |extra| (точка морфинга), |u|&lt;u5&gt;Пользовательские точечные символы.] (пользовательский).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11609,8 +11609,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; passage ends:} |continuation|, |narrow-end|, |low-end|, |flowstone-choke|, |breakdown-choke|, &lt;u1&gt;{5.4}|clay-choke|, |entrance|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T040152Z" creationid="Алексей" creationdate="20170923T030418Z">
-        <seg>{&lt;u0&gt; окончание ходов:} |continuation| (продолжение, возможное продолжение), |narrow-end| (вертикальная узость), |low-end| (горизонтальная узость), |flowstone-choke| (блокировано натеками), |breakdown-choke| (блокировано обвалом), &lt;u1&gt;{5.4}|clay-choke| (блокировано глиной), |entrance| (вход);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T043015Z" creationid="Алексей" creationdate="20170923T030418Z">
+        <seg>{&lt;u0&gt; окончание ходов:} |continuation| (продолжение, возможное продолжение),\break |narrow-end| (вертикальная узость), |low-end| (горизонтальная узость),\break |flowstone-choke| (блокировано натеками), |breakdown-choke| (блокировано\break обвалом), &lt;u1&gt;{5.4}|clay-choke| (блокировано глиной), |entrance| (вход);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,16 +11657,16 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; speleothems:} |flowstone|, |moonmilk|, |stalactite|, |stalagmite|, |pillar|, |curtain|, |helictite|, |soda-straw|, |crystal|, |wall-calcite|, |popcorn|, |disk|, |gypsum|, |gypsum-flower|, |aragonite|, |cave-pearl|, |rimstone-pool|, |rimstone-dam|, |anastomosis|, |karren|, |scallop|, |flute|, |raft-cone|, &lt;u1&gt;{5.4}|clay-tree|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T134902Z" creationid="Алексей" creationdate="20170923T025911Z">
-        <seg>{&lt;u0&gt; спелео-формы:} |flowstone| (натечный каскад), |moonmilk| (мондмильх),\break |stalactite| (сталактиты), |stalagmite| (сталагмиты), |pillar| (колонны, сталагнаты) , |curtain| (натечный занавес), |helictite| (геликтиты), |soda-straw| (сталактиты-соломины), |crystal| (кристаллы), |wall-calcite| (настенный кальцит), |popcorn| (коралиты), |disk| (диск), |gypsum| (гипс), |gypsum-flower| (гипсовые цветы), |aragonite| (арагонит), |cave-pearl| (пещерный жемчуг), |rimstone-pool| (гуры с водой), |rimstone-dam| (гуры без воды), |anastomosis| (анастомозис),\break |karren| (карры), |scallop| (фасетки), |flute| (канавки), |raft-cone| (высыпной\break конус), &lt;u1&gt;{5.4}|clay-tree| (глиняное деревце);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T042813Z" creationid="Алексей" creationdate="20170923T025911Z">
+        <seg>{&lt;u0&gt; спелео-формы:} |flowstone| (натечный каскад), |moonmilk| (мондмильх),\break |stalactite| (сталактиты), |stalagmite| (сталагмиты), |pillar| (колонны,\break сталагнаты), |curtain| (натечный занавес), |helictite| (геликтиты), |soda-straw| (сталактиты-соломины), |crystal| (кристаллы), |wall-calcite| (настенный\break кальцит), |popcorn| (коралиты), |disk| (диск), |gypsum| (гипс), |gypsum-flower| (гипсовые цветы), |aragonite| (арагонит), |cave-pearl| (пещерный жемчуг),\break |rimstone-pool| (гуры с водой), |rimstone-dam| (гуры без воды), |anastomosis| (анастомозис), |karren| (карры), |scallop| (фасетки), |flute| (канавки), |raft-cone| (высыпной конус), &lt;u1&gt;{5.4}|clay-tree| (глиняное деревце);</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; station:}&lt;u1&gt;if station subtype is not specified, Therion reads it from centreline, if it's specified there] |temporary| (default), |painted|, |natural|, |fixed|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T092349Z" creationid="Алексей" creationdate="20170923T090148Z">
-        <seg>{&lt;u0&gt; station (станция)}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указана в нитке хода.]{&lt;u0&gt;:} |temporary| (default), |painted|, |natural|, |fixed|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T043833Z" creationid="Алексей" creationdate="20170923T090148Z">
+        <seg>{&lt;u0&gt; station (станция)}&lt;u1&gt;Если подтип станции не указан, Therion считает ее пикетом, если она указана в нитке хода.]{&lt;u0&gt;:} |temporary| (временная) (по умолчанию), |painted|\break (нарисованная), |natural| (естественная), |fixed| (фиксированная);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11697,8 +11697,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; water-flow:} |permanent| (default), |intermittent|, |paleo|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T040204Z" creationid="Алексей" creationdate="20170924T040143Z">
-        <seg>{&lt;u0&gt; water-flow (водоток):} |permanent| (по умолчанию), |intermittent|, |paleo|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T043935Z" creationid="Алексей" creationdate="20170924T040143Z">
+        <seg>{&lt;u0&gt; water-flow (водоток):} |permanent| (постоянный) (по умолчанию), |intermittent| (временный), |paleo| (палео-поток).</seg>
       </tuv>
     </tu>
     <tu>
