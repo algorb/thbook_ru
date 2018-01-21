@@ -153,8 +153,8 @@
       <tuv lang="EN-US">
         <seg>(Cf. chapter {&lt;u2&gt; Data format}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143928Z" creationid="Алексей" creationdate="20170913T143928Z">
-        <seg>(См. главу {&lt;u2&gt; Формат данных}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103813Z" creationid="Алексей" creationdate="20170913T143928Z">
+        <seg>(смотрите главу {&lt;u2&gt; Формат данных}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3015,8 +3015,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>&lt;u2&gt;{&lt;u7&gt; Note:} Therion doesn't use background images in any way unless you assign them to some scrap using |-sketch| option.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143339Z" creationid="Алексей" creationdate="20170913T143103Z">
-        <seg>&lt;u2&gt;{Примечание:} Therion никак не использует фоновые изображения, если вы не назначили их для определенного скрапа с помощью опции |-sketch|.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103649Z" creationid="Алексей" creationdate="20170913T143103Z">
+        <seg>&lt;u2&gt;{Примечание:} Therion никак не использует фоновые изображения, если вы не назначили их для определенного скрапа с помощью опции |-sketch|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -3143,8 +3143,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>A shortcut for all this is Ctrl-p.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092817Z" creationid="Алексей" creationdate="20170913T150522Z">
-        <seg>Сочетание клавиш для этого -- Ctrl-p.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T104222Z" creationid="Алексей" creationdate="20170913T150522Z">
+        <seg>Сочетание клавиш для\break этого -- Ctrl-p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3191,8 +3191,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Actually, only a subset of the Therion commands are used in the Map editor: multi-line |scrap ... endscrap| commands which may contain |point|, |line| and |area| commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092708Z" creationid="Алексей" creationdate="20170913T145208Z">
-        <seg>На самом деле в редакторе карт используются только несколько команд Therion'а: многострочная команда |scrap ... endscrap| может содержать команды |point|, |line| и |area|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103828Z" creationid="Алексей" creationdate="20170913T145208Z">
+        <seg>На самом деле в редакторе карт используются только несколько команд Therion'а: многострочная команда |scrap ... endscrap| может содержать команды |point|, |line| и |area|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3223,8 +3223,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Additionally XTherion supports XVI (XTherion vector image) format, which displays centreline and LRUD information on the background, and PocketTopo data exported in Therion format (see below).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140516Z" creationid="Алексей" creationdate="20170913T140516Z">
-        <seg>Кроме того, XTherion поддерживает XVI (XTherion vector image), в котором отображается нитка хода и LRUD, и данные PocketTopo экспортируются в формат Therion'а (см. ниже).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103449Z" creationid="Алексей" creationdate="20170913T140516Z">
+        <seg>Кроме того,\break XTherion поддерживает XVI (XTherion vector image), в котором отображается нитка хода и LRUD, и данные PocketTopo экспортируются в формат Therion'а (см. ниже).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,8 +3247,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>After creating a new file in the map editor, you may load one or more {&lt;u0&gt; images}---scanned survey sketches from the cave&lt;u1&gt;XTherion can't scale nor rotate individual images, so use the same orientation, scale and DPI for all images used in the same scrap.]---as a background for the drawing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140012Z" creationid="Алексей" creationdate="20170913T140012Z">
-        <seg>После создания нового файла в редакторе карт вы можете загрузить одно или несколько {&lt;u0&gt; изображений} -- сканированные эскизы съемки пещеры&lt;u1&gt;XTherion не может масштабировать и поворачивать отдельные изображения, поэтому используйте ту же ориентацию, масштаб и DPI для всех изображений, используемых в одном и том же скрапе.] -- в качестве подложки для рисования.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103136Z" creationid="Алексей" creationdate="20170913T140012Z">
+        <seg>После создания нового файла в редакторе карт вы можете загрузить одно или несколько {&lt;u0&gt; изображений} (сканированные эскизы съемки пещеры&lt;u1&gt;XTherion не может масштабировать и поворачивать отдельные изображения, поэтому используйте ту же ориентацию, масштаб и DPI для всех изображений, используемых в одном и том же скрапе.]) в качестве подложки для рисования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3839,8 +3839,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Click on the {&lt;u3&gt; Insert} button in {&lt;u4&gt; Background images} menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T140053Z" creationid="Алексей" creationdate="20170913T140053Z">
-        <seg>Нажмите кнопку {&lt;u3&gt; Вставка} в меню {&lt;u4&gt; Фоновые изображения}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103401Z" creationid="Алексей" creationdate="20170913T140053Z">
+        <seg>Нажмите кнопку {&lt;u3&gt; Вставка} в меню\break {&lt;u4&gt; Фоновые изображения}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,8 +4503,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>First, you have to decide which part of the cave (which scrap) you'll draw.&lt;u0&gt;It's possible to draw more than one scrap in one file, in which case all inactive scraps are rendered yellow.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T135708Z" creationid="Алексей" creationdate="20170913T135708Z">
-        <seg>Во-первых, вам нужно решить, какую часть пещеры (какой скрап) вы рисуете. &lt;u0&gt;В одном файле можно нарисовать несколько скрапов, в этом случае все неактивные скрапы отображаются желтым.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T102943Z" creationid="Алексей" creationdate="20170913T135708Z">
+        <seg>Во-первых, вам нужно решить, какую часть пещеры (какой скрап) вы рисуете&lt;u0&gt;В одном файле можно нарисовать несколько скрапов, в этом случае все неактивные скрапы отображаются желтым.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -5679,8 +5679,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In the {&lt;u1&gt; File commands} menu click on the {&lt;u2&gt; Action} submenu and select {&lt;u3&gt; Insert scrap}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T144246Z" creationid="Алексей" creationdate="20170913T144246Z">
-        <seg>В меню {&lt;u1&gt; Команды в файле} выберите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить скрап}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103941Z" creationid="Алексей" creationdate="20170913T144246Z">
+        <seg>В меню {&lt;u1&gt; Команды в файле}\break выберите подменю {&lt;u2&gt; Действие} и выберите {&lt;u3&gt; Вставить скрап}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6151,8 +6151,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It's possible to open an existing file without loading of background images using {&lt;u6&gt; Open XP} menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T094149Z" creationid="Алексей" creationdate="20170913T140839Z">
-        <seg>Можно открыть существующий файл без загрузки фоновых\break изображений с помощью меню {&lt;u6&gt; Открыть (без картинок)}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103644Z" creationid="Алексей" creationdate="20170913T140839Z">
+        <seg>Можно открыть существующий файл без загрузки фоновых\break изображений с помощью меню {&lt;u6&gt; Открыть (без картинок)}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6567,8 +6567,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Move them by double clicking and dragging with the right mouse button or through a menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T142924Z" creationid="Алексей" creationdate="20170913T140613Z">
-        <seg>Переместите их можно двойным щелчком правой кнопкой мыши на изображении и перетаскиванием или через меню.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103614Z" creationid="Алексей" creationdate="20170913T140613Z">
+        <seg>Переместить	 их можно двойным щелчком правой кнопкой мыши на изображении и перетаскиванием или через меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6815,8 +6815,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Only the command (|scrap|, |point|, |line|, |text|---why text see below) and its type (for |point| and |line|) or ID (for |scrap|) are shown.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092752Z" creationid="Алексей" creationdate="20170913T145840Z">
-        <seg>Показываются только команды (|scrap|, |point|, |line|, |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T104053Z" creationid="Алексей" creationdate="20170913T145840Z">
+        <seg>Показываются только команды (|scrap|, |point|, |line|,\break |text| -- почему так, смотрите ниже) и их типы (для |point| и |line|) или ID (для |scrap|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7113,6 +7113,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T061340Z" creationid="Алексей" creationdate="20171104T052435Z">
         <seg>Требуется для типа |slope| (склон).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click on the menu button and select in the menu which of the other menus it should be swapped with.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T102430Z" creationid="Алексей" creationdate="20180121T102430Z">
+        <seg>Щелкните правой кнопкой мыши по кнопке меню и выберите в меню тот пункт, который вы хотите здесь отображать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7527,8 +7535,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>So, the first step is defining the {&lt;u0&gt; scrap} by a |scrap ... endscrap| multi-line command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145343Z" creationid="Алексей" creationdate="20170913T144134Z">
-        <seg>Итак, первым шагом является определение {&lt;u0&gt; скрапа} с помощью |scrap ... endscrap| многострочной команды.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103917Z" creationid="Алексей" creationdate="20170913T144134Z">
+        <seg>Итак, первым шагом является определение {&lt;u0&gt; скрапа} с помощью\break |scrap ... endscrap| многострочной команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9335,8 +9343,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This line is hidden by XTherion and may be accessed only indirectly using the right-hand menu.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T092434Z" creationid="Алексей" creationdate="20170912T175154Z">
-        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T102530Z" creationid="Алексей" creationdate="20170912T175154Z">
+        <seg>Эта строка скрыта XTherion'ом и может быть доступна только косвенно, используя правое меню.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -9551,7 +9559,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Unfortunately, as a limitation of Tcl/Tk language, only GIF, PNM and PPM (plus PNG and JPEG if you installed tkImg extension) images are supported.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T094021Z" creationid="Алексей" creationdate="20170913T140239Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103420Z" creationid="Алексей" creationdate="20170913T140239Z">
         <seg>К сожалению, из-за ограничений языка Tcl/Tk,\break поддерживаются только изображения в форматах GIF, PNM и PPM (плюс PNG и JPEG, если вы установили расширение tkImg).</seg>
       </tuv>
     </tu>
@@ -9895,8 +9903,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Exercise:} Find two substantial reasons, why the map drawn in XTherion can't be identical with Therion output.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093959Z" creationid="Алексей" creationdate="20170913T135200Z">
-        <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Упражнение:} Найдите две существенные причины, почему карта,\break нарисованная в XTherion, не может быть идентична выходу Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T102821Z" creationid="Алексей" creationdate="20170913T135200Z">
+        <seg>Why do we use MetaPost?) &lt;/i0&gt;}} &lt;u9&gt;}&lt;u10&gt; {&lt;u11&gt; Упражнение:} Найдите две существенные причины, почему карта,\break нарисованная в XTherion, не может быть идентична выходному файлу\break Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10007,8 +10015,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>XTherion's text editor offers some interesting features which may help with creating text input files: support for Unicode encoding and ability to open multiple files.&lt;u0&gt;File encoding is specified on the first line of the file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T175115Z" creationid="Алексей" creationdate="20170912T175115Z">
-        <seg>Текстовый редактор XTherion предлагает некоторые интересные функции, которые могут помочь в создании текстовых входных файлов: поддержка кодировки Unicode и возможность открытия нескольких файлов. &lt;u0&gt;Кодировка файла указана в первой строке файла.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T102527Z" creationid="Алексей" creationdate="20170912T175115Z">
+        <seg>Текстовый редактор XTherion предлагает некоторые интересные функции, которые могут помочь в создании текстовых входных файлов: поддержка кодировки Unicode и возможность открытия нескольких файлов&lt;u0&gt;Кодировка файла указана в первой строке файла.</seg>
       </tuv>
     </tu>
     <tu>
