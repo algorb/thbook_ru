@@ -2903,10 +2903,10 @@
       <tuv lang="EN-US">
         <seg>: |grade &lt;id&gt; ... [&lt;quantity list&gt; &lt;value&gt; &lt;units&gt;] ... endgrade|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T085744Z" creationid="Алексей" creationdate="20171216T085700Z">
-        <seg>|grade &lt;id&gt;
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081621Z" creationid="Алексей" creationdate="20171216T085700Z">
+        <seg>|grade &lt;идентификатор&gt;
 	...
-	[&lt;quantity list&gt; &lt;value&gt; &lt;units&gt;]
+	[&lt;quantity list&gt; &lt;значение&gt; &lt;единицы&gt;]
 	...
 endgrade|</seg>
       </tuv>
@@ -6032,8 +6032,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It starts in the grid-origin and fills the grid in rows (in the row from W to E; rows from S to N).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081100Z" creationid="Алексей" creationdate="20171210T053341Z">
-        <seg>Начинается с начала сетки и заполняет сетку линиями (в строке от З до В, строки от Ю до С).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081313Z" creationid="Алексей" creationdate="20171210T053341Z">
+        <seg>Начинается с начала сетки и заполняет сетку строками (в строке от З до В, строки от Ю до С).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12283,8 +12283,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;x count&gt; &lt;y count&gt;| = number of nodes in the row and number of rows which form the grid (see below).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081055Z" creationid="Алексей" creationdate="20171210T052751Z">
-        <seg>|&lt;x count&gt; &lt;y count&gt;| = количество узлов в линии и количество линий, которые образуют сетку (см. ниже).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081239Z" creationid="Алексей" creationdate="20171210T052751Z">
+        <seg>|&lt;x count&gt; &lt;y count&gt;| = количество узлов в строке и количество строк, которые образуют сетку (см. ниже).</seg>
       </tuv>
     </tu>
     <tu>
