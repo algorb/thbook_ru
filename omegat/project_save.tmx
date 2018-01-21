@@ -5335,8 +5335,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If there is no orientation specification, gradient marks are perpendicular to the slope line.], |floor-step|, |pit|, |ceiling-step|, |chimney|, |overhang|, |ceiling-meander|, |floor-meander|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T071206Z" creationid="Алексей" creationdate="20170924T070528Z">
-        <seg>Если ориентация отсутствует, то градиентные метки перпендикулярны линии наклона.], |floor-step| (уступ пола), |pit| (колодец), |ceiling-step| (уступ потолка), |chimney| (камин), |overhang| (нависание потолка), |ceiling-meander| (меандр, канал в потолке), |floor-meander| (меандр, канал в потолке);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T054950Z" creationid="Алексей" creationdate="20170924T070528Z">
+        <seg>Если ориентация отсутствует, то градиентные метки перпендикулярны линии наклона.], |floor-step| (уступ пола), |pit| (колодец), |ceiling-step| (уступ потолка), |chimney| (камин), |overhang| (нависание потолка), |ceiling-meander| (меандр, канал в потолке), |floor-meander| (меандр, канал в полу);</seg>
       </tuv>
     </tu>
     <tu>
