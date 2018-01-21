@@ -11529,8 +11529,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; equipment:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T030252Z" creationid="Алексей" creationdate="20170923T030246Z">
-        <seg>{&lt;u0&gt; оборудование:} |anchor|, |rope|, |fixed-ladder|, |rope-ladder|, |steps|, |bridge|, |traverse|, |camp|, |no-equipment|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T035923Z" creationid="Алексей" creationdate="20170923T030246Z">
+        <seg>{&lt;u0&gt; оборудование:} |anchor| (ИТО), |rope| (веревка), |fixed-ladder| (жесткая лестница), |rope-ladder| (гибкая лестница), |steps| (ступени), |bridge| (мост), |traverse| (троллей), |camp| (ПБЛ), |no-equipment| (снаряжение отсутствует);</seg>
       </tuv>
     </tu>
     <tu>
