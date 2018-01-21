@@ -1603,8 +1603,8 @@
       <tuv lang="EN-US">
         <seg>* |close &lt;on/off/auto&gt;| = determines whether a line is closed or not * |mark &lt;keyword&gt;| = is used to mark the point on the line (see |join| command).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171103T190215Z" creationid="Алексей" creationdate="20171103T185530Z">
-        <seg>* |close &lt;on/off/auto&gt;| = определяет, закрыта ли линия или нет. * |mark &lt;keyword&gt;| = используется для маркировки точки на линии (см.\break команду |join|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T060420Z" creationid="Алексей" creationdate="20171103T185530Z">
+        <seg>* |close &lt;on/off/auto&gt;| = определяет, закольцована ли линия или нет. * |mark &lt;keyword&gt;| = используется для маркировки точки на линии (см.\break команду |join|).</seg>
       </tuv>
     </tu>
     <tu>
