@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  20 JAN 2018 20:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  21 JAN 2018 11:11
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -916,16 +916,127 @@ Underfull \hbox (badness 4819) in paragraph at lines 372--373
 .etc.
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 376--377
- []\it окончание ходов: []\tt con-tin-u-a-tion[], []narrow-end[], []low-end[], 
-[]flowstone-choke[],
+Overfull \hbox (2.72435pt too wide) in paragraph at lines 374--375
+ []\it оборудование: []\tt an-chor[] (»“ќ), []rope[] (веревка), []fixed-ladder[
+] (жестка€ лестница),|
 
-\hbox(8.04599+2.754)x452.96786, glue set 2.565
+\hbox(8.11198+2.754)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it о
+.\it б
+.\it о
+.etc.
+
+
+Overfull \hbox (17.01874pt too wide) in paragraph at lines 374--375
+ []\tt rope-ladder[] (гибка€ лестница), []steps[] (ступени), []bridge[] (мост),
+ []tra-verse[] (троллей),|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt r
+.\tt o
+.\tt p
+.etc.
+
+
+Overfull \hbox (19.90833pt too wide) in paragraph at lines 376--377
+ []\it окончание ходов: []\tt con-tin-u-a-tion[] (продолжение, возможное продол
+жение), []narrow-|
+
+\hbox(8.04599+2.754)x452.96786, glue set - 1.0
 .\glue(\leftskip) 12.0
 .\hbox(0.0+0.0)x0.0
 .\it о
 .\it к
 .\it о
+.etc.
+
+
+Overfull \hbox (3.04832pt too wide) in paragraph at lines 376--377
+ \tt end[] (вертикальна€ узость), []low-end[] (горизонтальна€ узость), []flowst
+one-choke[]|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt e
+.\tt n
+.\tt d
+.\pdfcolorstack 1 pop
+.etc.
+
+
+Overfull \hbox (7.44029pt too wide) in paragraph at lines 376--377
+ \tt (блокировано натеками), []breakdown-choke[] (блокировано обвалом), []clay-
+choke[]|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt б
+.\kern-0.192
+.\tt л
+.etc.
+
+
+Overfull \hbox (9.9213pt too wide) in paragraph at lines 378--378
+ [][][][]\rm  оличество штрихов на стрелке устанавливаетс€ в зависимости от опц
+ии []\tentt -scale[] \rm (масштаб).|
+
+\hbox(9.5+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 18.0
+.\hbox(0.0+0.0)x0.0
+.\pdfcolorstack 1 push {0 0 0 1 k}
+.\hbox(8.14003+0.0)x0.0, glue set - 10.13898fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\hbox(4.51111+0.0)x8.47226, shifted -3.62892
+...\sevenrm 1
+...\sevenrm 6
+..\mathoff
+..\kern 1.66672
+.\vbox(9.5+0.0)x0.0
+.etc.
+
+
+Overfull \hbox (12.8415pt too wide) in paragraph at lines 378--378
+ \rm ѕримечание переводчика: по рекомендаци€м международной системы обозначений
+ должно|
+
+\hbox(6.70499+2.37999)x452.96786, glue set - 1.0
+.\glue(\leftskip) 18.0
+.\rm ѕ
+.\kern-0.20001
+.\rm р
+.\kern-0.12001
+.etc.
+
+
+Overfull \hbox (11.16034pt too wide) in paragraph at lines 378--379
+ []\it другие: []\tt dig[] (раскоп), []archeo-material[] (археологическа€ наход
+ка), []paleo-material[]|
+
+\hbox(8.04599+2.754)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\it д
+.\it р
+.\it у
+.etc.
+
+
+Overfull \hbox (37.66824pt too wide) in paragraph at lines 378--379
+ \tt (палео-находка), []vegetable-debris[] (останки растительности), []root[] (
+корни растений),|
+
+\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt п
+.\tt а
+.\kern0.12
 .etc.
 
 
@@ -958,7 +1069,7 @@ Underfull \hbox (badness 3989) in paragraph at lines 392--393
 .\kern-0.48001
 .etc.
 
-
+[22]
 Underfull \hbox (badness 1092) in paragraph at lines 396--396
  [][][]\tt align[] $\mit .$ \tt выравнивание символа или текста. ѕринимает след
 ующие
@@ -976,7 +1087,7 @@ Underfull \hbox (badness 1092) in paragraph at lines 396--396
 .\tt a
 .etc.
 
-[22]
+
 Underfull \hbox (badness 1281) in paragraph at lines 396--396
  []\tt symbol-hide[] и []symbol-show[] в lay-out) символ будет скрыт/показан в
 
@@ -2995,7 +3106,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (79 pages, 769634 bytes).
+Output written on thbook.pdf (79 pages, 770427 bytes).
 PDF statistics:
  524 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
