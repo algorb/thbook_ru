@@ -1699,8 +1699,8 @@
       <tuv lang="EN-US">
         <seg>* |cs &lt;coordinate system&gt;| = coordinate system for bitmap calibration and grid origin specification * |bitmap &lt;filename&gt; &lt;calibration&gt;| = scanned topographical map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043858Z" creationid="Алексей" creationdate="20171202T043314Z">
-        <seg>* |cs &lt;coordinate system&gt;| = система координат для калибровки растровой карты и определения начала сетки. * |bitmap &lt;имя файла&gt; &lt;калибровка&gt;| = сканированная топографическая\break карта.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T080753Z" creationid="Алексей" creationdate="20171202T043314Z">
+        <seg>* |cs &lt;система координат&gt;| = система координат для калибровки растровой карты и определения начала сетки. * |bitmap &lt;имя файла&gt; &lt;калибровка&gt;| = сканированная топографическая\break карта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2967,8 +2967,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>&lt;u0&gt;If you want some object which is clipped by a scrap boundary to continue to a neighbouring scrap, use |-clip off| option for that object.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064331Z" creationid="Алексей" creationdate="20171104T060447Z">
-        <seg>&lt;u0&gt;Если вам нужен какой-либо объект, который отсекается границей скрапа, чтобы\break продолжить соседний скрап, используйте опцию |-clip off| для этого объекта.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T075723Z" creationid="Алексей" creationdate="20171104T060447Z">
+        <seg>&lt;u0&gt;Если вам нужен какой-либо объект, который отсекается границей скрапа, чтобы\break продолжить его на соседний скрап, используйте опцию |-clip off| для этого объекта.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,8 +5903,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is possible to display it in two ways: as a scanned topographical map (both in 2D map and 3D model&lt;u0&gt;You need to enter elevation data in order to display the topographical map in 3D model.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171201T181145Z" creationid="Алексей" creationdate="20171201T180732Z">
-        <seg>Его можно отобразить двумя\break способами: в качестве отсканированной топографической карты (как в 2D-карте, так и в 3D-модели &lt;u0&gt;Вам нужно ввести данные о высоте, чтобы отобразить топографическую карту в 3D-модели.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T080512Z" creationid="Алексей" creationdate="20171201T180732Z">
+        <seg>Ее можно отобразить двумя\break способами: в качестве отсканированной топографической карты (как в\break 2D-карте, так и в 3D-модели &lt;u0&gt;Вам нужно ввести данные о высоте, чтобы отобразить топографическую карту в\break 3D-модели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,8 +6032,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It starts in the grid-origin and fills the grid in rows (in the row from W to E; rows from S to N).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T053341Z" creationid="Алексей" creationdate="20171210T053341Z">
-        <seg>Начинается с начала сетки и заполняет сетку строками (в строке от З до В, строки от Ю до С).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081100Z" creationid="Алексей" creationdate="20171210T053341Z">
+        <seg>Начинается с начала сетки и заполняет сетку линиями (в строке от З до В, строки от Ю до С).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6200,8 +6200,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Join works in two modes: it joins either two scraps or two or more points or lines in a map together.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064141Z" creationid="Алексей" creationdate="20171104T060119Z">
-        <seg>Соединение работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или строк на карте вместе.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T075546Z" creationid="Алексей" creationdate="20171104T060119Z">
+        <seg>Соединение работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или линий на карте вместе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7752,8 +7752,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Syntax is following:&lt;u0&gt;&lt;u1&gt; |&lt;map reference&gt; [&lt;offset X&gt; &lt;offset Y&gt; &lt;units&gt;] &lt;above/below/none&gt;| * scraps following the |break| will be placed on another level * |preview &lt;above/below&gt; &lt;other map id&gt;| will put the outline of the other map in the specified preview position relative to the current map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171105T045802Z" creationid="Алексей" creationdate="20171105T043945Z">
-        <seg>Синтаксис следующий:&lt;u0&gt;&lt;u1&gt; |&lt;название карты&gt; [&lt;смещение X&gt; &lt;смещение Y&gt; &lt;единиц&gt;]|\break|&lt;above/below/none&gt;|. * скрапы после |break| будет размещен на другом уровне. * |preview &lt;above/below&gt; &lt;other map id&gt; | поместит контур другой карты в указанную позицию относительно текущей карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T080237Z" creationid="Алексей" creationdate="20171105T043945Z">
+        <seg>Синтаксис следующий:&lt;u0&gt;&lt;u1&gt; |&lt;название карты&gt; [&lt;смещение X&gt; &lt;смещение Y&gt; &lt;единицы&gt;]|\break|&lt;above/below/none&gt;|. * скрапы после |break| будут размещены на другом уровне. * |preview &lt;above/below&gt; &lt;идентификатор другой карты&gt; | поместит контур другой карты в указанную позицию относительно текущей карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9840,8 +9840,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>When joining more than two points or lines, use one join command for all of them, not a sequence of join commands for pairs.&lt;u0&gt;E.g. use |join a b c|, not |join a b| followed by |join b c|.]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T064218Z" creationid="Алексей" creationdate="20171104T060128Z">
-        <seg>При объединении более двух точек или строк используйте одну команду `join' для всех из них, а не последовательность команд&lt;u0&gt;Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T075606Z" creationid="Алексей" creationdate="20171104T060128Z">
+        <seg>При объединении более двух точек или линий используйте одну команду `join' для всех из них, а не последовательность команд&lt;u0&gt;Например, использовать |join a b c|, а не |join a b|, а затем |join b c|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -12283,8 +12283,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;x count&gt; &lt;y count&gt;| = number of nodes in the row and number of rows which form the grid (see below).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171210T052815Z" creationid="Алексей" creationdate="20171210T052751Z">
-        <seg>|&lt;x count&gt; &lt;y count&gt;| = количество узлов в строке и количество строк, которые образуют сетку (см. ниже).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T081055Z" creationid="Алексей" creationdate="20171210T052751Z">
+        <seg>|&lt;x count&gt; &lt;y count&gt;| = количество узлов в линии и количество линий, которые образуют сетку (см. ниже).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12847,8 +12847,8 @@ endline|</seg>
       <tuv lang="EN-US">
         <seg>|map &lt;id&gt; [OPTIONS] ... scrap, survey or other map references ... break ... next level scrap, survey or other map references ... preview &lt;above/below&gt; &lt;other map id&gt; endmap|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T062121Z" creationid="Алексей" creationdate="20171104T061903Z">
-        <seg>|map &lt;id&gt; [ОПЦИИ]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T080002Z" creationid="Алексей" creationdate="20171104T061903Z">
+        <seg>|map &lt;идентификатор&gt; [ОПЦИИ]
 	... скрап, съемка или другие карты ...
 	break
 	... скрап, съемка или другие карты (следующий уровень)...
@@ -13075,8 +13075,8 @@ endscrap [&lt;идентификатор&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>|surface [&lt;name&gt;] cs &lt;coordinate system&gt; bitmap &lt;filename&gt; &lt;calibration&gt; grid-units &lt;units&gt; grid &lt;origin x&gt; &lt;origin y&gt; &lt;x spacing&gt; &lt;y spacing&gt; &lt;x count&gt; &lt;y count&gt; grid-flip (none)/vertical/horizontal [grid data] endsurface|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171202T043250Z" creationid="Алексей" creationdate="20171201T180944Z">
-        <seg>|surface [&lt;name&gt;]
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T080550Z" creationid="Алексей" creationdate="20171201T180944Z">
+        <seg>|surface [&lt;имя&gt;]
 	cs &lt;система координат&gt;
 	bitmap &lt;имя файла&gt; &lt;калибровка&gt;
 	grid-units &lt;единицы&gt;
