@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 00:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 00:48
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -2386,6 +2386,19 @@ n-u-a-tion (продолжение),|
 .\pdfcolorstack 1 pop
 .etc.
 
+
+Overfull \hbox (2.21077pt too wide) in paragraph at lines 47--48
+\tt воронка), dig (раскоп), air-draught (ток воздуха), over-hang (нависание пот
+олка)|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\tt в
+.\tt о
+.\kern-0.168
+.\tt р
+.\tt о
+.etc.
+
 [58 <./pic/database.pdf>]
 Underfull \hbox (badness 2635) in paragraph at lines 85--86
 []\tt В режиме атласа на каждую страницу помещается дополнительная
@@ -3121,7 +3134,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (80 pages, 771171 bytes).
+Output written on thbook.pdf (80 pages, 771253 bytes).
 PDF statistics:
  527 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
