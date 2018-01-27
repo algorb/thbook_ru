@@ -6799,8 +6799,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>On the other side you have than use longer names in stations references, like |3@dno.katakomby.jmn.dumbier|]</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004910Z" creationid="Алексей" creationdate="20170919T004445Z">
-        <seg>С другой стороны вы можете использовать более длинные имена в ссылках на станции, например |3@dno.katakomby.jmn.dumbier|.]</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T072647Z" creationid="Алексей" creationdate="20170919T004445Z">
+        <seg>С другой стороны вы можете использовать более длинные имена в ссылках на станции, например |3@dno.katakomby.jmn.dumbier|.].</seg>
       </tuv>
     </tu>
     <tu>
@@ -8415,8 +8415,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>The survey stations names will be referenced using |@| symbol (e.g. |1@a|) in the scraps.&lt;u1&gt;If you include maps in the top-level survey, you may reference any survey station in any scrap, which is very flexible.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T004804Z" creationid="Алексей" creationdate="20170914T183334Z">
-        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|). &lt;u1&gt;Если вы подключаете файлы карт в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T072642Z" creationid="Алексей" creationdate="20170914T183334Z">
+        <seg>Названия станций survey будут иметь символ |@| (например, |1@a|)&lt;u1&gt;Если вы подключаете файлы карт в начале survey, вы можете ссылаться на любую станцию в любом скрапе, что представляет собой очень гибким инструмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8785,6 +8785,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T191631Z" creationid="Алексей" creationdate="20170909T190914Z">
         <seg>Therion экспортирует данные для 2D-карт в формате &lt;u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion in depth.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073001Z" creationid="Алексей" creationdate="20180127T073001Z">
+        <seg>Therion in depth.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,8 +9783,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>We usually insert maps in the last-but-one level in survey hierarchy.&lt;u0&gt;Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T072416Z" creationid="Алексей" creationdate="20180127T072416Z">
-        <seg>Мы обычно вставляем карты в предпоследний уровень в иерархии съемок&lt;u0&gt;Помните, что съемки создают пространства имен, поэтому вы можете ссылаться только на объекты в данной съемке и на все подсъемки.]. Каждый скрап может содержать произвольную часть любой съемки на последнем уровне иерархии.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T072444Z" creationid="Алексей" creationdate="20180127T072416Z">
+        <seg>Мы обычно вставляем карты в предпоследний уровень в иерархии съемок&lt;u0&gt;Помните, что съемки создают пространства имен, поэтому вы можете ссылаться только на объекты в данной съемке и на все подсъемки.]. Каждый скрап может содержать произвольную часть любой съемки на\break последнем уровне иерархии.</seg>
       </tuv>
     </tu>
     <tu>
