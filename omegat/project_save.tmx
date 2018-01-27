@@ -209,8 +209,8 @@
       <tuv lang="EN-US">
         <seg>(M, A) * |colo[u]r &lt;item&gt; &lt;colour&gt;| = customize colour for special map items (map-fg, map-bg, preview-above, preview-below, label).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T054929Z" creationid="Алексей" creationdate="20171022T053502Z">
-        <seg>(M, A). * |colo[u]r &lt;item&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (|map-fg|, |map-bg|, |preview-above|, |preview-below|, |label|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T135553Z" creationid="Алексей" creationdate="20171022T053502Z">
+        <seg>(M, A). * |colo[u]r &lt;элемент&gt; &lt;цвет&gt;| = настроить цвет для специальных элементов карты (|map-fg|, |map-bg|, |preview-above|, |preview-below|, |label|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3863,8 +3863,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Colour range is 0--100 for grayscale, [0--100 0--100 0--100] triplet for RGB colours.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053543Z" creationid="Алексей" creationdate="20171022T053543Z">
-        <seg>Цветовой диапазон 0-100 для оттенков серого, [0-100 0-100 0-100] для цветов в пространстве RGB.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T135654Z" creationid="Алексей" creationdate="20171022T053543Z">
+        <seg>Цветовой диапазон 0-100 для оттенков серого, [0-100 0-100 0-100] для цветов в\break пространстве RGB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12749,7 +12749,7 @@ source test</seg>
       <tuv lang="EN-US">
         <seg>|layout &lt;id&gt; [OPTIONS] copy &lt;source layout id&gt; cs &lt;coordinate system&gt; north &lt;true/grid&gt; scale &lt;picture length&gt; &lt;real length&gt; base-scale &lt;picture length&gt; &lt;real length&gt; units &lt;metric/imperial&gt; rotate &lt;number&gt; symbol-set &lt;symbol-set&gt; symbol-assign &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;u0&gt; &lt;symbol-set&gt; symbol-hide &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-show &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; symbol-colour &lt;point/line/area/group/special&gt; &lt;symbol-type&gt; &lt;colour&gt; min-symbol-scale &lt;scale&gt; fonts-setup &lt;tinysize&gt; &lt;smallsize&gt; &lt;normalsize&gt; &lt;largesize&gt; &lt;hugesize&gt; size &lt;width&gt; &lt;height&gt; &lt;units&gt; overlap &lt;value&gt; &lt;units&gt; page-setup &lt;dimensions&gt; &lt;units&gt; page-numbers &lt;on/off&gt; exclude-pages &lt;on/off&gt; &lt;list&gt; title-pages &lt;on/off&gt; nav-factor &lt;factor&gt; nav-size &lt;x-size&gt; &lt;y-size&gt; transparency &lt;on/off&gt; opacity &lt;value&gt; surface &lt;top/bottom/off&gt; surface-opacity &lt;value&gt; sketches &lt;on/off&gt; layers &lt;on/off&gt; grid &lt;off/top/bottom&gt; grid-origin &lt;x&gt; &lt;y&gt; &lt;x&gt; &lt;units&gt; grid-size &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; grid-coords &lt;off/border/all&gt; origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt; origin-label &lt;x-label&gt; &lt;y-label&gt; own-pages &lt;number&gt; page-grid &lt;on/off&gt; legend &lt;on/off/all&gt; legend-columns &lt;number&gt; legend-width &lt;n&gt; &lt;units&gt; map-comment &lt;string&gt; map-header &lt;x&gt; &lt;y&gt; &lt;off/n/s/e/w/ne/nw/se/sw/center&gt; map-header-bg &lt;on/off&gt; map-image &lt;x&gt; &lt;y&gt; &lt;n/s/e/w/ne/nw/se/sw/center&gt; &lt;filename&gt; statistics &lt;explo/topo/carto/copyright all/off/number&gt; &lt;explo/topo-length on/off&gt; scale-bar &lt;length&gt; &lt;units&gt; survey-level &lt;N/all&gt; language &lt;xx[_YY]&gt; colour/color &lt;item&gt; &lt;colour&gt; debug &lt;on/all/first/second/scrap-names/station-names/off&gt; doc-author &lt;string&gt; doc-keywords &lt;string&gt; doc-subject &lt;string&gt; doc-title &lt;string&gt; code &lt;metapost/tex-map/tex-atlas&gt; endcode endlayout|</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T101017Z" creationid="Алексей" creationdate="20171021T114109Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T135532Z" creationid="Алексей" creationdate="20171021T114109Z">
         <seg>|layout &lt;идентификатор&gt; [ОПЦИИ]
 	copy &lt;идентификатор исходного макета&gt;
 	cs &lt;система координат&gt;
@@ -12800,7 +12800,7 @@ source test</seg>
 	scale-bar &lt;длина&gt; &lt;единицы&gt;
 	survey-level &lt;N/all&gt;
 	language &lt;xx[_YY]&gt;
-	colour/color &lt;item&gt; &lt;цвет&gt;
+	colour/color &lt;элемент&gt; &lt;цвет&gt;
 	debug &lt;on/all/first/second/scrap-names/station-names/off&gt;
 	doc-author &lt;текст&gt;
 	doc-keywords &lt;текст&gt;
