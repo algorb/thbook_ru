@@ -265,8 +265,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |off|) * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;units&gt;| = set origin of atlas pages (M, A) * |origin-label &lt;x-label&gt; &lt;y-label&gt;| = set label for atlas page which has the lower left corner at the given origin coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T035809Z" creationid="Алексей" creationdate="20171022T034831Z">
-        <seg>(M, A; по умолчанию: |off|). * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = установить начало страниц атласа (M, A). * |origin-label &lt;x-метка&gt; &lt;y-метка&gt;| = set label for atlas page which has the lower left corner at the given origin coordinates.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T103000Z" creationid="Алексей" creationdate="20171022T034831Z">
+        <seg>(M, A; по умолчанию: |off|). * |origin &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;единицы&gt;| = установить начало страниц атласа (M, A). * |origin-label &lt;x-метка&gt; &lt;y-метка&gt;| = установить метку для страницы атласа, которая имеет указанные координаты нижнего левого угла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,8 +305,8 @@
       <tuv lang="EN-US">
         <seg>(Set |own-pages 0| and |title-pages off| to get the correct page numbers to be excluded.) Changes of |own-pages| or |title-pages| options don't affect page excluding.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T193022Z" creationid="Алексей" creationdate="20171021T192117Z">
-        <seg>(Установите |own-pages 0| и |title-pages off| чтобы получить корректные номера страниц после исключения). Изменения опций |own-pages| или |title-pages| не влияют на исключение страниц.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T102450Z" creationid="Алексей" creationdate="20171021T192117Z">
+        <seg>(Установите |own-pages 0| и |title-pages off| чтобы получить корректные номера страниц после исключения). Изменения опций\break |own-pages| или |title-pages| не влияют на исключение страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4223,8 +4223,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Each of them may apply to line label according to its |-size| option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T205237Z" creationid="Алексей" creationdate="20171021T190323Z">
-        <seg>Каждый из этих размеров может\break применяться к строковому текстовому символу в соответствии с ее опцией |-size|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T102221Z" creationid="Алексей" creationdate="20171021T190323Z">
+        <seg>Каждый из этих размеров может\break применяться к линейному текстовому символу в соответствии с ее опцией |-size|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5095,8 +5095,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If not specified, it will be calculated from |page-setup| and |overlap|.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T191131Z" creationid="Алексей" creationdate="20171021T191055Z">
-        <seg>Если не указано, то размер будет рассчитан по |page-setup| и |overlap|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T102309Z" creationid="Алексей" creationdate="20171021T191055Z">
+        <seg>Если не указано, то размер будет рассчитан по |page-setup| и\break |overlap|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12124,8 +12124,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>|&lt;normalsize&gt;| applies to point label, |&lt;smallsize&gt;| applies to remark and all other point labels.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T190142Z" creationid="Алексей" creationdate="20171021T185854Z">
-        <seg>|&lt;normalsize&gt;| применяется к точечному символу `подпись', |&lt;smallsize&gt;| к `заметке' и всем другим точечным текстовым символам.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T102135Z" creationid="Алексей" creationdate="20171021T185854Z">
+        <seg>|&lt;normalsize&gt;| применяется к точечному символу `текстовая метка', |&lt;smallsize&gt;| к `заметке' и всем другим точечным текстовым символам.</seg>
       </tuv>
     </tu>
     <tu>
