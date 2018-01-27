@@ -145,8 +145,8 @@
       <tuv lang="EN-US">
         <seg>(BTW, why not to use precompiled Windows version?)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T074316Z" creationid="Алексей" creationdate="20171028T092806Z">
-        <seg>Кстати, почему бы не использовать\break предварительно скомпилированную версию для Windows?.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T182614Z" creationid="Алексей" creationdate="20171028T092806Z">
+        <seg>Кстати, почему бы не использовать\break предварительно скомпилированную версию для Windows?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3559,8 +3559,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Areas are similar to lines: they take only one argument -- {&lt;u0&gt; path} in absolute coordinates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072919Z" creationid="Алексей" creationdate="20171029T072919Z">
-        <seg>Области похожи на строки: они принимают только один аргумент -- {&lt;u0&gt; путь} в абсолютных координатах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T182329Z" creationid="Алексей" creationdate="20171029T072919Z">
+        <seg>Области похожи на линии: они принимают только один аргумент -- {&lt;u0&gt; путь} в абсолютных координатах.</seg>
       </tuv>
     </tu>
     <tu>
