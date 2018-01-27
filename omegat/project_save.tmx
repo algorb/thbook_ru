@@ -225,8 +225,8 @@
       <tuv lang="EN-US">
         <seg>(M, A; default: |0 0|) * |own-pages &lt;number&gt;| = set number of own pages added before the first page of automatically generated pages in atlas mode (currently required for correct page numbering) (A; default: |0|) * |page-grid &lt;on/off&gt;| = show pages key plan (M; default: |off|)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T103501Z" creationid="Алексей" creationdate="20171022T035044Z">
-        <seg>(M, A; по умолчанию: |0 0|). * |own-pages &lt;число&gt; | = установить количество собственных страниц,\break добавленных до первой страницы автоматически созданных страниц в режиме атласа (в настоящее время требуется для правильной нумерации страниц) (A; по умолчанию: |0|). * |page-grid &lt;on/off&gt; | = показывать план страничных ключей (M; по умолчанию: |off|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T103537Z" creationid="Алексей" creationdate="20171022T035044Z">
+        <seg>(M, A; по умолчанию: |0 0|). * |own-pages &lt;число&gt; | = установить количество собственных страниц,\break добавленных до первой страницы автоматически созданных страниц в режиме атласа (в настоящее время требуется для правильной нумерации страниц) (A; по умолчанию: |0|). * |page-grid &lt;on/off&gt; | = показывать план страничных ключей (M; по\break умолчанию: |off|).</seg>
       </tuv>
     </tu>
     <tu>
