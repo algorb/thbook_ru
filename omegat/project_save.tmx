@@ -5823,8 +5823,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It is a text file starting with tables declaration (where `?' stands in the following listing for a maximal value required by the column data)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163229Z" creationid="Алексей" creationdate="20171023T170109Z">
-        <seg>Это текстовый файл, начинающийся с объявления таблиц (where `?' stands in the following listing for a maximal value required by the column data)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T174021Z" creationid="Алексей" creationdate="20171023T170109Z">
+        <seg>Это текстовый файл, начинающийся с объявления таблиц (в ниже расположенном коде '?' обозначает максимальное значение, требуемое данными в колонке)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7783,8 +7783,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Table and column names are self-explaining; for undefined or non-existing values |NULL| is used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T163939Z" creationid="Алексей" creationdate="20171024T163939Z">
-        <seg>Table and column names are self-explaining; for undefined or non-existing values |NULL| is used.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T174418Z" creationid="Алексей" creationdate="20171024T163939Z">
+        <seg>Названия таблиц и столбцов говорят сами за себя; для неопределенных или несуществующих значений используется |NULL|.</seg>
       </tuv>
     </tu>
     <tu>
