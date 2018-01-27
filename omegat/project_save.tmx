@@ -297,8 +297,8 @@
       <tuv lang="EN-US">
         <seg>(See the |scrap| command for details.)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073741Z" creationid="Алексей" creationdate="20171022T073725Z">
-        <seg>(Для деталей смотрите команду |scrap|).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T140340Z" creationid="Алексей" creationdate="20171022T073725Z">
+        <seg>(для деталей смотрите команду |scrap|).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2051,8 +2051,8 @@
       <tuv lang="EN-US">
         <seg>* |layout &lt;id&gt;| = use predefined map or atlas layout.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073919Z" creationid="Алексей" creationdate="20171022T073906Z">
-        <seg>* |layout &lt;id&gt;| = использовать предопределенный макет карты или атласа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T140425Z" creationid="Алексей" creationdate="20171022T073906Z">
+        <seg>* |layout &lt;идентификатор&gt;| = использовать предопределенный макет карты или атласа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2203,8 +2203,8 @@
       <tuv lang="EN-US">
         <seg>* |projection &lt;id&gt;| = unique identifier that specifies the map projection type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T211306Z" creationid="Алексей" creationdate="20171022T073636Z">
-        <seg>* |projection &lt;id&gt;| = уникальный идентификатор, который задает тип\break проекции карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T140348Z" creationid="Алексей" creationdate="20171022T073636Z">
+        <seg>* |projection &lt;идентификатор&gt;| = уникальный идентификатор, который задает тип проекции карты</seg>
       </tuv>
     </tu>
     <tu>
@@ -7199,8 +7199,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Scale (100 DPI image resolution is assumed) and grid-size from layout are used in export.] and &lt;u4&gt;{5.3}|bbox|&lt;u3&gt;Text file containing geographic coordinates of lower-left and upper-right corners of the map area.] for map; |pdf| for atlas are supported.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T073309Z" creationid="Алексей" creationdate="20171022T073309Z">
-        <seg>|Scale| (принято разрешение изображения в 100 DPI) и |grid-size| макета используются в экспорте.] и &lt;u4&gt;{5.3}|bbox|&lt;u3&gt;Текстовый файл, содержащий географические координаты нижних и верхних правых углов области карты.] для карты; |pdf| для атласа.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T140216Z" creationid="Алексей" creationdate="20171022T073309Z">
+        <seg>|Scale| (принято разрешение изображения в 100 DPI) и |grid-size| макета используются в экспорте.] и &lt;u4&gt;{5.3}|bbox|&lt;u3&gt;Текстовый файл, содержащий географические координаты нижнего левого и верхнего правого углов области карты.] для карты; |pdf| для атласа.</seg>
       </tuv>
     </tu>
     <tu>
