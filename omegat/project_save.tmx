@@ -1203,8 +1203,8 @@
       <tuv lang="EN-US">
         <seg>* |-x| = Generate file `.xtherion.dat' with additional information for XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113019Z" creationid="Алексей" creationdate="20171022T112903Z">
-        <seg>* |-x| = создает файл `.xtherion.dat' с дополнительной информацией о XTherion'е.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T144058Z" creationid="Алексей" creationdate="20171022T112903Z">
+        <seg>* |-x| = создает файл `.xtherion.dat' с дополнительной информацией о\break XTherion'е.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3879,8 +3879,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Compiler window is the default window of XTherion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T113918Z" creationid="Алексей" creationdate="20171022T113918Z">
-        <seg>Окно компилятора -- это окно по умолчанию в XTherion'е.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T144132Z" creationid="Алексей" creationdate="20171022T113918Z">
+        <seg>Окно компилятора -- это окно по умолчанию в\break XTherion'е.</seg>
       </tuv>
     </tu>
     <tu>
