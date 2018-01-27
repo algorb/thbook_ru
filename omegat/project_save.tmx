@@ -683,8 +683,8 @@
       <tuv lang="EN-US">
         <seg>* bottom = all symbols with |-place bottom| option set * default-bottom = all |area| symbols by default * default = symbols which don't belong to any other group * default-top = |ceiling-step| and |chimney| by default * top = all symbols with |-place top| option set</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T153124Z" creationid="Алексей" creationdate="20170919T153124Z">
-        <seg>* bottom = все символы с опцией |-place bottom|; * default-bottom = все символы |области| по умолчанию; * default = символы, которые не принадлежат ни к какой другой группе; * default-top =  |ceiling-step| (|уступ потолка|) и |chimney| (|камин|) по умолчанию; * top = все символы с опцией |-place top|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073612Z" creationid="Алексей" creationdate="20170919T153124Z">
+        <seg>* bottom = все символы с опцией |-place bottom|; * default-bottom = все символы |области| по умолчанию; * default = символы, которые не принадлежат ни к какой другой группе; * default-top =  |ceiling-step| (уступ потолка) и |chimney| (камин) по умолчанию; * top = все символы с опцией |-place top|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,8 +803,8 @@
       <tuv lang="EN-US">
         <seg>* it has |-visibility| option set |on| (all symbols by default), * it hasn't been hidden by the |-symbol-hide| option in layout, * if its |-context| option is set, the corresponding symbol hasn't been hidden by the |-symbol-hide| option in layout.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143540Z" creationid="Алексей" creationdate="20170919T143540Z">
-        <seg>* он имеет опцию |-visibility| со значением |on| (все символы по умолчанию); * он не был скрыт опцией |-symbol-hide| в layout; * если его опция |-context| установлена, а соответствующий символ не был скрыт опцией |-symbol-hide| в layout.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073305Z" creationid="Алексей" creationdate="20170919T143540Z">
+        <seg>* он имеет опцию |-visibility| (видимый) со значением |on| (все символы по умолчанию); * он не был скрыт опцией |-symbol-hide| (скрыть символ) в layout; * если его опция |-context| (контекст) установлена, а соответствующий символ не был скрыт опцией |-symbol-hide| (скрыть символ) в layout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,8 +1027,8 @@
       <tuv lang="EN-US">
         <seg>* {&lt;u0&gt; point symbols:} symbolic passage fills (bedrock&lt;u3&gt; guano), * {&lt;u1&gt; line symbols:} all line symbols which don't have |-outline| option set with the exception of |section|, |arrow|, |label|, |gradient| and |water-flow| * {&lt;u2&gt; area symbols:} all.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T145255Z" creationid="Алексей" creationdate="20170919T143849Z">
-        <seg>* {&lt;u0&gt; точечные символы:} символы наполнения ходов (почва&lt;u3&gt; гуано); * {&lt;u1&gt; линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (|выносная линия сечения|), |arrow| (|стрелка|), |label| (|текстовая метка|), |gradient| (|уклон хода|) и |water-flow| (|водоток|); * {&lt;u2&gt; символы области:} все.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073449Z" creationid="Алексей" creationdate="20170919T143849Z">
+        <seg>* {&lt;u0&gt; точечные символы:} символы наполнения ходов (коренная порода&lt;u3&gt; гуано); * {&lt;u1&gt; линейные символы:} все символы линий, которые не имеют опцию |-outline|, за исключением |section| (выносная линия сечения), |arrow| (стрелка), |label| (текстовая метка), |gradient| (уклон хода) и |water-flow| (водоток); * {&lt;u2&gt; символы области:} все.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5791,8 +5791,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It gives also explanation of |color|, |transparency|, |symbol-hide| and |symbol-show| options of the |layout| command.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T143111Z" creationid="Алексей" creationdate="20170919T143111Z">
-        <seg>Также объясняются опции |color|, |transparent |, |symbol-hide| и |symbol-show| команды |layout|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073113Z" creationid="Алексей" creationdate="20170919T143111Z">
+        <seg>Также объясняются опции |color|, |transparent|,\break |symbol-hide| и |symbol-show| команды |layout|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8791,8 +8791,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion in depth.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073001Z" creationid="Алексей" creationdate="20180127T073001Z">
-        <seg>Therion in depth.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073014Z" creationid="Алексей" creationdate="20180127T073001Z">
+        <seg>В глубь Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9175,8 +9175,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This chapter explains how |-clip|, |-place|, |-visibility| and |-context| options of |point|, |line| and |area| commands exactly work.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170919T142646Z" creationid="Алексей" creationdate="20170919T142646Z">
-        <seg>В этой главе объясняется работа опций |-clip|, |-place|, |-visibility| и |-context | команд |point|, |line| и |area|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T073041Z" creationid="Алексей" creationdate="20170919T142646Z">
+        <seg>В этой главе объясняется работа опций |-clip|, |-place|, |-visibility| и |-context| команд |point|, |line| и |area|.</seg>
       </tuv>
     </tu>
     <tu>
