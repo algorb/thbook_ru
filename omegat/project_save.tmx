@@ -11087,8 +11087,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B&lt;u1&gt;ezier curves.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060405Z" creationid="Алексей" creationdate="20171022T060306Z">
-        <seg>{5.3}Temporary hack to set sampling distance in meters when generating piecewise linear 3d model from passage walls made of B{\my\'e}zier curves.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T134902Z" creationid="Алексей" creationdate="20171022T060306Z">
+        <seg>{5.3}Установить расстояние дискретизации в метрах при генерации стен 3d-модели из кривых Безье.</seg>
       </tuv>
     </tu>
     <tu>
