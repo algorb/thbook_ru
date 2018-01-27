@@ -4703,8 +4703,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>For list of therion texts and available translations, see |thlang/texts.txt| file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T141938Z" creationid="Алексей" creationdate="20171021T111534Z">
-        <seg>Список текстов и\break доступных переводов смотрите в файле |thlang/texts.txt|;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T183943Z" creationid="Алексей" creationdate="20171021T111534Z">
+        <seg>Список текстов и доступных переводов смотрите в файле |thlang/texts.txt|;</seg>
       </tuv>
     </tu>
     <tu>
