@@ -2951,8 +2951,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>&lt;u0&gt;E.g. |survey entrance| in the file |entrance.th|.] The points will than be referenced using |@| character---see the |survey| command description.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181322Z" creationid="Алексей" creationdate="20170914T181322Z">
-        <seg>&lt;u0&gt;Например |survey entrance| в файле |entry.th|.] На точки можно будет ссылаться используя символ |@| -- смотрите описание команды |survey|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T071804Z" creationid="Алексей" creationdate="20170914T181322Z">
+        <seg>&lt;u0&gt;Например |survey entrance| в файле |entry.th|.]. На точки можно будет ссылаться используя символ |@| -- смотрите описание команды |survey|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6159,8 +6159,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>It's useful when the survey has the same name as the file which contains it.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T181101Z" creationid="Алексей" creationdate="20170914T181101Z">
-        <seg>Это полезно, если survey имеет то же имя, что и файл, который его содержит.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T071756Z" creationid="Алексей" creationdate="20170914T181101Z">
+        <seg>Это полезно, если survey имеет то же имя, что и файл, который его содержит</seg>
       </tuv>
     </tu>
     <tu>
@@ -9769,6 +9769,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T193748Z" creationid="Алексей" creationdate="20170909T145050Z">
         <seg>Мы использовали вывод одного из них (TJIKPR) в качестве фонового слоя со станциями для ручного рисования карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We usually insert maps in the last-but-one level in survey hierarchy.&lt;u0&gt;Remember that surveys create namespaces, so you may reference only objects in the given survey and all subsurveys.] Each scrap may than contain arbitrary part of any survey in the last level of hierarchy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T072416Z" creationid="Алексей" creationdate="20180127T072416Z">
+        <seg>Мы обычно вставляем карты в предпоследний уровень в иерархии съемок&lt;u0&gt;Помните, что съемки создают пространства имен, поэтому вы можете ссылаться только на объекты в данной съемке и на все подсъемки.]. Каждый скрап может содержать произвольную часть любой съемки на последнем уровне иерархии.</seg>
       </tuv>
     </tu>
     <tu>
