@@ -7631,8 +7631,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Specifies which source (data) files Therion should read.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T055111Z" creationid="Алексей" creationdate="20171021T055111Z">
-        <seg>Указывает, какие файлы съемки (данных) Therion должны читать.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T100528Z" creationid="Алексей" creationdate="20171021T055111Z">
+        <seg>Указывает, какие файлы съемки (данных) Therion должен читать.</seg>
       </tuv>
     </tu>
     <tu>
