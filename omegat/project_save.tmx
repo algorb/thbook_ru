@@ -451,8 +451,8 @@
       <tuv lang="EN-US">
         <seg>* Crtl+L = insert new line and enter an `insert line point' mode * LeftClick = insert line point (without control points) * Ctrl+LeftClick = insert line point very close to existing point (normally it's inserted right above closest existing point) * LeftClick + drag = insert line point (with control points) * hold Ctrl while dragging = fix the distance of previous control point * LeftClick + drag on the control point = move its position * RightClick on one of the previous points = selects the previous point while in insert mode (useful if you want to change also the direction of previous control point) * Esc or LeftClick on the last point = end the line insertion * LeftClick on the first line point = close the line and end line insertion</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T095804Z" creationid="Алексей" creationdate="20170920T023515Z">
-        <seg>* Crtl+L = вставить новую линию и войти в режим `вставка точек линии'; * щелчок левой кнопкой мыши = вставить точку линии (без контрольных точек) * Ctrl+щелчок левой кнопкой мыши = вставить точку линии очень близко к существующей точке (обычно она вставляется на ближайшую\break существующую точку); * щелчок левой кнопкой мыши+тянуть = вставить точку линии (с\break контрольными точками); * удерживать Ctrl при перемещении = изменить расстояние предыдущей контрольной точки; * щелчок левой кнопкой мыши+переместить контрольную точку =\break переместить ее положение; * щелчок правой кнопкой мыши на одной из предыдущих точек = выбирает предыдущую точку в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки); * Esc или щелчок левой кнопкой мыши на последней точке = завершение вставки линии; * щелчок левой кнопкой мыши на первой точке линии = замкнуть линию и завершить вставку линии.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T071156Z" creationid="Алексей" creationdate="20170920T023515Z">
+        <seg>* Ctrl+L = вставить новую линию и войти в режим `вставка точек линии'; * щелчок левой кнопкой мыши = вставить точку линии (без контрольных точек) * Ctrl+щелчок левой кнопкой мыши = вставить точку линии очень близко к существующей точке (обычно она вставляется на ближайшую\break существующую точку); * щелчок левой кнопкой мыши+тянуть = вставить точку линии (с\break контрольными точками); * удерживать Ctrl при перемещении = изменить расстояние предыдущей контрольной точки; * щелчок левой кнопкой мыши+переместить контрольную точку =\break переместить ее положение; * щелчок правой кнопкой мыши на одной из предыдущих точек = выбирает предыдущую точку в режиме вставки (полезно, если вы хотите изменить также направление предыдущей контрольной точки); * Esc или щелчок левой кнопкой мыши на последней точке = завершение вставки линии; * щелчок левой кнопкой мыши на первой точке линии = замкнуть линию и завершить вставку линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11079,16 +11079,16 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; Help/Calibrate bitmap} produces OziExplorer-compatible MAP file based on georeferencig data included in a PDF map&lt;u2&gt;Calibration information for nine distinct points is present if centreline contains station(s) fixed using geodetic coordinate system(s)].</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093025Z" creationid="Алексей" creationdate="20170914T014854Z">
-        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат.].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T070624Z" creationid="Алексей" creationdate="20170914T014854Z">
+        <seg>{5.3}{&lt;u1&gt; Помощь/Привязать изображение} создает файл MAP совместимый с\break OziExplorer на основе геоданных включенных в карту PDF&lt;u2&gt;Может присутствовать до девяти калибровочных точек в виде фиксированных станций в нитке хода с использованием геодезической системы координат.].</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{5.3}{&lt;u1&gt; PocketTopo data} exported in Therion format&lt;u2&gt;This is a special text format which needs to be imported using XTherion and can not be processed by Therion directly.] from PocketTopo application can be imported in text editor as well as in map editor ({&lt;u3&gt; File $&lt;u5&gt;$ Import $&lt;u6&gt;$ PocketTopo therion export} and {&lt;u4&gt; Backgroud Images $&lt;u7&gt;$ Insert $&lt;u8&gt;$ PocketTopo therion export}).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T095554Z" creationid="Алексей" creationdate="20170914T015621Z">
-        <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в\break редакторе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изображения $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T070843Z" creationid="Алексей" creationdate="20170914T015621Z">
+        <seg>{5.3}{&lt;u1&gt; Данные PocketTopo} экспортированные в формате Therion'а&lt;u2&gt;Это специальный текстовый формат, который нужно импортировать с помощью\break XTherion'а и не может обрабатываться непосредственно Therion'ом.] из приложения PocketTopo можно импортировать в текстовом редакторе, а также в\break редакторе карт ({&lt;u3&gt; Файл $&lt;u5&gt;$ Импорт $&lt;u6&gt;$ PocketTopo therion export} и {&lt;u4&gt; Фоновые изображения $&lt;u7&gt;$ Вставить $&lt;u8&gt;$ PocketTopo therion export}).</seg>
       </tuv>
     </tu>
     <tu>
