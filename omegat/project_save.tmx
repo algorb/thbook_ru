@@ -675,8 +675,8 @@
       <tuv lang="EN-US">
         <seg>* boolean |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = set for line survey * boolean |ATTR__stationflag_splay| = set true for endstations of splay shots * boolean |ATTR__scrap_centerline| = set true for scraps created from centreline * boolean |ATTR__elevation| = true for (extended) elevation, false for plan projection * numeric |ATTR__height| = height of a pit or wall:pit * string |ATTR__id| = contains current object ID * string |ATTR__survey| = contains current survey name * string |ATTR__scrap| = contains current scrap name * picture |ATTR__text| = contains typeset text e.g.&lt;u2&gt;for point continuation * string |NorthDir| = `true' or `grid' * numeric |MagDecl| = magnetic declination in degrees * numeric |GridConv| = grid meridian convergence in degrees</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T070328Z" creationid="Алексей" creationdate="20171029T060315Z">
-        <seg>* булевская |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = устанавливает линию съемки; * булевская |ATTR__stationflag_splay| = установлено в `true' для боковых\break замеров крайних станций; * булевская |ATTR__scrap_centerline| = установлено в `true' для скрапов\break созданных по нитке хода; * булевская |ATTR__elevation| = устанавливается в `true' для разрезе (разрез-развертки), в `false' для проекции плана; * числовая |ATTR__height| = глубина колодца (pit) или входного колодца\break (wall:pit); * строковая |ATTR__id| = содержит текущий идентификатор объекта ID; * строковая |ATTR__survey| = содержит текущее название съемки; * строковая |ATTR__scrap| = содержит текущее название скрапа; * изображение |ATTR__text| = содержит набранный текст, например для\break точечного символа -- продолжение (continuation); * строковая |NorthDir| = `true' или `grid'; * числовая |MagDecl| = магнитное склонение в градусах; * числовая |GridConv| = конвергенция сетки магнитного меридиана в\break градусах.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T181921Z" creationid="Алексей" creationdate="20171029T060315Z">
+        <seg>* булевская |ATTR__shotflag_splay|, |ATTR__shotflag_duplicate|,&lt;u0&gt;&lt;u1&gt; |ATTR__shotflag_approx| = устанавливает линию съемки; * булевская |ATTR__stationflag_splay| = установлено в `true' для боковых\break замеров крайних станций; * булевская |ATTR__scrap_centerline| = установлено в `true' для скрапов\break созданных по нитке хода; * булевская |ATTR__elevation| = устанавливается в `true' для разреза (разрез-развертки), в `false' для проекции плана; * числовая |ATTR__height| = глубина колодца (pit) или входного колодца\break (wall:pit); * строковая |ATTR__id| = содержит текущий идентификатор объекта ID; * строковая |ATTR__survey| = содержит текущее название съемки; * строковая |ATTR__scrap| = содержит текущее название скрапа; * изображение |ATTR__text| = содержит набранный текст, например для\break точечного символа -- продолжение (continuation); * строковая |NorthDir| = `true' или `grid'; * числовая |MagDecl| = магнитное склонение в градусах; * числовая |GridConv| = конвергенция сетки магнитного меридиана в\break градусах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8639,8 +8639,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>There are four predefined pens {&lt;u0&gt; PenA} (thickest) &lt;u2&gt;&lt;u3&gt;{&lt;u1&gt; PenD} (thinnest), which should be used for all drawings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190823Z" creationid="Алексей" creationdate="20171028T190823Z">
-        <seg>Существует четыре предопределенных ручки {&lt;u0&gt; PenA} (самый толстый) &lt;u2&gt;&lt;u3&gt;{&lt;u1&gt; PenD} (самый тонкий), который должен использоваться для всех чертежей.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T181745Z" creationid="Алексей" creationdate="20171028T190823Z">
+        <seg>Существует четыре предопределенных ручки {&lt;u0&gt; PenA} (самый толстый) &lt;u2&gt;&lt;u3&gt;{&lt;u1&gt; PenD} (самый тонкий), которые должны использоваться для всех чертежей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8967,8 +8967,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion's layout command makes it easy to switch among various predefined map symbol sets.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T065938Z" creationid="Алексей" creationdate="20171028T185832Z">
-        <seg>Команда компоновки Therion позволяет легко переключаться между\break различными предопределенными наборами символов карты.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T181449Z" creationid="Алексей" creationdate="20171028T185832Z">
+        <seg>Команда layout Therion'а позволяет легко переключаться между\break различными предопределенными наборами символов карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,8 +10926,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>unless it's compiled into Therion executable.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T190743Z" creationid="Алексей" creationdate="20171028T190743Z">
-        <seg>если он не скомпилирован в исполняемый файл Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T181709Z" creationid="Алексей" creationdate="20171028T190743Z">
+        <seg>если он не скомпилирован в исполняемый файл Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
