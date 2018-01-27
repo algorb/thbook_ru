@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  27 JAN 2018 17:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  27 JAN 2018 17:35
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -2766,4 +2766,339 @@ Underfull \hbox (badness 1400) in paragraph at lines 17--18
 .\glue(\leftskip) 12.0
 .\tt (
 .\pdfstartlink(*+*)x* attr{/Border [0 0 0]} action user{/Subtype /Link /A << /T
-ype /Action /S /URI /U
+ype /Action /S /URI /URI (https://sourceforge.\ETC.}
+.\pdfcolorstack 1 push {0.91 0 0.88 0.12 k}
+.\tt h
+.etc.
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 22--22
+ [][]\tt T[]X дистрибутив с plain форматом T[]X, pdfT[]X, и \manfnt META\tt -\m
+anfnt POST
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.02182
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt T
+.\kern -2.00043
+.etc.
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 30--31
+[]\tt Все программы (за исключением пакетов BWid-get и tkImg) обычно
+
+\hbox(8.04599+2.69398)x452.96786, glue set 2.67903
+.\hbox(0.0+0.0)x0.0
+.\tt В
+.\tt с
+.\tt е
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 30--31
+\tt содержат GNU make и GCC. Кстати, почему бы не использовать
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.91692
+.\tt с
+.\tt о
+.\kern-0.48001
+.\tt д
+.\kern-0.264
+.etc.
+
+[71]
+Underfull \hbox (badness 5203) in paragraph at lines 58--58
+ [][][]\tt config-linux[], []config-macosx[], []config-win32[] $\mit .$ \tt нас
+троить The-rion для
+
+\hbox(8.04599+2.69398)x452.96786, glue set 3.73601
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+ [][][]\tt config-release[], []config-oxygen[], []config-ozone[] $\mit .$ \tt у
+становить уровень
+
+\hbox(8.04599+2.85599)x452.96786, glue set 4.78987
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt c
+.etc.
+
+[72]
+Underfull \hbox (badness 1259) in paragraph at lines 84--85
+[]\tt texenc/encodings[], запустите скрипт Perl []mk-tex-enc.pl[] расположенный
+ в
+
+\hbox(8.328+2.85599)x452.96786, glue set 2.32991
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt t
+.\tt e
+.\tt x
+.\tt e
+.etc.
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 101--101
+ [][][]\tt TEMP[], []TMP[] $\mit .$ \tt системный временный каталог, где The-ri
+on хранит
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.67754
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt T
+.etc.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 101--101
+ \tt идентификатором процесса), если только []tmp-path[] указан в файле
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.56857
+.\glue(\leftskip) 12.0
+.\tt и
+.\tt д
+.\kern-0.264
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 111--111
+ [][]\tt в Win-dows: [].[], []$THE-RION[], []$HOME\.therion[], []<директория ус
+тановки[]
+
+\hbox(9.13799+2.85599)x452.96786, glue set 2.28664
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\tt в
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[73]
+Underfull \hbox (badness 3724) in paragraph at lines 115--116
+\tt читается как любой другой файл. Пустые строки или строки,
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.3423
+.\tt ч
+.\tt и
+.\tt т
+.\tt а
+.\tt е
+.etc.
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 121--122
+ []\tt По умолчанию используется []survex[], если он установлен, иначе
+
+\hbox(8.04599+2.85599)x452.96786, glue set 3.52739
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt П
+.\tt о
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+[74]
+Underfull \hbox (badness 1377) in paragraph at lines 173--174
+ []\tt Работает только в Win-dows. Когда установлено значение []off[] (по
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.3974
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Р
+.\tt а
+.\tt б
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+ \tt умолчанию на выходе. Список текстов и
+
+\hbox(8.04599+2.85599)x452.96786, glue set 11.02737
+.\glue(\leftskip) 12.0
+.\tt у
+.\tt м
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 190--191
+ []\tt Для использования этой команды The-rion требует установки LCDF
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.49364
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Д
+.\tt л
+.\tt я
+.etc.
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 200--201
+ \tt используемые в []pdf-fonts[], преобразуются в шрифты PFB, если они
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.24263
+.\glue(\leftskip) 12.0
+.\tt и
+.\kern-0.12001
+.\tt с
+.\tt п
+.etc.
+
+[75]
+Underfull \hbox (badness 1194) in paragraph at lines 206--207
+ []\tt За кодировкой должны следовать пять спецификаций шрифтов для
+
+\hbox(8.04599+2.412)x452.96786, glue set 2.28728
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt З
+.\tt а
+.\glue 4.31999 plus 2.592 minus 1.032
+.etc.
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 220--221
+ \tt полужирных шрифтов и соответствующих шрифтов без засечек и
+
+\hbox(8.04599+2.85599)x452.96786, glue set 2.7185
+.\glue(\leftskip) 12.0
+.\tt п
+.\kern-0.12001
+.\tt о
+.\kern-0.24
+.etc.
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 234--235
+ \tt можете полностью отключить поведение по умолчанию, установив
+
+\hbox(5.676+2.85599)x452.96786, glue set 2.75658
+.\glue(\leftskip) 12.0
+.\tt м
+.\tt о
+.\kern-0.264
+.\tt ж
+.etc.
+
+[76] [77]
+Underfull \hbox (badness 2269) in paragraph at lines 339--340
+ \tt Модель деформации карты существенно отличалась от текущей
+
+\hbox(8.04599+2.85599)x436.96786, glue set 2.8326
+.\glue(\leftskip) 12.0
+.\tt М
+.\tt о
+.\kern-0.48001
+.\tt д
+.etc.
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 339--340
+ \tt (позиции характеристик были относительно конкретного съемного
+
+\hbox(8.04599+2.69398)x436.96786, glue set 2.1593
+.\glue(\leftskip) 12.0
+.\tt (
+.\tt п
+.\kern-0.12001
+.\tt о
+.etc.
+
+[78]
+Underfull \hbox (badness 2478) in paragraph at lines 387--387
+ []\tt Февраль: The-rion 0.5 -- Поддержка морфинга эскизов растровых
+
+\hbox(8.328+2.412)x452.96786, glue set 2.91805
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\tt Ф
+.\tt е
+.\tt в
+.etc.
+
+[79]) (ch07.tex
+\samplepath=\toks26
+ Warning: skipping the case studies) [80] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 3 ({)
+### bottom level{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givb
+c10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb11.pfb): glyph `cyrbreve' undefined
+
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb11.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb12.pfb): glyph `cyrflex' undefined
+
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb12.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb13.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
+Output written on thbook.pdf (80 pages, 771385 bytes).
+PDF statistics:
+ 527 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+
