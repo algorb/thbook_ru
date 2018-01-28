@@ -4421,6 +4421,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explored but unsurveyed passage lengths are also part of summary statistics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T110109Z" creationid="Алексей" creationdate="20180128T110109Z">
+        <seg>Исследуемые, но не отснятые хода также являются частью сводной статистики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explored lengths are a part of survey/cave statistics, displayed separately.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140254Z" creationid="Алексей" creationdate="20170920T052831Z">
@@ -13155,6 +13163,14 @@ endscrap [&lt;идентификатор&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T104656Z" creationid="Алексей" creationdate="20180128T104619Z">
         <seg>|station cave-1 "Не снятая пещера" entrance |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|station cave-2 "Unsurveyed but explored" entrance &lt;u0&gt;continuation explored 80m |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T110139Z" creationid="Алексей" creationdate="20180128T110112Z">
+        <seg>|station cave-2 "Не снятая, но исследованная" entrance &lt;u0&gt;continuation explored 80m |</seg>
       </tuv>
     </tu>
     <tu>
