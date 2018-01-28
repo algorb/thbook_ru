@@ -1,0 +1,59 @@
+
+body,td,.headerlinks {font-family: Verdana, Helvetica, Arial, sans-serif; line-height: 1.5;}
+body { background-color:white;}
+.headerlinks {font-weight: 500;}
+
+p,h1,h2,h3 {margin-left: 16px; margin-right: 16px;}
+h1 {font-size: 150%}
+h2 {font-size: 125%}
+.footer {margin-left: 16px;}
+
+a {text-decoration: none}
+a:active {color: blue; text-decoration: none;}
+a:visited {color: blue; text-decoration: none;}
+a:hover {color: red; text-decoration: none; }
+
+ol { list-style-type: lower-greek }
+ul { list-style-type: circle }
+
+code {
+  font-family: Courier; 
+  font-weight: bold; 
+  line-height: 1.5;
+}
+
+pre.code {
+  padding:0.5em; 
+  border:1px solid #000; 
+  font-weight:bold; color:#000; 
+  background-color:#f7f9fa; 
+  overflow:auto; 
+  line-height:140%; 
+  margin-left: 16px; 
+  margin-right: 16px;
+}
+
+font.nav {font-size: 75%;}
+
+table.htmlinput {
+    font-size:80%; 
+    margin-left: 16px; 
+    margin-right: 16px;
+    border-spacing: 0px;
+}
+th.htmlinput {
+    border-bottom:2px solid #a7a9aa;
+    padding-left:8px; 
+    padding-right:8px; 
+    padding-top:0px; 
+    padding-bottom:1px
+}
+td.htmlinput {
+    border-bottom:1px solid #a7a9aa;
+    padding-left:8px; 
+    padding-right:8px;
+    padding-top:0px; 
+    padding-bottom:0px
+}
+
+
