@@ -1,0 +1,187 @@
+<html>
+<head>
+<title>Importing survex .3d files</title><link href="index.css" rel="styleSheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<center>
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" align="left">
+<a href="30.html"><font class="nav">|Previous|</font></a>
+</td>
+<td width="34%" align="center"><a href="index.html"><font class="nav">|Contents|</font></a></td>
+<td width="33%" align="right">
+<a href="60.html"><font class="nav">|Next|</font></a>
+</td>
+</tr>
+</table>
+<hr noshade color="#000" size="1" width="100%"/>
+<h1>Importing survex .3d files</h1>
+<p>
+ Therion surveys nearly correspond to station prefixes defined by
+ <code>*begin</code>/<code>*end</code> pairs in survex source files. Usually there
+ does not exist one-to-one mapping between them. So if you want
+ to keep your centerline in survex files you need to solve the
+ problem how to match survex and therion data structures. This
+ sample shows three different ways, how to deal with station prefixes
+ when importing survex .3d files to therion.
+</p>
+<a name="0"></a><h2>Using surveys specified in .th files</h2>
+<p>
+ If you will import .3d file with <code>-surveys use</code> switch,
+ then therion tries to find the match between <em>survex prefix</em> 
+ and <em>therion survey name</em>. If this match is found, stations
+ are inserted into survey found. Otherwise prefix is left with 
+ station names. Example code:
+</p>
+<pre class="code">
+import use.3d -surveys use
+input use-out.th2
+survey use
+  input use-in.th2
+endsurvey
+</pre>
+<p>
+ In this case you should take care where you input your .th2 files
+ containing scraps. In <em>use-out.th2</em> file you should refer to station names
+ using:
+</p>
+<pre class="code">
+point 165.744 176.58 station -name 2@use
+</pre>
+<p>
+ but in the <em>use-in.th</em> file using
+</p>
+<pre class="code">
+point 321.454 236.22 station -name 1
+</pre>
+<p>
+ Map with station names in this case looks like this:
+</p>
+<p>
+<a href="000000-use.pdf"><img border="1" src="000000.png"/></a>
+</p>
+<p>
+ Station names are before '@' symbol, survey names follow this symbol.
+</p>
+<a name="1"></a><h2>Creating non-existing surveys</h2>
+<p>
+ If you import your .3d file using
+</p>
+<pre class="code">
+import create.3d -surveys create
+</pre>
+<p>
+ all survex prefixes are taken into account and if surveys with
+ corresponding names do not exist, they are created. In this case,
+ if you do
+</p>
+<pre class="code">
+input create.th2
+</pre>
+<p>
+ right after <code>import</code> command, you refer to stations in .th2
+ file with names shown on the map.
+</p>
+<p>
+<a href="000001-create.pdf"><img border="1" src="000001.png"/></a>
+</p>
+<a name="2"></a><h2>Ignoring station prefixes</h2>
+<p>
+ Last possibility is to import your .3d file using
+</p>
+<pre class="code">
+import ignore.3d -surveys ignore
+</pre>
+<p>
+ Also in this case, station references in corresponding .th2 file
+ are same as station names on the next map.
+</p>
+<p>
+<a href="000002-ignore.pdf"><img border="1" src="000002.png"/></a>
+</p>
+<p>
+ Note that no surveys are created in this case. Station names
+ are taken from .3d files without change.
+</p>
+<a name="3"></a><h2>Managing large projects</h2>
+<p>
+ Assume a situation when you want to join these three small maps
+ within single large project. Assume that coordinates of cave
+ entrances are specified in the top-level cave.3d file. If your
+ joining code will be
+</p>
+<pre class="code">
+import cave.3d -surveys use
+survey cave
+  input use/use.th
+  input create/create.th
+  input ignore/ignore.th
+endsurvey
+</pre>
+<p>
+ not all stations are replaced correctly. The "created" series
+ is placed wrong on the map.
+</p>
+<p>
+<a href="000003-cave1.pdf"><img border="1" src="000003.png"/></a>
+</p>
+<p>
+ This is because in top level import command, survey <em>create</em> is
+ imported from file <code>create/create.3d</code> with wrong coordinates,
+ and we import top-level .3d file with <code>-surveys use</code> switch.
+ This means, cave.create.1 will be imported here as create.1@cave and not
+ 1@create.cave.
+</p>
+<p>
+ To solve this problem, we need to re-import stations
+ from top-level cave.3d file once more with <code>-surveys create</code>
+ switch.
+</p>
+<pre class="code">
+import cave.3d -surveys use
+import cave.3d -surveys create
+survey cave
+  input use/use.th
+  input create/create.th
+  input ignore/ignore.th  
+endsurvey
+</pre>
+<p>
+ After this additional <code>import</code> final looks as expected.
+</p>
+<p>
+<a href="000004-cave2.pdf"><img border="1" src="000004.png"/></a>
+</p>
+<a name="4"></a><h2>Conclusion</h2>
+<p>
+Even if there are several possibilities how to map survex prefix structure
+to therion survey structure, the most clean solution is to create
+survey structure to desired depth in .th files using empty 
+<code>survey</code>/<code>endsurvey</code> pairs and allways use
+<code>-surveys use</code> switch when importing .3d files.
+</p>
+<p></p>
+
+<hr noshade color="#000" size="1" width="100%"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" align="left">
+<a href="30.html"><font class="nav">|Previous|</font></a>
+</td>
+<td width="34%" align="center"><a href="index.html"><font class="nav">|Contents|</font></a></td>
+<td width="33%" align="right">
+<a href="60.html"><font class="nav">|Next|</font></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+</body></html>
