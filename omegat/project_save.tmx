@@ -5407,8 +5407,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you have just surveyed entrance station (e.g. using GPS or standard surveying methods), all you need to do is to assign |entrance| flag using</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102622Z" creationid="Алексей" creationdate="20180128T102622Z">
-        <seg>Если у вас есть станция на входе с известными координатами (например, используя GPS или стандартные методы съемки), все, что вам нужно сделать, это назначить флаг |entrance| (вход)</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103122Z" creationid="Алексей" creationdate="20180128T103122Z">
+        <seg>Если у вас есть станция на входе с известными координатами (например, используя GPS или стандартные методы съемки), все, что вам нужно сделать, это назначить флаг |entrance| (вход)&lt;сегмент 1646&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5695,7 +5695,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In therion dataset, "cave" can be defined in several ways, depending on the level of cave survey.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102727Z" creationid="Алексей" creationdate="20180128T102329Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103056Z" creationid="Алексей" creationdate="20180128T103056Z">
         <seg>В наборе данных, "пещера" может быть определена несколькими способами, в зависимости от уровня пещерной съемки.</seg>
       </tuv>
     </tu>
@@ -9903,7 +9903,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>When surveying caves in some large area, you often need to generate an up to date list of all caves in that area.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102234Z" creationid="Алексей" creationdate="20180128T102234Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103029Z" creationid="Алексей" creationdate="20180128T103029Z">
         <seg>При съемке пещер на какой-то большой территории вам часто нужно создать список всех пещер на этой территории.</seg>
       </tuv>
     </tu>
@@ -11017,22 +11017,6 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114026Z" creationid="Алексей" creationdate="20170910T063959Z">
         <seg>{ &lt;u2&gt; to 0pt{</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>{../samples.doc/000031-rabbit-plan.pdf}</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102002Z" creationid="Алексей" creationdate="20180128T102002Z">
-        <seg>{../samples.doc/000031-rabbit-plan.pdf}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102005Z" creationid="Алексей" creationdate="20180128T102005Z">
-        <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
       </tuv>
     </tu>
     <tu>
