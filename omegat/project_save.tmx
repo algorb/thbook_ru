@@ -12060,7 +12060,7 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{Drawing maps in therion}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T101953Z" creationid="Алексей" creationdate="20180128T101930Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102936Z" creationid="Алексей" creationdate="20180128T101930Z">
         <seg>{Рисование карт в Therion'е}.</seg>
       </tuv>
     </tu>
@@ -12068,7 +12068,7 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{Listing caves}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102021Z" creationid="Алексей" creationdate="20180128T102013Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102911Z" creationid="Алексей" creationdate="20180128T102013Z">
         <seg>{Список пещер}.</seg>
       </tuv>
     </tu>
