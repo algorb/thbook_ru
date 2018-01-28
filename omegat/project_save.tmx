@@ -5429,6 +5429,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have properly surveyed some cave, its data are usually in some |survey| structure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T110324Z" creationid="Алексей" creationdate="20180128T110324Z">
+        <seg>Если вы как следует отсняли какую-то пещеру, ее данные обычно находятся в некоторых |survey|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you save data file as `test.th' and configuration file as `thconfig' you may process them with Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150948Z" creationid="Алексей" creationdate="20171028T150907Z">
@@ -7745,6 +7753,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T210825Z" creationid="Алексей" creationdate="20171022T072142Z">
         <seg>Поверхность в настоящее время экспортируется только в формате |therion|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Survey becomes a cave, if it has main entrance station specified using |-entrance| option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T110420Z" creationid="Алексей" creationdate="20180128T110420Z">
+        <seg>Съемка становится пещерой, если у нее есть станция с опцией |-entrance|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13196,6 +13212,14 @@ endsurface|</seg>
         <seg>|survey &lt;идентификатор&gt; [ОПЦИИ]
 	... другие объекты ...
 endsurvey [&lt;идентификатор&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|survey small_cave -title "Tunnel cave" -entrance 0 |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T110453Z" creationid="Алексей" creationdate="20180128T110424Z">
+        <seg>|survey small_cave -title "Пещера Туннель" -entrance 0 |</seg>
       </tuv>
     </tu>
     <tu>
