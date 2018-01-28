@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 17:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 17:51
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -3091,9 +3091,34 @@ Underfull \hbox (badness 2478) in paragraph at lines 387--387
 \samplepath=\toks26
  [80]
 \quoteord=\count38
-) (../samples.doc/index.tex [81 <./pic/euclid.pdf> <../samples.doc/000031-rabbi
-t-plan.pdf> <../samples.doc/000032-rabbit-xelev.pdf>]
-(etc/TXSruled.tex
+) (../samples.doc/index.tex
+Overfull \hbox (0.58589pt too wide) in paragraph at lines 15--16
+[]\tt Если за этим входом есть какой-то разведанный проход, но вы не обследовал
+и|
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+
+Overfull \hbox (39.0819pt too wide) in paragraph at lines 15--16
+\tt его должным образом, вы должны добавить также флаги []con-tin-u-a-tion[] (п
+родолжение)|
+
+\hbox(8.04599+2.69398)x452.96786, glue set - 1.0
+.\tt е
+.\tt г
+.\tt о
+.\glue 4.31999 plus 2.592 minus 1.032
+.\tt д
+.etc.
+
+[81 <./pic/euclid.pdf> <../samples.doc/000031-rabbit-plan.pdf> <../samples.doc/
+000032-rabbit-xelev.pdf>] (etc/TXSruled.tex
 \ncols=\count39
 \nrows=\count40
 \curcol=\count41
@@ -3179,7 +3204,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (99 pages, 2152940 bytes).
+Output written on thbook.pdf (99 pages, 2153147 bytes).
 PDF statistics:
  1387 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
