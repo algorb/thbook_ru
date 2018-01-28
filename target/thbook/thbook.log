@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 17:18
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -1849,7 +1849,25 @@ Underfull \hbox (badness 1377) in paragraph at lines 81--82
 .\kern-0.168
 .etc.
 
-[47] [48] [49]
+[47]
+Overfull \hbox (4.13957pt too wide) in paragraph at lines 133--133
+ [][][]\tt <therion текст>[] $\mit .$ \tt текст The-rion'а для перевода. Список
+ текстов и доступных|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\glue(\leftskip) 12.0
+.\hbox(0.0+0.0)x0.0
+.\hbox(5.33334+0.0)x0.0, glue set - 10.32fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\mathon
+..\sy 
+..\mathoff
+..\glue 4.31999 plus 2.592 minus 1.032
+.\pdfcolorstack 1 push {1 1 0 0 k}
+.\tt <
+.etc.
+
+[48] [49]
 Underfull \hbox (badness 1237) in paragraph at lines 205--205
  []\tt <идентификатор>[] $\mit .$ \tt идентификатор макета (используется в кома
 нде
@@ -3096,7 +3114,8 @@ doc/000006-map2.pdf> <../samples.doc/000007-map3.pdf>] [93 <../samples.doc/0000
 08-map4.pdf>] [94 <../samples.doc/000000-use.pdf> <../samples.doc/000001-create
 .pdf>] [95 <../samples.doc/000002-ignore.pdf>] [96 <../samples.doc/000003-cave1
 .pdf> <../samples.doc/000004-cave2.pdf>] [97 <../samples.doc/000027-map1.pdf>]
-[98 <../samples.doc/000028-map2.pdf>] (etc/TXSruled.tex
+[98 <../samples.doc/000028-map2.pdf> <../samples.doc/000029-map3.pdf>]
+(etc/TXSruled.tex
 \ncols=\count42
 \nrows=\count43
 \curcol=\count44
@@ -3106,8 +3125,21 @@ doc/000006-map2.pdf> <../samples.doc/000007-map3.pdf>] [93 <../samples.doc/0000
 \parasize=\dimen37
 )
 [Nrows=4, Ncols=5]
-[99 <../samples.doc/000029-map3.pdf> <../samples.doc/000030-map4.pdf>] [100 <..
-/samples.doc/000009-map1.pdf>]) [101 <../samples.doc/000010-map2.pdf>] )
+[99 <../samples.doc/000030-map4.pdf>]
+Overfull \hbox (59.9835pt too wide) in paragraph at lines 332--333
+[]\tt def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := ar-clength P; mo-jk
+rok:=adjust_step(dlzka,|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt d
+.\kern-0.12001
+.\tt e
+.\tt f
+.etc.
+
+[100 <../samples.doc/000009-map1.pdf>]) [101 <../samples.doc/000010-map2.pdf>] 
+)
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 3 ({)
@@ -3147,7 +3179,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (101 pages, 2177559 bytes).
+Output written on thbook.pdf (101 pages, 2177451 bytes).
 PDF statistics:
  1510 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
