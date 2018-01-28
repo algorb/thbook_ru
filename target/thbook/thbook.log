@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 17:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  28 JAN 2018 17:47
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -69,11 +69,12 @@ loading : Context Support Macros / PDF
 ) (etc/optarg.tex) (etc/verbatim.tex)
 \footnum=\count37
  (ch00.tex [1{C:/Users/РђР»РµРєСЃРµР№/AppData/Local/MiKTeX/2.9/pdftex/config/pd
-ftex.map} <./pic/thbook.jpg>] (version.tex) [2] (etc/contents.tex [3] [4]) [5] 
-[6]
+ftex.map} <./pic/thbook.jpg>] (version.tex) [2] Warning: re-run to input a newl
+y generated TOC file [3] [4]
 \openout1 = `etc/contents.tex'.
 
-) (ch01.tex [7 <./pic/ageom.pdf>]
+) (ch01.tex
+[5 <./pic/ageom.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 37--38
 \tt называемый XThe-rion. XThe-rion работает как расширенный
 
@@ -136,7 +137,7 @@ Underfull \hbox (badness 6236) in paragraph at lines 55--56
 .\tt D
 .etc.
 
-[8]
+[6]
 Underfull \hbox (badness 5592) in paragraph at lines 67--68
 []\tt Установщик для Win-dows включает все необходимые пакеты, за
 
@@ -172,7 +173,7 @@ Underfull \hbox (badness 7558) in paragraph at lines 77--78
 .\kern-0.24
 .etc.
 
-[9]
+[7]
 Underfull \hbox (badness 1097) in paragraph at lines 91--92
 []\tt Итак, теперь ясно, что нужно The-rion'у, давайте посмотрим как он
 
@@ -245,7 +246,7 @@ nt POST \tt дает фактическую форму
 .\tt к
 .etc.
 
-[10]) (ch02.tex [11]
+[8]) (ch02.tex [9]
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
 []\eightit Только для вас, детей 
 
@@ -310,7 +311,7 @@ Underfull \hbox (badness 2142) in paragraph at lines 24--25
 .\tt н
 .etc.
 
-[12 <./pic/agrippa.jpg>]
+[10 <./pic/agrippa.jpg>]
 Underfull \hbox (badness 2221) in paragraph at lines 46--47
  [][]\tt Каждая строка, заканчивающаяся обратным слэшем ([]\[]), считается
 
@@ -386,7 +387,7 @@ Underfull \hbox (badness 3460) in paragraph at lines 66--67
 .\tt л
 .etc.
 
-[13]
+[11]
 Underfull \hbox (badness 1661) in paragraph at lines 74--74
  [][][]\tt UTM1[] -- []UTM60[] $\mit .$ \tt Универсальная поперечная проекция М
 еркатора
@@ -440,7 +441,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
 .\tt д
 .etc.
 
-[14]
+[12]
 Underfull \hbox (badness 4556) in paragraph at lines 149--150
 \tt смотрите ниже), которые относятся к sub-sur-vey текущего sur-vey,
 
@@ -452,7 +453,7 @@ Underfull \hbox (badness 4556) in paragraph at lines 149--150
 .\tt р
 .etc.
 
-[15]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 184--185
  \tt система координат, склонение автоматически вычисляется с
 
@@ -482,7 +483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--192
 .\tt e
 .etc.
 
-[16]
+[14]
 Underfull \hbox (badness 1147) in paragraph at lines 245--245
  \tt в настоящее время не используется). Поддерживаются следующие
 
@@ -506,7 +507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--245
 .\tt о
 .etc.
 
-[17]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 245--245
  [][][]\tt infer <что> <on/off>[] $\mit .$ \tt `[]in-fer plumbs on[]' говорит п
 рограмме
@@ -596,7 +597,7 @@ Underfull \hbox (badness 2351) in paragraph at lines 245--245
 .\tt л
 .etc.
 
-[18]
+[16]
 Underfull \hbox (badness 5036) in paragraph at lines 245--245
  \tt станций отсутствует, все последующие станции будут отмечены
 
@@ -699,7 +700,7 @@ Underfull \hbox (badness 4479) in paragraph at lines 259--260
 .\tt н
 .etc.
 
-[19]
+[17]
 Underfull \hbox (badness 5787) in paragraph at lines 267--267
  [][][]\tt endgroup[] $\mit .$ []\tt group/endgroup[] пара позволяет пользовате
 лю делать
@@ -758,7 +759,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--290
 .\tt s
 .etc.
 
-[20]
+[18]
 Underfull \hbox (badness 1596) in paragraph at lines 298--298
  \rm может потребовать больше времени для их обрисовки и для оптимизации их
 
@@ -812,7 +813,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 306--306
 .\tt и
 .etc.
 
-[21]
+[19]
 Underfull \hbox (badness 6944) in paragraph at lines 326--327
  []\tt тип[:индекс][]. Индекс может быть любым ключевым словом.
 
@@ -872,7 +873,7 @@ Underfull \hbox (badness 6220) in paragraph at lines 344--344
 .\tt п
 .etc.
 
-[22]
+[20]
 Underfull \hbox (badness 4144) in paragraph at lines 344--344
  [][][]\tt flip (none)/horizontal/vertical[] $\mit .$ \tt зеркально отображает 
 скрап после
@@ -903,7 +904,7 @@ Underfull \hbox (badness 4981) in paragraph at lines 368--369
 .\kern-0.14401
 .etc.
 
-[23]
+[21]
 Underfull \hbox (badness 1924) in paragraph at lines 372--373
  []\it спелео-формы: []\tt flow-stone[] (натечный каскад), []moon-milk[] (мондм
 ильх),
@@ -1037,7 +1038,7 @@ Underfull \hbox (badness 3989) in paragraph at lines 392--393
 .\kern-0.48001
 .etc.
 
-[24]
+[22]
 Underfull \hbox (badness 1092) in paragraph at lines 396--396
  [][][]\tt align[] $\mit .$ \tt выравнивание символа или текста. Принимает след
 ующие
@@ -1067,7 +1068,7 @@ Underfull \hbox (badness 6526) in paragraph at lines 400--400
 .\tt м
 .etc.
 
-[25]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 404--405
  []\tt <center>[]/[]<centre>[], []<left>[], []<right>[] $\mit .$ \tt выравниван
 ие строк для
@@ -1122,7 +1123,7 @@ Underfull \hbox (badness 2310) in paragraph at lines 422--422
 .\it m
 .etc.
 
-[26]
+[24]
 Underfull \hbox (badness 1253) in paragraph at lines 453--454
  []\it заливка ходов: []\tt flow-stone[] (натечный каскад), []moon-milk[] (монд
 мильх),
@@ -1148,7 +1149,7 @@ ow-stone[]
 .\tt ч
 .etc.
 
-[27]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 465--466
  []\it border (граница): []\tt vis-i-ble[] (видимая) (по умолчанию), []in-vis-i
 -ble[]
@@ -1222,7 +1223,7 @@ Underfull \hbox (badness 1635) in paragraph at lines 479--479
 .\tt и
 .etc.
 
-[28]
+[26]
 Underfull \hbox (badness 1715) in paragraph at lines 479--479
  \tt контурной линии. Если спецификация градиента отсутствует, то
 
@@ -1246,7 +1247,7 @@ Underfull \hbox (badness 1400) in paragraph at lines 489--490
 .\tt д
 .etc.
 
-[29]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 538--539
  \tt линии, необязательно сопровождаемый меткой символа линии
 
@@ -1270,7 +1271,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 538--539
 .\tt д
 .etc.
 
-[30]
+[28]
 Underfull \hbox (badness 1237) in paragraph at lines 544--544
  [][][]\tt count <N>[] (при использовании со скрапами) $\mit .$ \tt The-rion по
 пытается
@@ -1318,7 +1319,7 @@ Underfull \hbox (badness 4467) in paragraph at lines 589--589
 .\tt c
 .etc.
 
-[31]
+[29]
 Underfull \hbox (badness 1571) in paragraph at lines 599--600
 []\tt Спецификация поверхности (рельефа). Ее можно отобразить двумя
 
@@ -1330,7 +1331,7 @@ Underfull \hbox (badness 1571) in paragraph at lines 599--600
 .\tt ц
 .etc.
 
-[32]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 638--639
  [][][]\tt grid-flip (none)/vertical/horizontal[] $\mit .$ \tt полезно, если ва
 ша сетка
@@ -1402,7 +1403,7 @@ Underfull \hbox (badness 1721) in paragraph at lines 670--671
 .\glue 4.31999 plus 2.592 minus 1.032
 .etc.
 
-[33]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 715--715
 []\tt Пользовательские атрибуты используются при экспорте карты в
 
@@ -1451,7 +1452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 719--720
 .\glue 4.31999 plus 2.592 minus 1.032
 .etc.
 
-[34]
+[32]
 Underfull \hbox (badness 1803) in paragraph at lines 727--728
 \tt входные файлы в своем любимом текстовом редакторе и запускать
 
@@ -1516,7 +1517,7 @@ Underfull \hbox (badness 4316) in paragraph at lines 743--744
 .\it п
 .etc.
 
-[35]
+[33]
 Underfull \hbox (badness 10000) in paragraph at lines 749--750
 []\tt Размер и масштабирование \bf области рисования \tt настраивается в
 
@@ -1540,7 +1541,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 753--754
 .\tt к
 .etc.
 
-[36]
+[34]
 Underfull \hbox (badness 1286) in paragraph at lines 761--762
 []\tt Полное содержимое любой команды отображается в меню \it Просмотр
 
@@ -1600,7 +1601,7 @@ Underfull \hbox (badness 2626) in paragraph at lines 773--774
 .\tt о
 .etc.
 
-[37]
+[35]
 Underfull \hbox (badness 1215) in paragraph at lines 780--780
  \tt указателя и ввести эти координаты в \it масштабирующие точки для
 
@@ -1648,7 +1649,7 @@ Underfull \hbox (badness 2980) in paragraph at lines 795--796
 .\bf о
 .etc.
 
-[38]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 797--798
 []\tt Если карта в формате PDF была преобразована в растровое
 
@@ -1709,7 +1710,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 817--817
 .\kern-0.14401
 .etc.
 
-[39]
+[37]
 Underfull \hbox (badness 2626) in paragraph at lines 817--817
  [][]\tt щелчок левой кнопкой мыши+тянуть $\mit .$ \tt вставить точку линии (с
 
@@ -1743,7 +1744,7 @@ Underfull \hbox (badness 2293) in paragraph at lines 817--817
 .\kern-0.14401
 .etc.
 
-[40] [41]
+[38] [39]
 Underfull \hbox (badness 2111) in paragraph at lines 879--880
 []\tt Для действительно больших пещер можно построить иерархическую
 
@@ -1767,7 +1768,7 @@ Underfull \hbox (badness 1231) in paragraph at lines 879--880
 .\tt а
 .etc.
 
-[42]
+[40]
 Underfull \hbox (badness 2799) in paragraph at lines 905--906
 \tt символов -- точки, линии или области: видимость, подрезание и
 
@@ -1779,7 +1780,7 @@ Underfull \hbox (badness 2799) in paragraph at lines 905--906
 .\tt о
 .etc.
 
-[43]
+[41]
 Underfull \hbox (badness 3323) in paragraph at lines 931--931
  [][] \tt растровые изображения поверхности отображаются, если []sur-face[]
 
@@ -1796,7 +1797,7 @@ Underfull \hbox (badness 3323) in paragraph at lines 931--931
 .\tt р
 .etc.
 
-[44]
+[42]
 Underfull \hbox (badness 4024) in paragraph at lines 951--951
  [][] \tt растровые изображения поверхности отображаются если []sur-face[]
 
@@ -1813,7 +1814,7 @@ Underfull \hbox (badness 4024) in paragraph at lines 951--951
 .\tt р
 .etc.
 
-) (ch03.tex [45]
+) (ch03.tex [43]
 Underfull \hbox (badness 2197) in paragraph at lines 11--12
 \tt игнорируются; строки, заканчивающиеся на обратную косую черту,
 
@@ -1837,7 +1838,7 @@ Underfull \hbox (badness 2818) in paragraph at lines 39--40
 .\tt з
 .etc.
 
-[46 <./pic/herakl.pdf>]
+[44 <./pic/herakl.pdf>]
 Underfull \hbox (badness 1377) in paragraph at lines 81--82
 []\tt выбирает объекты (съемки и карты) для экспорта. По умолчанию
 
@@ -1849,7 +1850,7 @@ Underfull \hbox (badness 1377) in paragraph at lines 81--82
 .\kern-0.168
 .etc.
 
-[47]
+[45]
 Overfull \hbox (4.13957pt too wide) in paragraph at lines 133--133
  [][][]\tt <therion текст>[] $\mit .$ \tt текст The-rion'а для перевода. Список
  текстов и доступных|
@@ -1867,7 +1868,7 @@ Overfull \hbox (4.13957pt too wide) in paragraph at lines 133--133
 .\tt <
 .etc.
 
-[48] [49]
+[46] [47]
 Underfull \hbox (badness 1237) in paragraph at lines 205--205
  []\tt <идентификатор>[] $\mit .$ \tt идентификатор макета (используется в кома
 нде
@@ -1946,7 +1947,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--226
 .\tt s
 .etc.
 
-[50]
+[48]
 Underfull \hbox (badness 3333) in paragraph at lines 235--236
  \tt котором точечные и линейные символы отображаются на карте.
 
@@ -1976,7 +1977,7 @@ Underfull \hbox (badness 1590) in paragraph at lines 243--243
 .\tt o
 .etc.
 
-[51]
+[49]
 Underfull \hbox (badness 5388) in paragraph at lines 243--243
  [][][]\tt nav-factor <фактор>[] $\mit .$ \tt установить коэффициент масштабиро
 вания
@@ -2120,7 +2121,7 @@ Underfull \hbox (badness 4954) in paragraph at lines 247--247
 .\tt е
 .etc.
 
-[52]
+[50]
 Underfull \hbox (badness 3861) in paragraph at lines 247--247
  [][][]\tt map-header-bg <on/off>[] $\mit .$ \tt когда включено, фон заголовка 
 карты
@@ -2193,7 +2194,7 @@ Underfull \hbox (badness 2662) in paragraph at lines 255--255
 ..\tt -
 .etc.
 
-[53] [MP to PDF] (mp/page.1)
+[51] [MP to PDF] (mp/page.1)
 Underfull \hbox (badness 2042) in paragraph at lines 292--293
 []\tt Установить расстояние дискретизации в метрах при генерации стен
 
@@ -2205,7 +2206,7 @@ Underfull \hbox (badness 2042) in paragraph at lines 292--293
 .\tt т
 .etc.
 
-[54]
+[52]
 Underfull \hbox (badness 2894) in paragraph at lines 342--343
  \tt префикс ``[]cave.[]'' используется с расширением, соответствующим
 
@@ -2217,7 +2218,7 @@ Underfull \hbox (badness 2894) in paragraph at lines 342--343
 .\tt ф
 .etc.
 
-[55 <./pic/page.pdf>]
+[53 <./pic/page.pdf>]
 Underfull \hbox (badness 4886) in paragraph at lines 348--348
  \tt какие функции экспортировать, если формат поддерживает его.
 
@@ -2295,7 +2296,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 368--369
 .\tt s
 .etc.
 
-[56]
+[54]
 Underfull \hbox (badness 1107) in paragraph at lines 380--381
 []\tt Теперь, после освоения данных и файлов конфигурации, мы готовы
 
@@ -2331,7 +2332,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 410--410
 .\tt л
 .etc.
 
-[57]
+[55]
 Underfull \hbox (badness 3861) in paragraph at lines 437--438
  [][][]\tt --print-encodings[] $\mit .$ \tt выводит список всех поддерживаемых 
 входных
@@ -2367,7 +2368,7 @@ Underfull \hbox (badness 1472) in paragraph at lines 456--456
 .\tt -
 .etc.
 
-) (ch04.tex [58]
+) (ch04.tex [56]
 Underfull \hbox (badness 1048) in paragraph at lines 11--12
 \tt ошибок, измеренная вдоль оси координат $\mit x$\tt ; аналогично для $\mit y
 $ \tt и $\mit z$\tt .
@@ -2392,7 +2393,7 @@ Underfull \hbox (badness 3557) in paragraph at lines 13--14
 .\kern-0.192
 .etc.
 
-[59]
+[57]
 Underfull \hbox (badness 1454) in paragraph at lines 47--48
 []\tt air[], []ove[], []arc[] для станций с атрибутами en-trance (вход), con-ti
 n-u-a-tion
@@ -2405,7 +2406,7 @@ n-u-a-tion
 .\pdfcolorstack 1 pop
 .etc.
 
-[60 <./pic/database.pdf>]
+[58 <./pic/database.pdf>]
 Underfull \hbox (badness 2635) in paragraph at lines 85--86
 []\tt В режиме атласа на каждую страницу помещается дополнительная
 
@@ -2429,7 +2430,7 @@ Underfull \hbox (badness 3590) in paragraph at lines 97--98
 .\tt р
 .etc.
 
-[61]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 111--112
 \tt поддерживает, например, рендеринг с высоким разрешением и
 
@@ -2441,7 +2442,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
 .\tt д
 .etc.
 
-) (ch05.tex [62] [63 <./pic/thom.jpg>]
+) (ch05.tex [60] [61 <./pic/thom.jpg>]
 Underfull \hbox (badness 1546) in paragraph at lines 58--59
  [][][]\tt \pointerE[], []\point-erW[], []\point-erN[], []\point-erS[] содержат
  номер страницы
@@ -2519,7 +2520,7 @@ t-erD[]
 .\tt \
 .etc.
 
-[64]
+[62]
 Underfull \hbox (badness 7238) in paragraph at lines 92--93
  \tt форматирования пользовательских данных переопределите макрос
 
@@ -2531,7 +2532,7 @@ Underfull \hbox (badness 7238) in paragraph at lines 92--93
 .\tt р
 .etc.
 
-[65] [66]
+[63] [64]
 Underfull \hbox (badness 2213) in paragraph at lines 193--194
 \tt чтобы получить простой, предварительно отформатированный, вывод
 
@@ -2555,7 +2556,7 @@ Underfull \hbox (badness 5756) in paragraph at lines 199--199
 .\tt р
 .etc.
 
-[67]
+[65]
 Underfull \hbox (badness 3281) in paragraph at lines 221--222
 []\tt В режиме карты можно использовать множество предопределенных
 
@@ -2603,7 +2604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--256
 .\tt м
 .etc.
 
-[68]
+[66]
 Missing character: There is no - in font logo10!
 
 Underfull \hbox (badness 6284) in paragraph at lines 269--270
@@ -2647,7 +2648,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 289--289
 .\kern-0.36
 .etc.
 
-[69]
+[67]
 Underfull \hbox (badness 1975) in paragraph at lines 289--289
  [][]\tt числовая []Grid-Conv[] $\mit .$ \tt конвергенция сетки магнитного мери
 диана в
@@ -2719,7 +2720,7 @@ Underfull \hbox (badness 2680) in paragraph at lines 307--308
 .\tt м
 .etc.
 
-[70]
+[68]
 Underfull \hbox (badness 1642) in paragraph at lines 320--321
 []\tt Линейные символы отличаются от точечных символов тем, что нет
 
@@ -2801,7 +2802,7 @@ Underfull \hbox (badness 1783) in paragraph at lines 345--346
 .\kern-0.192
 .etc.
 
-[71]) (ch06.tex [72]
+[69]) (ch06.tex [70]
 Underfull \hbox (badness 1400) in paragraph at lines 17--18
  \tt ([][]https://sourceforge.net/projects/tcllib/[][]) и необязательным расшир
 ением
@@ -2857,7 +2858,7 @@ Underfull \hbox (badness 2478) in paragraph at lines 30--31
 .\kern-0.264
 .etc.
 
-[73]
+[71]
 Underfull \hbox (badness 5203) in paragraph at lines 58--58
  [][][]\tt config-linux[], []config-macosx[], []config-win32[] $\mit .$ \tt нас
 троить The-rion для
@@ -2893,7 +2894,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--58
 .\tt c
 .etc.
 
-[74]
+[72]
 Underfull \hbox (badness 1259) in paragraph at lines 84--85
 []\tt texenc/encodings[], запустите скрипт Perl []mk-tex-enc.pl[] расположенный
  в
@@ -2954,7 +2955,7 @@ Underfull \hbox (badness 1194) in paragraph at lines 111--111
 .\glue 4.31999 plus 2.592 minus 1.032
 .etc.
 
-[75]
+[73]
 Underfull \hbox (badness 3724) in paragraph at lines 115--116
 \tt читается как любой другой файл. Пустые строки или строки,
 
@@ -2978,7 +2979,7 @@ Underfull \hbox (badness 4378) in paragraph at lines 121--122
 .\glue 4.31999 plus 2.592 minus 1.032
 .etc.
 
-[76]
+[74]
 Underfull \hbox (badness 1377) in paragraph at lines 173--174
  []\tt Работает только в Win-dows. Когда установлено значение []off[] (по
 
@@ -3014,7 +3015,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 200--201
 .\tt п
 .etc.
 
-[77]
+[75]
 Underfull \hbox (badness 1194) in paragraph at lines 206--207
  []\tt За кодировкой должны следовать пять спецификаций шрифтов для
 
@@ -3050,7 +3051,7 @@ Underfull \hbox (badness 2088) in paragraph at lines 234--235
 .\tt ж
 .etc.
 
-[78] [79]
+[76] [77]
 Underfull \hbox (badness 2269) in paragraph at lines 339--340
  \tt Модель деформации карты существенно отличалась от текущей
 
@@ -3074,7 +3075,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 339--340
 .\tt о
 .etc.
 
-[80]
+[78]
 Underfull \hbox (badness 2478) in paragraph at lines 387--387
  []\tt Февраль: The-rion 0.5 -- Поддержка морфинга эскизов растровых
 
@@ -3086,11 +3087,11 @@ Underfull \hbox (badness 2478) in paragraph at lines 387--387
 .\tt в
 .etc.
 
-[81]) (ch07.tex
+[79]) (ch07.tex
 \samplepath=\toks26
- [82]
+ [80]
 \quoteord=\count38
-) (../samples.doc/index.tex [83 <./pic/euclid.pdf> <../samples.doc/000031-rabbi
+) (../samples.doc/index.tex [81 <./pic/euclid.pdf> <../samples.doc/000031-rabbi
 t-plan.pdf> <../samples.doc/000032-rabbit-xelev.pdf>]
 (etc/TXSruled.tex
 \ncols=\count39
@@ -3102,19 +3103,19 @@ t-plan.pdf> <../samples.doc/000032-rabbit-xelev.pdf>]
 \parasize=\dimen33
 )
 [Nrows=4, Ncols=5]
-[84 <../samples.doc/000011-types.pdf>] [85 <../samples.doc/000012-cave1.jpg> <.
-./samples.doc/000013-cave1.pdf> <../samples.doc/000014-cave2.pdf>] [86 <../samp
+[82 <../samples.doc/000011-types.pdf>] [83 <../samples.doc/000012-cave1.jpg> <.
+./samples.doc/000013-cave1.pdf> <../samples.doc/000014-cave2.pdf>] [84 <../samp
 les.doc/000015-cave.png> <../samples.doc/000016-cave1.pdf> <../samples.doc/0000
-17-cave2.pdf>] [87 <../samples.doc/000018-cave3.pdf> <../samples.doc/000019-map
-1p.pdf>] [88 <../samples.doc/000020-map1x.pdf> <../samples.doc/000021-map2.pdf>
-] [89 <../samples.doc/000022-map3.pdf> <../samples.doc/000023-map6.pdf>]
-[90 <../samples.doc/000024-map7.pdf> <../samples.doc/000025-map4.pdf>] [91 <../
-samples.doc/000026-map5.pdf> <../samples.doc/000005-map1.pdf>] [92 <../samples.
-doc/000006-map2.pdf> <../samples.doc/000007-map3.pdf>] [93 <../samples.doc/0000
-08-map4.pdf>] [94 <../samples.doc/000000-use.pdf> <../samples.doc/000001-create
-.pdf>] [95 <../samples.doc/000002-ignore.pdf>] [96 <../samples.doc/000003-cave1
-.pdf> <../samples.doc/000004-cave2.pdf>] [97 <../samples.doc/000027-map1.pdf>]
-[98 <../samples.doc/000028-map2.pdf> <../samples.doc/000029-map3.pdf>]
+17-cave2.pdf>] [85 <../samples.doc/000018-cave3.pdf> <../samples.doc/000019-map
+1p.pdf>] [86 <../samples.doc/000020-map1x.pdf> <../samples.doc/000021-map2.pdf>
+] [87 <../samples.doc/000022-map3.pdf> <../samples.doc/000023-map6.pdf>]
+[88 <../samples.doc/000024-map7.pdf> <../samples.doc/000025-map4.pdf>] [89 <../
+samples.doc/000026-map5.pdf> <../samples.doc/000005-map1.pdf>] [90 <../samples.
+doc/000006-map2.pdf> <../samples.doc/000007-map3.pdf>] [91 <../samples.doc/0000
+08-map4.pdf>] [92 <../samples.doc/000000-use.pdf> <../samples.doc/000001-create
+.pdf>] [93 <../samples.doc/000002-ignore.pdf>] [94 <../samples.doc/000003-cave1
+.pdf> <../samples.doc/000004-cave2.pdf>] [95 <../samples.doc/000027-map1.pdf>]
+[96 <../samples.doc/000028-map2.pdf> <../samples.doc/000029-map3.pdf>]
 (etc/TXSruled.tex
 \ncols=\count42
 \nrows=\count43
@@ -3125,7 +3126,7 @@ doc/000006-map2.pdf> <../samples.doc/000007-map3.pdf>] [93 <../samples.doc/0000
 \parasize=\dimen37
 )
 [Nrows=4, Ncols=5]
-[99 <../samples.doc/000030-map4.pdf>]
+[97 <../samples.doc/000030-map4.pdf>]
 Overfull \hbox (59.9835pt too wide) in paragraph at lines 332--333
 []\tt def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := ar-clength P; mo-jk
 rok:=adjust_step(dlzka,|
@@ -3138,8 +3139,7 @@ rok:=adjust_step(dlzka,|
 .\tt f
 .etc.
 
-[100 <../samples.doc/000009-map1.pdf>]) [101 <../samples.doc/000010-map2.pdf>] 
-)
+[98 <../samples.doc/000009-map1.pdf>]) [99 <../samples.doc/000010-map2.pdf>] )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 3 ({)
@@ -3179,9 +3179,9 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (101 pages, 2177602 bytes).
+Output written on thbook.pdf (99 pages, 2152940 bytes).
 PDF statistics:
- 1510 PDF objects out of 1728 (max. 8388607)
+ 1387 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
