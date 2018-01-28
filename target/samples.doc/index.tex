@@ -12,13 +12,13 @@
 
 |station cave-1 "Не снятая пещера" entrance | 
 
-Если за этим входом есть какой-то разведанный проход, но вы не\break обследовали его должным образом, вы должны добавить также флаги\break |continuation| (продолжение) и |explored| (исследование), за которым следует исследуемая длина. Explored but unsurveyed passage lengths are also part of summary statistics. 
+Если за этим входом есть какой-то разведанный проход, но вы не\break обследовали его должным образом, вы должны добавить также флаги\break |continuation| (продолжение) и |explored| (исследование), за которым следует исследуемая длина. Исследуемые, но не отснятые хода также являются частью сводной статистики. 
 
-|station cave-2 "Unsurveyed but explored" entrance \continuation explored 80m | 
+|station cave-2 "Не снятая, но исследованная" entrance \continuation explored 80m | 
 
-If you have properly surveyed some cave, its data are usually in some |survey| structure. Survey becomes a cave, if it has main entrance station specified using |-entrance| option. Пример: 
+Если вы как следует отсняли какую-то пещеру, ее данные обычно находятся в некоторых |survey|. Съемка становится пещерой, если у нее есть станция с опцией |-entrance|. Пример: 
 
-|survey small_cave -title "Tunnel cave" -entrance 0 | 
+|survey small_cave -title "Пещера Туннель" -entrance 0 | 
 
 If survey contains survey data, but it has no main entrance specified, it is not considered as a cave, just as data organization unit and thus not present in the cave list. Only surveys containing some caves (i.e. entrance stations or surveys with main entrance defined) are present in the final cave list table. 
 
