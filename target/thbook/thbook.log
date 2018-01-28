@@ -3071,6 +3071,32 @@ Underfull \hbox (badness 2478) in paragraph at lines 387--387
 [81]) (ch07.tex
 \samplepath=\toks26
  [82]
+Missing character: There is no Å in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ê in font cmr8!
+Missing character: There is no ë in font cmr8!
+Missing character: There is no è in font cmr8!
+Missing character: There is no ä in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no å in font cmr8!
+Missing character: There is no ê in font cmr8!
+Missing character: There is no ä in font cmr8!
+Missing character: There is no í in font cmr8!
+Missing character: There is no ý in font cmr8!
+Missing character: There is no Ô in font cmr8!
+Missing character: There is no ð in font cmr8!
+Missing character: There is no å in font cmr8!
+Missing character: There is no ä in font cmr8!
+Missing character: There is no å in font cmr8!
+Missing character: There is no ð in font cmr8!
+Missing character: There is no è in font cmr8!
+Missing character: There is no ê in font cmr8!
+Missing character: There is no Ï in font cmr8!
+Missing character: There is no Á in font cmr8!
+Missing character: There is no ð in font cmr8!
+Missing character: There is no ó in font cmr8!
+Missing character: There is no ê in font cmr8!
+Missing character: There is no ñ in font cmr8!
 \quoteord=\count38
 ) (../samples.doc/index.tex [83 <./pic/euclid.pdf> <../samples.doc/000031-rabbi
 t-plan.pdf> <../samples.doc/000032-rabbit-xelev.pdf>]
@@ -3147,7 +3173,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (101 pages, 2177808 bytes).
+Output written on thbook.pdf (101 pages, 2177405 bytes).
 PDF statistics:
  1510 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
