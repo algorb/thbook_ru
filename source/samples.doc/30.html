@@ -1,0 +1,105 @@
+<html>
+<head>
+<title>Dipsplaying overlaying maps in offset</title><link href="index.css" rel="styleSheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<center>
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" align="left">
+<a href="25.html"><font class="nav">|Previous|</font></a>
+</td>
+<td width="34%" align="center"><a href="index.html"><font class="nav">|Contents|</font></a></td>
+<td width="33%" align="right">
+<a href="40.html"><font class="nav">|Next|</font></a>
+</td>
+</tr>
+</table>
+<hr noshade color="#000" size="1" width="100%"/>
+<h1>Dipsplaying overlaying maps in offset</h1>
+<p>
+ Assume that there are two maps <em>m1</em> and <em>m2</em> 
+ (<em>m1</em> is above <em>m2</em>). By default therion displays 
+ <em>m1</em> overlying <em>m2</em>.
+</p>
+<p>
+<a href="000005-map1.pdf"><img border="1" src="000005.png"/></a>
+</p>
+<p>
+ To display map <em>m2</em> in offset you need to create a map
+ containing <em>m2</em> and specify offset and preview type
+ for <em>m2</em> in this map. Example:
+</p>
+<pre class="code">
+map m12
+  m1
+  break
+  m2 [0 8 m] below
+endmap
+</pre>
+<p>
+ After selecting the <em>m12</em> in configuration file you
+ receive:
+</p>
+<p>
+<a href="000006-map2.pdf"><img border="1" src="000006.png"/></a>
+</p>
+<p>
+ Joining arrows are created from <em>map-connection</em> points
+ specified in scraps that are moved. Otherwise these points are
+ ignored.
+</p>
+<p>
+ If the situation is more complicated, e.g. there is <em>m3</em>
+ below <em>m2</em>
+</p>
+<p>
+<a href="000007-map3.pdf"><img border="1" src="000007.png"/></a>
+</p>
+<p>
+ you need to create more complicated map structure
+ to handle this.
+</p>
+<pre class="code">
+map m23
+  m2
+  break
+  m3 [-8 0 m] below
+endmap
+
+map m123
+  m1
+  break
+  m23 [0 8 m] below
+endmap
+</pre>
+<p>
+ Then <em>m123</em> looks like this:
+</p>
+<p>
+<a href="000008-map4.pdf"><img border="1" src="000008.png"/></a>
+</p>
+<p></p>
+
+<hr noshade color="#000" size="1" width="100%"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" align="left">
+<a href="25.html"><font class="nav">|Previous|</font></a>
+</td>
+<td width="34%" align="center"><a href="index.html"><font class="nav">|Contents|</font></a></td>
+<td width="33%" align="right">
+<a href="40.html"><font class="nav">|Next|</font></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+</body></html>
