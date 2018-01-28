@@ -5685,6 +5685,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In therion dataset, "cave" can be defined in several ways, depending on the level of cave survey.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102329Z" creationid="Алексей" creationdate="20180128T102329Z">
+        <seg>В наборе данных, «пещера» может быть определена несколькими способами, в зависимости от уровня пещерной съемки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case the map is coloured according to altitude, scraps or maps.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T053707Z" creationid="Алексей" creationdate="20171022T053707Z">
@@ -9885,6 +9893,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When surveying caves in some large area, you often need to generate an up to date list of all caves in that area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102234Z" creationid="Алексей" creationdate="20180128T102234Z">
+        <seg>При съемке пещер на какой-то большой территории вам часто нужно создать список всех пещер на этой территории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171855Z" creationid="Алексей" creationdate="20170909T185305Z">
@@ -10997,6 +11013,22 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000031-rabbit-plan.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102002Z" creationid="Алексей" creationdate="20180128T102002Z">
+        <seg>{../samples.doc/000031-rabbit-plan.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102005Z" creationid="Алексей" creationdate="20180128T102005Z">
+        <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{/Title (The Therion Book &lt;u1&gt;) /Author (Martin Budaj, Stacho Mudrák) /Subject (Therion documentation) /Keywords (caves, surveying, cartography, computers) /Creator (TeX) } &lt;u2&gt;{/ViewerPreferences &lt;&lt; /DisplayDocTitle true &gt;&gt; } &lt;u3&gt;&lt;u4&gt;#1{&lt;u5&gt; goto page &lt;u6&gt;&lt;u7&gt; {/XYZ} {#1}}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T053659Z" creationid="Алексей" creationdate="20170910T053040Z">
@@ -12022,6 +12054,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T101953Z" creationid="Алексей" creationdate="20180128T101930Z">
         <seg>{Рисование карт в Therion'е}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Listing caves}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102021Z" creationid="Алексей" creationdate="20180128T102013Z">
+        <seg>{Список пещер}.</seg>
       </tuv>
     </tu>
     <tu>
