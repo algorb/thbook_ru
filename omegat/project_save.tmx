@@ -5405,6 +5405,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have just surveyed entrance station (e.g. using GPS or standard surveying methods), all you need to do is to assign |entrance| flag using</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102622Z" creationid="Алексей" creationdate="20180128T102622Z">
+        <seg>Если у вас есть станция на входе с известными координатами (например, используя GPS или стандартные методы съемки), все, что вам нужно сделать, это назначить флаг |entrance| (вход)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you save data file as `test.th' and configuration file as `thconfig' you may process them with Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150948Z" creationid="Алексей" creationdate="20171028T150907Z">
@@ -5687,8 +5695,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>In therion dataset, "cave" can be defined in several ways, depending on the level of cave survey.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102329Z" creationid="Алексей" creationdate="20180128T102329Z">
-        <seg>В наборе данных, «пещера» может быть определена несколькими способами, в зависимости от уровня пещерной съемки.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102727Z" creationid="Алексей" creationdate="20180128T102329Z">
+        <seg>В наборе данных, "пещера" может быть определена несколькими способами, в зависимости от уровня пещерной съемки.</seg>
       </tuv>
     </tu>
     <tu>
