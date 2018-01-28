@@ -12018,6 +12018,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{Drawing maps in therion}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T101953Z" creationid="Алексей" creationdate="20180128T101930Z">
+        <seg>{Рисование карт в Therion'е}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{We owe thanks to}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104433Z" creationid="Алексей" creationdate="20171216T104423Z">
