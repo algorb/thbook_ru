@@ -3055,8 +3055,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u6&gt; There is no royal road to geometry.&lt;/i0&gt; &lt;u8&gt;{euclid.pdf} &lt;u9&gt;1pt &lt;u12&gt; &lt;u3&gt;{---Euclid, {&lt;u13&gt; 3}rd century BC} &lt;u10&gt;10pt &lt;u4&gt;{&lt;u7&gt; There is no royal road, but there is a road.} &lt;u11&gt;3pt &lt;u5&gt;{---Frederick P. Brooks, {&lt;u14&gt; 1987}} }</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T095820Z" creationid="Алексей" creationdate="20171028T091034Z">
-        <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u6&gt; Нет царского пути в геометрии.&lt;/i0&gt; &lt;u8&gt;{euclid.pdf} &lt;u9&gt;1pt &lt;u12&gt; &lt;u3&gt;{---Евклид, {&lt;u13&gt; 3} век д.н.э.} &lt;u10&gt;10pt &lt;u4&gt;{&lt;u7&gt; Нет царского пути, но есть путь.} &lt;u11&gt;3pt &lt;u5&gt;{---Фредерик П.Брукс, {&lt;u14&gt; 1987}} }</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T100105Z" creationid="Алексей" creationdate="20171028T091034Z">
+        <seg>=93.2mm&lt;u1&gt;=12pt &lt;u2&gt;{&lt;u6&gt; Нет царского пути в геометрии.&lt;/i0&gt; &lt;u8&gt;{euclid.pdf} &lt;u9&gt;1pt &lt;u12&gt; &lt;u3&gt;{\font\tt=fhar6a at 8px \tt ---Евклид, {&lt;u13&gt; 3} век д.н.э.} &lt;u10&gt;10pt &lt;u4&gt;{&lt;u7&gt; Нет царского пути, но есть путь.} &lt;u11&gt;3pt &lt;u5&gt;{\font\tt=fhar6a at 8px \tt ---Фредерик П.Брукс, {&lt;u14&gt; 1987}} }</seg>
       </tuv>
     </tu>
     <tu>
@@ -3815,8 +3815,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Case studies.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091041Z" creationid="Алексей" creationdate="20171028T091041Z">
-        <seg>Case studies.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T100334Z" creationid="Алексей" creationdate="20171028T091041Z">
+        <seg>Изучение примеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9183,8 +9183,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This chapter is automatically generated from the samples directory in the Therion source code.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T091045Z" creationid="Алексей" creationdate="20171028T091045Z">
-        <seg>This chapter is automatically generated from the samples directory in the Therion source code.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T100407Z" creationid="Алексей" creationdate="20171028T091045Z">
+        <seg>Эта глава автоматически создается из каталога примеров в исходном коде Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
