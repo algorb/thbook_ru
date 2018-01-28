@@ -5375,8 +5375,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If there is some explored passage behind this entrance, but you did not survey it properly, you should add also |continuation| flag and |explored| flag followed by explored length.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T105109Z" creationid="Алексей" creationdate="20180128T105109Z">
-        <seg>Если за этим входом есть какой-то разведанный проход, но вы не обследовали его должным образом, вы должны добавить также флаги |continuation| (продолжение) и |explored| (исследование), за которым следует исследуемая длина.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T105521Z" creationid="Алексей" creationdate="20180128T105109Z">
+        <seg>Если за этим входом есть какой-то разведанный проход, но вы не\break обследовали его должным образом, вы должны добавить также флаги\break |continuation| (продолжение) и |explored| (исследование), за которым следует исследуемая длина.</seg>
       </tuv>
     </tu>
     <tu>
