@@ -5373,6 +5373,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is some explored passage behind this entrance, but you did not survey it properly, you should add also |continuation| flag and |explored| flag followed by explored length.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T105109Z" creationid="Алексей" creationdate="20180128T105109Z">
+        <seg>Если за этим входом есть какой-то разведанный проход, но вы не обследовали его должным образом, вы должны добавить также флаги |continuation| (продолжение) и |explored| (исследование), за которым следует исследуемая длина.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If two stations are given---direction is applied only to given shot.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071424Z" creationid="Алексей" creationdate="20170920T070310Z">
@@ -5407,8 +5415,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you have just surveyed entrance station (e.g. using GPS or standard surveying methods), all you need to do is to assign |entrance| flag using</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103122Z" creationid="Алексей" creationdate="20180128T103122Z">
-        <seg>Если у вас есть станция на входе с известными координатами (например, используя GPS или стандартные методы съемки), все, что вам нужно сделать, это назначить флаг |entrance| (вход)&lt;сегмент 1646&gt;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T104613Z" creationid="Алексей" creationdate="20180128T103122Z">
+        <seg>Если у вас есть станция на входе с известными координатами (например, используя GPS или стандартные методы съемки), все, что вам нужно сделать, это назначить флаг |entrance| (вход)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13139,6 +13147,14 @@ endscrap [&lt;идентификатор&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071434Z" creationid="Алексей" creationdate="20170920T070507Z">
         <seg>|start| = указать начальную станцию (замер);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|station cave-1 "Unsurveyed cave" entrance |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T104656Z" creationid="Алексей" creationdate="20180128T104619Z">
+        <seg>|station cave-1 "Не снятая пещера" entrance |</seg>
       </tuv>
     </tu>
     <tu>
