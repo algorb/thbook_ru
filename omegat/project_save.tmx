@@ -3541,6 +3541,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And the morphed walls:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171646Z" creationid="Алексей" creationdate="20180204T171646Z">
+        <seg>И морфинг стен:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Angle units supported: degree[s], minute[s] (also deg, min), grad[s], mil[s], percent[age] (clino only).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055440Z" creationid="Алексей" creationdate="20170910T124919Z">
@@ -6685,6 +6693,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Morphed sketch after {&lt;u0&gt; extra} points insertion:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171627Z" creationid="Алексей" creationdate="20180204T171627Z">
+        <seg>Эскиз подвергшийся морфингу после вставки точек {&lt;u0&gt; extra}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move them by double clicking and dragging with the right mouse button or through a menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T103614Z" creationid="Алексей" creationdate="20170913T140613Z">
@@ -9453,6 +9469,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This image after morphing:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171506Z" creationid="Алексей" creationdate="20180204T171506Z">
+        <seg>Это изображение после морфинга:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This information is displayed in XTherion, {&lt;u0&gt; Compiler} window, {&lt;u1&gt; Survey info} menu, when some survey from the {&lt;u2&gt; Survey structure} menu is selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171023T145525Z" creationid="Алексей" creationdate="20171023T145525Z">
@@ -11205,6 +11229,38 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000015-cave.png}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171437Z" creationid="Алексей" creationdate="20180204T171437Z">
+        <seg>{../samples.doc/000015-cave.png}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000016-cave1.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171509Z" creationid="Алексей" creationdate="20180204T171509Z">
+        <seg>{../samples.doc/000016-cave1.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000017-cave2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171634Z" creationid="Алексей" creationdate="20180204T171634Z">
+        <seg>{../samples.doc/000017-cave2.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000018-cave3.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171649Z" creationid="Алексей" creationdate="20180204T171649Z">
+        <seg>{../samples.doc/000018-cave3.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103156Z" creationid="Алексей" creationdate="20180128T103156Z">
@@ -12270,6 +12326,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102936Z" creationid="Алексей" creationdate="20180128T101930Z">
         <seg>{Рисование карт в Therion'е}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Extended elevation control}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171732Z" creationid="Алексей" creationdate="20180204T171718Z">
+        <seg>{Управление разрез-разверткой}.</seg>
       </tuv>
     </tu>
     <tu>
