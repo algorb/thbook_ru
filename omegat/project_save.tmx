@@ -3653,6 +3653,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As we have mentioned before, there is a small chimney above station 5.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181829Z" creationid="Алексей" creationdate="20180204T181829Z">
+        <seg>Как мы уже упоминали ранее, на станции 5 имеется небольшая труба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As with scrap insertion, go to the {&lt;u1&gt; File commands} menu, click on the {&lt;u2&gt; Action} submenu and select {&lt;u3&gt; Insert point}; than press newly renamed {&lt;u4&gt; Insert point} button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T094603Z" creationid="Алексей" creationdate="20170913T150358Z">
@@ -9701,6 +9709,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will extend all stations from station 5 to the left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181519Z" creationid="Алексей" creationdate="20180204T181519Z">
+        <seg>Это команда будет разворачивать все станции со станции 5 влево.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will reset the declination definition.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155331Z" creationid="Алексей" creationdate="20170911T155331Z">
@@ -11377,6 +11393,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180459Z" creationid="Алексей" creationdate="20180204T180459Z">
         <seg>{../samples.doc/000021-map2.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000022-map3.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181521Z" creationid="Алексей" creationdate="20180204T181521Z">
+        <seg>{../samples.doc/000022-map3.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13151,6 +13175,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181251Z" creationid="Алексей" creationdate="20180204T181251Z">
         <seg>|extend ignore 1 5 |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|extend left 5 |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181439Z" creationid="Алексей" creationdate="20180204T181439Z">
+        <seg>|extend left 5 |</seg>
       </tuv>
     </tu>
     <tu>
