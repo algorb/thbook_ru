@@ -3661,6 +3661,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assume following situation (in plan view), when there is a loop in centerline between stations 1 and 4, small chimney near station 5 and entrance to the cave is at station 6.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T175920Z" creationid="Алексей" creationdate="20180204T175920Z">
+        <seg>Предположим следующую ситуацию (в плане) -- есть кольцо нитки хода между станциями 1 и 4, небольшая труба возле станции 5 и вход в пещеру находится на станции 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each page macro |&lt;u2&gt;| is invoked.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163850Z" creationid="Алексей" creationdate="20171027T163850Z">
