@@ -9525,6 +9525,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is obviously not what we would like to get.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180133Z" creationid="Алексей" creationdate="20180204T180133Z">
+        <seg>Очевидно это не то, что мы хотели бы получить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is useful because the zero value (no neighbouring page) shouldn't be displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T065201Z" creationid="Алексей" creationdate="20171027T170909Z">
@@ -9681,6 +9689,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092408Z" creationid="Алексей" creationdate="20171028T092408Z">
         <seg>Для компиляции Loch вам необходимы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To control process of extended elevation, there is a special |extend| option in centerline command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180322Z" creationid="Алексей" creationdate="20180204T180322Z">
+        <seg>Чтобы контролировать процесс развертки существует специальная опция |extend| команды centerline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11281,6 +11297,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T175923Z" creationid="Алексей" creationdate="20180204T175923Z">
         <seg>{../samples.doc/000019-map1p.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000020-map1x.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180026Z" creationid="Алексей" creationdate="20180204T180026Z">
+        <seg>{../samples.doc/000020-map1x.pdf}</seg>
       </tuv>
     </tu>
     <tu>
