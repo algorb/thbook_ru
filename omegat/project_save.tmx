@@ -3863,8 +3863,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>By default, centerline extended elevation of this situation looks like this:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180023Z" creationid="Алексей" creationdate="20180204T180023Z">
-        <seg>По умолчанию разрез-развертка этой ситуации выглядит следующим образом:</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180813Z" creationid="Алексей" creationdate="20180204T180023Z">
+        <seg>По умолчанию разрез-развертка этой ситуации выглядит следующим\break образом:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4577,6 +4577,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170921T004618Z" creationid="Алексей" creationdate="20170921T004618Z">
         <seg>В конце положение контрольных точек кривых корректируется, чтобы сохранить гладкость.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First of all, we would like to start our extended elevation at station 6 (where the entrance is).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180412Z" creationid="Алексей" creationdate="20180204T180412Z">
+        <seg>Прежде всего, мы хотели бы начать нашу разрез-развертку на станции 6 (где находится вход).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6873,6 +6881,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T152418Z" creationid="Алексей" creationdate="20171028T152310Z">
         <seg>Ноябрь: начало повторной реализации с нуля: Therion (C++ с некоторыми скриптами Perl, унаследованными от предыдущей версии); понятие\break скрапа; интерактивный редактор 2D-карт ThEdit в качестве замены\break xthedit (Delphi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now it looks better,</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180457Z" creationid="Алексей" creationdate="20180204T180457Z">
+        <seg>Теперь это выглядит лучше,</seg>
       </tuv>
     </tu>
     <tu>
@@ -9341,6 +9357,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be done by specifying</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180429Z" creationid="Алексей" creationdate="20180204T180429Z">
+        <seg>Это можно сделать, указав</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be extracted by XTherion to produce georeferenced raster images (see {&lt;u1&gt; XTherion/Additional tools} for details).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T173433Z" creationid="Алексей" creationdate="20171024T173433Z">
@@ -10915,6 +10939,14 @@ export map -layout l1|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in the centerline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180442Z" creationid="Алексей" creationdate="20180204T180436Z">
+        <seg>в centerline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in the preview window above the {&lt;u0&gt; Insert scrap} button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145518Z" creationid="Алексей" creationdate="20170913T145518Z">
@@ -11305,6 +11337,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180026Z" creationid="Алексей" creationdate="20180204T180026Z">
         <seg>{../samples.doc/000020-map1x.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000021-map2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180459Z" creationid="Алексей" creationdate="20180204T180459Z">
+        <seg>{../samples.doc/000021-map2.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13071,6 +13111,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172325Z" creationid="Алексей" creationdate="20171024T172202Z">
         <seg>|Export cave-list| дает вам информацию в виде таблицы об обследованных пещерах (вам нужно указать флаги |entrance| в ваши данных), включая длину, глубину и местоположение входа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|extend start 6 |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180431Z" creationid="Алексей" creationdate="20180204T180431Z">
+        <seg>|extend start 6 |</seg>
       </tuv>
     </tu>
     <tu>
