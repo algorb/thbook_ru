@@ -3669,6 +3669,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you can see, even there are two stations with same name, they are distinguished by |-from| option, which specifies previous station in extended elevation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182836Z" creationid="Алексей" creationdate="20180204T182836Z">
+        <seg>Как вы видите, даже если есть две станции с одинаковым именем, они отличаются друг от друга опцией |-from|, которая указывает предыдущую станцию в разрез-развертке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assume following situation (in plan view), when there is a loop in centerline between stations 1 and 4, small chimney near station 5 and entrance to the cave is at station 6.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T175920Z" creationid="Алексей" creationdate="20180204T175920Z">
@@ -4405,6 +4413,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if the station 1 is present more then one time in the map, therion automatically detects correct position of this station in each scrap and they are usually drawn correctly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182225Z" creationid="Алексей" creationdate="20180204T182225Z">
+        <seg>Даже если станция 1 присутствует более одного раза на карте, Therion автоматически определяет правильное положение этой станции в каждом скрапе, и они обычно рисуются правильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exactly the same as in the outline in the {&lt;u0&gt; File commands} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T151120Z" creationid="Алексей" creationdate="20170913T151102Z">
@@ -4969,6 +4985,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151658Z" creationid="Алексей" creationdate="20170909T151658Z">
         <seg>Ручное редактирование таких файлов непросто, особенно когда вы рисуете карты и вам нужно думать о пространственных (декартовых координатах).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here is an example:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182457Z" creationid="Алексей" creationdate="20180204T182457Z">
+        <seg>Вот пример:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5873,6 +5897,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170923T091948Z" creationid="Алексей" creationdate="20170923T091948Z">
         <seg>В этом случае вам также необходимо определить соответствующий метапост символ (смотрите главу {&lt;u0&gt; Новые символы карты}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, it is much more natural to draw this shot as vertical (because it is a chimney).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181915Z" creationid="Алексей" creationdate="20180204T181915Z">
+        <seg>В этом случае гораздо более естественно сделать этот замер вертикальным (потому что это труба).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7049,6 +7081,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180120T131332Z" creationid="Алексей" creationdate="20170922T174254Z">
         <seg>При желании вы также можете указать единицы для координат `точек в реальности'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or you can completely hide this leg from extended centerline using:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182100Z" creationid="Алексей" creationdate="20180204T182100Z">
+        <seg>Или вы можете полностью скрыть этот замер, используя:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8493,6 +8533,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The only thing that is missing is connection line between stations 1 in these two branches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182403Z" creationid="Алексей" creationdate="20180204T182403Z">
+        <seg>Единственное, чего не хватает, это линия соединения между станциями 1 в этих двух нитках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The order of submenus on the side may be customized by the user.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174528Z" creationid="Алексей" creationdate="20170912T174528Z">
@@ -8993,6 +9041,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T060309Z" creationid="Алексей" creationdate="20170910T134252Z">
         <seg>Therion содержит встроенный IGRF&lt;u0&gt;Смотрите &lt;u1&gt;{https://www.ngdc.noaa.gov/IAGA/vmod/}] -- модель геомагнитного поля Земли, действительная для периода 1900--2020 гг&lt;u2&gt;{5.4}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therion does not automatically generate these lines because their shape usually depends on particilar map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182423Z" creationid="Алексей" creationdate="20180204T182423Z">
+        <seg>Therion автоматически не генерирует эти линии, потому что их форма обычно зависит от конкретной карты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9781,6 +9837,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To draw such a line all you need to do is to create a simple scrap with this line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182449Z" creationid="Алексей" creationdate="20180204T182449Z">
+        <seg>Чтобы нарисовать такую линию, вам нужно всего лишь создать простой скрап с этой линией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To escape from `insert' to `select' mode, press {&lt;u6&gt; Esc} key on the keyboard or {&lt;u7&gt; Select} button in the {&lt;u8&gt; File commands} menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150833Z" creationid="Алексей" creationdate="20170913T150833Z">
@@ -9817,6 +9881,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114014Z" creationid="Алексей" creationdate="20171022T114014Z">
         <seg>Для запуска Therion'а достаточно открыть конфигурационный файл и нажать кнопку `F9' или `Компилировать'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To specify this, use</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181929Z" creationid="Алексей" creationdate="20180204T181929Z">
+        <seg>Чтобы сделать это, используйте</seg>
       </tuv>
     </tu>
     <tu>
@@ -11405,6 +11477,30 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000023-map6.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181935Z" creationid="Алексей" creationdate="20180204T181935Z">
+        <seg>{../samples.doc/000023-map6.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000024-map7.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182106Z" creationid="Алексей" creationdate="20180204T182106Z">
+        <seg>{../samples.doc/000024-map7.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000025-map4.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182228Z" creationid="Алексей" creationdate="20180204T182228Z">
+        <seg>{../samples.doc/000025-map4.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103156Z" creationid="Алексей" creationdate="20180128T103156Z">
@@ -12498,6 +12594,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{Stations in extended elevation scraps}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182154Z" creationid="Алексей" creationdate="20180204T182124Z">
+        <seg>{Станции в скрапах разрез-развертки}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{We owe thanks to}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104433Z" creationid="Алексей" creationdate="20171216T104423Z">
@@ -12542,6 +12646,22 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T104615Z" creationid="Алексей" creationdate="20170909T195228Z">
         <seg>{{&lt;u3&gt; Martin Sluka}, {&lt;u4&gt; Ladislav Bla&lt;u8&gt; zek}, {&lt;u5&gt; Martin Heller}, {&lt;u6&gt; Wookey}, {&lt;u7&gt; Olly Betts}} &lt;u1&gt;{и всем пользователям за их замечания, поддержку и предложения.} &lt;u9&gt;skip1.2cm &lt;u2&gt;{Переводы (%):}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>| extend hide 5 5' |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182103Z" creationid="Алексей" creationdate="20180204T182103Z">
+        <seg>| extend hide 5 5' |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>| extend vertical 5 5' |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181932Z" creationid="Алексей" creationdate="20180204T181932Z">
+        <seg>| extend vertical 5 5' |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13515,6 +13635,14 @@ end of file|</seg>
 |scrap &lt;идентификатор&gt; [ОПЦИИ]
 	... команды точек, линий и областей ...
 endscrap [&lt;идентификатор&gt;]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|scrap sc -proj extended point 0 0 station -name 1 -from 5 -visibility off point 100 0 station -name 1 -from 2 -visibility off line map-connection 0 5 0 15 100 15 100 5 endline endscrap |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182500Z" creationid="Алексей" creationdate="20180204T182500Z">
+        <seg>|scrap sc -proj extended point 0 0 station -name 1 -from 5 -visibility off point 100 0 station -name 1 -from 2 -visibility off line map-connection 0 5 0 15 100 15 100 5 endline endscrap |</seg>
       </tuv>
     </tu>
     <tu>
