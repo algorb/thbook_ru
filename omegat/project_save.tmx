@@ -5181,6 +5181,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If survey contains survey data, but it has no main entrance specified, it is not considered as a cave, just as data organization unit and thus not present in the cave list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170055Z" creationid="Алексей" creationdate="20180204T170055Z">
+        <seg>Если съемка содержит данные, но не указан главный входа, то съемка не считается пещерой, как единица организации данных и, таким образом, не присутствует в списке пещер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the PDF file is used directly, you have to set DPI and output format before automatic conversion&lt;u0&gt;|ghostscript| and |convert| should be installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T095457Z" creationid="Алексей" creationdate="20170914T015103Z">
