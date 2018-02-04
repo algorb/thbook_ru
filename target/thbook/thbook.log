@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  5 FEB 2018 01:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  5 FEB 2018 01:38
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -3104,19 +3104,7 @@ Underfull \hbox (badness 1430) in paragraph at lines 15--16
 .etc.
 
 [81 <./pic/euclid.pdf> <../samples.doc/000031-rabbit-plan.pdf> <../samples.doc/
-000032-rabbit-xelev.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-[]\tt station cave-2 "Не снятая, но исследованная" en-trance \[]
-
-\hbox(8.706+1.836)x452.96786, glue set 7.18742
-.\hbox(0.0+0.0)x0.0
-.\tt s
-.\tt t
-.\tt a
-.\kern-0.24
-.etc.
-
-(etc/TXSruled.tex
+000032-rabbit-xelev.pdf>] (etc/TXSruled.tex
 \ncols=\count39
 \nrows=\count40
 \curcol=\count41
@@ -3130,7 +3118,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 [84 <../samples.doc/000013-cave1.pdf> <../samples.doc/000014-cave2.pdf> <../sam
 ples.doc/000015-cave.png> <../samples.doc/000016-cave1.pdf>] [85 <../samples.do
 c/000017-cave2.pdf> <../samples.doc/000018-cave3.pdf>]
-Underfull \hbox (badness 1910) in paragraph at lines 71--72
+Underfull \hbox (badness 1910) in paragraph at lines 72--73
 []\tt По умолчанию разрез-развертка этой ситуации выглядит следующим
 
 \hbox(8.04599+2.85599)x452.96786, glue set 2.67467
@@ -3144,7 +3132,7 @@ Underfull \hbox (badness 1910) in paragraph at lines 71--72
 [86 <../samples.doc/000019-map1p.pdf> <../samples.doc/000020-map1x.pdf>]
 [87 <../samples.doc/000021-map2.pdf> <../samples.doc/000022-map3.pdf>] [88 <../
 samples.doc/000023-map6.pdf> <../samples.doc/000024-map7.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 \tt отличаются друг от друга опцией []-from[], которая указывает
 
 \hbox(8.04599+2.85599)x452.96786, glue set 5.43127
@@ -3172,7 +3160,7 @@ re.pdf>] [94 <../samples.doc/000003-cave1.pdf> <../samples.doc/000004-cave2.pdf
 )
 [Nrows=4, Ncols=5]
 [97 <../samples.doc/000030-map4.pdf>]
-Overfull \hbox (59.9835pt too wide) in paragraph at lines 332--333
+Overfull \hbox (59.9835pt too wide) in paragraph at lines 333--334
 []\tt def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := ar-clength P; mo-jk
 rok:=adjust_step(dlzka,|
 
@@ -3224,7 +3212,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (99 pages, 2154289 bytes).
+Output written on thbook.pdf (99 pages, 2154281 bytes).
 PDF statistics:
  1387 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
