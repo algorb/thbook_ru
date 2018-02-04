@@ -3132,11 +3132,10 @@ Underfull \hbox (badness 1910) in paragraph at lines 71--72
 [86 <../samples.doc/000019-map1p.pdf> <../samples.doc/000020-map1x.pdf>]
 [87 <../samples.doc/000021-map2.pdf> <../samples.doc/000022-map3.pdf>] [88 <../
 samples.doc/000023-map6.pdf> <../samples.doc/000024-map7.pdf>]
-Overfull \hbox (22.40582pt too wide) in paragraph at lines 127--128
-\tt станцию в разрез-развертке. Используя этот скрап, вы получаете окончательну
-ю|
+Underfull \hbox (badness 1953) in paragraph at lines 127--128
+\tt станцию в разрез-развертке. Используя этот скрап, вы получаете
 
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+\hbox(8.04599+2.85599)x452.96786, glue set 2.69638
 .\tt с
 .\tt т
 .\tt а
@@ -3213,7 +3212,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (99 pages, 2154316 bytes).
+Output written on thbook.pdf (99 pages, 2154279 bytes).
 PDF statistics:
  1387 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
