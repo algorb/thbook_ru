@@ -5501,6 +5501,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we would like to start this branch from station 4, we need to forbid therion to extend station 5 from 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181244Z" creationid="Алексей" creationdate="20180204T181244Z">
+        <seg>Если мы хотим начать эту нитку со станции 4, нам необходимо запретить Therion'у разворот станции 5 из станции 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can not see these points, you can either</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174436Z" creationid="Алексей" creationdate="20170913T171204Z">
@@ -10832,6 +10840,14 @@ endgrade|</seg>
 /URI (#1)
 &gt;&gt;}
 &lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>but there is still a problem with a branch containing station 5.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181028Z" creationid="Алексей" creationdate="20180204T181028Z">
+        <seg>но по-прежнему существует проблема с ниткой, содержащей станцию 5.</seg>
       </tuv>
     </tu>
     <tu>
