@@ -5501,6 +5501,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If we would like to extend branch starting with station 5 to the left, we need to specify also</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181435Z" creationid="Алексей" creationdate="20180204T181435Z">
+        <seg>Если мы хотим развернуть нитку начиная со станции 5 влево, нам нужно указать также</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If we would like to start this branch from station 4, we need to forbid therion to extend station 5 from 1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181244Z" creationid="Алексей" creationdate="20180204T181244Z">
@@ -9621,6 +9629,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means, that shot from 1 to 5 will be ignored, when extended elevation is generated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181404Z" creationid="Алексей" creationdate="20180204T181404Z">
+        <seg>Это означает, что замер со станции 1 на станцию 5 будет проигнорирован, когда генерируется разрез-развертка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option creates an altitude label on the wall.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171104T053145Z" creationid="Алексей" creationdate="20171104T053145Z">
@@ -13127,6 +13143,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172325Z" creationid="Алексей" creationdate="20171024T172202Z">
         <seg>|Export cave-list| дает вам информацию в виде таблицы об обследованных пещерах (вам нужно указать флаги |entrance| в ваши данных), включая длину, глубину и местоположение входа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|extend ignore 1 5 |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181251Z" creationid="Алексей" creationdate="20180204T181251Z">
+        <seg>|extend ignore 1 5 |</seg>
       </tuv>
     </tu>
     <tu>
