@@ -84,19 +84,19 @@
 
 \fitpic{../samples.doc/000021-map2.pdf} 
 
-but there is still a problem with a branch containing station 5. 
+но по-прежнему существует проблема с ниткой, содержащей станцию 5. 
 
-If we would like to start this branch from station 4, we need to forbid therion to extend station 5 from 1. Это можно сделать, указав 
+Если мы хотим начать эту нитку со станции 4, нам необходимо запретить Therion'у разворот станции 5 из станции 1. Это можно сделать, указав 
 
 |extend ignore 1 5 | 
 
-This means, that shot from 1 to 5 will be ignored, when extended elevation is generated. 
+Это означает, что замер со станции 1 на станцию 5 будет проигнорирован, когда генерируется разрез-развертка. 
 
-If we would like to extend branch starting with station 5 to the left, we need to specify also 
+Если мы хотим развернуть нитку начиная со станции 5 влево, нам нужно указать также 
 
 |extend left 5 | 
 
-This will extend all stations from station 5 to the left. 
+Это команда будет разворачивать все станции со станции 5 влево. 
 
 \fitpic{../samples.doc/000022-map3.pdf} 
 
