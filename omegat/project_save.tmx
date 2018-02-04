@@ -6861,6 +6861,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only surveys containing some caves (i.e. entrance stations or surveys with main entrance defined) are present in the final cave list table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170335Z" creationid="Алексей" creationdate="20180204T170335Z">
+        <seg>В итоговой таблице присутствуют только съемки, содержащие пещеры (т.е. входные станции или съемки с основным входом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only the command (|scrap|, |point|, |line|, |text|---why text see below) and its type (for |point| and |line|) or ID (for |scrap|) are shown.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T104053Z" creationid="Алексей" creationdate="20170913T145840Z">
