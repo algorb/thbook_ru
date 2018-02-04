@@ -3119,4 +3119,80 @@ Underfull \hbox (badness 1430) in paragraph at lines 15--16
 ples.doc/000015-cave.png> <../samples.doc/000016-cave1.pdf>] [85 <../samples.do
 c/000017-cave2.pdf> <../samples.doc/000018-cave3.pdf>] [86 <../samples.doc/0000
 19-map1p.pdf> <../samples.doc/000020-map1x.pdf>] [87 <../samples.doc/000021-map
-2.pdf> <..
+2.pdf> <../samples.doc/000022-map3.pdf>] [88 <../samples.doc/000023-map6.pdf> <
+../samples.doc/000024-map7.pdf>] [89 <../samples.doc/000025-map4.pdf> <../sampl
+es.doc/000026-map5.pdf>] [90 <../samples.doc/000005-map1.pdf> <../samples.doc/0
+00006-map2.pdf> <../samples.doc/000007-map3.pdf>] [91 <../samples.doc/000008-ma
+p4.pdf>] [92 <../samples.doc/000000-use.pdf> <../samples.doc/000001-create.pdf>
+] [93 <../samples.doc/000002-ignore.pdf>] [94 <../samples.doc/000003-cave1.pdf>
+ <../samples.doc/000004-cave2.pdf>] [95 <../samples.doc/000027-map1.pdf>]
+[96 <../samples.doc/000028-map2.pdf> <../samples.doc/000029-map3.pdf>]
+(etc/TXSruled.tex
+\ncols=\count42
+\nrows=\count43
+\curcol=\count44
+\thinsize=\dimen34
+\thicksize=\dimen35
+\tablewidth=\dimen36
+\parasize=\dimen37
+)
+[Nrows=4, Ncols=5]
+[97 <../samples.doc/000030-map4.pdf>]
+Overfull \hbox (59.9835pt too wide) in paragraph at lines 332--333
+[]\tt def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := ar-clength P; mo-jk
+rok:=adjust_step(dlzka,|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt d
+.\kern-0.12001
+.\tt e
+.\tt f
+.etc.
+
+[98 <../samples.doc/000009-map1.pdf>]) [99 <../samples.doc/000010-map2.pdf>] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 3 ({)
+### bottom level{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmssdc10.pfb><D:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/archaic/givb
+c10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb11.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb11.pfb): glyph `cyrbreve' undefined
+
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb11.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb12.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb12.pfb): glyph `cyrflex' undefined
+
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb12.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/handb13.pfb
+
+pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/pscyr/handb13.pfb): glyph `dblgrave' undefined
+><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
+Output written on thbook.pdf (99 pages, 2153198 bytes).
+PDF statistics:
+ 1387 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+

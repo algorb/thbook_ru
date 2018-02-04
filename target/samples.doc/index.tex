@@ -20,13 +20,13 @@
 
 |survey small_cave -title "Пещера Туннель" -entrance 0 | 
 
-If survey contains survey data, but it has no main entrance specified, it is not considered as a cave, just as data organization unit and thus not present in the cave list. Only surveys containing some caves (i.e. entrance stations or surveys with main entrance defined) are present in the final cave list table. 
+Если съемка содержит данные, но не указан главный входа, то съемка не считается пещерой, как единица организации данных и, таким образом, не присутствует в списке пещер. В итоговой таблице присутствуют только съемки, содержащие пещеры (т.е. входные станции или съемки с основным входом). 
 
-After caves in your data have been properly defined, you can generate table using 
+После того, как пещеры в ваших данных были правильно определены, вы можете создать таблицу, используя 
 
 |export cave-list -o caves.html | 
 
-Resulting table looks like this 
+Итоговая таблица выглядит так: 
 
 \bigskip\begingroup\input etc/TXSruled.tex \LeftJustifyTables\ruledtable {\bf Title}&{\bf Length}&{\bf Depth}&{\bf Explored}&{\bf Altitude}\cr Tunnel cave&25&7& &1244.0\nr Unsurveyed cave& &&&1234.0\nr Unsurveyed but explored& &&80&1256.0\endruledtable\endgroup\bigskip \subchapter {Area symbols}. 
 
