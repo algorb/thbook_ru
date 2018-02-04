@@ -2717,6 +2717,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1234.0&lt;u0&gt; Unsurveyed but explored</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171034Z" creationid="Алексей" creationdate="20180204T171019Z">
+        <seg>1234.0&lt;u0&gt; Не снятая, но исследованная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1244.0&lt;u0&gt; Unsurveyed cave</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171017Z" creationid="Алексей" creationdate="20180204T171001Z">
+        <seg>1244.0&lt;u0&gt; Не снятая пещера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1256.0&lt;u0&gt;&lt;u1&gt;&lt;u2&gt; &lt;u3&gt; {Area symbols}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171113Z" creationid="Алексей" creationdate="20180204T171059Z">
+        <seg>1256.0&lt;u0&gt;&lt;u1&gt;&lt;u2&gt; &lt;u3&gt; {Символы площади}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1=etc/contents</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T110446Z" creationid="Алексей" creationdate="20171216T110446Z">
@@ -2745,6 +2769,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T155350Z" creationid="Алексей" creationdate="20170911T155350Z">
         <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170954Z" creationid="Алексей" creationdate="20180204T170954Z">
+        <seg>25</seg>
       </tuv>
     </tu>
     <tu>
@@ -2797,10 +2829,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170957Z" creationid="Алексей" creationdate="20180204T170957Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>75</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105114Z" creationid="Алексей" creationdate="20171216T105114Z">
         <seg>75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>80</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171037Z" creationid="Алексей" creationdate="20180204T171037Z">
+        <seg>80</seg>
       </tuv>
     </tu>
     <tu>
@@ -3497,6 +3545,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180108T055440Z" creationid="Алексей" creationdate="20170910T124919Z">
         <seg>Поддерживаемые угловые единицы:  degree[s] (градусы), minute[s] (минуты) (можно сокращать deg, min), grad[s] (грады), mil[s] (тысячные), percent[age] (проценты, только для угла\break	 наклона).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another survey sketch:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171435Z" creationid="Алексей" creationdate="20180204T171417Z">
+        <seg>Другой эскиз съемки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5589,6 +5645,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image after morphing:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171328Z" creationid="Алексей" creationdate="20180204T171314Z">
+        <seg>Изображение после морфинга:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Importing sketch does not create scrap data directly.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170914T015749Z" creationid="Алексей" creationdate="20170914T015749Z">
@@ -6929,6 +6993,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T141404Z" creationid="Алексей" creationdate="20171028T141404Z">
         <seg>Исходный и более сложный способ настройки шрифтов для PDF-карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original survey sketch:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171306Z" creationid="Алексей" creationdate="20180204T171247Z">
+        <seg>Оригинальный эскиз съемки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,6 +9901,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Walls after morphing:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171352Z" creationid="Алексей" creationdate="20180204T171352Z">
+        <seg>Стены после морфинга:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We found no program that was able to draw an up-to-date complex map (i.e. not just survey shots with LRUD envelope), in which the old parts are modified according to the most recent known coordinates of survey stations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T144641Z" creationid="Алексей" creationdate="20170909T144641Z">
@@ -11093,6 +11173,38 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000011-types.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171117Z" creationid="Алексей" creationdate="20180204T171117Z">
+        <seg>{../samples.doc/000011-types.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000012-cave1.jpg}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171309Z" creationid="Алексей" creationdate="20180204T171309Z">
+        <seg>{../samples.doc/000012-cave1.jpg}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000013-cave1.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171330Z" creationid="Алексей" creationdate="20180204T171330Z">
+        <seg>{../samples.doc/000013-cave1.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000014-cave2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171355Z" creationid="Алексей" creationdate="20180204T171355Z">
+        <seg>{../samples.doc/000014-cave2.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103156Z" creationid="Алексей" creationdate="20180128T103156Z">
@@ -11271,8 +11383,8 @@ endlayout</seg>
       <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Altitude}&lt;u1&gt; Tunnel cave</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170805Z" creationid="Алексей" creationdate="20180204T170805Z">
-        <seg>{&lt;u0&gt; Altitude}&lt;u1&gt; Tunnel cave</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170952Z" creationid="Алексей" creationdate="20180204T170805Z">
+        <seg>{&lt;u0&gt; Высота н.у.м.}&lt;u1&gt; Пещера Туннель</seg>
       </tuv>
     </tu>
     <tu>
@@ -12166,6 +12278,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102911Z" creationid="Алексей" creationdate="20180128T102013Z">
         <seg>{Список пещер}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Sketch morphing}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171242Z" creationid="Алексей" creationdate="20180204T171233Z">
+        <seg>{Морфинг эскиза}.</seg>
       </tuv>
     </tu>
     <tu>
