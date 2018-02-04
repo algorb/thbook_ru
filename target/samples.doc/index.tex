@@ -64,29 +64,29 @@
 
 \subchapter {Управление разрез-разверткой}. 
 
-Assume following situation (in plan view), when there is a loop in centerline between stations 1 and 4, small chimney near station 5 and entrance to the cave is at station 6. 
+Предположим следующую ситуацию (в плане) -- есть кольцо нитки хода между станциями 1 и 4, небольшая труба возле станции 5 и вход в пещеру находится на станции 6. 
 
 \fitpic{../samples.doc/000019-map1p.pdf} 
 
-By default, centerline extended elevation of this situation looks like this: 
+По умолчанию разрез-развертка этой ситуации выглядит следующим образом: 
 
 \fitpic{../samples.doc/000020-map1x.pdf} 
 
-This is obviously not what we would like to get. 
+Очевидно это не то, что мы хотели бы получить. 
 
-To control process of extended elevation, there is a special |extend| option in centerline command. 
+Чтобы контролировать процесс развертки существует специальная опция |extend| команды centerline. 
 
-First of all, we would like to start our extended elevation at station 6 (where the entrance is). This can be done by specifying 
+Прежде всего, мы хотели бы начать нашу разрез-развертку на станции 6 (где находится вход). Это можно сделать, указав 
 
 |extend start 6 | 
 
-in the centerline. Now it looks better, 
+в centerline. Теперь это выглядит лучше, 
 
 \fitpic{../samples.doc/000021-map2.pdf} 
 
 but there is still a problem with a branch containing station 5. 
 
-If we would like to start this branch from station 4, we need to forbid therion to extend station 5 from 1. This can be done by specifying 
+If we would like to start this branch from station 4, we need to forbid therion to extend station 5 from 1. Это можно сделать, указав 
 
 |extend ignore 1 5 | 
 
