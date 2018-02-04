@@ -3671,8 +3671,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>As you can see, even there are two stations with same name, they are distinguished by |-from| option, which specifies previous station in extended elevation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182836Z" creationid="Алексей" creationdate="20180204T182836Z">
-        <seg>Как вы видите, даже если есть две станции с одинаковым именем, они отличаются друг от друга опцией |-from|, которая указывает предыдущую станцию в разрез-развертке.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T183412Z" creationid="Алексей" creationdate="20180204T182836Z">
+        <seg>Как вы видите, даже если есть две станции с одинаковым именем, они отличаются друг от друга опцией |-from|, которая указывает\break предыдущую станцию в разрез-развертке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10029,6 +10029,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using this scrap you receive the final map:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T183451Z" creationid="Алексей" creationdate="20180204T182849Z">
+        <seg>Используя этот скрап, вы\break получаете окончательную карту:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using this you can change some layout properties directly within the export command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T074107Z" creationid="Алексей" creationdate="20171022T074107Z">
@@ -11501,6 +11509,14 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000026-map5.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182854Z" creationid="Алексей" creationdate="20180204T182854Z">
+        <seg>{../samples.doc/000026-map5.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000032-rabbit-xelev.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T103156Z" creationid="Алексей" creationdate="20180128T103156Z">
@@ -12558,6 +12574,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T134921Z" creationid="Алексей" creationdate="20170913T134921Z">
         <seg>{&lt;u6&gt;{&lt;u7&gt;10pt&lt;i0&gt;&lt;u8&gt; width 6cm height 0cm depth 4cm {/Subtype /Text /Name /Help /Contents (Hints: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Dipsplaying overlaying maps in offset}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T183053Z" creationid="Алексей" creationdate="20180204T182912Z">
+        <seg>{Отображение перекрывающихся карт в смещении}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13641,8 +13665,17 @@ endscrap [&lt;идентификатор&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>|scrap sc -proj extended point 0 0 station -name 1 -from 5 -visibility off point 100 0 station -name 1 -from 2 -visibility off line map-connection 0 5 0 15 100 15 100 5 endline endscrap |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182500Z" creationid="Алексей" creationdate="20180204T182500Z">
-        <seg>|scrap sc -proj extended point 0 0 station -name 1 -from 5 -visibility off point 100 0 station -name 1 -from 2 -visibility off line map-connection 0 5 0 15 100 15 100 5 endline endscrap |</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T184100Z" creationid="Алексей" creationdate="20180204T182500Z">
+        <seg>|scrap sc -proj extended
+	point 0 0 station -name 1 -from 5 -visibility off
+	point 100 0 station -name 1 -from 2 -visibility off
+	line map-connection
+		0 5
+		0 15
+		100 15
+		100 5
+	endline
+endscrap |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13745,8 +13778,9 @@ endscrap [&lt;идентификатор&gt;]|</seg>
       <tuv lang="EN-US">
         <seg>|station cave-2 "Unsurveyed but explored" entrance &lt;u0&gt;continuation explored 80m |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T110139Z" creationid="Алексей" creationdate="20180128T110112Z">
-        <seg>|station cave-2 "Не снятая, но исследованная" entrance &lt;u0&gt;continuation explored 80m |</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T183931Z" creationid="Алексей" creationdate="20180128T110112Z">
+        <seg>|station cave-2 "Не снятая, но исследованная" entrance &lt;u0&gt;
+	continuation explored 80m |</seg>
       </tuv>
     </tu>
     <tu>
