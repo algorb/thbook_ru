@@ -11595,6 +11595,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000009-map1.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181007Z" creationid="Алексей" creationdate="20180205T181007Z">
+        <seg>{../samples.doc/000009-map1.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000010-map2.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160551Z" creationid="Алексей" creationdate="20180205T160551Z">
@@ -11743,6 +11751,22 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180800Z" creationid="Алексей" creationdate="20180205T180800Z">
         <seg>{../samples.doc/000028-map2.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000029-map3.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180912Z" creationid="Алексей" creationdate="20180205T180912Z">
+        <seg>{../samples.doc/000029-map3.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000030-map4.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180920Z" creationid="Алексей" creationdate="20180205T180920Z">
+        <seg>{../samples.doc/000030-map4.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13290,6 +13314,14 @@ endarea|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|area u:bat |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180958Z" creationid="Алексей" creationdate="20180205T180958Z">
+        <seg>|area u:bat |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|atlas| = 2D atlas in more pages</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060738Z" creationid="Алексей" creationdate="20171022T060720Z">
@@ -13369,6 +13401,14 @@ endcentreline|</seg>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180404Z" creationid="Алексей" creationdate="20180205T180353Z">
         <seg>|code metapost
 	def p_continuation(expr pos,theta,sc,al) =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|code metapost |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181012Z" creationid="Алексей" creationdate="20180205T181012Z">
+        <seg>|code metapost |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13461,6 +13501,26 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := arclength P; mojkrok:=adjust_step(dlzka, 1.0u); pickup PenD; forever: t := arctime cas of P; thfill bat_path scaled 0.5 shifted (point t of P) withcolor black; cas := cas + mojkrok; exitif cas &gt; dlzka + (mojkrok / 3); endfor; enddef; |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181224Z" creationid="Алексей" creationdate="20180205T181052Z">
+        <seg>|def l_u_bat(expr P) =
+	T:=identity;
+	cas := 0;
+	dlzka := arclength P;
+	mojkrok:=adjust_step(dlzka, 1.0u);
+	pickup PenD;
+	forever:
+		t := arctime cas of P;
+		thfill bat_path scaled 0.5 shifted (point t of P) withcolor black;
+		cas := cas + mojkrok;
+		exitif cas &gt; dlzka + (mojkrok / 3);
+	endfor;
+enddef; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|def l_wall_bedrock_UIS (expr P) = T:=identity; pickup PenA; thdraw P; enddef; initsymbol("l_wall_bedrock_UIS");|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T072753Z" creationid="Алексей" creationdate="20171029T072653Z">
@@ -13483,6 +13543,17 @@ initsymbol("l_wall_bedrock_UIS");|</seg>
 	thfill (-.2u,-.5u)--(0,.5u)--(.2u,-.5u)--cycle;
 enddef;
 initsymbol("p_entrance_UIS");|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|def p_u_bat(expr pos, theta, sc, al) = T := identity shifted pos; thfill (bat_path scaled 2.0) withcolor black; enddef; |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181043Z" creationid="Алексей" creationdate="20180205T181020Z">
+        <seg>|def p_u_bat(expr pos, theta, sc, al) =
+	T := identity shifted pos;
+	thfill (bat_path scaled 2.0) withcolor black;
+enddef; |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,6 +13629,14 @@ source test</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171024T172325Z" creationid="Алексей" creationdate="20171024T172202Z">
         <seg>|Export cave-list| дает вам информацию в виде таблицы об обследованных пещерах (вам нужно указать флаги |entrance| в ваши данных), включая длину, глубину и местоположение входа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|export continuation-list -o questions.html |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180925Z" creationid="Алексей" creationdate="20180205T180925Z">
+        <seg>|export continuation-list -o questions.html |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13820,6 +13899,14 @@ endline|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|line u:bat |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180953Z" creationid="Алексей" creationdate="20180205T180953Z">
+        <seg>|line u:bat |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|line wall -id walltobereferenced 1174.0 744.5 1194.0 756.5 1192.5 757.5 1176.0 791.0 smooth off 1205.5 788.0 1195.5 832.5 1173.5 879.0 endline|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T220257Z" creationid="Алексей" creationdate="20170909T205851Z">
@@ -13950,6 +14037,14 @@ endmap</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175642Z" creationid="Алексей" creationdate="20180205T175642Z">
         <seg>|point 321.454 236.22 station -name 1 |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|point 555.0 480.0 u:bat |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180946Z" creationid="Алексей" creationdate="20180205T180946Z">
+        <seg>|point 555.0 480.0 u:bat |</seg>
       </tuv>
     </tu>
     <tu>
