@@ -12750,6 +12750,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{Importing survex .3d files}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T161026Z" creationid="Алексей" creationdate="20180205T161009Z">
+        <seg>{Импорт survex .3d файлов}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{Listing caves}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102911Z" creationid="Алексей" creationdate="20180128T102013Z">
