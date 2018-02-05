@@ -3685,6 +3685,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assume that there are two maps {&lt;u0&gt; m1} and {&lt;u1&gt; m2} ({&lt;u2&gt; m1} is above {&lt;u3&gt; m2}).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160133Z" creationid="Алексей" creationdate="20180205T160057Z">
+        <seg>Предположим, существует две карты {&lt;u0&gt; m1} и {&lt;u1&gt; m2} ({&lt;u2&gt; m1} выше {&lt;u3&gt; m2}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each page macro |&lt;u2&gt;| is invoked.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163850Z" creationid="Алексей" creationdate="20171027T163850Z">
@@ -3865,6 +3873,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171021T052113Z" creationid="Алексей" creationdate="20171021T052053Z">
         <seg>По умолчанию Therion ищет файл с именем |thconfig| в текущем рабочем каталоге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default therion displays {&lt;u4&gt; m1} overlying {&lt;u5&gt; m2}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160204Z" creationid="Алексей" creationdate="20180205T160141Z">
+        <seg>По умолчанию Therion отображает {&lt;u4&gt; m1} поверх {&lt;u5&gt; m2}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,6 +9853,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To display map {&lt;u0&gt; m2} in offset you need to create a map containing {&lt;u1&gt; m2} and specify offset and preview type for {&lt;u2&gt; m2} in this map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160327Z" creationid="Алексей" creationdate="20180205T160327Z">
+        <seg>Чтобы отобразить карту {&lt;u0&gt; m2} в смещении, вам нужно создать карту, содержащую {&lt;u1&gt; m2}, и указать тип смещения и предварительного просмотра для {&lt;u2&gt; m2} на этой карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To draw such a line all you need to do is to create a simple scrap with this line.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182449Z" creationid="Алексей" creationdate="20180204T182449Z">
@@ -11385,6 +11409,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T114026Z" creationid="Алексей" creationdate="20170910T063959Z">
         <seg>{ &lt;u2&gt; to 0pt{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000005-map1.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160206Z" creationid="Алексей" creationdate="20180205T160206Z">
+        <seg>{../samples.doc/000005-map1.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13532,6 +13564,14 @@ endline|</seg>
 	... скрап, съемка или другие карты (следующий уровень)...
 	preview &lt;above/below&gt; &lt;other map id&gt;
 endmap|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|map m12 m1 break m2 [0 8 m] below endmap |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160334Z" creationid="Алексей" creationdate="20180205T160334Z">
+        <seg>|map m12 m1 break m2 [0 8 m] below endmap |</seg>
       </tuv>
     </tu>
     <tu>
