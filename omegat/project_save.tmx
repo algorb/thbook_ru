@@ -3365,6 +3365,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After selecting the {&lt;u0&gt; m12} in configuration file you receive:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160505Z" creationid="Алексей" creationdate="20180205T160505Z">
+        <seg>После выбора {&lt;u0&gt; m12} в файле конфигурации вы получите:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After these preparation steps, you're ready for drawing, or, more precisely, for {&lt;u0&gt; creating a map data file}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T143706Z" creationid="Алексей" creationdate="20170913T143706Z">
@@ -6425,6 +6433,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T075546Z" creationid="Алексей" creationdate="20171104T060119Z">
         <seg>Соединение работает в двух режимах: оно объединяет либо два скрапа, либо две или несколько точек или линий на карте вместе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joining arrows are created from {&lt;u0&gt; map-connection} points specified in scraps that are moved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160703Z" creationid="Алексей" creationdate="20180205T160703Z">
+        <seg>Соединительные стрелки создаются из точек {&lt;u0&gt; map-connection}, указанных в смещающихся скрапах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11413,10 +11429,58 @@ endlayout</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000001-create.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160523Z" creationid="Алексей" creationdate="20180205T160523Z">
+        <seg>{../samples.doc/000001-create.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000002-ignore.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160528Z" creationid="Алексей" creationdate="20180205T160528Z">
+        <seg>{../samples.doc/000002-ignore.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000005-map1.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160206Z" creationid="Алексей" creationdate="20180205T160206Z">
         <seg>{../samples.doc/000005-map1.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000006-map2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160509Z" creationid="Алексей" creationdate="20180205T160509Z">
+        <seg>{../samples.doc/000006-map2.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000007-map3.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160513Z" creationid="Алексей" creationdate="20180205T160513Z">
+        <seg>{../samples.doc/000007-map3.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000008-map4.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160517Z" creationid="Алексей" creationdate="20180205T160517Z">
+        <seg>{../samples.doc/000008-map4.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000010-map2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160551Z" creationid="Алексей" creationdate="20180205T160551Z">
+        <seg>{../samples.doc/000010-map2.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11545,6 +11609,14 @@ endlayout</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182854Z" creationid="Алексей" creationdate="20180204T182854Z">
         <seg>{../samples.doc/000026-map5.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000027-map1.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160534Z" creationid="Алексей" creationdate="20180205T160534Z">
+        <seg>{../samples.doc/000027-map1.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13570,8 +13642,12 @@ endmap|</seg>
       <tuv lang="EN-US">
         <seg>|map m12 m1 break m2 [0 8 m] below endmap |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160334Z" creationid="Алексей" creationdate="20180205T160334Z">
-        <seg>|map m12 m1 break m2 [0 8 m] below endmap |</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160428Z" creationid="Алексей" creationdate="20180205T160334Z">
+        <seg>|map m12
+	m1
+	break
+	m2 [0 8 m] below
+endmap |</seg>
       </tuv>
     </tu>
     <tu>
