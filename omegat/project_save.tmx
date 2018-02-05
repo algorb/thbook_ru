@@ -9895,8 +9895,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To display map {&lt;u0&gt; m2} in offset you need to create a map containing {&lt;u1&gt; m2} and specify offset and preview type for {&lt;u2&gt; m2} in this map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160327Z" creationid="Алексей" creationdate="20180205T160327Z">
-        <seg>Чтобы отобразить карту {&lt;u0&gt; m2} в смещении, вам нужно создать карту, содержащую {&lt;u1&gt; m2}, и указать тип смещения и предварительного просмотра для {&lt;u2&gt; m2} на этой карте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175335Z" creationid="Алексей" creationdate="20180205T160327Z">
+        <seg>Чтобы отобразить карту {&lt;u0&gt; m2} в смещении, вам нужно создать карту,\break содержащую {&lt;u1&gt; m2}, и указать тип смещения и предварительного просмотра для {&lt;u2&gt; m2} на этой карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13535,6 +13535,18 @@ source test</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|import use.3d -surveys use input use-out.th2 survey use input use-in.th2 endsurvey |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175626Z" creationid="Алексей" creationdate="20180205T175559Z">
+        <seg>|import use.3d -surveys use
+input use-out.th2
+survey use
+	input use-in.th2
+endsurvey |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|initsymbol("&lt;standard-name&gt;");|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192655Z" creationid="Алексей" creationdate="20171028T190712Z">
@@ -13780,6 +13792,22 @@ endmap</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T151318Z" creationid="Алексей" creationdate="20170909T151318Z">
         <seg>|point 1303 1004 pillar|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|point 165.744 176.58 station -name 2@use |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175634Z" creationid="Алексей" creationdate="20180205T175634Z">
+        <seg>|point 165.744 176.58 station -name 2@use |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|point 321.454 236.22 station -name 1 |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175642Z" creationid="Алексей" creationdate="20180205T175642Z">
+        <seg>|point 321.454 236.22 station -name 1 |</seg>
       </tuv>
     </tu>
     <tu>
