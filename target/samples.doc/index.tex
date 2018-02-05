@@ -140,35 +140,47 @@ endscrap |
 
 \subchapter {Отображение перекрывающихся карт в смещении}. 
 
-Assume that there are two maps {\it m1} and {\it m2} ({\it m1} is above {\it m2}). By default therion displays {\it m1} overlying {\it m2}. 
+Предположим, существует две карты {\it m1} и {\it m2} ({\it m1} выше {\it m2}). По умолчанию Therion отображает {\it m1} поверх {\it m2}. 
 
 \fitpic{../samples.doc/000005-map1.pdf} 
 
-To display map {\it m2} in offset you need to create a map containing {\it m2} and specify offset and preview type for {\it m2} in this map. Пример: 
+Чтобы отобразить карту {\it m2} в смещении, вам нужно создать карту, содержащую {\it m2}, и указать тип смещения и предварительного просмотра для {\it m2} на этой карте. Пример: 
 
-|map m12 m1 break m2 [0 8 m] below endmap | 
+|map m12
+	m1
+	break
+	m2 [0 8 m] below
+endmap | 
 
-After selecting the {\it m12} in configuration file you receive: 
+После выбора {\it m12} в файле конфигурации вы получите: 
 
 \fitpic{../samples.doc/000006-map2.pdf} 
 
-Joining arrows are created from {\it map-connection} points specified in scraps that are moved. Otherwise these points are ignored. 
+Соединительные стрелки создаются из точек {\it map-connection}, указанных в смещающихся скрапах. В противном случае эти точки игнорируются. 
 
-If the situation is more complicated, e.g. there is {\it m3} below {\it m2} 
+Если ситуация более сложная, например, существует {\it m3} ниже {\it m2} 
 
 \fitpic{../samples.doc/000007-map3.pdf} 
 
-you need to create more complicated map structure to handle this. 
+вам нужно создать более сложную структуру карты, чтобы отобразить это правильно. 
 
-|map m23 m2 break m3 [-8 0 m] below endmap 
+|map m23
+	m2
+	break
+	m3 [-8 0 m] below
+endmap 
 
-map m123 m1 break m23 [0 8 m] below endmap | 
+map m123
+	m1
+	break
+	m23 [0 8 m] below
+endmap | 
 
-Then {\it m123} looks like this: 
+Тогда {\it m123} выглядит так: 
 
 \fitpic{../samples.doc/000008-map4.pdf} 
 
-\subchapter {Importing survex .3d files}. 
+\subchapter {Импорт survex .3d файлов}. 
 
 Therion surveys nearly correspond to station prefixes defined by |*begin|/|*end| pairs in survex source files. Usually there does not exist one-to-one mapping between them. So if you want to keep your centerline in survex files you need to solve the problem how to match survex and therion data structures. This sample shows three different ways, how to deal with station prefixes when importing survex .3d files to therion. 
 
