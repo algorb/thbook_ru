@@ -11005,6 +11005,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and finally the area u:bat symbol (pattern in this case)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T183505Z" creationid="Алексей" creationdate="20180205T183027Z">
+        <seg>и, наконец, область символа u:bat (шаблон в этом случае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>attr {/Border [0 0 0]} user{ /Subtype /Link /A &lt;&lt; /Type /Action /S /URI /URI (#1) &gt;&gt;} &lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T063842Z" creationid="Алексей" creationdate="20170910T063744Z">
@@ -11056,8 +11064,13 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>def a_u_bat (expr Path) = T:=identity; thclean Path; thfill Path withpattern pattern_bat; enddef; |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181322Z" creationid="Алексей" creationdate="20180205T181301Z">
-        <seg>def a_u_bat (expr Path) =
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T183728Z" creationid="Алексей" creationdate="20180205T181301Z">
+        <seg>|beginpattern(pattern_bat);
+	fill bat_path withcolor black;
+endpattern;
+
+|%| bat pattern
+def a_u_bat (expr Path) =
 	T:=identity;
 	thclean Path;
 	thfill Path withpattern pattern_bat;
@@ -12950,10 +12963,8 @@ endmap |</seg>
       <tuv lang="EN-US">
         <seg>| beginpattern(pattern_bat); fill bat_path withcolor black; endpattern;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181255Z" creationid="Алексей" creationdate="20180205T181238Z">
-        <seg>|beginpattern(pattern_bat);
-	fill bat_path withcolor black;
-endpattern;</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T183534Z" creationid="Алексей" creationdate="20180205T183133Z">
+        <seg>%| bat pattern|</seg>
       </tuv>
     </tu>
     <tu>
@@ -13525,7 +13536,7 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
       <tuv lang="EN-US">
         <seg>|def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := arclength P; mojkrok:=adjust_step(dlzka, 1.0u); pickup PenD; forever: t := arctime cas of P; thfill bat_path scaled 0.5 shifted (point t of P) withcolor black; cas := cas + mojkrok; exitif cas &gt; dlzka + (mojkrok / 3); endfor; enddef; |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181224Z" creationid="Алексей" creationdate="20180205T181052Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T183937Z" creationid="Алексей" creationdate="20180205T181052Z">
         <seg>|def l_u_bat(expr P) =
 	T:=identity;
 	cas := 0;
@@ -13536,7 +13547,7 @@ create table SHOT_FLAG (SHOT_ID integer, FLAG char(3));|</seg>
 		t := arctime cas of P;
 		thfill bat_path scaled 0.5 shifted (point t of P) withcolor black;
 		cas := cas + mojkrok;
-		exitif cas &gt; dlzka + (mojkrok / 3);
+		exitif cas &gt; dlzka + (mojkrok / 3);|%| для ошибок округления
 	endfor;
 enddef; |</seg>
       </tuv>
@@ -14091,9 +14102,9 @@ endmap</seg>
       <tuv lang="EN-US">
         <seg>|point 796.0 676.0 continuation -attr Code A -explored 50m ­text "water too cold to continue survey" |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180904Z" creationid="Алексей" creationdate="20180205T180837Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T181851Z" creationid="Алексей" creationdate="20180205T180837Z">
         <seg>|point 796.0 676.0 continuation -attr Code A -explored 50m \
-	­text "water too cold to continue survey" |</seg>
+	-text "water too cold to continue survey" |</seg>
       </tuv>
     </tu>
     <tu>
