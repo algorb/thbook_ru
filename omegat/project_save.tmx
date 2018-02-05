@@ -11473,6 +11473,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{../samples.doc/000000-use.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175647Z" creationid="Алексей" creationdate="20180205T175647Z">
+        <seg>{../samples.doc/000000-use.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{../samples.doc/000001-create.pdf}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160523Z" creationid="Алексей" creationdate="20180205T160523Z">
@@ -11485,6 +11493,22 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160528Z" creationid="Алексей" creationdate="20180205T160528Z">
         <seg>{../samples.doc/000002-ignore.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000003-cave1.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175756Z" creationid="Алексей" creationdate="20180205T175756Z">
+        <seg>{../samples.doc/000003-cave1.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000004-cave2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175852Z" creationid="Алексей" creationdate="20180205T175852Z">
+        <seg>{../samples.doc/000004-cave2.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13282,6 +13306,14 @@ endcentreline|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|code metapost def p_continuation(expr pos,theta,sc,al) =</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180353Z" creationid="Алексей" creationdate="20180205T180353Z">
+        <seg>|code metapost def p_continuation(expr pos,theta,sc,al) =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|code tex-map &lt;u0&gt;=20cm &lt;u1&gt;={&lt;u2&gt;[0 0 100]} &lt;u3&gt;={&lt;u4&gt;[20]} &lt;u6&gt;={&lt;u5&gt;[60]}|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T192027Z" creationid="Алексей" creationdate="20171028T185552Z">
@@ -13535,6 +13567,49 @@ source test</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|import cave.3d -surveys use import cave.3d -surveys create survey cave input use/use.th input create/create.th input ignore/ignore.th endsurvey |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175846Z" creationid="Алексей" creationdate="20180205T175810Z">
+        <seg>|import cave.3d -surveys use
+import cave.3d -surveys create
+survey cave
+	input use/use.th
+	input create/create.th
+	input ignore/ignore.th
+endsurvey |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|import cave.3d -surveys use survey cave input use/use.th input create/create.th input ignore/ignore.th endsurvey |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175751Z" creationid="Алексей" creationdate="20180205T175724Z">
+        <seg>|import cave.3d -surveys use
+survey cave
+	input use/use.th
+	input create/create.th
+	input ignore/ignore.th
+endsurvey |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|import create.3d -surveys create |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175656Z" creationid="Алексей" creationdate="20180205T175656Z">
+        <seg>|import create.3d -surveys create |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|import ignore.3d -surveys ignore |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175709Z" creationid="Алексей" creationdate="20180205T175709Z">
+        <seg>|import ignore.3d -surveys ignore |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|import use.3d -surveys use input use-out.th2 survey use input use-in.th2 endsurvey |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175626Z" creationid="Алексей" creationdate="20180205T175559Z">
@@ -13559,6 +13634,14 @@ endsurvey |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071007Z" creationid="Алексей" creationdate="20170911T151046Z">
         <seg>|input &lt;имя файла&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|input create.th2 |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175703Z" creationid="Алексей" creationdate="20180205T175703Z">
+        <seg>|input create.th2 |</seg>
       </tuv>
     </tu>
     <tu>
@@ -13976,6 +14059,14 @@ endscrap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|station 5 "pit" continuation attr Code V explored 20m |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175907Z" creationid="Алексей" creationdate="20180205T175907Z">
+        <seg>|station 5 "pit" continuation attr Code V explored 20m |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|station cave-1 "Unsurveyed cave" entrance |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T104656Z" creationid="Алексей" creationdate="20180128T104619Z">
@@ -14030,6 +14121,14 @@ endsurvey [&lt;идентификатор&gt;]|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T060840Z" creationid="Алексей" creationdate="20171022T060826Z">
         <seg>|survey-list| = сводная таблица съемок;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|symbol-show point flag:continuation |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T175912Z" creationid="Алексей" creationdate="20180205T175912Z">
+        <seg>|symbol-show point flag:continuation |</seg>
       </tuv>
     </tu>
     <tu>
