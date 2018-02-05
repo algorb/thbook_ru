@@ -11131,6 +11131,14 @@ export map -layout l1|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if known(ATTR__text) and picture(ATTR__text):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180640Z" creationid="Алексей" creationdate="20180205T180640Z">
+        <seg>if known(ATTR__text) and picture(ATTR__text):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in the centerline.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180442Z" creationid="Алексей" creationdate="20180204T180436Z">
@@ -11245,6 +11253,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170911T153941Z" creationid="Алексей" creationdate="20170911T153941Z">
         <seg>или, если есть больше уровней вложения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p_continuation_UIS(pos,theta,sc,al);</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180419Z" creationid="Алексей" creationdate="20180205T180416Z">
+        <seg>	p_continuation_UIS(pos,theta,sc,al);</seg>
       </tuv>
     </tu>
     <tu>
@@ -13308,8 +13324,9 @@ endcentreline|</seg>
       <tuv lang="EN-US">
         <seg>|code metapost def p_continuation(expr pos,theta,sc,al) =</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180353Z" creationid="Алексей" creationdate="20180205T180353Z">
-        <seg>|code metapost def p_continuation(expr pos,theta,sc,al) =</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180404Z" creationid="Алексей" creationdate="20180205T180353Z">
+        <seg>|code metapost
+	def p_continuation(expr pos,theta,sc,al) =</seg>
       </tuv>
     </tu>
     <tu>
