@@ -188,7 +188,11 @@ Therion surveys nearly correspond to station prefixes defined by |*begin|/|*end|
 
 If you will import .3d file with |-surveys use| switch, then therion tries to find the match between {\it survex prefix} and {\it therion survey name}. If this match is found, stations are inserted into survey found. Otherwise prefix is left with station names. Example code: 
 
-|import use.3d -surveys use input use-out.th2 survey use input use-in.th2 endsurvey | 
+|import use.3d -surveys use
+input use-out.th2
+survey use
+	input use-in.th2
+endsurvey | 
 
 In this case you should take care where you input your .th2 files containing scraps. In {\it use-out.th2} file you should refer to station names using: 
 
@@ -234,7 +238,12 @@ Note that no surveys are created in this case. Station names are taken from .3d 
 
 Assume a situation when you want to join these three small maps within single large project. Assume that coordinates of cave entrances are specified in the top-level cave.3d file. If your joining code will be 
 
-|import cave.3d -surveys use survey cave input use/use.th input create/create.th input ignore/ignore.th endsurvey | 
+|import cave.3d -surveys use
+survey cave
+	input use/use.th
+	input create/create.th
+	input ignore/ignore.th
+endsurvey | 
 
 not all stations are replaced correctly. The "created" series is placed wrong on the map. 
 
@@ -244,7 +253,13 @@ This is because in top level import command, survey {\it create} is imported fro
 
 To solve this problem, we need to re-import stations from top-level cave.3d file once more with |-surveys create| switch. 
 
-|import cave.3d -surveys use import cave.3d -surveys create survey cave input use/use.th input create/create.th input ignore/ignore.th endsurvey | 
+|import cave.3d -surveys use
+import cave.3d -surveys create
+survey cave
+	input use/use.th
+	input create/create.th
+	input ignore/ignore.th
+endsurvey | 
 
 After this additional |import| final looks as expected. 
 
@@ -274,24 +289,27 @@ in your layout, station with continuation flag specified is marked by question m
 
 You may redefine continuation symbol to show also continuation description (stored in |_text| attribute) using following layout code 
 
-|code metapost def p_continuation(expr pos,theta,sc,al) = 
+|code metapost
+	def p_continuation(expr pos,theta,sc,al) = 
 
 % draw default continuation symbol
-p_continuation_UIS(pos,theta,sc,al); 
+		p_continuation_UIS(pos,theta,sc,al); 
 
 % if text attribute is set
-if known(ATTR__text) and picture(ATTR__text): 
+		if known(ATTR__text) and picture(ATTR__text): 
 
 % set labeling color to light orange
-push_label_fill_color(1.0, 0.9, 0.8); 
+			push_label_fill_color(1.0, 0.9, 0.8); 
 
 % draw filled label with text next to ?
-p_label.urt(ATTR__text,(.5u,-.25u) transformed T,0.0,8); 
+			p_label.urt(ATTR__text,(.5u,-.25u) transformed T,0.0,8); 
 
 % restore original labeling color
-pop_label_fill_color; 
+			pop_label_fill_color; 
 
-fi; enddef; endcode | 
+		fi;
+	enddef;
+endcode | 
 
 Then also continuation description is displayed in the map. 
 
@@ -301,7 +319,8 @@ Then also continuation description is displayed in the map.
 
 In the scrap (.th2 file), you can use |-text|, |-code| and |-explored| options to continuation symbol. 
 
-|point 796.0 676.0 continuation -attr Code A -explored 50m \-text "water too cold to continue survey" | 
+|point 796.0 676.0 continuation -attr Code A -explored 50m \
+	\-text "water too cold to continue survey" | 
 
 In the map, also the question marks only are displayed by default. 
 
@@ -347,28 +366,53 @@ Firstly point symbol. In the
 
 section of your layout define point u:bat symbol like this 
 
-|def p_u_bat(expr pos, theta, sc, al) = T := identity shifted pos; thfill (bat_path scaled 2.0) withcolor black; enddef; | 
+|def p_u_bat(expr pos, theta, sc, al) =
+	T := identity shifted pos;
+	thfill (bat_path scaled 2.0) withcolor black;
+enddef; | 
 
 similarly the line u:bat symbol 
 
-|def l_u_bat(expr P) = T:=identity; cas := 0; dlzka := arclength P; mojkrok:=adjust_step(dlzka, 1.0u); pickup PenD; forever: t := arctime cas of P; thfill bat_path scaled 0.5 shifted (point t of P) withcolor black; cas := cas + mojkrok; exitif cas > dlzka + (mojkrok / 3); endfor; enddef; | 
+|def l_u_bat(expr P) =
+	T:=identity;
+	cas := 0;
+	dlzka := arclength P;
+	mojkrok:=adjust_step(dlzka, 1.0u);
+	pickup PenD;
+	forever:
+		t := arctime cas of P;
+		thfill bat_path scaled 0.5 shifted (point t of P) withcolor black;
+		cas := cas + mojkrok;
+		exitif cas > dlzka + (mojkrok / 3);
+	endfor;
+enddef; | 
 
 % for rounding errors
 and finally the area u:bat symbol (pattern in this case) 
 
-| beginpattern(pattern_bat); fill bat_path withcolor black; endpattern; 
+|beginpattern(pattern_bat);
+	fill bat_path withcolor black;
+endpattern; 
 
 % bat pattern
 % bat area symbol
-def a_u_bat (expr Path) = T:=identity; thclean Path; thfill Path withpattern pattern_bat; enddef; | 
+def a_u_bat (expr Path) =
+	T:=identity;
+	thclean Path;
+	thfill Path withpattern pattern_bat;
+enddef; | 
 
 These symbols will be included also in the legend. To change the way how they are drawn there just define appropriate macro. Its name should be symbol macro name with |_legend| suffix. 
 
-|def l_u_bat_legend = l_u_bat(((.2,.2) -- (.8,.8)) inscale) enddef; | 
+|def l_u_bat_legend =
+	l_u_bat(((.2,.2) -- (.8,.8)) inscale)
+enddef; | 
 
 Finally, add description of your new symbols that will be shown in the legend using |text| command anywhere in the configuration file. 
 
-|text en "point u:bat" "bat" text en "line u:bat" "bat path" text en "area u:bat" "lot of bats" | 
+|text en "point u:bat" "bat"
+text en "line u:bat" "bat path"
+text en "area u:bat" "lot of bats" | 
 
 After all these definitions you receive bat point, line and area symbols with proper graphical representation and legend boxes. 
 
