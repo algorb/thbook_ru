@@ -11115,6 +11115,16 @@ export map -layout l1|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fi; enddef; endcode |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180755Z" creationid="Алексей" creationdate="20180205T180708Z">
+        <seg>		fi;
+	enddef;
+endcode |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ft]|).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170924T053442Z" creationid="Алексей" creationdate="20170924T053442Z">
@@ -11133,8 +11143,8 @@ export map -layout l1|</seg>
       <tuv lang="EN-US">
         <seg>if known(ATTR__text) and picture(ATTR__text):</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180640Z" creationid="Алексей" creationdate="20180205T180640Z">
-        <seg>if known(ATTR__text) and picture(ATTR__text):</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180739Z" creationid="Алексей" creationdate="20180205T180640Z">
+        <seg>		if known(ATTR__text) and picture(ATTR__text):</seg>
       </tuv>
     </tu>
     <tu>
@@ -11259,8 +11269,16 @@ endmap |</seg>
       <tuv lang="EN-US">
         <seg>p_continuation_UIS(pos,theta,sc,al);</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180419Z" creationid="Алексей" creationdate="20180205T180416Z">
-        <seg>	p_continuation_UIS(pos,theta,sc,al);</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180737Z" creationid="Алексей" creationdate="20180205T180416Z">
+        <seg>		p_continuation_UIS(pos,theta,sc,al);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p_label.urt(ATTR__text,(.5u,-.25u) transformed T,0.0,8);</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180742Z" creationid="Алексей" creationdate="20180205T180658Z">
+        <seg>			p_label.urt(ATTR__text,(.5u,-.25u) transformed T,0.0,8);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11296,6 +11314,22 @@ endmap |</seg>
 		point 702 430 station -name 2@first
 		point 352 469 station -name 1@first
 		point 675 585 air-draught -orientation 240 -scale large</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pop_label_fill_color;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180744Z" creationid="Алексей" creationdate="20180205T180702Z">
+        <seg>			pop_label_fill_color;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>push_label_fill_color(1.0, 0.9, 0.8);</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180741Z" creationid="Алексей" creationdate="20180205T180655Z">
+        <seg>			push_label_fill_color(1.0, 0.9, 0.8);</seg>
       </tuv>
     </tu>
     <tu>
@@ -11701,6 +11735,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T160534Z" creationid="Алексей" creationdate="20180205T160534Z">
         <seg>{../samples.doc/000027-map1.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000028-map2.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180800Z" creationid="Алексей" creationdate="20180205T180800Z">
+        <seg>{../samples.doc/000028-map2.pdf}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13916,6 +13958,15 @@ endmap</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T204642Z" creationid="Алексей" creationdate="20170909T204642Z">
         <seg>|point 643.5 505.0 gradient -orientation 144.7|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|point 796.0 676.0 continuation -attr Code A -explored 50m ­text "water too cold to continue survey" |</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180904Z" creationid="Алексей" creationdate="20180205T180837Z">
+        <seg>|point 796.0 676.0 continuation -attr Code A -explored 50m \
+	­text "water too cold to continue survey" |</seg>
       </tuv>
     </tu>
     <tu>
