@@ -390,12 +390,14 @@ enddef; |
 % for rounding errors
 and finally the area u:bat symbol (pattern in this case) 
 
-|beginpattern(pattern_bat);
-	fill bat_path withcolor black;
-endpattern; 
+ 
 
 % bat pattern
 % bat area symbol
+|beginpattern(pattern_bat);
+	fill bat_path withcolor black;
+endpattern;
+
 def a_u_bat (expr Path) =
 	T:=identity;
 	thclean Path;
