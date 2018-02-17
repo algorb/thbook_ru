@@ -5637,6 +5637,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you import your .3d file using</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032656Z" creationid="Алексей" creationdate="20180217T032656Z">
+        <seg>Если вы импортируете файл .3d, используя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you save data file as `test.th' and configuration file as `thconfig' you may process them with Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150948Z" creationid="Алексей" creationdate="20171028T150907Z">
@@ -5961,6 +5969,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032431Z" creationid="Алексей" creationdate="20180217T032431Z">
         <seg>В этом случае вам следует позаботиться о том, где вы вводите ваши файлы .th2, содержащие скрапы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, if you do</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032952Z" creationid="Алексей" creationdate="20180217T032952Z">
+        <seg>В этом случае, если вы сделаете</seg>
       </tuv>
     </tu>
     <tu>
@@ -6737,6 +6753,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044533Z" creationid="Алексей" creationdate="20171028T044533Z">
         <seg>Страницы карты вставляются в его положение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map with station names in this case looks like this:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032547Z" creationid="Алексей" creationdate="20180217T032547Z">
+        <seg>Карта с названиями станций в этом случае выглядит так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,6 +8049,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T185814Z" creationid="Алексей" creationdate="20171028T185814Z">
         <seg>Начиная с версии 5.4.1 вы можете использовать опцию |fonts-setup| макета вместо макроса &lt;u0&gt;&lt;u1&gt;|fonts_setup()|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Station names are before '@' symbol, survey names follow this symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032636Z" creationid="Алексей" creationdate="20180217T032636Z">
+        <seg>Названия станций перед символом '@', названия съемок после этого символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11085,6 +11117,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>all survex prefixes are taken into account and if surveys with corresponding names do not exist, they are created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032929Z" creationid="Алексей" creationdate="20180217T032929Z">
+        <seg>все префиксы survex обрабатываются, и если съемки с соответствующими именами не существуют, то они создаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and finally the area u:bat symbol (pattern in this case)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T183505Z" creationid="Алексей" creationdate="20180205T183027Z">
@@ -11104,6 +11144,14 @@ endgrade|</seg>
 /URI (#1)
 &gt;&gt;}
 &lt;u1&gt;&lt;u2&gt;&lt;u3&gt;optionalarg&lt;u5&gt;{&lt;u6&gt;#1}&lt;u7&gt;&lt;u4&gt;optionalarg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>but in the {&lt;u0&gt; use-in.th} file using</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032510Z" creationid="Алексей" creationdate="20180217T032510Z">
+        <seg>но в файле {&lt;u0&gt; use-in.th}, используя</seg>
       </tuv>
     </tu>
     <tu>
@@ -11435,6 +11483,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180741Z" creationid="Алексей" creationdate="20180205T180655Z">
         <seg>			push_label_fill_color(1.0, 0.9, 0.8);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>right after |import| command, you refer to stations in .th2 file with names shown on the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033043Z" creationid="Алексей" creationdate="20180217T033043Z">
+        <seg>прямо после команды |import| вы ссылаетесь на станции в файле .th2 с именами, указанными на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12933,6 +12989,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T134921Z" creationid="Алексей" creationdate="20170913T134921Z">
         <seg>{&lt;u6&gt;{&lt;u7&gt;10pt&lt;i0&gt;&lt;u8&gt; width 6cm height 0cm depth 4cm {/Subtype /Text /Name /Help /Contents (Hints: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Creating non-existing surveys}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032648Z" creationid="Алексей" creationdate="20180217T032648Z">
+        <seg>{Создание несуществующих съемок}.</seg>
       </tuv>
     </tu>
     <tu>
