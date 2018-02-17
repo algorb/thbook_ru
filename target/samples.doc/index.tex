@@ -214,17 +214,17 @@ endsurvey |
 
 |import create.3d -surveys create | 
 
-all survex prefixes are taken into account and if surveys with corresponding names do not exist, they are created. In this case, if you do 
+все префиксы survex обрабатываются, и если съемки с соответствующими именами не существуют, то они создаются. В этом случае, если вы сделаете 
 
 |input create.th2 | 
 
-right after |import| command, you refer to stations in .th2 file with names shown on the map. 
+прямо после команды |import| вы ссылаетесь на станции в файле .th2 с именами, указанными на карте. 
 
 \fitpic{../samples.doc/000001-create.pdf} 
 
-\subsubchapter {Ignoring station prefixes}. 
+\subsubchapter {Игнорирование префиксов станций}. 
 
-Last possibility is to import your .3d file using 
+Последняя возможность -- импортировать файл .3d, используя 
 
 |import ignore.3d -surveys ignore | 
 
