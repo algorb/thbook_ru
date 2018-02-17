@@ -3333,6 +3333,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all these definitions you receive bat point, line and area symbols with proper graphical representation and legend boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T043053Z" creationid="Алексей" creationdate="20180217T043010Z">
+        <seg>После всех этих определений вы получаете символы точки, линии и области с надлежащим графическим представлением и полями легенды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After caves in your data have been properly defined, you can generate table using</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170359Z" creationid="Алексей" creationdate="20180204T170359Z">
@@ -4741,6 +4749,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally, add description of your new symbols that will be shown in the legend using |text| command anywhere in the configuration file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T043002Z" creationid="Алексей" creationdate="20180217T043002Z">
+        <seg>Наконец, добавьте описание своих новых символов, которые будут показаны в легенде, используя команду |text| в любом месте конфигурационного файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First of all, we would like to start our extended elevation at station 6 (where the entrance is).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T180412Z" creationid="Алексей" creationdate="20180204T180412Z">
@@ -4769,6 +4785,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180121T102943Z" creationid="Алексей" creationdate="20170913T135708Z">
         <seg>Во-первых, вам нужно решить, какую часть пещеры (какой скрап) вы рисуете&lt;u0&gt;В одном файле можно нарисовать несколько скрапов, в этом случае все неактивные скрапы отображаются желтым.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firstly point symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042011Z" creationid="Алексей" creationdate="20180217T041847Z">
+        <seg>Первым переопределим символ точки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5671,8 +5695,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If therion does not offer any appropriate symbol for the feature you want to draw to the map, you can use user defined symbol type (type |u|, valid for point, line and area objects).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041508Z" creationid="Алексей" creationdate="20180217T041508Z">
-        <seg>Если Therion не содержит подходящий символ для ваших функции, вы можете нарисовать свой символ на карте, используя определенный тип символа (тип |u|, применяется для объектов точки, линии и области).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042321Z" creationid="Алексей" creationdate="20180217T041508Z">
+        <seg>Если Therion не содержит подходящий символ для ваших функции, вы\break можете нарисовать свой символ на карте, используя определенный тип\break символа (тип |u|, применяется для объектов точки, линии и области).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6009,6 +6033,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T130536Z" creationid="Алексей" creationdate="20171028T124024Z">
         <seg>В этом случае можно добавить поддержку любой 8-битной кодировки для текстовых входных файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041851Z" creationid="Алексей" creationdate="20180217T041851Z">
+        <seg>В</seg>
       </tuv>
     </tu>
     <tu>
@@ -6609,6 +6641,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T150609Z" creationid="Алексей" creationdate="20170913T150609Z">
         <seg>Ее атрибуты можно настроить в меню {&lt;u5&gt; Точка}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its name should be symbol macro name with |_legend| suffix.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042831Z" creationid="Алексей" creationdate="20180217T042831Z">
+        <seg>Его имя должно быть именем символьного макроса с суффиксом |_legend|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9709,6 +9749,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These symbols will be included also in the legend.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042731Z" creationid="Алексей" creationdate="20180217T042731Z">
+        <seg>Эти символы также будут включены в легенду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These take automatically care of {&lt;u1&gt; T} transformation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T071026Z" creationid="Алексей" creationdate="20171029T064053Z">
@@ -10205,6 +10253,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the way how they are drawn there just define appropriate macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042742Z" creationid="Алексей" creationdate="20180217T042742Z">
+        <seg>Чтобы изменить способ их рисования, просто определите соответствующий макрос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To compile Loch, you need</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T092408Z" creationid="Алексей" creationdate="20171028T092408Z">
@@ -10247,8 +10303,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>To display them correctly you need to define symbols for them in &lt;u0&gt;{} languge the same way as ordinary symbols are usually redefined.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041800Z" creationid="Алексей" creationdate="20180217T041800Z">
-        <seg>Чтобы правильно отображать их, вам необходимо определить символы для них в &lt;u0&gt;{}, как обычные символы обычно переопределяются.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041836Z" creationid="Алексей" creationdate="20180217T041800Z">
+        <seg>Чтобы правильно отображать их, вам необходимо определить символы для них в языке &lt;u0&gt;{}, как обычные символы обычно переопределяются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10703,8 +10759,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>When you export map without defining the symbols in &lt;u0&gt;{}, user defined symbols are highlighted in red without any graphical representation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041713Z" creationid="Алексей" creationdate="20180217T041713Z">
-        <seg>Когда вы экспортируете карту без определения символов в &lt;u0&gt;{}, пользовательские символы выделяются красным цветом без какого-либо графического представления.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042345Z" creationid="Алексей" creationdate="20180217T041713Z">
+        <seg>Когда вы экспортируете карту без определения символов в &lt;u0&gt;{},\break пользовательские символы выделяются красным цветом без какого-либо\break графического представления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,12 +11568,12 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>def a_u_bat (expr Path) = T:=identity; thclean Path; thfill Path withpattern pattern_bat; enddef; |</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T183728Z" creationid="Алексей" creationdate="20180205T181301Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042628Z" creationid="Алексей" creationdate="20180205T181301Z">
         <seg>|beginpattern(pattern_bat);
 	fill bat_path withcolor black;
 endpattern;
 
-|%| bat pattern
+|%| bat area symbol
 def a_u_bat (expr Path) =
 	T:=identity;
 	thclean Path;
@@ -11847,6 +11903,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>section of your layout define point u:bat symbol like this</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042456Z" creationid="Алексей" creationdate="20180217T042044Z">
+        <seg>в разделе вашего layout укажите символьную точку u:bat, подобный этому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>select m1@main</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T150806Z" creationid="Алексей" creationdate="20171028T150806Z">
@@ -11867,6 +11931,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T070713Z" creationid="Алексей" creationdate="20170910T162411Z">
         <seg>Устанавливает кодировку входного файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>similarly the line u:bat symbol</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T042112Z" creationid="Алексей" creationdate="20180217T042112Z">
+        <seg>аналогично укажите в линейном символе u:bat</seg>
       </tuv>
     </tu>
     <tu>
@@ -12272,6 +12344,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T180920Z" creationid="Алексей" creationdate="20180205T180920Z">
         <seg>{../samples.doc/000030-map4.pdf}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{../samples.doc/000031-rabbit-plan.pdf}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T043105Z" creationid="Алексей" creationdate="20180217T043105Z">
+        <seg>{../samples.doc/000031-rabbit-plan.pdf}</seg>
       </tuv>
     </tu>
     <tu>
