@@ -13465,14 +13465,6 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>{Drawing maps in therion}.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T062143Z" creationid="Алексей" creationdate="20180128T101930Z">
-        <seg>{Рисование карт в Therionе}.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>{Exporting question mark lists}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040349Z" creationid="Алексей" creationdate="20180217T040349Z">
@@ -13501,14 +13493,6 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T161026Z" creationid="Алексей" creationdate="20180205T161009Z">
         <seg>{Импорт survex .3d файлов}.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>{Listing caves}.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102911Z" creationid="Алексей" creationdate="20180128T102013Z">
-        <seg>{Список пещер}.</seg>
       </tuv>
     </tu>
     <tu>
