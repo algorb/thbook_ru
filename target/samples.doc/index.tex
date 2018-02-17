@@ -236,7 +236,7 @@ endsurvey |
 
 \subsubchapter {Управление большими проектами}. 
 
-Assume a situation when you want to join these three small maps within single large project. Assume that coordinates of cave entrances are specified in the top-level cave.3d file. If your joining code will be 
+Предположим ситуацию, когда вы хотите присоединиться к этим трем небольшим картам в рамках одного крупного проекта. Допустим, что координаты входных пещер указаны в файле верхнего уровня cave.3d. Если ваш код присоединения будет 
 
 |import cave.3d -surveys use
 survey cave
@@ -245,13 +245,13 @@ survey cave
 	input ignore/ignore.th
 endsurvey | 
 
-not all stations are replaced correctly. The "created" series is placed wrong on the map. 
+не все станции будут заменены правильно. "Created" серия помещается неправильно на карте. 
 
 \fitpic{../samples.doc/000003-cave1.pdf} 
 
-This is because in top level import command, survey {\it create} is imported from file |create/create.3d| with wrong coordinates, and we import top-level .3d file with |-surveys use| switch. This means, cave.create.1 will be imported here as create.1@cave and not 1@create.cave. 
+Это происходит потому, что в команде импорта верхнего уровня съемка {\it create} импортируется из файла |create/create.3d| с неправильными координатами, и мы импортируем файл .3d верхнего уровня с |-surveys use|. Это значит, что cave.create.1 будет импортироваться здесь как create.1@cave, а не 1@create.cave. 
 
-To solve this problem, we need to re-import stations from top-level cave.3d file once more with |-surveys create| switch. 
+Чтобы решить эту проблему, нам нужно снова импортировать станции из файла cave.3d верхнего уровня с |-surveys create|. 
 
 |import cave.3d -surveys use
 import cave.3d -surveys create
@@ -261,7 +261,7 @@ survey cave
 	input ignore/ignore.th
 endsurvey | 
 
-After this additional |import| final looks as expected. 
+После этого дополнительного |import| окончательный вариант выглядит так, как ожидалось. 
 
 \fitpic{../samples.doc/000004-cave2.pdf} 
 

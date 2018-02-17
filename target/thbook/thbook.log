@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 FEB 2018 10:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 FEB 2018 10:35
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -3157,23 +3157,10 @@ Underfull \hbox (badness 1226) in paragraph at lines 147--148
 
 [90 <../samples.doc/000005-map1.pdf> <../samples.doc/000006-map2.pdf>] [91 <../
 samples.doc/000007-map3.pdf> <../samples.doc/000008-map4.pdf>] [92 <../samples.
-doc/000000-use.pdf>]
-Overfull \hbox (5.97153pt too wide) in paragraph at lines 231--232
-[]\tt Также в этом случае ссылки станций в соответствующем файле .th2 совпадают
-|
-
-\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
-.\hbox(0.0+0.0)x0.0
-.\tt Т
-.\kern-0.432
-.\tt а
-.\tt к
-.etc.
-
-[93 <../samples.doc/000001-create.pdf>] [94 <../samples.doc/000002-ignore.pdf>]
-[95 <../samples.doc/000003-cave1.pdf> <../samples.doc/000004-cave2.pdf>]
-[96 <../samples.doc/000027-map1.pdf>] [97 <../samples.doc/000028-map2.pdf>]
-(etc/TXSruled.tex
+doc/000000-use.pdf>] [93 <../samples.doc/000001-create.pdf>] [94 <../samples.do
+c/000002-ignore.pdf>] [95 <../samples.doc/000003-cave1.pdf> <../samples.doc/000
+004-cave2.pdf>] [96 <../samples.doc/000027-map1.pdf>] [97 <../samples.doc/00002
+8-map2.pdf>] (etc/TXSruled.tex
 \ncols=\count42
 \nrows=\count43
 \curcol=\count44
@@ -3224,7 +3211,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (100 pages, 2156236 bytes).
+Output written on thbook.pdf (100 pages, 2156211 bytes).
 PDF statistics:
  1390 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
