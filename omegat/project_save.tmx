@@ -2829,6 +2829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50.0</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040542Z" creationid="Алексей" creationdate="20180217T040542Z">
+        <seg>50.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170957Z" creationid="Алексей" creationdate="20180204T170957Z">
@@ -3225,6 +3233,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044415Z" creationid="Алексей" creationdate="20171028T044415Z">
         <seg>Очень простой пример:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&lt;u0&gt; strong wind from breakdown</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040716Z" creationid="Алексей" creationdate="20180217T040716Z">
+        <seg>Сильная тяга из разлома</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,6 +4673,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075514Z" creationid="Алексей" creationdate="20171028T153611Z">
         <seg>Февраль: Therion 0.5 -- Поддержка морфинга эскизов растровых\break изображений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File questions.html then contains following list:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040429Z" creationid="Алексей" creationdate="20180217T040429Z">
+        <seg>Файл questions.html содержит следующий список:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7665,6 +7689,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171029T075217Z" creationid="Алексей" creationdate="20171028T144634Z">
         <seg>SVG-карта: без ограничений; * количество скрапов = примерно 500--6000, в зависимости от частоты\break поперечных сечений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample cave</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040627Z" creationid="Алексей" creationdate="20180217T040558Z">
+        <seg>Пример пещеры</seg>
       </tuv>
     </tu>
     <tu>
@@ -11435,6 +11467,14 @@ initsymbol("a_water_UIS");|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>etc/TXSruled.tex &lt;u3&gt;&lt;u4&gt; {&lt;u5&gt; Comment}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040439Z" creationid="Алексей" creationdate="20180217T040431Z">
+        <seg>etc/TXSruled.tex &lt;u3&gt;&lt;u4&gt; {&lt;u5&gt; Комментарий}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>etc/TXSruled.tex &lt;u3&gt;&lt;u4&gt; {&lt;u5&gt; Title}</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T170550Z" creationid="Алексей" creationdate="20180204T170427Z">
@@ -12348,6 +12388,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Code}&lt;u1&gt; water too cold to continue survey</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040540Z" creationid="Алексей" creationdate="20180217T040500Z">
+        <seg>{&lt;u0&gt; Код}&lt;u1&gt; слишком холодная вода для продолжения съемки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{&lt;u0&gt; Command-like options:} options for multi-line commands, which can be specified among the data lines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170910T150326Z" creationid="Алексей" creationdate="20170910T150326Z">
@@ -12600,6 +12648,22 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171231T093255Z" creationid="Алексей" creationdate="20170920T024804Z">
         <seg>{&lt;u0&gt; Разделение линии}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Station}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040457Z" creationid="Алексей" creationdate="20180217T040452Z">
+        <seg>{&lt;u0&gt; Станция}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{&lt;u0&gt; Survey}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040448Z" creationid="Алексей" creationdate="20180217T040444Z">
+        <seg>{&lt;u0&gt; Съемка}</seg>
       </tuv>
     </tu>
     <tu>
