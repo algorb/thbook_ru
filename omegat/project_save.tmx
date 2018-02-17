@@ -7815,8 +7815,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>So if you want to keep your centerline in survex files you need to solve the problem how to match survex and therion data structures.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031106Z" creationid="Алексей" creationdate="20180217T030932Z">
-        <seg>Поэтому, если вы хотите сохранить свою нитку хода в файлах survex, вам нужно решить проблему, как совместить структуры данных survex'а и Therion'а.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031333Z" creationid="Алексей" creationdate="20180217T030932Z">
+        <seg>Поэтому, если вы хотите сохранить свою нитку хода указанную в файлах survex, вам нужно решить проблему, как совместить структуры данных survex и Therion'а.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9255,7 +9255,7 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Therion surveys nearly correspond to station prefixes defined by |*begin|/|*end| pairs in survex source files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T030956Z" creationid="Алексей" creationdate="20180217T030659Z">
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031321Z" creationid="Алексей" creationdate="20180217T030659Z">
         <seg>Съемки Therion'а почти соответствуют префиксам станций, определяемым парой |*begin|/|*end| в файлах survex.</seg>
       </tuv>
     </tu>
@@ -9793,6 +9793,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180127T101539Z" creationid="Алексей" creationdate="20171021T125328Z">
         <seg>Эта опция переопределяет опцию |symbol-set|.&lt;u1&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This sample shows three different ways, how to deal with station prefixes when importing survex .3d files to therion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031200Z" creationid="Алексей" creationdate="20180217T031200Z">
+        <seg>В этом примере показаны три разных способа, как иметь дело с префиксами станций при импорте файлов survex .3d в therion.</seg>
       </tuv>
     </tu>
     <tu>
