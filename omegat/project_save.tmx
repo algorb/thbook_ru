@@ -3477,6 +3477,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also in this case, station references in corresponding .th2 file are same as station names on the next map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033536Z" creationid="Алексей" creationdate="20180217T033407Z">
+        <seg>Также в этом случае ссылки станций в соответствующем файле .th2\break совпадают с именами станций на следующей карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also |not| is allowed before a flag, to remove previously added flag.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135926Z" creationid="Алексей" creationdate="20170920T052023Z">
@@ -3685,10 +3693,26 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assume a situation when you want to join these three small maps within single large project.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033713Z" creationid="Алексей" creationdate="20180217T033713Z">
+        <seg>Предположим ситуацию, когда вы хотите присоединиться к этим трем небольшим картам в рамках одного крупного проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assume following situation (in plan view), when there is a loop in centerline between stations 1 and 4, small chimney near station 5 and entrance to the cave is at station 6.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T175920Z" creationid="Алексей" creationdate="20180204T175920Z">
         <seg>Предположим следующую ситуацию (в плане) -- есть кольцо нитки хода между станциями 1 и 4, небольшая труба возле станции 5 и вход в пещеру находится на станции 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assume that coordinates of cave entrances are specified in the top-level cave.3d file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033741Z" creationid="Алексей" creationdate="20180217T033741Z">
+        <seg>Допустим, что координаты входных пещер указаны в файле верхнего уровня cave.3d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5749,6 +5773,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your joining code will be</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033752Z" creationid="Алексей" creationdate="20180217T033752Z">
+        <seg>Если ваш код присоединения будет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If |""| is specified as a comment, it is ignored.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T135742Z" creationid="Алексей" creationdate="20170920T051446Z">
@@ -6589,6 +6621,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last possibility is to import your .3d file using</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033114Z" creationid="Алексей" creationdate="20180217T033114Z">
+        <seg>Последняя возможность -- импортировать файл .3d, используя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Layout command makes it possible to modify some macros in the configuration file at the run-time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124949Z" creationid="Алексей" creationdate="20171028T124949Z">
@@ -7001,6 +7041,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T085108Z" creationid="Алексей" creationdate="20171028T085108Z">
         <seg>Стрелка направления на север и шкала масштаба могут отображаться с использованием:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that no surveys are created in this case.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033435Z" creationid="Алексей" creationdate="20180217T033435Z">
+        <seg>Обратите внимание, что в этом случае не создаются съемки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8061,6 +8109,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Station names are taken from .3d files without change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033451Z" creationid="Алексей" creationdate="20180217T033451Z">
+        <seg>Названия станций берутся из .3d файлов без изменений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stelios Zacharias&lt;u0&gt; en[&lt;u1&gt;GB$&lt;u3&gt;$&lt;u2&gt;US]</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T105111Z" creationid="Алексей" creationdate="20171216T105111Z">
@@ -8233,6 +8289,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T164626Z" creationid="Алексей" creationdate="20170913T164626Z">
         <seg>Затем нажмите где-нибудь еще (эта точка будет второй точкой кривой) и перетащите мышь (отрегулируйте вторую контрольную точку предыдущей дуги и первую контрольную точку следующего дуги, одновременно). Если это объяснение кажется слишком неясным, вы может поработать в некоторых стандартных векторных редакторах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "created" series is placed wrong on the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033942Z" creationid="Алексей" creationdate="20180217T033942Z">
+        <seg>"Created" серия помещается неправильно на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11404,6 +11468,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>not all stations are replaced correctly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033827Z" creationid="Алексей" creationdate="20180217T033827Z">
+        <seg>не все станции будут заменены правильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T080621Z" creationid="Алексей" creationdate="20171022T080621Z">
@@ -11489,8 +11561,8 @@ endmap |</seg>
       <tuv lang="EN-US">
         <seg>right after |import| command, you refer to stations in .th2 file with names shown on the map.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033043Z" creationid="Алексей" creationdate="20180217T033043Z">
-        <seg>прямо после команды |import| вы ссылаетесь на станции в файле .th2 с именами, указанными на карте.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033240Z" creationid="Алексей" creationdate="20180217T033043Z">
+        <seg>прямо после команды |import|, то вы ссылаетесь на станции в файле .th2 с именами, указанными на карте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13025,6 +13097,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{Ignoring station prefixes}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033058Z" creationid="Алексей" creationdate="20180217T033058Z">
+        <seg>{Игнорирование префиксов станций}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{Importing survex .3d files}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T161026Z" creationid="Алексей" creationdate="20180205T161009Z">
@@ -13037,6 +13117,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102911Z" creationid="Алексей" creationdate="20180128T102013Z">
         <seg>{Список пещер}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Managing large projects}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033453Z" creationid="Алексей" creationdate="20180217T033453Z">
+        <seg>{Управление большими проектами}.</seg>
       </tuv>
     </tu>
     <tu>
