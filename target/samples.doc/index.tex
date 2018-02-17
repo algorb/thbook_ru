@@ -340,9 +340,9 @@ endcode |
 
 \bigskip\begingroup\input etc/TXSruled.tex \LeftJustifyTables\ruledtable {\bf Комментарий}&{\bf Исследовано}&{\bf Съемка}&{\bf Станция}&{\bf Код}\cr слишком холодная вода&50.0&Пример пещеры&7&A\nr сильная тяга из разлома& &Пример пещеры&3&B\nr понор&20.0&Пример пещеры&5&V\endruledtable\endgroup\bigskip \subchapter {Использование пользовательских типов символов}. 
 
-If therion does not offer any appropriate symbol for the feature you want to draw to the map, you can use user defined symbol type (type |u|, valid for point, line and area objects). 
+Если Therion не содержит подходящий символ для ваших функции, вы можете нарисовать свой символ на карте, используя определенный тип символа (тип |u|, применяется для объектов точки, линии и области). 
 
-The syntax is very simple. Assume you want to create "bat" point, line and area. You just use |u:bat| as a type (bat is in fact subtype) of u type. So your code will be like this: 
+Синтаксис очень прост. Предположим, вы хотите создать точку, линию и область "bat". Вы просто используете |u:bat| как тип (bat -- фактически подтип типа u). Таким образом, ваш код будет выглядеть так: 
 
 |point 555.0 480.0 u:bat | 
 
@@ -354,13 +354,13 @@ The syntax is very simple. Assume you want to create "bat" point, line and area.
 
 |area u:bat | 
 
-When you export map without defining the symbols in \MP{}, user defined symbols are highlighted in red without any graphical representation. 
+Когда вы экспортируете карту без определения символов в \MP{}, пользовательские символы выделяются красным цветом без какого-либо графического представления. 
 
 \fitpic{../samples.doc/000009-map1.pdf} 
 
-To display them correctly you need to define symbols for them in \MP{} languge the same way as ordinary symbols are usually redefined. 
+Чтобы правильно отображать их, вам необходимо определить символы для них в языке \MP{}, как обычные символы обычно переопределяются. 
 
-Firstly point symbol. In the 
+Первый символ точки. В 
 
 |code metapost | 
 
