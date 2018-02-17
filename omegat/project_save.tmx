@@ -4461,6 +4461,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example code:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031733Z" creationid="Алексей" creationdate="20180217T031733Z">
+        <seg>Пример кода:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T145316Z" creationid="Алексей" creationdate="20171028T145316Z">
@@ -5719,8 +5727,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>If you will import .3d file with |-surveys use| switch, then therion tries to find the match between {&lt;u0&gt; survex prefix} and {&lt;u1&gt; therion survey name}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031605Z" creationid="Алексей" creationdate="20180217T031605Z">
-        <seg>Если вы импортируете файл .3d с |-surveys use|, то therion пытается найти совпадение между {&lt;u0&gt;префиксом survex} и {&lt;u1&gt; названием съемки Therion'а].</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032131Z" creationid="Алексей" creationdate="20180217T031605Z">
+        <seg>Если вы импортируете файл .3d с |-surveys use|, то Therion пытается найти совпадение между {&lt;u0&gt;префиксом survex} и {&lt;u1&gt; названием съемки Therion'а}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,6 +7177,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171306Z" creationid="Алексей" creationdate="20180204T171247Z">
         <seg>Оригинальный эскиз съемки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise prefix is left with station names.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031725Z" creationid="Алексей" creationdate="20180217T031725Z">
+        <seg>В противном случае префикс остается с именами станций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9815,8 +9831,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This sample shows three different ways, how to deal with station prefixes when importing survex .3d files to therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031347Z" creationid="Алексей" creationdate="20180217T031200Z">
-        <seg>В этом примере показаны три разных способа, как иметь дело с префиксами станций при импорте файлов survex .3d в Therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031812Z" creationid="Алексей" creationdate="20180217T031200Z">
+        <seg>В этом примере\break показаны три разных способа, как иметь дело с префиксами станций при импорте файлов survex .3d в Therion.</seg>
       </tuv>
     </tu>
     <tu>
