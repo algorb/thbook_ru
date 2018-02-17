@@ -13467,8 +13467,8 @@ endmap |</seg>
       <tuv lang="EN-US">
         <seg>{Drawing maps in therion}.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T102936Z" creationid="Алексей" creationdate="20180128T101930Z">
-        <seg>{Рисование карт в Therion'е}.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T062143Z" creationid="Алексей" creationdate="20180128T101930Z">
+        <seg>{Рисование карт в Therionе}.</seg>
       </tuv>
     </tu>
     <tu>
