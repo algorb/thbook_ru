@@ -5957,6 +5957,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the centerline object, you may add a special flags to the station, where continuation is possible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035256Z" creationid="Алексей" creationdate="20180217T035256Z">
+        <seg>В объекте centerline вы можете добавить специальные флаги к станции, где возможно продолжение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the file saved by XTherion, there'll only be whatever you type into the {&lt;u3&gt; Text editor} or see in the {&lt;u4&gt; Command preview}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T174048Z" creationid="Алексей" creationdate="20170913T170336Z">
@@ -6577,6 +6585,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T140412Z" creationid="Алексей" creationdate="20170920T052642Z">
         <seg>Просто добавьте флаг |explored &lt;исследовательская длинна&gt;| для станции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just use following syntax</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035320Z" creationid="Алексей" creationdate="20180217T035320Z">
+        <seg>Используйте следующий синтаксис</seg>
       </tuv>
     </tu>
     <tu>
@@ -9085,6 +9101,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then also continuation description is displayed in the map.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035559Z" creationid="Алексей" creationdate="20180217T035559Z">
+        <seg>Таким образом отображается описание продолжения на карте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then the declination of each shot will be set according to the date specification of the data object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132506Z" creationid="Алексей" creationdate="20170911T155718Z">
@@ -10541,6 +10565,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you export map and use</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035328Z" creationid="Алексей" creationdate="20180217T035328Z">
+        <seg>Когда вы экспортируете карту и используете</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171855Z" creationid="Алексей" creationdate="20170909T185305Z">
@@ -10873,6 +10905,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124736Z" creationid="Алексей" creationdate="20171028T124736Z">
         <seg>Вы можете найти более подробную информацию в главе {&lt;u2&gt; 6.3.1.5 Формат файла кодировки} в документации к программе Dvips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may redefine continuation symbol to show also continuation description (stored in |_text| attribute) using following layout code</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035507Z" creationid="Алексей" creationdate="20180217T035507Z">
+        <seg>Вы можете переопределить символ продолжения, чтобы показать также описание продолжения (сохраненное в атрибуте |_text|), используя следующий код в layout</seg>
       </tuv>
     </tu>
     <tu>
@@ -11434,6 +11474,14 @@ endcode |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T145518Z" creationid="Алексей" creationdate="20170913T145518Z">
         <seg>в окне предварительного просмотра над кнопкой {&lt;u0&gt; Вставить скрап}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in your layout, station with continuation flag specified is marked by question mark (continuation symbol is shown above the station).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035416Z" creationid="Алексей" creationdate="20180217T035416Z">
+        <seg>в вашем layout станция с указанным символом продолжения помечена знаком вопроса (символ продолжения отображается над станцией).</seg>
       </tuv>
     </tu>
     <tu>
