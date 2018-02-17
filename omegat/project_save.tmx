@@ -4037,14 +4037,6 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Case studies.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180128T100334Z" creationid="Алексей" creationdate="20171028T091041Z">
-        <seg>Изучение примеров.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Centreline may be exported for further processing in any SQL database.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192032Z" creationid="Алексей" creationdate="20170909T192032Z">
