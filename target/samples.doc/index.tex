@@ -360,18 +360,18 @@ endcode |
 
 Чтобы правильно отображать их, вам необходимо определить символы для них в языке \MP{}, как обычные символы обычно переопределяются. 
 
-Первый символ точки. В 
+Первым переопределим символ точки. В 
 
 |code metapost | 
 
-section of your layout define point u:bat symbol like this 
+в разделе вашего макета укажите символьную точку u:bat, подобный этому 
 
 |def p_u_bat(expr pos, theta, sc, al) =
 	T := identity shifted pos;
 	thfill (bat_path scaled 2.0) withcolor black;
 enddef; | 
 
-similarly the line u:bat symbol 
+аналогично укажите в линейном символе u:bat 
 
 |def l_u_bat(expr P) =
 	T:=identity;

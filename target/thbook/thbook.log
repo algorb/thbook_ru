@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 FEB 2018 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 FEB 2018 11:18
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -3194,8 +3194,46 @@ Underfull \hbox (badness 1320) in paragraph at lines 270--271
 \parasize=\dimen37
 )
 [Nrows=4, Ncols=5]
-[98 <../samples.doc/000029-map3.pdf> <../samples.doc/000030-map4.pdf>] [99 <../
-samples.doc/000009-map1.pdf>]) [100 <../samples.doc/000010-map2.pdf>] )
+
+Overfull \hbox (3.89804pt too wide) in paragraph at lines 343--344
+[]\tt Если The-rion не содержит подходящий символ для ваших функции, вы можете|
+
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt Е
+.\tt с
+.\kern0.168
+.\tt л
+.etc.
+
+[98 <../samples.doc/000029-map3.pdf> <../samples.doc/000030-map4.pdf>]
+Overfull \hbox (65.62045pt too wide) in paragraph at lines 357--358
+[]\tt Когда вы экспортируете карту без определения символов в \manfnt META\tt -
+\manfnt POST\tt , пользовательские|
+
+\hbox(8.04599+2.85599)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\tt К
+.\tt о
+.\kern-0.12001
+.\tt г
+.etc.
+
+
+Overfull \hbox (40.0755pt too wide) in paragraph at lines 357--358
+\tt символы выделяются красным цветом без какого-либо графического представлени
+я. |
+
+\hbox(8.04599+2.412)x452.96786, glue set - 1.0
+.\tt с
+.\tt и
+.\tt м
+.\tt в
+.\tt о
+.etc.
+
+[99 <../samples.doc/000009-map1.pdf>]) [100 <../samples.doc/000010-map2.pdf>] )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 3 ({)
@@ -3235,7 +3273,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (100 pages, 2156704 bytes).
+Output written on thbook.pdf (100 pages, 2157054 bytes).
 PDF statistics:
  1390 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
