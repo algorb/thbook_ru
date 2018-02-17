@@ -7813,6 +7813,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So if you want to keep your centerline in survex files you need to solve the problem how to match survex and therion data structures.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031106Z" creationid="Алексей" creationdate="20180217T030932Z">
+        <seg>Поэтому, если вы хотите сохранить свою нитку хода в файлах survex, вам нужно решить проблему, как совместить структуры данных survex'а и Therion'а.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we could either draw the whole Atlas again, or accept that the location of some places was not accurate---in the case of loops with a length of approximately 1 km there were sometimes errors of about 10 m---and try to distort the new passages to fit to old ones.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T125531Z" creationid="Алексей" creationdate="20170909T150257Z">
@@ -9245,6 +9253,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therion surveys nearly correspond to station prefixes defined by |*begin|/|*end| pairs in survex source files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T030956Z" creationid="Алексей" creationdate="20180217T030659Z">
+        <seg>Съемки Therion'а почти соответствуют префиксам станций, определяемым парой |*begin|/|*end| в файлах survex.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therion uses &lt;u0&gt;&lt;u2&gt;and &lt;u6&gt;&lt;u3&gt;for 2D map visualization and typesetting.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T124824Z" creationid="Алексей" creationdate="20171028T124824Z">
@@ -10129,6 +10145,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T132403Z" creationid="Алексей" creationdate="20170911T153551Z">
         <seg>Обычный уровень иерархической структуры survey представлен пещерами, более высокие уровни карстовыми областями, а более низкие уровни, например, ходами пещеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually there does not exist one-to-one mapping between them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T030712Z" creationid="Алексей" creationdate="20180217T030712Z">
+        <seg>Обычно между ними не существует взаимно однозначного отображения.</seg>
       </tuv>
     </tu>
     <tu>
