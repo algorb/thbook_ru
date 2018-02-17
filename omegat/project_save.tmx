@@ -3773,6 +3773,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assume you want to create "bat" point, line and area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041528Z" creationid="Алексей" creationdate="20180217T041528Z">
+        <seg>Предположим, вы хотите создать точку, линию и область "bat".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of each page macro |&lt;u2&gt;| is invoked.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171027T163850Z" creationid="Алексей" creationdate="20171027T163850Z">
@@ -8085,6 +8093,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So your code will be like this:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041631Z" creationid="Алексей" creationdate="20180217T041631Z">
+        <seg>Таким образом, ваш код будет выглядеть так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, now it's clear what Therion needs, let's have a look at the way it interacts with all these programs:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171821Z" creationid="Алексей" creationdate="20170909T184941Z">
@@ -9041,6 +9057,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171230T071417Z" creationid="Алексей" creationdate="20170912T004849Z">
         <seg>Синтаксис заимствован из Survex с небольшими изменениями; руководство Survex может быть полезно в\break качестве дополнительной справки для использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The syntax is very simple.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041511Z" creationid="Алексей" creationdate="20180217T041511Z">
+        <seg>Синтаксис очень прост.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10221,6 +10245,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To display them correctly you need to define symbols for them in &lt;u0&gt;{} languge the same way as ordinary symbols are usually redefined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041800Z" creationid="Алексей" creationdate="20180217T041800Z">
+        <seg>Чтобы правильно отображать их, вам необходимо определить символы для них в &lt;u0&gt;{}, как обычные символы обычно переопределяются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To draw such a line all you need to do is to create a simple scrap with this line.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182449Z" creationid="Алексей" creationdate="20180204T182449Z">
@@ -10669,6 +10701,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you export map without defining the symbols in &lt;u0&gt;{}, user defined symbols are highlighted in red without any graphical representation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041713Z" creationid="Алексей" creationdate="20180217T041713Z">
+        <seg>Когда вы экспортируете карту без определения символов в &lt;u0&gt;{}, пользовательские символы выделяются красным цветом без какого-либо графического представления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you redefine continuation symbol as mentioned above, you can show also continuation codes and descriptions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040316Z" creationid="Алексей" creationdate="20180217T040316Z">
@@ -10969,6 +11009,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T171147Z" creationid="Алексей" creationdate="20170913T171147Z">
         <seg>Вы должны перетащить их в точки с известными координатами -- обычно пересечения линий сетки на миллиметровке на отсканированном чертеже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You just use |u:bat| as a type (bat is in fact subtype) of u type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T041612Z" creationid="Алексей" creationdate="20180217T041612Z">
+        <seg>Вы просто используете |u:bat| как тип (bat -- фактически подтип типа u).</seg>
       </tuv>
     </tu>
     <tu>
