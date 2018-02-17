@@ -5957,10 +5957,26 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case you should take care where you input your .th2 files containing scraps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032431Z" creationid="Алексей" creationdate="20180217T032431Z">
+        <seg>В этом случае вам следует позаботиться о том, где вы вводите ваши файлы .th2, содержащие скрапы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, it is much more natural to draw this shot as vertical (because it is a chimney).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T181915Z" creationid="Алексей" creationdate="20180204T181915Z">
         <seg>В этом случае гораздо более естественно сделать этот замер вертикальным (потому что это труба).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In {&lt;u0&gt; use-out.th2} file you should refer to station names using:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T032446Z" creationid="Алексей" creationdate="20180217T032446Z">
+        <seg>В файле {&lt;u0&gt; use-out.th2} вы должны ссылаться на имена станций, используя:</seg>
       </tuv>
     </tu>
     <tu>
