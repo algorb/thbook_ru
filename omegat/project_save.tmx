@@ -4479,8 +4479,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Even if there are several possibilities how to map survex prefix structure to therion survey structure, the most clean solution is to create survey structure to desired depth in .th files using empty |survey|/|endsurvey| pairs and allways use |-surveys use| switch when importing .3d files.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034955Z" creationid="Алексей" creationdate="20180217T034955Z">
-        <seg>Даже если есть несколько возможностей, как сопоставить структуру префикса карты survex со структурой съемки Therion'а, самым чистым решением является создание структуры в .th файлах с использованием пустой пары |survey|/|endurvey| и всегда использовать |-surveys use| при импорте файлов .3d.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035950Z" creationid="Алексей" creationdate="20180217T034955Z">
+        <seg>Даже если есть несколько возможностей, как сопоставить структуру\break префикса карты survex со структурой съемки Therion'а, самым чистым\break решением является создание структуры в .th файлах с использованием\break пустой пары |survey|/|endurvey| и всегда использовать |-surveys use| при импорте файлов .3d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5977,6 +5977,22 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180101T065728Z" creationid="Алексей" creationdate="20171028T085915Z">
         <seg>В режиме карты можно использовать множество предопределенных\break переменных, которые описаны в предыдущей главе:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the map, also the question marks only are displayed by default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040300Z" creationid="Алексей" creationdate="20180217T040300Z">
+        <seg>На карте также отображаются только вопросительные знаки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the scrap (.th2 file), you can use |-text|, |-code| and |-explored| options to continuation symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040244Z" creationid="Алексей" creationdate="20180217T040244Z">
+        <seg>В скрапе (файл .th2) вы можете использовать опции |-text|, |-code| и |-explored| для символа продолжения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10573,6 +10589,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you redefine continuation symbol as mentioned above, you can show also continuation codes and descriptions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040316Z" creationid="Алексей" creationdate="20180217T040316Z">
+        <seg>Когда вы переопределяете символ продолжения, как указано выше, вы также можете показать коды продолжения и описания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your system is set-up right the majority of this is hidden from the user and all necessary programs are run automatically by Therion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171855Z" creationid="Алексей" creationdate="20170909T185305Z">
@@ -10869,10 +10893,18 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may also export a list of all continuations from your project project using</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040357Z" creationid="Алексей" creationdate="20180217T040357Z">
+        <seg>Вы также можете экспортировать список всех продолжений из своего проекта, используя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may associate text description, explored length (behind this continuation) or any other atribute to it (like Code if you have your own coding standard for continuations).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035206Z" creationid="Алексей" creationdate="20180217T035206Z">
-        <seg>Вы можете связать текстовое описание, исследуемую длину (хода за этим знаком) или любой другой атрибут (например, Code, если у вас есть собственный стандарт кодирования для продолжения).</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035925Z" creationid="Алексей" creationdate="20180217T035206Z">
+        <seg>Вы можете связать текстовое описание, исследуемую длину (хода за этим знаком) или любой другой атрибут\break (например, Code, если у вас есть собственный стандарт кодирования для продолжения).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10911,8 +10943,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>You may redefine continuation symbol to show also continuation description (stored in |_text| attribute) using following layout code</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035507Z" creationid="Алексей" creationdate="20180217T035507Z">
-        <seg>Вы можете переопределить символ продолжения, чтобы показать также описание продолжения (сохраненное в атрибуте |_text|), используя следующий код в layout</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040054Z" creationid="Алексей" creationdate="20180217T035507Z">
+        <seg>Вы можете переопределить символ продолжения, чтобы показать также\break описание продолжения (сохраненное в атрибуте |_text|), используя следующий код в layout</seg>
       </tuv>
     </tu>
     <tu>
@@ -13201,6 +13233,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{Exporting question mark lists}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040349Z" creationid="Алексей" creationdate="20180217T040349Z">
+        <seg>{Экспортировать списки вопросительных знаков}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{Extended elevation control}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T171732Z" creationid="Алексей" creationdate="20180204T171718Z">
@@ -13253,6 +13293,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035225Z" creationid="Алексей" creationdate="20180217T035225Z">
         <seg>{Вопросительные знаки в нитке хода}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Question marks in maps}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040148Z" creationid="Алексей" creationdate="20180217T040148Z">
+        <seg>{Вопросительные знаки на картах}.</seg>
       </tuv>
     </tu>
     <tu>
