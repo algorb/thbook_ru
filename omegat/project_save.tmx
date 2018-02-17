@@ -3381,6 +3381,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After this additional |import| final looks as expected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034305Z" creationid="Алексей" creationdate="20180217T034305Z">
+        <seg>После этого дополнительного |import| окончательный вариант выглядит так, как ожидалось.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, for better illustration, a real example follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T205846Z" creationid="Алексей" creationdate="20170909T205846Z">
@@ -3695,8 +3703,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Assume a situation when you want to join these three small maps within single large project.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033713Z" creationid="Алексей" creationdate="20180217T033713Z">
-        <seg>Предположим ситуацию, когда вы хотите присоединиться к этим трем небольшим картам в рамках одного крупного проекта.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034503Z" creationid="Алексей" creationdate="20180217T033713Z">
+        <seg>Предположим ситуацию, когда вы хотите присоединиться к этим трем\break небольшим картам в рамках одного крупного проекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3711,8 +3719,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>Assume that coordinates of cave entrances are specified in the top-level cave.3d file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033741Z" creationid="Алексей" creationdate="20180217T033741Z">
-        <seg>Допустим, что координаты входных пещер указаны в файле верхнего уровня cave.3d.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034526Z" creationid="Алексей" creationdate="20180217T033741Z">
+        <seg>Допустим, что\break координаты входных пещер указаны в файле верхнего уровня cave.3d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4465,6 +4473,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182225Z" creationid="Алексей" creationdate="20180204T182225Z">
         <seg>Даже если станция 1 присутствует более одного раза на карте, Therion автоматически определяет правильное положение этой станции в каждом скрапе, и они обычно рисуются правильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if there are several possibilities how to map survex prefix structure to therion survey structure, the most clean solution is to create survey structure to desired depth in .th files using empty |survey|/|endsurvey| pairs and allways use |-surveys use| switch when importing .3d files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034955Z" creationid="Алексей" creationdate="20180217T034955Z">
+        <seg>Даже если есть несколько возможностей, как сопоставить структуру префикса карты survex со структурой съемки Therion'а, самым чистым решением является создание структуры в .th файлах с использованием пустой пары |survey|/|endurvey| и всегда использовать |-surveys use| при импорте файлов .3d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9831,8 +9847,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This is because in top level import command, survey {&lt;u0&gt; create} is imported from file |create/create.3d| with wrong coordinates, and we import top-level .3d file with |-surveys use| switch.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034109Z" creationid="Алексей" creationdate="20180217T034109Z">
-        <seg>Это происходит потому, что в команде импорта верхнего уровня съемка {&lt;u0&gt; create} импортируется из файла |create/create.3d| с неправильными координатами, и мы импортируем файл .3d верхнего уровня с |-surveys use|.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034614Z" creationid="Алексей" creationdate="20180217T034109Z">
+        <seg>Это происходит потому, что в команде импорта верхнего уровня съемка\break {&lt;u0&gt; create} импортируется из файла |create/create.3d| с неправильными\break координатами, и мы импортируем файл .3d верхнего уровня с |-surveys use|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,6 +10145,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171022T114014Z" creationid="Алексей" creationdate="20171022T114014Z">
         <seg>Для запуска Therion'а достаточно открыть конфигурационный файл и нажать кнопку `F9' или `Компилировать'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To solve this problem, we need to re-import stations from top-level cave.3d file once more with |-surveys create| switch.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034230Z" creationid="Алексей" creationdate="20180217T034230Z">
+        <seg>Чтобы решить эту проблему, нам нужно снова импортировать станции из файла cave.3d верхнего уровня с |-surveys create|.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13077,6 +13101,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170913T134921Z" creationid="Алексей" creationdate="20170913T134921Z">
         <seg>{&lt;u6&gt;{&lt;u7&gt;10pt&lt;i0&gt;&lt;u8&gt; width 6cm height 0cm depth 4cm {/Subtype /Text /Name /Help /Contents (Hints: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Conclusion}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034719Z" creationid="Алексей" creationdate="20180217T034712Z">
+        <seg>{Выводы}.</seg>
       </tuv>
     </tu>
     <tu>
