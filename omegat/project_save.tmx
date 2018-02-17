@@ -5557,6 +5557,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this match is found, stations are inserted into survey found.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031635Z" creationid="Алексей" creationdate="20180217T031635Z">
+        <seg>Если это совпадение найдено, то станции вставляются в найденную съемку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If two stations are given---direction is applied only to given shot.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170920T071424Z" creationid="Алексей" creationdate="20170920T070310Z">
@@ -5705,6 +5713,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171216T171704Z" creationid="Алексей" creationdate="20170909T181835Z">
         <seg>Если вы хотите использовать собственные шрифты для латинских или не латинских символов в PDF-картах, отредактируйте файл инициализации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you will import .3d file with |-surveys use| switch, then therion tries to find the match between {&lt;u0&gt; survex prefix} and {&lt;u1&gt; therion survey name}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031605Z" creationid="Алексей" creationdate="20180217T031605Z">
+        <seg>Если вы импортируете файл .3d с |-surveys use|, то therion пытается найти совпадение между {&lt;u0&gt;префиксом survex} и {&lt;u1&gt; названием съемки Therion'а].</seg>
       </tuv>
     </tu>
     <tu>
@@ -9799,8 +9815,8 @@ endgrade|</seg>
       <tuv lang="EN-US">
         <seg>This sample shows three different ways, how to deal with station prefixes when importing survex .3d files to therion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031200Z" creationid="Алексей" creationdate="20180217T031200Z">
-        <seg>В этом примере показаны три разных способа, как иметь дело с префиксами станций при импорте файлов survex .3d в therion.</seg>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031347Z" creationid="Алексей" creationdate="20180217T031200Z">
+        <seg>В этом примере показаны три разных способа, как иметь дело с префиксами станций при импорте файлов survex .3d в Therion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12941,6 +12957,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180204T182154Z" creationid="Алексей" creationdate="20180204T182124Z">
         <seg>{Станции в скрапах разрез-развертки}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Using surveys specified in .th files}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T031428Z" creationid="Алексей" creationdate="20180217T031357Z">
+        <seg>{Использование съемки в .th файлах}.</seg>
       </tuv>
     </tu>
     <tu>
