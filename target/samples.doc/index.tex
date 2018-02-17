@@ -315,30 +315,30 @@ endcode |
 
 \fitpic{../samples.doc/000028-map2.pdf} 
 
-\subsubchapter {Question marks in maps}. 
+\subsubchapter {Вопросительные знаки на картах}. 
 
-In the scrap (.th2 file), you can use |-text|, |-code| and |-explored| options to continuation symbol. 
+В скрапе (файл .th2) вы можете использовать опции |-text|, |-code| и |-explored| для символа продолжения. 
 
 |point 796.0 676.0 continuation -attr Code A -explored 50m \
 	-text "water too cold to continue survey" | 
 
-In the map, also the question marks only are displayed by default. 
+На карте также отображаются только вопросительные знаки по умолчанию. 
 
 \fitpic{../samples.doc/000029-map3.pdf} 
 
-When you redefine continuation symbol as mentioned above, you can show also continuation codes and descriptions. 
+Когда вы переопределяете символ продолжения, как указано выше, вы также можете показать коды продолжения и описания. 
 
 \fitpic{../samples.doc/000030-map4.pdf} 
 
-\subsubchapter {Exporting question mark lists}. 
+\subsubchapter {Экспортировать списки вопросительных знаков}. 
 
-You may also export a list of all continuations from your project project using 
+Вы также можете экспортировать список всех продолжений из своего проекта, используя 
 
 |export continuation-list -o questions.html | 
 
-File questions.html then contains following list: 
+Файл questions.html содержит следующий список: 
 
-\bigskip\begingroup\input etc/TXSruled.tex \LeftJustifyTables\ruledtable {\bf Comment}&{\bf Исследовано}&{\bf Survey}&{\bf Station}&{\bf Code}\cr water too cold to continue survey&50.0&Sample cave&7&A\nr strong wind from breakdown& &Sample cave&3&B\nr pit&20.0&Sample cave&5&V\endruledtable\endgroup\bigskip \subchapter {Using user defined symbol types}. 
+\bigskip\begingroup\input etc/TXSruled.tex \LeftJustifyTables\ruledtable {\bf Комментарий}&{\bf Исследовано}&{\bf Съемка}&{\bf Станция}&{\bf Код}\cr слишком холодная вода для продолжения съемки&50.0&Пример пещеры&7&A\nr сильная тяга из разлома& &Пример пещеры&3&B\nr понор&20.0&Пример пещеры&5&V\endruledtable\endgroup\bigskip \subchapter {Использование пользовательских типов символов}. 
 
 If therion does not offer any appropriate symbol for the feature you want to draw to the map, you can use user defined symbol type (type |u|, valid for point, line and area objects). 
 
