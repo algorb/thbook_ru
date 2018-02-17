@@ -265,29 +265,29 @@ endsurvey |
 
 \fitpic{../samples.doc/000004-cave2.pdf} 
 
-\subsubchapter {Conclusion}. 
+\subsubchapter {¬ыводы}. 
 
-Even if there are several possibilities how to map survex prefix structure to therion survey structure, the most clean solution is to create survey structure to desired depth in .th files using empty |survey|/|endsurvey| pairs and allways use |-surveys use| switch when importing .3d files. 
+ƒаже если есть несколько возможностей, как сопоставить структуру префикса карты survex со структурой съемки Therion'а, самым чистым решением €вл€етс€ создание структуры в .th файлах с использованием пустой пары |survey|/|endurvey| и всегда использовать |-surveys use| при импорте файлов .3d. 
 
-\subchapter {Question marks handling}. 
+\subchapter {ќбработка вопросительных знаков}. 
 
-Possible continuations are treated special way in therion in both centerline and map files. You may associate text description, explored length (behind this continuation) or any other atribute to it (like Code if you have your own coding standard for continuations). 
+¬озможные продолжени€ обрабатываютс€ особым образом в области как нитки хода, так и в файлах карт. ¬ы можете св€зать текстовое описание, исследуемую длину (хода за этим знаком) или любой другой атрибут (например, Code, если у вас есть собственный стандарт кодировани€ дл€ продолжени€). 
 
-\subsubchapter {Question marks in centerline}. 
+\subsubchapter {¬опросительные знаки в нитке хода}. 
 
-In the centerline object, you may add a special flags to the station, where continuation is possible. Just use following syntax 
+¬ объекте centerline вы можете добавить специальные флаги к станции, где возможно продолжение. »спользуйте следующий синтаксис 
 
 |station 5 "pit" continuation attr Code V explored 20m | 
 
-When you export map and use 
+ огда вы экспортируете карту и используете 
 
 |symbol-show point flag:continuation | 
 
-in your layout, station with continuation flag specified is marked by question mark (continuation symbol is shown above the station). 
+в вашем layout станци€ с указанным символом продолжени€ помечена знаком вопроса (символ продолжени€ отображаетс€ над станцией). 
 
 \fitpic{../samples.doc/000027-map1.pdf} 
 
-You may redefine continuation symbol to show also continuation description (stored in |_text| attribute) using following layout code 
+¬ы можете переопределить символ продолжени€, чтобы показать также описание продолжени€ (сохраненное в атрибуте |_text|), использу€ следующий код в layout 
 
 |code metapost
 	def p_continuation(expr pos,theta,sc,al) = 
@@ -311,7 +311,7 @@ You may redefine continuation symbol to show also continuation description (stor
 	enddef;
 endcode | 
 
-Then also continuation description is displayed in the map. 
+“аким образом отображаетс€ описание продолжени€ на карте. 
 
 \fitpic{../samples.doc/000028-map2.pdf} 
 
