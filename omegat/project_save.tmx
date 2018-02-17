@@ -9829,6 +9829,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is because in top level import command, survey {&lt;u0&gt; create} is imported from file |create/create.3d| with wrong coordinates, and we import top-level .3d file with |-surveys use| switch.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034109Z" creationid="Алексей" creationdate="20180217T034109Z">
+        <seg>Это происходит потому, что в команде импорта верхнего уровня съемка {&lt;u0&gt; create} импортируется из файла |create/create.3d| с неправильными координатами, и мы импортируем файл .3d верхнего уровня с |-surveys use|.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is done through its options such as |page-setup| or |overlap|.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171026T173647Z" creationid="Алексей" creationdate="20171026T173647Z">
@@ -9897,6 +9905,14 @@ endgrade|</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170912T174100Z" creationid="Алексей" creationdate="20170912T174100Z">
         <seg>В этом руководстве не описываются такие знакомые вещи, как `если вы хотите сохранить файл, перейдите в меню Файл и выберите Сохранить или нажмите Ctrl-s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means, cave.create.1 will be imported here as create.1@cave and not 1@create.cave.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T034151Z" creationid="Алексей" creationdate="20180217T034151Z">
+        <seg>Это значит, что cave.create.1 будет импортироваться здесь как create.1@cave, а не 1@create.cave.</seg>
       </tuv>
     </tu>
     <tu>
