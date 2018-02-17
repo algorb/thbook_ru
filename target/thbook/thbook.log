@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 FEB 2018 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdftex 2017.9.9)  17 FEB 2018 10:21
 entering extended mode
 **./thbook.tex
 (thbook.tex ("D:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex
@@ -3172,9 +3172,8 @@ c/000002-ignore.pdf>] [95 <../samples.doc/000003-cave1.pdf> <../samples.doc/000
 [Nrows=4, Ncols=5]
 [98 <../samples.doc/000029-map3.pdf> <../samples.doc/000030-map4.pdf>] [99 <../
 samples.doc/000009-map1.pdf>]) [100 <../samples.doc/000010-map2.pdf>] )
-(\end occurred inside a group at level 2)
+(\end occurred inside a group at level 1)
 
-### simple group (level 2) entered at line 189 ({)
 ### simple group (level 1) entered at line 3 ({)
 ### bottom level{D:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<D:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files/M
@@ -3212,7 +3211,7 @@ pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 pdfTeX warning: pdftex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/public
 /pscyr/handb13.pfb): glyph `dblgrave' undefined
 ><D:/Program Files/MiKTeX 2.9/fonts/type1/public/mflogo-font/logo10.pfb>
-Output written on thbook.pdf (100 pages, 2157606 bytes).
+Output written on thbook.pdf (100 pages, 2155783 bytes).
 PDF statistics:
  1390 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

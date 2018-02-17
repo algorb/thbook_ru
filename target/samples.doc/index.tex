@@ -194,23 +194,23 @@ survey use
 	input use-in.th2
 endsurvey | 
 
-In this case you should take care where you input your .th2 files containing scraps. In {\it use-out.th2} file you should refer to station names using: 
+В этом случае вам следует позаботиться о том, где вы вводите ваши файлы .th2, содержащие скрапы. В файле {\it use-out.th2} вы должны ссылаться на имена станций, используя: 
 
 |point 165.744 176.58 station -name 2@use | 
 
-but in the {\it use-in.th} file using 
+но в файле {\it use-in.th}, используя 
 
 |point 321.454 236.22 station -name 1 | 
 
-Map with station names in this case looks like this: 
+Карта с названиями станций в этом случае выглядит так: 
 
 \fitpic{../samples.doc/000000-use.pdf} 
 
-Station names are before '@' symbol, survey names follow this symbol. 
+Названия станций перед символом '@', названия съемок после этого символа. 
 
-\subsubchapter {Creating non-existing surveys}. 
+\subsubchapter {Создание несуществующих съемок}. 
 
-If you import your .3d file using 
+Если вы импортируете файл .3d, используя 
 
 |import create.3d -surveys create | 
 
