@@ -4037,6 +4037,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case studies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T062829Z" creationid="Алексей" creationdate="20180217T062829Z">
+        <seg>Примеры использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Centreline may be exported for further processing in any SQL database.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T192032Z" creationid="Алексей" creationdate="20170909T192032Z">
@@ -13457,6 +13465,14 @@ endmap |</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{Drawing maps in therion}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T063411Z" creationid="Алексей" creationdate="20180217T063149Z">
+        <seg>{Рисование карт в Therion`е}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{Exporting question mark lists}.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T040349Z" creationid="Алексей" creationdate="20180217T040349Z">
@@ -13485,6 +13501,14 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180205T161026Z" creationid="Алексей" creationdate="20180205T161009Z">
         <seg>{Импорт survex .3d файлов}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Listing caves}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T063120Z" creationid="Алексей" creationdate="20180217T063120Z">
+        <seg>{Список пещер}.</seg>
       </tuv>
     </tu>
     <tu>
