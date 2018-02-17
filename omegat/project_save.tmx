@@ -7421,6 +7421,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possible continuations are treated special way in therion in both centerline and map files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035100Z" creationid="Алексей" creationdate="20180217T035100Z">
+        <seg>Возможные продолжения обрабатываются особым образом в области как нитки хода, так и в файлах карт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precomposed accented letters are included for Slovak and Czech languages.], standard &lt;u1&gt;&lt;u2&gt;and &lt;u3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20170909T184827Z" creationid="Алексей" creationdate="20170909T181749Z">
@@ -10829,6 +10837,14 @@ endgrade|</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may associate text description, explored length (behind this continuation) or any other atribute to it (like Code if you have your own coding standard for continuations).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035206Z" creationid="Алексей" creationdate="20180217T035206Z">
+        <seg>Вы можете связать текстовое описание, исследуемую длину (хода за этим знаком) или любой другой атрибут (например, Code, если у вас есть собственный стандарт кодирования для продолжения).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may choose which of the predefined elements to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20171028T044410Z" creationid="Алексей" creationdate="20171028T044410Z">
@@ -13173,6 +13189,22 @@ endmap |</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T033453Z" creationid="Алексей" creationdate="20180217T033453Z">
         <seg>{Управление большими проектами}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Question marks handling}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035017Z" creationid="Алексей" creationdate="20180217T035013Z">
+        <seg>{Обработка вопросительных знаков}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{Question marks in centerline}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Алексей" changedate="20180217T035225Z" creationid="Алексей" creationdate="20180217T035225Z">
+        <seg>{Вопросительные знаки в нитке хода}.</seg>
       </tuv>
     </tu>
     <tu>
