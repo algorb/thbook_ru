@@ -182,11 +182,11 @@ endmap |
 
 \subchapter {Импорт survex .3d файлов}. 
 
-Съемки Therion'а почти соответствуют префиксам станций, определяемым парой |*begin|/|*end| в файлах. Обычно между ними не существует взаимно однозначного отображения. So if you want to keep your centerline in survex files you need to solve the problem how to match survex and therion data structures. This sample shows three different ways, how to deal with station prefixes when importing survex .3d files to therion. 
+Съемки Therion'а почти соответствуют префиксам станций, определяемым парой |*begin|/|*end| в файлах survex. Обычно между ними не существует взаимно однозначного отображения. Поэтому, если вы хотите сохранить свою нитку хода указанную в файлах survex, вам нужно решить проблему, как совместить структуры данных survex и Therion'а. В этом примере показаны три разных способа, как иметь дело с префиксами станций при импорте файлов survex .3d в Therion. 
 
-\subsubchapter {Using surveys specified in .th files}. 
+\subsubchapter {Использование съемки в .th файлах}. 
 
-If you will import .3d file with |-surveys use| switch, then therion tries to find the match between {\it survex prefix} and {\it therion survey name}. If this match is found, stations are inserted into survey found. Otherwise prefix is left with station names. Example code: 
+Если вы импортируете файл .3d с |-surveys use|, то therion пытается найти совпадение между {\itпрефиксом survex} и {\it названием съемки Therion'а]. Если это совпадение найдено, то станции вставляются в найденную съемку. В противном случае префикс остается с именами станций. Пример кода: 
 
 |import use.3d -surveys use
 input use-out.th2
