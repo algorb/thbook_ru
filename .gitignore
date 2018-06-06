@@ -1,8 +1,7 @@
 target/etc/*
 target/mp/*
 target/pic/*
-target/thbook.log
-target/thbook.pdf
+target/thbook/thbook.log
 target/ch*
 Makefile
 *.bak
